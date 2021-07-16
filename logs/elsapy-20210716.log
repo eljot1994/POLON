@@ -1,0 +1,433 @@
+2021-07-16 11:35:45,439 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 11:35:46,001 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 11:35:46,001 - elsapy.utils - INFO - Module loaded.
+2021-07-16 11:35:46,001 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 11:35:46,001 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 11:35:46,001 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 11:35:47,236 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 11:35:49,173 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:35:50,860 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:35:53,672 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:35:55,452 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:35:56,968 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:35:57,968 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:35:59,655 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:01,185 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:02,201 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:03,310 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:04,326 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+Robert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:05,669 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:06,670 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+R%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:10,183 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:11,183 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Filipiak+Katarzyna%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:12,027 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:13,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Andrzejczak+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:14,885 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:15,886 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:17,418 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+P%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:18,980 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:19,996 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Maligranda+Lech%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:21,433 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:22,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kolwicz+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:24,807 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:25,822 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kiwerski+Tomasz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:27,700 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:28,700 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Tomaszewski+Jakub%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:31,793 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:32,794 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kubzdela+Albert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:35,277 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:36,276 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28P%C5%82uciennik+Ryszard%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:37,417 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:38,432 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Magnucka+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:40,088 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:41,088 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Bakinowska+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:42,541 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:43,540 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Dota+Alicja%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:46,633 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:47,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Migda+Ma%C5%82gorzata%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:49,711 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:50,711 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%C5%9Awi%C4%85tek+Kamil%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:36:51,851 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:36:52,866 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ciesielski+Maciej%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:38:31,834 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 11:38:32,302 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 11:38:32,302 - elsapy.utils - INFO - Module loaded.
+2021-07-16 11:38:32,302 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 11:38:32,302 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 11:38:32,302 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 11:38:32,849 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 11:38:34,661 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:38:36,083 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:38:37,613 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:38:39,363 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:38:41,316 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:38:42,331 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:45:09,068 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 11:45:09,646 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 11:45:09,646 - elsapy.utils - INFO - Module loaded.
+2021-07-16 11:45:09,646 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 11:45:09,646 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 11:45:09,646 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 11:45:10,084 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 11:45:11,505 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:45:14,020 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:45:50,089 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 11:45:52,401 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 11:45:52,401 - elsapy.utils - INFO - Module loaded.
+2021-07-16 11:45:52,401 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 11:45:52,401 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 11:45:52,417 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 11:45:52,745 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 11:45:54,573 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:45:57,541 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:45:59,587 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:02,650 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:04,226 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:05,211 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:07,773 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:08,819 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:09,820 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:10,866 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:11,866 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+Robert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:12,412 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:13,413 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+R%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:14,974 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:15,959 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Filipiak+Katarzyna%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:19,582 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:20,583 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Andrzejczak+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:22,144 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:23,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:24,503 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+P%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:26,752 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:27,753 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Maligranda+Lech%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:28,799 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:29,799 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kolwicz+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:30,845 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:31,846 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kiwerski+Tomasz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:33,407 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:34,392 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Tomaszewski+Jakub%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:35,453 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:36,438 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kubzdela+Albert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:37,500 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:38,500 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28P%C5%82uciennik+Ryszard%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:40,062 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:41,062 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Magnucka+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:43,639 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:44,640 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Bakinowska+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:46,716 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:47,717 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Dota+Alicja%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:49,779 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:50,794 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Migda+Ma%C5%82gorzata%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:52,356 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:53,356 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%C5%9Awi%C4%85tek+Kamil%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:54,402 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:55,403 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ciesielski+Maciej%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:56,948 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:46:57,965 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Doma%C5%84ski+Ziemowit%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:46:59,510 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:47:00,526 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Stasiak+Marcin%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:47:01,572 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:47:02,572 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Wittenbeck+Leszek%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:47:04,118 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:50:43,629 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 11:50:44,129 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 11:50:44,129 - elsapy.utils - INFO - Module loaded.
+2021-07-16 11:50:44,129 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 11:50:44,129 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 11:50:44,129 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 11:50:44,645 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 11:50:46,113 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:48,878 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:50,619 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:52,963 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:53,712 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:50:54,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:56,556 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:57,289 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:50:58,290 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:50:59,648 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:00,649 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+Robert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:01,695 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:02,695 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+R%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:03,241 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:04,242 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Filipiak+Katarzyna%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:05,273 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:06,288 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Andrzejczak+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:07,835 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:08,850 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:10,896 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+P%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:11,427 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:12,427 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Maligranda+Lech%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:13,473 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:14,489 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kolwicz+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:15,519 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:16,535 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kiwerski+Tomasz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:17,566 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:18,581 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Tomaszewski+Jakub%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:20,128 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:21,143 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kubzdela+Albert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:21,659 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:22,674 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28P%C5%82uciennik+Ryszard%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:24,221 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:25,236 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Magnucka+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:27,298 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:28,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Bakinowska+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:29,033 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:30,049 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Dota+Alicja%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:31,392 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:32,392 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Migda+Ma%C5%82gorzata%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:35,699 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:36,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%C5%9Awi%C4%85tek+Kamil%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:38,910 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:39,914 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ciesielski+Maciej%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:40,828 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:41,825 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Doma%C5%84ski+Ziemowit%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:42,357 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:43,364 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Stasiak+Marcin%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:44,509 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:51:45,509 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Wittenbeck+Leszek%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:51:46,768 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:52:57,851 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 11:52:58,273 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 11:52:58,273 - elsapy.utils - INFO - Module loaded.
+2021-07-16 11:52:58,273 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 11:52:58,273 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 11:52:58,273 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 11:52:58,867 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 11:53:00,257 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:06,100 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:08,662 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:10,380 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:11,035 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:12,035 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:13,676 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:14,207 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:15,207 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:16,878 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:17,879 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+Robert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:19,440 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:20,440 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+R%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:21,986 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:22,987 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Filipiak+Katarzyna%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:25,063 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:26,064 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Andrzejczak+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:28,141 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:29,142 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:31,188 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+P%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:33,249 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:34,265 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Maligranda+Lech%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:38,888 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:39,888 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kolwicz+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:41,450 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:42,450 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kiwerski+Tomasz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:44,012 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:45,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Tomaszewski+Jakub%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:46,058 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:47,058 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kubzdela+Albert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:48,620 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:49,620 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28P%C5%82uciennik+Ryszard%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:50,667 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:51,667 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Magnucka+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:53,213 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:54,229 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Bakinowska+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:55,775 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:56,790 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Dota+Alicja%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:57,524 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:53:58,525 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Migda+Ma%C5%82gorzata%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:53:59,883 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:54:00,883 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%C5%9Awi%C4%85tek+Kamil%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:54:01,617 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:54:02,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ciesielski+Maciej%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:54:03,461 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:54:04,476 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Doma%C5%84ski+Ziemowit%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:54:05,507 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:54:06,523 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Stasiak+Marcin%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:54:07,554 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 11:54:08,554 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Wittenbeck+Leszek%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 11:54:10,115 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:01:56,499 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 12:01:56,936 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 12:01:56,936 - elsapy.utils - INFO - Module loaded.
+2021-07-16 12:01:56,936 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 12:01:56,936 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 12:01:56,936 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 12:01:57,500 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 12:01:59,311 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:02:00,733 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:02:04,732 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:02:06,779 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:02:07,840 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:18,123 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 12:07:18,561 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 12:07:18,561 - elsapy.utils - INFO - Module loaded.
+2021-07-16 12:07:18,561 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 12:07:18,576 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 12:07:18,576 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 12:07:19,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 12:07:21,170 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:22,592 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:24,732 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:26,497 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:27,840 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:28,856 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:30,887 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:31,933 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:32,933 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:34,495 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:35,495 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+Robert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:37,052 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:38,067 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Salamon+R%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:39,614 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:40,629 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Filipiak+Katarzyna%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:42,176 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:43,191 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Andrzejczak+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:44,737 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:45,753 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:47,588 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Mleczko+P%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:48,459 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:49,462 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Maligranda+Lech%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:54,437 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:55,434 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kolwicz+Pawe%C5%82%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:07:56,619 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:07:57,625 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kiwerski+Tomasz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:00,097 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:01,097 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Tomaszewski+Jakub%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:03,131 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:04,134 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Kubzdela+Albert%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:05,020 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:06,001 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28P%C5%82uciennik+Ryszard%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:06,956 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:07,960 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Magnucka+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:09,835 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:10,834 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Bakinowska+Ewa%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:12,409 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:13,411 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Dota+Alicja%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:14,950 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:15,953 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Migda+Ma%C5%82gorzata%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:17,389 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:18,395 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%C5%9Awi%C4%85tek+Kamil%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:19,457 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:20,442 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ciesielski+Maciej%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:21,597 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:22,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Doma%C5%84ski+Ziemowit%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:23,645 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:24,660 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Stasiak+Marcin%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:29,790 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 12:08:30,805 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Wittenbeck+Leszek%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 12:08:32,352 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:40:25,237 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:40:25,691 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:40:25,691 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:40:25,691 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:40:25,691 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:40:25,707 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:40:26,239 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:40:28,065 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:30,316 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:32,375 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:34,411 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:35,089 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:40:42,219 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:47,878 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:40:48,317 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:40:48,317 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:40:48,317 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:40:48,317 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:40:48,317 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:40:49,821 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:40:51,626 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:53,775 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:55,430 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:57,175 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:40:58,196 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:41:03,973 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:42:11,888 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:42:12,374 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:42:12,374 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:42:12,374 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:42:12,374 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:42:12,374 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:42:12,891 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:42:14,380 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:42:18,873 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:42:20,921 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:42:22,958 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:42:23,513 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:43:30,391 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:43:30,861 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:43:30,861 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:43:30,861 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:43:30,861 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:43:30,861 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:43:31,408 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:43:32,796 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:34,436 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:36,686 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:38,743 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:39,792 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:43:49,900 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:51,442 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:52,593 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:43:53,603 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:43:55,156 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:47:30,636 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:47:31,106 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:47:31,106 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:47:31,106 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:47:31,106 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:47:31,106 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:47:33,297 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:47:35,303 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:47:36,938 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:47:38,565 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:47:40,100 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:47:41,990 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:48:59,443 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:48:59,913 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:48:59,913 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:48:59,913 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:48:59,913 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:48:59,913 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:49:00,445 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:49:02,338 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:04,394 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:06,456 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:08,995 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:10,052 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:49:18,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:20,267 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:21,311 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:49:22,317 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ziemkowska+Agnieszka%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:49:23,869 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:50:00,606 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:50:01,092 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:50:01,092 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:50:01,092 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:50:01,092 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:50:01,092 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:50:01,608 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:50:11,635 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:50:12,067 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:50:12,067 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:50:12,067 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:50:12,067 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:50:12,067 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:50:12,637 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:50:14,546 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:16,589 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:18,635 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:20,471 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:21,730 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:50:46,354 - elsapy.elsclient - INFO - Module loaded.
+2021-07-16 13:50:46,824 - elsapy.elsentity - INFO - Module loaded.
+2021-07-16 13:50:46,840 - elsapy.utils - INFO - Module loaded.
+2021-07-16 13:50:46,840 - elsapy.elsprofile - INFO - Module loaded.
+2021-07-16 13:50:46,840 - elsapy.elsdoc - INFO - Module loaded.
+2021-07-16 13:50:46,840 - elsapy.elssearch - INFO - Module loaded.
+2021-07-16 13:50:47,357 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/affiliation?query=affil%28Politechnika+and+Poznanska%29
+2021-07-16 13:50:48,748 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+Marta%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:50,886 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Ka%C5%84czurzewska+M%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:52,544 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+Karol%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:54,162 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28Le%C5%9Bnik+K%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016
+2021-07-16 13:50:56,048 - elsapy.utils - INFO - Converting prism:coverDate
+2021-07-16 13:51:04,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28John+Mateusz%29+AND+AF-ID%2860008555%29+AND+PUBYEAR+%3E+2016

@@ -8,6 +8,8 @@ from elsapy.elsprofile import ElsAuthor, ElsAffil
 from elsapy.elsdoc import FullDoc, AbsDoc
 from elsapy.elssearch import ElsSearch
 import json
+import doi2bib
+import d2b
 
 letters={'ł':'l', 'ą':'a', 'ń':'n', 'ć':'c', 'ó':'o', 'ę':'e', 'ś':'s', 'ź':'z', 'ż':'z'}
 trans=str.maketrans(letters)
@@ -21,13 +23,13 @@ client.inst_token = config['insttoken']
 
 Uczelnie = []
 class Publication:
-    def __init__(self,allAuthors,title,type,publisherOrJournal,k):
+    def __init__(self,allAuthors,title,type,publisherOrJournal,m,k):
         self.allAuthors = allAuthors
         self.title = title
         self.type = type
         self.publisherOrJournal = publisherOrJournal
         self.k = k
-        self.m = len(self.allAuthors.split(','))
+        self.m = m
 
     def __str__(self):
         return 'Tytul: %s\nAutorzy: %s\nTyp: %s\nm: %s\n' % (self.title,self.allAuthors,self.type,self.m)
@@ -63,6 +65,7 @@ class University:
 
     def showPublications(self):
         for author in self.employer:
+            print(author)
             for publications in author.publications:
                 print(publications)
 
@@ -92,7 +95,6 @@ for element in r['results']:
                 uczelnia.addEmployer(Author(element['personalData']['firstName'],element['personalData']['lastName'],numberOfDiscipline,primary))
 
 for uczelnia in Uczelnie:
-    uczelnia.showEmployer()
     uni_name = ' and '.join(uczelnia.name.translate(trans).split(' '))
     aff_srch = ElsSearch('affil('+uni_name+')','affiliation')
     aff_srch.execute(client)
@@ -100,15 +102,27 @@ for uczelnia in Uczelnie:
 
     for author in uczelnia.employer:
         author_name = author.secondName.split('-')[0] + ' ' +author.firstName
-        print(author_name.translate(trans))
         doc_srch = ElsSearch("AUTH("+author_name+") AND AF-ID("+uni_id+") AND PUBYEAR > 2016", 'scopus')
         doc_srch.execute(client, get_all=True)
         if len(doc_srch.results) == 1:
             author_name = author.secondName.split('-')[0] + ' ' + author.firstName[0]
             doc_srch = ElsSearch("AUTH(" + author_name + ") AND AF-ID(" + uni_id + ") AND PUBYEAR > 2016", 'scopus')
             doc_srch.execute(client, get_all=True)
+        if doc_srch.num_res>1:
+            for doc in doc_srch.results:
+                try:
+                    bibtex = d2b.get_bibtex_entry(doc['prism:doi'])
+                    numberOfAuthors = len(bibtex['author'].split(' and '))
+                    authors = bibtex['author']
+                except:
+                    numberOfAuthors = 1
+                    authors = doc['dc:creator']
 
-        """r = requests.get("https://radon.nauka.gov.pl/opendata/polon/publications?resultNumbers=100&firstName="+element['personalData']['firstName']+"&lastName="+element['personalData']['lastName']+"&yearFrom=2016").json()
+                publication = Publication(authors,doc['dc:title'],doc['prism:publicationName'],doc['subtypeDescription'],numberOfAuthors,1)
+                print(publication)
+                author.addPublication(publication)
+    uczelnia.showPublications()
+    """r = requests.get("https://radon.nauka.gov.pl/opendata/polon/publications?resultNumbers=100&firstName="+element['personalData']['firstName']+"&lastName="+element['personalData']['lastName']+"&yearFrom=2016").json()
                         for pozycja in r['results']:
                             autorzy = ""
                             for x in pozycja['authors']:
