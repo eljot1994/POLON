@@ -4,6 +4,7 @@ import requests
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bibdatabase import BibDatabase
+from bibtexparser.customization import convert_to_unicode
 
 def shorten(doi, cache={}, verbose=False):
     """
@@ -52,12 +53,11 @@ def get_bibtex_entry(doi, bibtext_cache={}, shortdoi_cache={}):
     short_doi = shorten(doi, cache = shortdoi_cache)
     parser = BibTexParser()
     parser.ignore_nonstandard_types = False
+    parser.customization = convert_to_unicode
     bibdb = bibtexparser.loads(bibtext, parser)
     entry, = bibdb.entries
     quoted_doi = urllib.request.quote(doi)
     entry['link'] = 'https://doi.org/{}'.format(quoted_doi)
-    if 'author' in entry:
-        entry['author'] = ' and '.join(entry['author'].rstrip(';').split('; '))
     entry['ID'] = short_doi[3:]
     return entry
 

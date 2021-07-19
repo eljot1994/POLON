@@ -32,7 +32,7 @@ class Publication:
         self.m = m
 
     def __str__(self):
-        return 'Tytul: %s\nAutorzy: %s\nTyp: %s\nm: %s\n' % (self.title,self.allAuthors,self.type,self.m)
+        return 'Tytul: %s\nAutorzy: %s\nTyp: %s\nm: %s\nk: %s' % (self.title,self.allAuthors,self.type,self.m,self.k)
 
 
 class Author:
@@ -112,14 +112,18 @@ for uczelnia in Uczelnie:
             for doc in doc_srch.results:
                 try:
                     bibtex = d2b.get_bibtex_entry(doc['prism:doi'])
-                    numberOfAuthors = len(bibtex['author'].split(' and '))
-                    authors = bibtex['author']
+                    authors = [y for y in [x.split(' and')[0] for x in bibtex['author'].split(' and ')] if len(y)>2]
+                    numberOfAuthors = len(authors)
+                    numberOfAuthorsWithAffil = 0
+                    for second_author in uczelnia.employer:
+                        if second_author.secondName in authors or second_author.secondName.split('-')[0] in authors:
+                            numberOfAuthorsWithAffil+=1
                 except:
                     numberOfAuthors = 1
                     authors = doc['dc:creator']
+                    numberOfAuthorsWithAffil = 1
 
-                publication = Publication(authors,doc['dc:title'],doc['prism:publicationName'],doc['subtypeDescription'],numberOfAuthors,1)
-                print(publication)
+                publication = Publication(authors,doc['dc:title'],doc['subtypeDescription'],doc['prism:publicationName'],numberOfAuthors,numberOfAuthorsWithAffil)
                 author.addPublication(publication)
     uczelnia.showPublications()
     """r = requests.get("https://radon.nauka.gov.pl/opendata/polon/publications?resultNumbers=100&firstName="+element['personalData']['firstName']+"&lastName="+element['personalData']['lastName']+"&yearFrom=2016").json()
