@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068913713"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068913713?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068913713&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068913713&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068913713",
+        "dc:identifier": "SCOPUS_ID:85068913713",
+        "eid": "2-s2.0-85068913713",
+        "dc:title": "On negative association of some finite point processes on general state spaces",
+        "dc:creator": "Last G.",
+        "prism:publicationName": "Journal of Applied Probability",
+        "prism:issn": "00219002",
+        "prism:volume": "56",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "139-152",
+        "prism:coverDate": "2019-03-01",
+        "prism:coverDisplayDate": "1 March 2019",
+        "prism:doi": "10.1017/jpr.2019.10",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Karlsruhe Institute of Technology",
+                "affiliation-city": "Karlsruhe",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23838",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

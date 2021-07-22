@@ -1,0 +1,906 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102629634"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102629634?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102629634&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102629634&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123621000719"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102629634",
+        "dc:identifier": "SCOPUS_ID:85102629634",
+        "eid": "2-s2.0-85102629634",
+        "dc:title": "Normalized ground states of the nonlinear Schrödinger equation with at least mass critical growth",
+        "dc:creator": "Bieganowski B.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "280",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-01",
+        "prism:coverDisplayDate": "1 June 2021",
+        "prism:doi": "10.1016/j.jfa.2021.108989",
+        "pii": "S0022123621000719",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108989",
+        "source-id": "23894",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100682154"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100682154?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100682154&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100682154&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022039621000851"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100682154",
+        "dc:identifier": "SCOPUS_ID:85100682154",
+        "eid": "2-s2.0-85100682154",
+        "dc:title": "General class of optimal Sobolev inequalities and nonlinear scalar field equations",
+        "dc:creator": "Mederski J.",
+        "prism:publicationName": "Journal of Differential Equations",
+        "prism:issn": "00220396",
+        "prism:eIssn": "10902732",
+        "prism:volume": "281",
+        "prism:pageRange": "411-441",
+        "prism:coverDate": "2021-04-25",
+        "prism:coverDisplayDate": "25 April 2021",
+        "prism:doi": "10.1016/j.jde.2021.02.015",
+        "pii": "S0022039621000851",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Karlsruhe Institute of Technology",
+                "affiliation-city": "Karlsruhe",
+                "affiliation-country": "Germany"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23874",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107489225"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107489225?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107489225&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107489225&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107489225",
+        "dc:identifier": "SCOPUS_ID:85107489225",
+        "eid": "2-s2.0-85107489225",
+        "dc:title": "A Sobolev-Type Inequality for the Curl Operator and Ground States for the Curl–Curl Equation with Critical Sobolev Exponent",
+        "dc:creator": "Mederski J.",
+        "prism:publicationName": "Archive for Rational Mechanics and Analysis",
+        "prism:issn": "00039527",
+        "prism:eIssn": "14320673",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1007/s00205-021-01684-x",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Karlsruhe Institute of Technology",
+                "affiliation-city": "Karlsruhe",
+                "affiliation-country": "Germany"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25208",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094857812"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094857812?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094857812&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094857812&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094857812",
+        "dc:identifier": "SCOPUS_ID:85094857812",
+        "eid": "2-s2.0-85094857812",
+        "dc:title": "Nonradial solutions of nonlinear scalar field equations",
+        "dc:creator": "Mederski J.",
+        "prism:publicationName": "Nonlinearity",
+        "prism:issn": "09517715",
+        "prism:eIssn": "13616544",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "6349-6380",
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "October 2020",
+        "prism:doi": "10.1088/1361-6544/aba889",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25696",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075388666"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075388666?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075388666&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075388666&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075388666",
+        "dc:identifier": "SCOPUS_ID:85075388666",
+        "eid": "2-s2.0-85075388666",
+        "dc:title": "Multiple Solutions to a Nonlinear Curl–Curl Problem in R<sup>3</sup>",
+        "dc:creator": "Mederski J.",
+        "prism:publicationName": "Archive for Rational Mechanics and Analysis",
+        "prism:issn": "00039527",
+        "prism:eIssn": "14320673",
+        "prism:volume": "236",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "253-288",
+        "prism:coverDate": "2020-04-01",
+        "prism:coverDisplayDate": "1 April 2020",
+        "prism:doi": "10.1007/s00205-019-01469-3",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25208",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053024238"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053024238?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053024238&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053024238&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0893965918303082"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053024238",
+        "dc:identifier": "SCOPUS_ID:85053024238",
+        "eid": "2-s2.0-85053024238",
+        "dc:title": "Note on semiclassical states for the Schrödinger equation with nonautonomous nonlinearities",
+        "dc:creator": "Bieganowski B.",
+        "prism:publicationName": "Applied Mathematics Letters",
+        "prism:issn": "08939659",
+        "prism:eIssn": "18735452",
+        "prism:volume": "88",
+        "prism:pageRange": "149-155",
+        "prism:coverDate": "2019-02-01",
+        "prism:coverDisplayDate": "February 2019",
+        "prism:doi": "10.1016/j.aml.2018.08.021",
+        "pii": "S0893965918303082",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25184",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051421390"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051421390?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051421390&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051421390&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051421390",
+        "dc:identifier": "SCOPUS_ID:85051421390",
+        "eid": "2-s2.0-85051421390",
+        "dc:title": "Nonlinear time-harmonic Maxwell equations in a bounded domain: Lack of compactness",
+        "dc:creator": "Mederski J.",
+        "prism:publicationName": "Science China Mathematics",
+        "prism:issn": "16747283",
+        "prism:volume": "61",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "1963-1970",
+        "prism:coverDate": "2018-11-01",
+        "prism:coverDisplayDate": "1 November 2018",
+        "prism:doi": "10.1007/s11425-017-9312-8",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "19700166403",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039942561"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039942561?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039942561&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039942561&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S002212361830003X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039942561",
+        "dc:identifier": "SCOPUS_ID:85039942561",
+        "eid": "2-s2.0-85039942561",
+        "dc:title": "The Brezis–Nirenberg problem for the curl–curl operator",
+        "dc:creator": "Mederski J.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "274",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1345-1380",
+        "prism:coverDate": "2018-03-01",
+        "prism:coverDisplayDate": "1 March 2018",
+        "prism:doi": "10.1016/j.jfa.2017.12.012",
+        "pii": "S002212361830003X",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23894",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85033771389"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85033771389?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85033771389&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85033771389&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85033771389",
+        "dc:identifier": "SCOPUS_ID:85033771389",
+        "eid": "2-s2.0-85033771389",
+        "dc:title": "Nonlinear Schrödinger equations with sum of periodic and vanishing potentials and sign-changing nonlinearities",
+        "dc:creator": "Bieganowski B.",
+        "prism:publicationName": "Communications on Pure and Applied Analysis",
+        "prism:issn": "15340392",
+        "prism:eIssn": "15535258",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "143-161",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "January 2018",
+        "prism:doi": "10.3934/cpaa.2018009",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "145649",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018976487"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018976487?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018976487&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018976487&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018976487",
+        "dc:identifier": "SCOPUS_ID:85018976487",
+        "eid": "2-s2.0-85018976487",
+        "dc:title": "Vortex ground states for Klein-Gordon-Maxwell-Proca type systems",
+        "dc:creator": "d'Avenia P.",
+        "prism:publicationName": "Journal of Mathematical Physics",
+        "prism:issn": "00222488",
+        "prism:volume": "58",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1063/1.4982038",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politecnico di Bari",
+                "affiliation-city": "Bari",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "041503",
+        "source-id": "28544",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032068520"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032068520?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032068520&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032068520&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032068520",
+        "dc:identifier": "SCOPUS_ID:85032068520",
+        "eid": "2-s2.0-85032068520",
+        "dc:title": "Nonlinear time-harmonic Maxwell equations in domains",
+        "dc:creator": "Bartsch T.",
+        "prism:publicationName": "Journal of Fixed Point Theory and Applications",
+        "prism:issn": "16617738",
+        "prism:eIssn": "16617746",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "959-986",
+        "prism:coverDate": "2017-03-01",
+        "prism:coverDisplayDate": "1 March 2017",
+        "prism:doi": "10.1007/s11784-017-0409-1",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Justus-Liebig-Universität Gießen",
+                "affiliation-city": "Giessen",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5700165174",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

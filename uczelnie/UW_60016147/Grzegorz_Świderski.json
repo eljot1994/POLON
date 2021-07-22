@@ -1,0 +1,268 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094202776"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094202776?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094202776&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094202776&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021904520301325"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094202776",
+        "dc:identifier": "SCOPUS_ID:85094202776",
+        "eid": "2-s2.0-85094202776",
+        "dc:title": "Asymptotic behavior of Christoffel–Darboux kernel via three-term recurrence relation II",
+        "dc:creator": "Świderski G.",
+        "prism:publicationName": "Journal of Approximation Theory",
+        "prism:issn": "00219045",
+        "prism:eIssn": "10960430",
+        "prism:volume": "261",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1016/j.jat.2020.105496",
+        "pii": "S0021904520301325",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "105496",
+        "source-id": "23841",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080995982"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080995982?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85080995982&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85080995982&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85080995982",
+        "dc:identifier": "SCOPUS_ID:85080995982",
+        "eid": "2-s2.0-85080995982",
+        "dc:title": "Spectral Properties of Some Complex Jacobi Matrices",
+        "dc:creator": "Świderski G.",
+        "prism:publicationName": "Integral Equations and Operator Theory",
+        "prism:issn": "0378620X",
+        "prism:eIssn": "14208989",
+        "prism:volume": "92",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-04-01",
+        "prism:coverDisplayDate": "1 April 2020",
+        "prism:doi": "10.1007/s00020-020-2569-4",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "11",
+        "source-id": "23228",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091372470"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091372470?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091372470&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091372470&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091372470",
+        "dc:identifier": "SCOPUS_ID:85091372470",
+        "eid": "2-s2.0-85091372470",
+        "dc:title": "Asymptotic Behaviour of Christoffel–Darboux Kernel Via Three-Term Recurrence Relation I",
+        "dc:creator": "Świderski G.",
+        "prism:publicationName": "Constructive Approximation",
+        "prism:issn": "01764276",
+        "prism:eIssn": "14320940",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/s00365-020-09519-w",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25837",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

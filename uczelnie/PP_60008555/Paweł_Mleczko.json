@@ -1,0 +1,130 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087891403"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087891403?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087891403&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087891403&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087891403",
+        "dc:identifier": "SCOPUS_ID:85087891403",
+        "eid": "2-s2.0-85087891403",
+        "dc:title": "Regularization for lozanovskii's type factorization with applications",
+        "dc:creator": "Leśnik K.",
+        "prism:publicationName": "Annales Academiae Scientiarum Fennicae Mathematica",
+        "prism:issn": "1239629X",
+        "prism:eIssn": "17982383",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "811-823",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.5186/aasfm.2020.4545",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24692",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047149595"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047149595?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047149595&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047149595&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047149595",
+        "dc:identifier": "SCOPUS_ID:85047149595",
+        "eid": "2-s2.0-85047149595",
+        "dc:title": "Buckling of a sandwich symmetrical circular plate with varying mechanical properties of the core",
+        "dc:creator": "Magnucka-Blandzi E.",
+        "prism:publicationName": "Applied Mathematics and Mechanics (English Edition)",
+        "prism:issn": "02534827",
+        "prism:eIssn": "15732754",
+        "prism:volume": "39",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "981-992",
+        "prism:coverDate": "2018-07-01",
+        "prism:coverDisplayDate": "1 July 2018",
+        "prism:doi": "10.1007/s10483-018-2347-8",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25178",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

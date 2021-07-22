@@ -1,0 +1,140 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098631859"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098631859?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098631859&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098631859&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123620304559"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098631859",
+        "dc:identifier": "SCOPUS_ID:85098631859",
+        "eid": "2-s2.0-85098631859",
+        "dc:title": "Equivariant dimensions of graph C*-algebras",
+        "dc:creator": "Chirvasitu A.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "280",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-03-15",
+        "prism:coverDisplayDate": "15 March 2021",
+        "prism:doi": "10.1016/j.jfa.2020.108912",
+        "pii": "S0022123620304559",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University at Buffalo, The State University of New York",
+                "affiliation-city": "Buffalo",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108912",
+        "source-id": "23894",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096634567"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096634567?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096634567&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85096634567&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85096634567",
+        "dc:identifier": "SCOPUS_ID:85096634567",
+        "eid": "2-s2.0-85096634567",
+        "dc:title": "Non-surjective pullbacks of graph C<sup>*</sup>-algebras from non-injective pushouts of graphs",
+        "dc:creator": "Chirvasitu A.",
+        "prism:publicationName": "Bulletin of the London Mathematical Society",
+        "prism:issn": "00246093",
+        "prism:eIssn": "14692120",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "1-15",
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.1112/blms.12389",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University at Buffalo, The State University of New York",
+                "affiliation-city": "Buffalo",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24481",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

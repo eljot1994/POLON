@@ -1,0 +1,89 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037171677"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037171677?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85037171677&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85037171677&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85037171677",
+        "dc:identifier": "SCOPUS_ID:85037171677",
+        "eid": "2-s2.0-85037171677",
+        "dc:title": "Multi-messenger observations of a binary neutron star merger",
+        "dc:creator": "Abbott B.P.",
+        "prism:publicationName": "Astrophysical Journal Letters",
+        "prism:issn": "20418205",
+        "prism:eIssn": "20418213",
+        "prism:volume": "848",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.3847/2041-8213/aa91c9",
+        "citedby-count": "1571",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "California Institute of Technology",
+                "affiliation-city": "Pasadena",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "L12",
+        "source-id": "19900192103",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

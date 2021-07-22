@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017147443"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017147443?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85017147443&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85017147443&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022519317301157"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85017147443",
+        "dc:identifier": "SCOPUS_ID:85017147443",
+        "eid": "2-s2.0-85017147443",
+        "dc:title": "Nest site lottery revisited: towards a mechanistic model of population growth suppressed by the availability of nest sites",
+        "dc:creator": "Argasinski K.",
+        "prism:publicationName": "Journal of Theoretical Biology",
+        "prism:issn": "00225193",
+        "prism:eIssn": "10958541",
+        "prism:volume": "420",
+        "prism:pageRange": "279-289",
+        "prism:coverDate": "2017-05-07",
+        "prism:coverDisplayDate": "7 May 2017",
+        "prism:doi": "10.1016/j.jtbi.2017.03.003",
+        "pii": "S0022519317301157",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "28284992",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29663",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

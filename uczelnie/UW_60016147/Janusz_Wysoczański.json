@@ -1,0 +1,164 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087612474"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087612474?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087612474&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087612474&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087612474",
+        "dc:identifier": "SCOPUS_ID:85087612474",
+        "eid": "2-s2.0-85087612474",
+        "dc:title": "Joint monotone and boolean numerical and spectral radii of d-tuples of operators",
+        "dc:creator": "Kula A.",
+        "prism:publicationName": "Advances in Operator Theory",
+        "prism:eIssn": "2538225X",
+        "prism:volume": "5",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1039-1060",
+        "prism:coverDate": "2020-07-01",
+        "prism:coverDisplayDate": "1 July 2020",
+        "prism:doi": "10.1007/s43036-020-00074-6",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100875757",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006057026"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006057026?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85006057026&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85006057026&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123616303251"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85006057026",
+        "dc:identifier": "SCOPUS_ID:85006057026",
+        "eid": "2-s2.0-85006057026",
+        "dc:title": "Rank two perturbations of matrices and operators and operator model for t-transformation of probability measures",
+        "dc:creator": "Kula A.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "272",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1147",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1016/j.jfa.2016.10.021",
+        "pii": "S0022123616303251",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23894",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

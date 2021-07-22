@@ -1,0 +1,249 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053277765"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053277765?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053277765&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053277765&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053277765",
+        "dc:identifier": "SCOPUS_ID:85053277765",
+        "eid": "2-s2.0-85053277765",
+        "dc:title": "Blowing up radial solutions in the minimal Keller–Segel model of chemotaxis",
+        "dc:creator": "Biler P.",
+        "prism:publicationName": "Journal of Evolution Equations",
+        "prism:issn": "14243199",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "71-90",
+        "prism:coverDate": "2019-03-08",
+        "prism:coverDisplayDate": "8 March 2019",
+        "prism:doi": "10.1007/s00028-018-0469-8",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23892",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044851452"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044851452?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044851452&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044851452&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001870818301221"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044851452",
+        "dc:identifier": "SCOPUS_ID:85044851452",
+        "eid": "2-s2.0-85044851452",
+        "dc:title": "Large global-in-time solutions to a nonlocal model of chemotaxis",
+        "dc:creator": "Biler P.",
+        "prism:publicationName": "Advances in Mathematics",
+        "prism:issn": "00018708",
+        "prism:eIssn": "10902082",
+        "prism:volume": "330",
+        "prism:pageRange": "834-875",
+        "prism:coverDate": "2018-05-25",
+        "prism:coverDisplayDate": "25 May 2018",
+        "prism:doi": "10.1016/j.aim.2018.03.036",
+        "pii": "S0001870818301221",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24570",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85009160426"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85009160426?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85009160426&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85009160426&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85009160426",
+        "dc:identifier": "SCOPUS_ID:85009160426",
+        "eid": "2-s2.0-85009160426",
+        "dc:title": "Local criteria for blowup in two-dimensional chemotaxis models",
+        "dc:creator": "Biler P.",
+        "prism:publicationName": "Discrete and Continuous Dynamical Systems- Series A",
+        "prism:issn": "10780947",
+        "prism:eIssn": "15535231",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1841-1856",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "April 2017",
+        "prism:doi": "10.3934/dcds.2017077",
+        "citedby-count": "14",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "75869",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,157 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100869742"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100869742?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100869742&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100869742&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100869742",
+        "dc:identifier": "SCOPUS_ID:85100869742",
+        "eid": "2-s2.0-85100869742",
+        "dc:title": "Connectivity-informed adaptive regularization for generalized outcomes",
+        "dc:creator": "Brzyski D.",
+        "prism:publicationName": "Canadian Journal of Statistics",
+        "prism:issn": "03195724",
+        "prism:eIssn": "1708945X",
+        "prism:volume": "49",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "203-227",
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "March 2021",
+        "prism:doi": "10.1002/cjs.11606",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28893",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085683323"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085683323?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085683323&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085683323&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085683323",
+        "dc:identifier": "SCOPUS_ID:85085683323",
+        "eid": "2-s2.0-85085683323",
+        "dc:title": "Classification of human physical activity based on raw accelerometry data via spherical coordinate transformation",
+        "dc:creator": "Kos M.",
+        "prism:publicationName": "Statistics in Medicine",
+        "prism:issn": "02776715",
+        "prism:eIssn": "10970258",
+        "prism:volume": "39",
+        "prism:issueIdentifier": "22",
+        "prism:pageRange": "2901-2920",
+        "prism:coverDate": "2020-09-30",
+        "prism:coverDisplayDate": "30 September 2020",
+        "prism:doi": "10.1002/sim.8582",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32478905",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20086",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

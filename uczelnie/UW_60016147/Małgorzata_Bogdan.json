@@ -1,0 +1,431 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098455101"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098455101?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098455101&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098455101&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098455101",
+        "dc:identifier": "SCOPUS_ID:85098455101",
+        "eid": "2-s2.0-85098455101",
+        "dc:title": "Rank-based lasso - Efficient methods for high-dimensional robust model selection",
+        "dc:creator": "Rejchel W.",
+        "prism:publicationName": "Journal of Machine Learning Research",
+        "prism:issn": "15324435",
+        "prism:eIssn": "15337928",
+        "prism:volume": "21",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "November 2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20969",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089476280"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089476280?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089476280&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089476280&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089476280",
+        "dc:identifier": "SCOPUS_ID:85089476280",
+        "eid": "2-s2.0-85089476280",
+        "dc:title": "On the Asymptotic Properties of SLOPE",
+        "dc:creator": "Kos M.",
+        "prism:publicationName": "Sankhya A",
+        "prism:issn": "0976836X",
+        "prism:eIssn": "09768378",
+        "prism:volume": "82",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "499-532",
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "1 August 2020",
+        "prism:doi": "10.1007/s13171-020-00212-5",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100838045",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108108776"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108108776?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108108776&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108108776&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108108776",
+        "dc:identifier": "SCOPUS_ID:85108108776",
+        "eid": "2-s2.0-85108108776",
+        "dc:title": "The strong screening rule for SLOPE",
+        "dc:creator": "Larsson J.",
+        "prism:publicationName": "Advances in Neural Information Processing Systems",
+        "prism:issn": "10495258",
+        "prism:volume": "2020-December",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lunds Universitet",
+                "affiliation-city": "Lund",
+                "affiliation-country": "Sweden"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "23669",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074264260"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074264260?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074264260&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074264260&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074264260",
+        "dc:identifier": "SCOPUS_ID:85074264260",
+        "eid": "2-s2.0-85074264260",
+        "dc:title": "Structure learning of Gaussian Markov random fields with false discovery rate control",
+        "dc:creator": "Lee S.",
+        "prism:publicationName": "Symmetry",
+        "prism:eIssn": "20738994",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-10-01",
+        "prism:coverDisplayDate": "1 October 2019",
+        "prism:doi": "10.3390/sym11101311",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Hanyang University ERICA Campus",
+                "affiliation-city": "Ansan",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1311",
+        "source-id": "21100201542",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034859569"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034859569?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034859569&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034859569&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034859569",
+        "dc:identifier": "SCOPUS_ID:85034859569",
+        "eid": "2-s2.0-85034859569",
+        "dc:title": "False discoveries occur early on the lasso path",
+        "dc:creator": "Su W.",
+        "prism:publicationName": "Annals of Statistics",
+        "prism:issn": "00905364",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "2133-2150",
+        "prism:coverDate": "2017-10-01",
+        "prism:coverDisplayDate": "October 2017",
+        "prism:doi": "10.1214/16-AOS1521",
+        "citedby-count": "38",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wharton School of the University of Pennsylvania",
+                "affiliation-city": "Philadelphia",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13649",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021416932"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021416932?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021416932&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021416932&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021416932",
+        "dc:identifier": "SCOPUS_ID:85021416932",
+        "eid": "2-s2.0-85021416932",
+        "dc:title": "Joint genotype- and ancestry-based genome-wide association studies in admixed populations",
+        "dc:creator": "Szulc P.",
+        "prism:publicationName": "Genetic Epidemiology",
+        "prism:issn": "07410395",
+        "prism:eIssn": "10982272",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "555-566",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "September 2017",
+        "prism:doi": "10.1002/gepi.22056",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "28657151",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22162",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

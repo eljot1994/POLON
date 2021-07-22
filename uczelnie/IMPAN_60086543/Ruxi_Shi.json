@@ -1,0 +1,336 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104344165"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104344165?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104344165&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104344165&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001870821002048"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104344165",
+        "dc:identifier": "SCOPUS_ID:85104344165",
+        "eid": "2-s2.0-85104344165",
+        "dc:title": "A counter-example for polynomial version of Sarnak's conjecture",
+        "dc:creator": "Lian Z.",
+        "prism:publicationName": "Advances in Mathematics",
+        "prism:issn": "00018708",
+        "prism:eIssn": "10902082",
+        "prism:volume": "384",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-25",
+        "prism:coverDisplayDate": "25 June 2021",
+        "prism:doi": "10.1016/j.aim.2021.107765",
+        "pii": "S0001870821002048",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Xiamen University",
+                "affiliation-city": "Xiamen",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107765",
+        "source-id": "24570",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092357424"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092357424?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092357424&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092357424&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092357424",
+        "dc:identifier": "SCOPUS_ID:85092357424",
+        "eid": "2-s2.0-85092357424",
+        "dc:title": "Construction of some Chowla sequences",
+        "dc:creator": "Shi R.",
+        "prism:publicationName": "Monatshefte fur Mathematik",
+        "prism:issn": "00269255",
+        "prism:volume": "194",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "193-224",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1007/s00605-020-01448-x",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Oulun Yliopisto",
+                "affiliation-city": "Oulu",
+                "affiliation-country": "Finland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25167",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085053311"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085053311?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085053311&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085053311&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085053311",
+        "dc:identifier": "SCOPUS_ID:85085053311",
+        "eid": "2-s2.0-85085053311",
+        "dc:title": "Equi-distributed property and spectral set conjecture on Z<inf>p2</inf>×Z<inf>p</inf>",
+        "dc:creator": "Shi R.",
+        "prism:publicationName": "Journal of the London Mathematical Society",
+        "prism:issn": "00246107",
+        "prism:eIssn": "14697750",
+        "prism:volume": "102",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1030-1046",
+        "prism:coverDate": "2020-12-01",
+        "prism:coverDisplayDate": "December 2020",
+        "prism:doi": "10.1112/jlms.12346",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Oulun Yliopisto",
+                "affiliation-city": "Oulu",
+                "affiliation-country": "Finland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24483",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098070355"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098070355?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098070355&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098070355&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098070355",
+        "dc:identifier": "SCOPUS_ID:85098070355",
+        "eid": "2-s2.0-85098070355",
+        "dc:title": "Correction to: Construction of some Chowla sequences (Monatshefte für Mathematik, (2020), 10.1007/s00605-020-01448-x)",
+        "dc:creator": "Shi R.",
+        "prism:publicationName": "Monatshefte fur Mathematik",
+        "prism:issn": "00269255",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/s00605-020-01487-4",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Oulun Yliopisto",
+                "affiliation-city": "Oulu",
+                "affiliation-country": "Finland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "er",
+        "subtypeDescription": "Erratum",
+        "source-id": "25167",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

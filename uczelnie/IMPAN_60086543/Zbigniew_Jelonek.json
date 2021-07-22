@@ -1,0 +1,335 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064551348"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064551348?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064551348&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064551348&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064551348",
+        "dc:identifier": "SCOPUS_ID:85064551348",
+        "eid": "2-s2.0-85064551348",
+        "dc:title": "Thom Isotopy Theorem for Nonproper Maps and Computation of Sets of Stratified Generalized Critical Values",
+        "dc:creator": "Ðinh S.T.",
+        "prism:publicationName": "Discrete and Computational Geometry",
+        "prism:issn": "01795376",
+        "prism:eIssn": "14320444",
+        "prism:volume": "65",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "279-304",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1007/s00454-019-00087-w",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Vietnam Academy of Science and Technology",
+                "affiliation-city": "Hanoi",
+                "affiliation-country": "Viet Nam"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25887",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088519455"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088519455?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088519455&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088519455&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021869320303331"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088519455",
+        "dc:identifier": "SCOPUS_ID:85088519455",
+        "eid": "2-s2.0-85088519455",
+        "dc:title": "Elimination ideals and Bézout relations",
+        "dc:creator": "Galligo A.",
+        "prism:publicationName": "Journal of Algebra",
+        "prism:issn": "00218693",
+        "prism:eIssn": "1090266X",
+        "prism:volume": "562",
+        "prism:pageRange": "621-626",
+        "prism:coverDate": "2020-11-15",
+        "prism:coverDisplayDate": "15 November 2020",
+        "prism:doi": "10.1016/j.jalgebra.2020.06.022",
+        "pii": "S0021869320303331",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "INRIA Institut National de Recherche en Informatique et en Automatique",
+                "affiliation-city": "Le Chesnay",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23814",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073872390"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073872390?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073872390&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073872390&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073872390",
+        "dc:identifier": "SCOPUS_ID:85073872390",
+        "eid": "2-s2.0-85073872390",
+        "dc:title": "Quantitative properties of the non-properness set of a polynomial map, a positive characteristic case",
+        "dc:creator": "Jelonek Z.",
+        "prism:publicationName": "Journal of Algebra and its Applications",
+        "prism:issn": "02194988",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "1 October 2020",
+        "prism:doi": "10.1142/S0219498820501923",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2050192",
+        "source-id": "11800154589",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028022137"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028022137?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028022137&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028022137&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028022137",
+        "dc:identifier": "SCOPUS_ID:85028022137",
+        "eid": "2-s2.0-85028022137",
+        "dc:title": "Quantitative properties of the non-properness set of a polynomial map",
+        "dc:creator": "Jelonek Z.",
+        "prism:publicationName": "Manuscripta Mathematica",
+        "prism:issn": "00252611",
+        "prism:volume": "156",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "383-397",
+        "prism:coverDate": "2018-07-01",
+        "prism:coverDisplayDate": "1 July 2018",
+        "prism:doi": "10.1007/s00229-017-0965-0",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24490",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

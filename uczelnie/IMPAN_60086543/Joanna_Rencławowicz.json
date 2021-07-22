@@ -1,0 +1,86 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072998176"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072998176?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072998176&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072998176&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072998176",
+        "dc:identifier": "SCOPUS_ID:85072998176",
+        "eid": "2-s2.0-85072998176",
+        "dc:title": "On Some Regularity Criteria for Axisymmetric Navier–Stokes Equations",
+        "dc:creator": "Rencławowicz J.",
+        "prism:publicationName": "Journal of Mathematical Fluid Mechanics",
+        "prism:issn": "14226928",
+        "prism:eIssn": "14226952",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "1 December 2019",
+        "prism:doi": "10.1007/s00021-019-0447-0",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "51",
+        "source-id": "28542",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

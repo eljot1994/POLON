@@ -1,0 +1,79 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079777280"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079777280?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079777280&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079777280&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079777280",
+        "dc:identifier": "SCOPUS_ID:85079777280",
+        "eid": "2-s2.0-85079777280",
+        "dc:title": "Smooth Orthogonal Projections on Riemannian Manifold",
+        "dc:creator": "Bownik M.",
+        "prism:publicationName": "Potential Analysis",
+        "prism:issn": "09262601",
+        "prism:eIssn": "1572929X",
+        "prism:volume": "54",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "41-94",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1007/s11118-019-09818-3",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Oregon",
+                "affiliation-city": "Eugene",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25813",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

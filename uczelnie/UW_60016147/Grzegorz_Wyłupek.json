@@ -1,0 +1,108 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099288667"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099288667?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099288667&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099288667&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099288667",
+        "dc:identifier": "SCOPUS_ID:85099288667",
+        "eid": "2-s2.0-85099288667",
+        "dc:title": "A permutation test for the two-sample right-censored model",
+        "dc:creator": "Wyłupek G.",
+        "prism:publicationName": "Annals of the Institute of Statistical Mathematics",
+        "prism:issn": "00203157",
+        "prism:eIssn": "15729052",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1007/s10463-020-00777-w",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23213",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84996503861"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84996503861?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84996503861&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84996503861&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84996503861",
+        "dc:identifier": "SCOPUS_ID:84996503861",
+        "eid": "2-s2.0-84996503861",
+        "dc:title": "On Charlier polynomials in testing Poissonity",
+        "dc:creator": "Ledwina T.",
+        "prism:publicationName": "Communications in Statistics: Simulation and Computation",
+        "prism:issn": "03610918",
+        "prism:eIssn": "15324141",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1918-1932",
+        "prism:coverDate": "2017-03-16",
+        "prism:coverDisplayDate": "16 March 2017",
+        "prism:doi": "10.1080/03610918.2015.1019000",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23526",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

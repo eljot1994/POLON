@@ -1,0 +1,218 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085683323"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085683323?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085683323&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085683323&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085683323",
+        "dc:identifier": "SCOPUS_ID:85085683323",
+        "eid": "2-s2.0-85085683323",
+        "dc:title": "Classification of human physical activity based on raw accelerometry data via spherical coordinate transformation",
+        "dc:creator": "Kos M.",
+        "prism:publicationName": "Statistics in Medicine",
+        "prism:issn": "02776715",
+        "prism:eIssn": "10970258",
+        "prism:volume": "39",
+        "prism:issueIdentifier": "22",
+        "prism:pageRange": "2901-2920",
+        "prism:coverDate": "2020-09-30",
+        "prism:coverDisplayDate": "30 September 2020",
+        "prism:doi": "10.1002/sim.8582",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32478905",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20086",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089476280"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089476280?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089476280&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089476280&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089476280",
+        "dc:identifier": "SCOPUS_ID:85089476280",
+        "eid": "2-s2.0-85089476280",
+        "dc:title": "On the Asymptotic Properties of SLOPE",
+        "dc:creator": "Kos M.",
+        "prism:publicationName": "Sankhya A",
+        "prism:issn": "0976836X",
+        "prism:eIssn": "09768378",
+        "prism:volume": "82",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "499-532",
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "1 August 2020",
+        "prism:doi": "10.1007/s13171-020-00212-5",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100838045",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045668138"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045668138?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045668138&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045668138&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045668138",
+        "dc:identifier": "SCOPUS_ID:85045668138",
+        "eid": "2-s2.0-85045668138",
+        "dc:title": "Electronic system for the complex measurement of a Wilberforce pendulum",
+        "dc:creator": "Kos B.",
+        "prism:publicationName": "European Journal of Physics",
+        "prism:issn": "01430807",
+        "prism:eIssn": "13616404",
+        "prism:volume": "39",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-03-26",
+        "prism:coverDisplayDate": "26 March 2018",
+        "prism:doi": "10.1088/1361-6404/aaa56e",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "035804",
+        "source-id": "27536",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

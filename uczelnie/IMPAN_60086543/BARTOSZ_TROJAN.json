@@ -1,0 +1,668 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094202776"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094202776?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094202776&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094202776&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021904520301325"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094202776",
+        "dc:identifier": "SCOPUS_ID:85094202776",
+        "eid": "2-s2.0-85094202776",
+        "dc:title": "Asymptotic behavior of Christoffel–Darboux kernel via three-term recurrence relation II",
+        "dc:creator": "Świderski G.",
+        "prism:publicationName": "Journal of Approximation Theory",
+        "prism:issn": "00219045",
+        "prism:eIssn": "10960430",
+        "prism:volume": "261",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1016/j.jat.2020.105496",
+        "pii": "S0021904520301325",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "105496",
+        "source-id": "23841",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072632249"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072632249?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072632249&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072632249&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123619303209"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072632249",
+        "dc:identifier": "SCOPUS_ID:85072632249",
+        "eid": "2-s2.0-85072632249",
+        "dc:title": "Asymptotics of orthogonal polynomials with slowly oscillating recurrence coefficients",
+        "dc:creator": "Świderski G.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "278",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "1 February 2020",
+        "prism:doi": "10.1016/j.jfa.2019.108326",
+        "pii": "S0022123619303209",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108326",
+        "source-id": "23894",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068779768"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068779768?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068779768&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068779768&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068779768",
+        "dc:identifier": "SCOPUS_ID:85068779768",
+        "eid": "2-s2.0-85068779768",
+        "dc:title": "Long time behavior of random walks on the integer lattice",
+        "dc:creator": "Trojan B.",
+        "prism:publicationName": "Monatshefte fur Mathematik",
+        "prism:issn": "00269255",
+        "prism:volume": "191",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "349-376",
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "1 February 2020",
+        "prism:doi": "10.1007/s00605-019-01316-3",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25167",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091372470"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091372470?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091372470&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091372470&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091372470",
+        "dc:identifier": "SCOPUS_ID:85091372470",
+        "eid": "2-s2.0-85091372470",
+        "dc:title": "Asymptotic Behaviour of Christoffel–Darboux Kernel Via Three-Term Recurrence Relation I",
+        "dc:creator": "Świderski G.",
+        "prism:publicationName": "Constructive Approximation",
+        "prism:issn": "01764276",
+        "prism:eIssn": "14320940",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/s00365-020-09519-w",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25837",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071749001"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071749001?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071749001&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071749001&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071749001",
+        "dc:identifier": "SCOPUS_ID:85071749001",
+        "eid": "2-s2.0-85071749001",
+        "dc:title": "Endpoint Estimates for the Maximal Function over Prime Numbers",
+        "dc:creator": "Trojan B.",
+        "prism:publicationName": "Journal of Fourier Analysis and Applications",
+        "prism:issn": "10695869",
+        "prism:eIssn": "15315851",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "3123-3153",
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "1 December 2019",
+        "prism:doi": "10.1007/s00041-019-09695-9",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23893",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056261867"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056261867?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056261867&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056261867&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123618303902"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056261867",
+        "dc:identifier": "SCOPUS_ID:85056261867",
+        "eid": "2-s2.0-85056261867",
+        "dc:title": "ℓ<sup>p</sup>(Z<sup>d</sup>)-estimates for discrete operators of Radon type: Maximal functions and vector-valued estimates",
+        "dc:creator": "Mirek M.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "277",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "2471-2521",
+        "prism:coverDate": "2019-10-15",
+        "prism:coverDisplayDate": "15 October 2019",
+        "prism:doi": "10.1016/j.jfa.2018.10.020",
+        "pii": "S0022123618303902",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Rutgers University–New Brunswick",
+                "affiliation-city": "New Brunswick",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23894",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056693983"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056693983?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056693983&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056693983&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056693983",
+        "dc:identifier": "SCOPUS_ID:85056693983",
+        "eid": "2-s2.0-85056693983",
+        "dc:title": "Variational estimates for discrete operators modeled on multi-dimensional polynomial subsets of primes",
+        "dc:creator": "Trojan B.",
+        "prism:publicationName": "Mathematische Annalen",
+        "prism:issn": "00255831",
+        "prism:volume": "374",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "1597-1656",
+        "prism:coverDate": "2019-08-06",
+        "prism:coverDisplayDate": "6 August 2019",
+        "prism:doi": "10.1007/s00208-018-1777-6",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25105",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034094880"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034094880?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034094880&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034094880&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001870817303079"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034094880",
+        "dc:identifier": "SCOPUS_ID:85034094880",
+        "eid": "2-s2.0-85034094880",
+        "dc:title": "Two-parameter version of Bourgain's inequality: Rational frequencies",
+        "dc:creator": "Krause B.",
+        "prism:publicationName": "Advances in Mathematics",
+        "prism:issn": "00018708",
+        "prism:eIssn": "10902082",
+        "prism:volume": "323",
+        "prism:pageRange": "720-744",
+        "prism:coverDate": "2018-01-07",
+        "prism:coverDisplayDate": "7 January 2018",
+        "prism:doi": "10.1016/j.aim.2017.10.033",
+        "pii": "S0001870817303079",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "California Institute of Technology",
+                "affiliation-city": "Pasadena",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24570",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

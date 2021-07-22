@@ -1,0 +1,113 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047668466"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047668466?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047668466&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047668466&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047668466",
+        "dc:identifier": "SCOPUS_ID:85047668466",
+        "eid": "2-s2.0-85047668466",
+        "dc:title": "The distance preserving mappings and isometrics defined on non-archimedean Banach spaces",
+        "dc:creator": "Kubzdela A.",
+        "prism:publicationName": "Contemporary Mathematics",
+        "prism:issn": "02714132",
+        "prism:eIssn": "10983627",
+        "prism:volume": "704",
+        "prism:pageRange": "205-215",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1090/conm/704/14167",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100830161",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045912031"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045912031?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045912031&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045912031&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045912031",
+        "dc:identifier": "SCOPUS_ID:85045912031",
+        "eid": "2-s2.0-85045912031",
+        "dc:title": "On countable tightness and the Lindelöf property in non-archimedean banach spaces",
+        "dc:creator": "Kąkol J.",
+        "prism:publicationName": "Journal of Convex Analysis",
+        "prism:issn": "09446532",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "181-199",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Academy of Sciences of the Czech Republic",
+                "affiliation-city": "Prague",
+                "affiliation-country": "Czech Republic"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23870",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

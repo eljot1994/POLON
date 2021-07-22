@@ -1,0 +1,114 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091249640"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091249640?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091249640&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091249640&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166864120303291"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091249640",
+        "dc:identifier": "SCOPUS_ID:85091249640",
+        "eid": "2-s2.0-85091249640",
+        "dc:title": "Playing with Mathias",
+        "dc:creator": "Pawlikowski J.",
+        "prism:publicationName": "Topology and its Applications",
+        "prism:issn": "01668641",
+        "prism:volume": "285",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "1 November 2020",
+        "prism:doi": "10.1016/j.topol.2020.107387",
+        "pii": "S0166864120303291",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107387",
+        "source-id": "27416",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017532123"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017532123?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85017532123&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85017532123&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85017532123",
+        "dc:identifier": "SCOPUS_ID:85017532123",
+        "eid": "2-s2.0-85017532123",
+        "dc:title": "A characterization of Σ<sup>1</sup><inf>2</inf> sets",
+        "dc:creator": "Pawlikowski J.",
+        "prism:publicationName": "Fundamenta Mathematicae",
+        "prism:issn": "00162736",
+        "prism:volume": "236",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "45-49",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.4064/fm61-4-2016",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26527",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

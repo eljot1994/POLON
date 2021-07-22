@@ -1,0 +1,167 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85027065858"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85027065858?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85027065858&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85027065858&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85027065858",
+        "dc:identifier": "SCOPUS_ID:85027065858",
+        "eid": "2-s2.0-85027065858",
+        "dc:title": "On the containment problem",
+        "dc:creator": "Szemberg T.",
+        "prism:publicationName": "Rendiconti del Circolo Matematico di Palermo",
+        "prism:issn": "0009725X",
+        "prism:eIssn": "19734409",
+        "prism:volume": "66",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "233-245",
+        "prism:coverDate": "2017-08-01",
+        "prism:coverDisplayDate": "1 August 2017",
+        "prism:doi": "10.1007/s12215-016-0281-7",
+        "citedby-count": "19",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12100155618",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85010902367"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85010902367?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85010902367&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85010902367&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85010902367",
+        "dc:identifier": "SCOPUS_ID:85010902367",
+        "eid": "2-s2.0-85010902367",
+        "dc:title": "Restrictions on seshadri constants on surfaces",
+        "dc:creator": "Farnik L.",
+        "prism:publicationName": "Taiwanese Journal of Mathematics",
+        "prism:issn": "10275487",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "27-41",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.11650/tjm.21.2017.7746",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "57383",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

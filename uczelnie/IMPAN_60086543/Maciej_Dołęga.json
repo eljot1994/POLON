@@ -1,0 +1,90 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049569216"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049569216?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049569216&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049569216&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049569216",
+        "dc:identifier": "SCOPUS_ID:85049569216",
+        "eid": "2-s2.0-85049569216",
+        "dc:title": "Gaussian fluctuations of Jack-deformed random Young diagrams",
+        "dc:creator": "Dołęga M.",
+        "prism:publicationName": "Probability Theory and Related Fields",
+        "prism:issn": "01788051",
+        "prism:volume": "174",
+        "prism:issueIdentifier": "1-2",
+        "prism:pageRange": "133-176",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "1 June 2019",
+        "prism:doi": "10.1007/s00440-018-0854-9",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25829",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

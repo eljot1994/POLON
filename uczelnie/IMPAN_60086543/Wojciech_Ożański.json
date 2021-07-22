@@ -1,0 +1,84 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102346400"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102346400?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102346400&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102346400&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102346400",
+        "dc:identifier": "SCOPUS_ID:85102346400",
+        "eid": "2-s2.0-85102346400",
+        "dc:title": "On regularity properties of a surface growth model",
+        "dc:creator": "Burczak J.",
+        "prism:publicationName": "Proceedings of the Royal Society of Edinburgh Section A: Mathematics",
+        "prism:issn": "03082105",
+        "prism:eIssn": "14737124",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1017/prm.2020.84",
+        "pii": "S0308210520000840",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Universität Leipzig",
+                "affiliation-city": "Leipzig",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26378",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

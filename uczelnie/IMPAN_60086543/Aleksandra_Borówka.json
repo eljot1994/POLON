@@ -1,0 +1,76 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074599223"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074599223?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074599223&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074599223&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074599223",
+        "dc:identifier": "SCOPUS_ID:85074599223",
+        "eid": "2-s2.0-85074599223",
+        "dc:title": "Quaternion-Kähler manifolds near maximal fixed point sets of S<sup>1</sup> -symmetries",
+        "dc:creator": "Borówka A.",
+        "prism:publicationName": "Annali di Matematica Pura ed Applicata",
+        "prism:issn": "03733114",
+        "prism:eIssn": "16181891",
+        "prism:volume": "199",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1243-1262",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "1 June 2020",
+        "prism:doi": "10.1007/s10231-019-00920-2",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "6200180175",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

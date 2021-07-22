@@ -1,0 +1,971 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102242682"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102242682?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102242682&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102242682&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102242682",
+        "dc:identifier": "SCOPUS_ID:85102242682",
+        "eid": "2-s2.0-85102242682",
+        "dc:title": "Existence of global weak solutions to 3D incompressible heat-conducting motions with large flux",
+        "dc:creator": "Zadrzyńska E.",
+        "prism:publicationName": "Mathematical Methods in the Applied Sciences",
+        "prism:issn": "01704214",
+        "prism:eIssn": "10991476",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "6259-6281",
+        "prism:coverDate": "2021-05-30",
+        "prism:coverDisplayDate": "30 May 2021",
+        "prism:doi": "10.1002/mma.7156",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24594",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092271943"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092271943?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092271943&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092271943&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092271943",
+        "dc:identifier": "SCOPUS_ID:85092271943",
+        "eid": "2-s2.0-85092271943",
+        "dc:title": "On the eigenvalues and eigenfunctions for a free boundary problem for incompressible viscous magnetohydrodynamics",
+        "dc:creator": "Kacprzyk P.",
+        "prism:publicationName": "Applicationes Mathematicae",
+        "prism:issn": "12337234",
+        "prism:eIssn": "17306280",
+        "prism:volume": "47",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "99-131",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.4064/AM2358-10-2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100981104",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072998176"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072998176?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072998176&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072998176&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072998176",
+        "dc:identifier": "SCOPUS_ID:85072998176",
+        "eid": "2-s2.0-85072998176",
+        "dc:title": "On Some Regularity Criteria for Axisymmetric Navier–Stokes Equations",
+        "dc:creator": "Rencławowicz J.",
+        "prism:publicationName": "Journal of Mathematical Fluid Mechanics",
+        "prism:issn": "14226928",
+        "prism:eIssn": "14226952",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "1 December 2019",
+        "prism:doi": "10.1007/s00021-019-0447-0",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "51",
+        "source-id": "28542",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056482034"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056482034?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056482034&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056482034&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056482034",
+        "dc:identifier": "SCOPUS_ID:85056482034",
+        "eid": "2-s2.0-85056482034",
+        "dc:title": "Stability of axially-symmetric solutions to incompressible magnetohydrodynamics with no azimuthal velocity and with only azimuthal magnetic field",
+        "dc:creator": "Zajaczkowski W.",
+        "prism:publicationName": "Communications on Pure and Applied Analysis",
+        "prism:issn": "15340392",
+        "prism:eIssn": "15535258",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1447-1482",
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.3934/cpaa.2019070",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "145649",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084060314"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084060314?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084060314&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084060314&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084060314",
+        "dc:identifier": "SCOPUS_ID:85084060314",
+        "eid": "2-s2.0-85084060314",
+        "dc:title": "Some stability problem for the navier-stokes equations in the periodic case",
+        "dc:creator": "Zajaczkowski W.M.",
+        "prism:publicationName": "Applicationes Mathematicae",
+        "prism:issn": "12337234",
+        "prism:eIssn": "17306280",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "155-173",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.4064/am2384-3-2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100981104",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052625369"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052625369?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052625369&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052625369&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052625369",
+        "dc:identifier": "SCOPUS_ID:85052625369",
+        "eid": "2-s2.0-85052625369",
+        "dc:title": "Global regular motions for compressible barotropic viscous fluids: Stability",
+        "dc:creator": "Bae H.",
+        "prism:publicationName": "Mathematical Methods in the Applied Sciences",
+        "prism:issn": "01704214",
+        "prism:eIssn": "10991476",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "15",
+        "prism:pageRange": "5869-5905",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "October 2018",
+        "prism:doi": "10.1002/mma.4860",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ajou University",
+                "affiliation-city": "Kyonggi-do",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24594",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055200887"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055200887?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055200887&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055200887&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055200887",
+        "dc:identifier": "SCOPUS_ID:85055200887",
+        "eid": "2-s2.0-85055200887",
+        "dc:title": "On the faedo–galerkin method for a free boundary problem for incompressible viscous magnetohydrodynamics",
+        "dc:creator": "Kacprzyk P.",
+        "prism:publicationName": "Topological Methods in Nonlinear Analysis",
+        "prism:issn": "12303429",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "69-98",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "September 2018",
+        "prism:doi": "10.12775/TMNA.2018.011",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700177501",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055155367"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055155367?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055155367&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055155367&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055155367",
+        "dc:identifier": "SCOPUS_ID:85055155367",
+        "eid": "2-s2.0-85055155367",
+        "dc:title": "Three-dimensional thermo-visco-elasticity with the einstein–debye (θ<sup>3</sup> + θ)-law for the specific heat. Global regular solvability",
+        "dc:creator": "Pawłow I.",
+        "prism:publicationName": "Topological Methods in Nonlinear Analysis",
+        "prism:issn": "12303429",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "161-193",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "September 2018",
+        "prism:doi": "10.12775/TMNA.2018.016",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Systems Research Institute of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700177501",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051431299"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051431299?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051431299&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051431299&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051431299",
+        "dc:identifier": "SCOPUS_ID:85051431299",
+        "eid": "2-s2.0-85051431299",
+        "dc:title": "Large Time Existence of Special Strong Solutions to MHD Equations in Cylindrical Domains",
+        "dc:creator": "Nowakowski B.",
+        "prism:publicationName": "Journal of Mathematical Fluid Mechanics",
+        "prism:issn": "14226928",
+        "prism:eIssn": "14226952",
+        "prism:volume": "20",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1013-1034",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "1 September 2018",
+        "prism:doi": "10.1007/s00021-017-0353-2",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28542",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054420049"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054420049?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054420049&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054420049&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054420049",
+        "dc:identifier": "SCOPUS_ID:85054420049",
+        "eid": "2-s2.0-85054420049",
+        "dc:title": "Local and global solutions for the compressible navier-stokes equations near equilibria via the energy method",
+        "dc:creator": "Burczak J.",
+        "prism:publicationName": "Handbook of Mathematical Analysis in Mechanics of Viscous Fluids",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319133447"
+            },
+            {
+                "@_fa": "true",
+                "$": "9783319133430"
+            }
+        ],
+        "prism:pageRange": "1751-1841",
+        "prism:coverDate": "2018-04-19",
+        "prism:coverDisplayDate": "19 April 2018",
+        "prism:doi": "10.1007/978-3-319-13344-7_47",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Oxford",
+                "affiliation-city": "Oxford",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100879758",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026824405"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026824405?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026824405&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026824405&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026824405",
+        "dc:identifier": "SCOPUS_ID:85026824405",
+        "eid": "2-s2.0-85026824405",
+        "dc:title": "On Stability of Solutions to Equations Describing Incompressible Heat-Conducting Motions Under Navier’s Boundary Conditions",
+        "dc:creator": "Zadrzyńska E.",
+        "prism:publicationName": "Acta Applicandae Mathematicae",
+        "prism:issn": "01678019",
+        "prism:eIssn": "15729036",
+        "prism:volume": "152",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "147-170",
+        "prism:coverDate": "2017-12-01",
+        "prism:coverDisplayDate": "1 December 2017",
+        "prism:doi": "10.1007/s10440-017-0116-3",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24099",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017564338"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017564338?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85017564338&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85017564338&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85017564338",
+        "dc:identifier": "SCOPUS_ID:85017564338",
+        "eid": "2-s2.0-85017564338",
+        "dc:title": "Global regular solutions to three-dimensional thermo-visco-elasticity with nonlinear temperature-dependent specific heat",
+        "dc:creator": "Pawłow I.",
+        "prism:publicationName": "Communications on Pure and Applied Analysis",
+        "prism:issn": "15340392",
+        "prism:eIssn": "15535258",
+        "prism:volume": "16",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1331-1371",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "July 2017",
+        "prism:doi": "10.3934/cpaa.2017065",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Systems Research Institute of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "145649",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85012008746"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85012008746?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85012008746&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85012008746&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85012008746",
+        "dc:identifier": "SCOPUS_ID:85012008746",
+        "eid": "2-s2.0-85012008746",
+        "dc:title": "Nonstationary Stokes System in Cylindrical Domains Under Boundary Slip Conditions",
+        "dc:creator": "Zaja̧czkowski W.M.",
+        "prism:publicationName": "Journal of Mathematical Fluid Mechanics",
+        "prism:issn": "14226928",
+        "prism:eIssn": "14226952",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-03-01",
+        "prism:coverDisplayDate": "1 March 2017",
+        "prism:doi": "10.1007/s00021-016-0296-z",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28542",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018787446"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018787446?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018787446&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018787446&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018787446",
+        "dc:identifier": "SCOPUS_ID:85018787446",
+        "eid": "2-s2.0-85018787446",
+        "dc:title": "On some global solutions to 3d incompressible heat-conducting motions",
+        "dc:creator": "Zadrzyńska E.",
+        "prism:publicationName": "Annales Polonici Mathematici",
+        "prism:issn": "00662216",
+        "prism:eIssn": "17306272",
+        "prism:volume": "119",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "79-94",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.4064/ap4048-2-2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20900195109",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

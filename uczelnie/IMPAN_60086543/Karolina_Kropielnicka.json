@@ -1,0 +1,273 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099233763"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099233763?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099233763&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099233763&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S089396592030481X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099233763",
+        "dc:identifier": "SCOPUS_ID:85099233763",
+        "eid": "2-s2.0-85099233763",
+        "dc:title": "Asymptotic numerical solver for the linear Klein–Gordon equation with space- and time-dependent mass",
+        "dc:creator": "Condon M.",
+        "prism:publicationName": "Applied Mathematics Letters",
+        "prism:issn": "08939659",
+        "prism:eIssn": "18735452",
+        "prism:volume": "115",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "May 2021",
+        "prism:doi": "10.1016/j.aml.2020.106935",
+        "pii": "S089396592030481X",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "School of Electronic Engineering",
+                "affiliation-city": "Glasnevin",
+                "affiliation-country": "Ireland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "106935",
+        "source-id": "25184",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072106736"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072106736?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072106736&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072106736&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072106736",
+        "dc:identifier": "SCOPUS_ID:85072106736",
+        "eid": "2-s2.0-85072106736",
+        "dc:title": "The escalator boxcar train method for a system of age-structured equations in the space of measures",
+        "dc:creator": "Carrillo J.",
+        "prism:publicationName": "SIAM Journal on Numerical Analysis",
+        "prism:issn": "00361429",
+        "prism:volume": "57",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1842-1874",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1137/18M1189427",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Imperial College London",
+                "affiliation-city": "London",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26421",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054570894"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054570894?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054570894&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054570894&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021999118306491"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054570894",
+        "dc:identifier": "SCOPUS_ID:85054570894",
+        "eid": "2-s2.0-85054570894",
+        "dc:title": "Solving Schrödinger equation in semiclassical regime with highly oscillatory time-dependent potentials",
+        "dc:creator": "Iserles A.",
+        "prism:publicationName": "Journal of Computational Physics",
+        "prism:issn": "00219991",
+        "prism:eIssn": "10902716",
+        "prism:volume": "376",
+        "prism:pageRange": "564-584",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "1 January 2019",
+        "prism:doi": "10.1016/j.jcp.2018.09.047",
+        "pii": "S0021999118306491",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Faculty of Mathematics",
+                "affiliation-city": "Cambridge",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13191",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049347904"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049347904?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049347904&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049347904&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049347904",
+        "dc:identifier": "SCOPUS_ID:85049347904",
+        "eid": "2-s2.0-85049347904",
+        "dc:title": "Magnus–lanczos methods with simplified commutators for the schrödinger equation with a time-dependent potential",
+        "dc:creator": "Iserles A.",
+        "prism:publicationName": "SIAM Journal on Numerical Analysis",
+        "prism:issn": "00361429",
+        "prism:volume": "56",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1547-1569",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1137/17M1149833",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Faculty of Mathematics",
+                "affiliation-city": "Cambridge",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26421",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

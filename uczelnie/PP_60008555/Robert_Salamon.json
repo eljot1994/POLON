@@ -1,0 +1,76 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087572923"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087572923?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087572923&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087572923&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087572923",
+        "dc:identifier": "SCOPUS_ID:85087572923",
+        "eid": "2-s2.0-85087572923",
+        "dc:title": "Estimation of parameters of various damping models in planar motion of a pendulum",
+        "dc:creator": "Salamon R.",
+        "prism:publicationName": "Meccanica",
+        "prism:issn": "00256455",
+        "prism:eIssn": "15729648",
+        "prism:volume": "55",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "1655-1677",
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "1 September 2020",
+        "prism:doi": "10.1007/s11012-020-01197-z",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14471",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

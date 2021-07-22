@@ -1,0 +1,162 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106687227"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106687227?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85106687227&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85106687227&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85106687227",
+        "dc:identifier": "SCOPUS_ID:85106687227",
+        "eid": "2-s2.0-85106687227",
+        "dc:title": "Discrete mechanics on unitary octonions",
+        "dc:creator": "Grabowski J.",
+        "prism:publicationName": "International Journal of Geometric Methods in Modern Physics",
+        "prism:issn": "02198878",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "May 2021",
+        "prism:doi": "10.1142/S0219887821500936",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2150093",
+        "source-id": "4700152702",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040038609"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040038609?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040038609&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040038609&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040038609",
+        "dc:identifier": "SCOPUS_ID:85040038609",
+        "eid": "2-s2.0-85040038609",
+        "dc:title": "Invariant Poisson-Nijenhuis structures on Lie groups and classification",
+        "dc:creator": "Ravanpak Z.",
+        "prism:publicationName": "International Journal of Geometric Methods in Modern Physics",
+        "prism:issn": "02198878",
+        "prism:volume": "15",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "1 April 2018",
+        "prism:doi": "10.1142/S0219887818500597",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Azarbaijan Shahid Madani University",
+                "affiliation-city": "Tabriz",
+                "affiliation-country": "Iran"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1850059",
+        "source-id": "4700152702",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,373 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079644904"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079644904?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079644904&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079644904&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001870820300918"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079644904",
+        "dc:identifier": "SCOPUS_ID:85079644904",
+        "eid": "2-s2.0-85079644904",
+        "dc:title": "Jump inequalities for translation-invariant operators of Radon type on Z<sup>d</sup>",
+        "dc:creator": "Mirek M.",
+        "prism:publicationName": "Advances in Mathematics",
+        "prism:issn": "00018708",
+        "prism:eIssn": "10902082",
+        "prism:volume": "365",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-13",
+        "prism:coverDisplayDate": "13 May 2020",
+        "prism:doi": "10.1016/j.aim.2020.107065",
+        "pii": "S0001870820300918",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Rutgers University–New Brunswick",
+                "affiliation-city": "New Brunswick",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107065",
+        "source-id": "24570",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088705809"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088705809?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088705809&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088705809&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088705809",
+        "dc:identifier": "SCOPUS_ID:85088705809",
+        "eid": "2-s2.0-85088705809",
+        "dc:title": "A bootstrapping approach to jump inequalities and their applications",
+        "dc:creator": "Mirek M.",
+        "prism:publicationName": "Analysis and PDE",
+        "prism:issn": "21575045",
+        "prism:eIssn": "1948206X",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "527-558",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.2140/apde.2020.13.527",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Rutgers University–New Brunswick",
+                "affiliation-city": "New Brunswick",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100242249",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087210287"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087210287?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087210287&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087210287&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087210287",
+        "dc:identifier": "SCOPUS_ID:85087210287",
+        "eid": "2-s2.0-85087210287",
+        "dc:title": "On discrete hardy–littlewood maximal functions over the balls in Z<sup>d</sup> : Dimension-Free Estimates",
+        "dc:creator": "Bourgain J.",
+        "prism:publicationName": "Lecture Notes in Mathematics",
+        "prism:issn": "00758434",
+        "prism:eIssn": "16179692",
+        "prism:volume": "2256",
+        "prism:pageRange": "127-169",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-3-030-36020-7_8",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute for Advanced Studies",
+                "affiliation-city": "Princeton",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "24468",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056261867"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056261867?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056261867&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056261867&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123618303902"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056261867",
+        "dc:identifier": "SCOPUS_ID:85056261867",
+        "eid": "2-s2.0-85056261867",
+        "dc:title": "ℓ<sup>p</sup>(Z<sup>d</sup>)-estimates for discrete operators of Radon type: Maximal functions and vector-valued estimates",
+        "dc:creator": "Mirek M.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "277",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "2471-2521",
+        "prism:coverDate": "2019-10-15",
+        "prism:coverDisplayDate": "15 October 2019",
+        "prism:doi": "10.1016/j.jfa.2018.10.020",
+        "pii": "S0022123618303902",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Rutgers University–New Brunswick",
+                "affiliation-city": "New Brunswick",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23894",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071147406"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071147406?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071147406&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071147406&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071147406",
+        "dc:identifier": "SCOPUS_ID:85071147406",
+        "eid": "2-s2.0-85071147406",
+        "dc:title": "Dimension-free estimates for discrete hardy-littlewood averaging operators over the cubes in Z<sup>d</sup>",
+        "dc:creator": "Bourgain J.",
+        "prism:publicationName": "American Journal of Mathematics",
+        "prism:issn": "00029327",
+        "prism:eIssn": "10806377",
+        "prism:volume": "141",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "857-905",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1353/ajm.2019.0023",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute for Advanced Studies",
+                "affiliation-city": "Princeton",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24654",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

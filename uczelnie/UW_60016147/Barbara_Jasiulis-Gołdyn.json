@@ -1,0 +1,161 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073924286"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073924286?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073924286&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073924286&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0304414918304010"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073924286",
+        "dc:identifier": "SCOPUS_ID:85073924286",
+        "eid": "2-s2.0-85073924286",
+        "dc:title": "Renewal theory for extremal Markov sequences of Kendall type",
+        "dc:creator": "Jasiulis-Gołdyn B.H.",
+        "prism:publicationName": "Stochastic Processes and their Applications",
+        "prism:issn": "03044149",
+        "prism:volume": "130",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "3277-3294",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.1016/j.spa.2019.09.013",
+        "pii": "S0304414918304010",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26929",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85031740693"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85031740693?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85031740693&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85031740693&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85031740693",
+        "dc:identifier": "SCOPUS_ID:85031740693",
+        "eid": "2-s2.0-85031740693",
+        "dc:title": "Kendall random walk,Williamson transform, and the corresponding Wiener–Hopf factorization",
+        "dc:creator": "Jasiulis-Gołdyn B.",
+        "prism:publicationName": "Lithuanian Mathematical Journal",
+        "prism:issn": "03631672",
+        "prism:eIssn": "15738825",
+        "prism:volume": "57",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "479-489",
+        "prism:coverDate": "2017-10-01",
+        "prism:coverDisplayDate": "1 October 2017",
+        "prism:doi": "10.1007/s10986-017-9375-y",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24478",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

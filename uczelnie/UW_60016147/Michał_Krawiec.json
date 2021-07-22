@@ -1,0 +1,83 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049742354"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049742354?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049742354&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049742354&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0096300318305277"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049742354",
+        "dc:identifier": "SCOPUS_ID:85049742354",
+        "eid": "2-s2.0-85049742354",
+        "dc:title": "Quickest drift change detection in Lévy-type force of mortality model",
+        "dc:creator": "Krawiec M.",
+        "prism:publicationName": "Applied Mathematics and Computation",
+        "prism:issn": "00963003",
+        "prism:volume": "338",
+        "prism:pageRange": "432-450",
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "1 December 2018",
+        "prism:doi": "10.1016/j.amc.2018.06.038",
+        "pii": "S0096300318305277",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25170",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,145 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109470387"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109470387?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85109470387&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85109470387&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021904521000812"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85109470387",
+        "dc:identifier": "SCOPUS_ID:85109470387",
+        "eid": "2-s2.0-85109470387",
+        "dc:title": "Positivity of Turán determinants for orthogonal polynomials II",
+        "dc:creator": "Szwarc R.",
+        "prism:publicationName": "Journal of Approximation Theory",
+        "prism:issn": "00219045",
+        "prism:eIssn": "10960430",
+        "prism:volume": "270",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-10-01",
+        "prism:coverDisplayDate": "October 2021",
+        "prism:doi": "10.1016/j.jat.2021.105618",
+        "pii": "S0021904521000812",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Wroclaw",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "105618",
+        "source-id": "23841",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064317662"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064317662?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064317662&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064317662&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X19303191"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064317662",
+        "dc:identifier": "SCOPUS_ID:85064317662",
+        "eid": "2-s2.0-85064317662",
+        "dc:title": "On a property of random walk polynomials involving Christoffel functions",
+        "dc:creator": "van Doorn E.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "477",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "85-103",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "1 September 2019",
+        "prism:doi": "10.1016/j.jmaa.2019.04.012",
+        "pii": "S0022247X19303191",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Twente",
+                "affiliation-city": "Enschede",
+                "affiliation-country": "Netherlands"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

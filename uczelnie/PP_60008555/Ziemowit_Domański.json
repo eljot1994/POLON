@@ -1,0 +1,166 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070261715"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070261715?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070261715&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070261715&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070261715",
+        "dc:identifier": "SCOPUS_ID:85070261715",
+        "eid": "2-s2.0-85070261715",
+        "dc:title": "Lax representations for separable systems from benenti class",
+        "dc:creator": "Blaszak M.",
+        "prism:publicationName": "Symmetry, Integrability and Geometry: Methods and Applications (SIGMA)",
+        "prism:eIssn": "18150659",
+        "prism:volume": "15",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.3842/SIGMA.2019.045",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "045",
+        "source-id": "11700154503",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044273033"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044273033?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044273033&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044273033&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0034487718300089"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044273033",
+        "dc:identifier": "SCOPUS_ID:85044273033",
+        "eid": "2-s2.0-85044273033",
+        "dc:title": "Coherence and squeezing along quantum trajectories",
+        "dc:creator": "Domański Z.",
+        "prism:publicationName": "Reports on Mathematical Physics",
+        "prism:issn": "00344877",
+        "prism:volume": "80",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "373-389",
+        "prism:coverDate": "2017-12-01",
+        "prism:coverDisplayDate": "December 2017",
+        "prism:doi": "10.1016/S0034-4877(18)30008-9",
+        "pii": "S0034487718300089",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29707",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

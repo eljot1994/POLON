@@ -1,0 +1,524 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108798274"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108798274?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108798274&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108798274&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108798274",
+        "dc:identifier": "SCOPUS_ID:85108798274",
+        "eid": "2-s2.0-85108798274",
+        "dc:title": "Isomorphic and isometric structure of the optimal domains for Hardy-type operators",
+        "dc:creator": "Kiwerski T.",
+        "prism:publicationName": "Studia Mathematica",
+        "prism:issn": "00393223",
+        "prism:eIssn": "17306337",
+        "prism:volume": "260",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "45-89",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.4064/sm200211-8-9",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26945",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055099280"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055099280?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055099280&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055099280&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X18308837"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055099280",
+        "dc:identifier": "SCOPUS_ID:85055099280",
+        "eid": "2-s2.0-85055099280",
+        "dc:title": "Symmetrization, factorization and arithmetic of quasi-Banach function spaces",
+        "dc:creator": "Kolwicz P.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "470",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1136-1166",
+        "prism:coverDate": "2019-02-15",
+        "prism:coverDisplayDate": "15 February 2019",
+        "prism:doi": "10.1016/j.jmaa.2018.10.054",
+        "pii": "S0022247X18308837",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056321303"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056321303?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056321303&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056321303&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056321303",
+        "dc:identifier": "SCOPUS_ID:85056321303",
+        "eid": "2-s2.0-85056321303",
+        "dc:title": "Geometric properties of F-normed Orlicz spaces",
+        "dc:creator": "Cui Y.",
+        "prism:publicationName": "Aequationes Mathematicae",
+        "prism:issn": "00019054",
+        "prism:volume": "93",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "311-343",
+        "prism:coverDate": "2019-02-04",
+        "prism:coverDisplayDate": "4 February 2019",
+        "prism:doi": "10.1007/s00010-018-0615-y",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Harbin University of Science and Technology",
+                "affiliation-city": "Harbin",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24573",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040777618"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040777618?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040777618&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040777618&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040777618",
+        "dc:identifier": "SCOPUS_ID:85040777618",
+        "eid": "2-s2.0-85040777618",
+        "dc:title": "Kadec–Klee properties of some quasi-Banach function spaces",
+        "dc:creator": "Kolwicz P.",
+        "prism:publicationName": "Positivity",
+        "prism:issn": "13851292",
+        "prism:eIssn": "15729281",
+        "prism:volume": "22",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "983-1013",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "1 September 2018",
+        "prism:doi": "10.1007/s11117-018-0555-8",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25809",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047005458"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047005458?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047005458&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047005458&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047005458",
+        "dc:identifier": "SCOPUS_ID:85047005458",
+        "eid": "2-s2.0-85047005458",
+        "dc:title": "Isometric Copies of l<sup>∞</sup> in Cesàro–Orlicz Function Spaces",
+        "dc:creator": "Kiwerski T.",
+        "prism:publicationName": "Results in Mathematics",
+        "prism:issn": "14226383",
+        "prism:eIssn": "14209012",
+        "prism:volume": "73",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-06-01",
+        "prism:coverDisplayDate": "1 June 2018",
+        "prism:doi": "10.1007/s00025-018-0834-5",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "76",
+        "source-id": "5000158124",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026920585"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026920585?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026920585&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026920585&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026920585",
+        "dc:identifier": "SCOPUS_ID:85026920585",
+        "eid": "2-s2.0-85026920585",
+        "dc:title": "Rotundity and monotonicity properties of selected Cesàro function spaces",
+        "dc:creator": "Kiwerski T.",
+        "prism:publicationName": "Positivity",
+        "prism:issn": "13851292",
+        "prism:eIssn": "15729281",
+        "prism:volume": "22",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "357-377",
+        "prism:coverDate": "2018-03-01",
+        "prism:coverDisplayDate": "1 March 2018",
+        "prism:doi": "10.1007/s11117-017-0515-8",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25809",
+        "openaccess": "1",
+        "openaccessFlag": true
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994234248"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994234248?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994234248&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994234248&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994234248",
+        "dc:identifier": "SCOPUS_ID:84994234248",
+        "eid": "2-s2.0-84994234248",
+        "dc:title": "Isomorphic copies of l<sup>∞</sup> in Cesàro–Orlicz function spaces",
+        "dc:creator": "Kiwerski T.",
+        "prism:publicationName": "Positivity",
+        "prism:issn": "13851292",
+        "prism:eIssn": "15729281",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1015-1030",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "1 September 2017",
+        "prism:doi": "10.1007/s11117-016-0449-6",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25809",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

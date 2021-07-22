@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081200458"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081200458?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081200458&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081200458&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S000744972030021X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081200458",
+        "dc:identifier": "SCOPUS_ID:85081200458",
+        "eid": "2-s2.0-85081200458",
+        "dc:title": "A probabilistic proof of a priori L<sup>p</sup> estimates for a class of divergence form elliptic operators",
+        "dc:creator": "Chojecki T.",
+        "prism:publicationName": "Bulletin des Sciences Mathematiques",
+        "prism:issn": "00074497",
+        "prism:volume": "160",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "May 2020",
+        "prism:doi": "10.1016/j.bulsci.2020.102851",
+        "pii": "S000744972030021X",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Maria Curie-Sklodowska University in Lublin",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "102851",
+        "source-id": "25286",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

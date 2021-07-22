@@ -1,0 +1,133 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094098324"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094098324?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094098324&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094098324&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094098324",
+        "dc:identifier": "SCOPUS_ID:85094098324",
+        "eid": "2-s2.0-85094098324",
+        "dc:title": "Alsedà-Misiurewicz systems with place-dependent probabilities",
+        "dc:creator": "Czudek K.",
+        "prism:publicationName": "Nonlinearity",
+        "prism:issn": "09517715",
+        "prism:eIssn": "13616544",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "6221-6243",
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "November 2020",
+        "prism:doi": "10.1088/1361-6544/aba094",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25696",
+        "openaccess": "1",
+        "openaccessFlag": true
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088638901"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088638901?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088638901&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088638901&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088638901",
+        "dc:identifier": "SCOPUS_ID:85088638901",
+        "eid": "2-s2.0-85088638901",
+        "dc:title": "Ergodicity and central limit theorem for random interval homeomorphisms",
+        "dc:creator": "Czudek K.",
+        "prism:publicationName": "Israel Journal of Mathematics",
+        "prism:issn": "00212172",
+        "prism:eIssn": "15658511",
+        "prism:volume": "239",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "75-98",
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "1 August 2020",
+        "prism:doi": "10.1007/s11856-020-2046-4",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23270",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

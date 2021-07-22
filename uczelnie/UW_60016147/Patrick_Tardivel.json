@@ -1,0 +1,83 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073430044"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073430044?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073430044&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073430044&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073430044",
+        "dc:identifier": "SCOPUS_ID:85073430044",
+        "eid": "2-s2.0-85073430044",
+        "dc:title": "ASICS: An R package for a whole analysis workflow of 1D <sup>1</sup>H NMR spectra",
+        "dc:creator": "Lefort G.",
+        "prism:publicationName": "Bioinformatics",
+        "prism:issn": "13674803",
+        "prism:eIssn": "14602059",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "21",
+        "prism:pageRange": "4356-4363",
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "1 November 2019",
+        "prism:doi": "10.1093/bioinformatics/btz248",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Fédérale Toulouse Midi-Pyrénées",
+                "affiliation-city": "Toulouse",
+                "affiliation-country": "France"
+            }
+        ],
+        "pubmed-id": "30977816",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17945",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

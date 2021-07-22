@@ -1,0 +1,136 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097672683"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097672683?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097672683&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097672683&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097672683",
+        "dc:identifier": "SCOPUS_ID:85097672683",
+        "eid": "2-s2.0-85097672683",
+        "dc:title": "Open Problems in Wavelet Theory",
+        "dc:creator": "Bownik M.",
+        "prism:publicationName": "Operator Theory: Advances and Applications",
+        "prism:issn": "02550156",
+        "prism:eIssn": "22964878",
+        "prism:volume": "278",
+        "prism:pageRange": "77-100",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-3-030-43380-2_4",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Oregon",
+                "affiliation-city": "Eugene",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100447809",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042729668"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042729668?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042729668&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042729668&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0024379518300843"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042729668",
+        "dc:identifier": "SCOPUS_ID:85042729668",
+        "eid": "2-s2.0-85042729668",
+        "dc:title": "A note on factoring unitary matrices",
+        "dc:creator": "Führ H.",
+        "prism:publicationName": "Linear Algebra and Its Applications",
+        "prism:issn": "00243795",
+        "prism:volume": "547",
+        "prism:pageRange": "32-44",
+        "prism:coverDate": "2018-06-15",
+        "prism:coverDisplayDate": "15 June 2018",
+        "prism:doi": "10.1016/j.laa.2018.02.017",
+        "pii": "S0024379518300843",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Rheinisch-Westfälische Technische Hochschule Aachen",
+                "affiliation-city": "Aachen",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24475",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

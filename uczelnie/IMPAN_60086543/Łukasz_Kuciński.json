@@ -1,0 +1,66 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008413106"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008413106?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85008413106&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85008413106&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167668715303279"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85008413106",
+        "dc:identifier": "SCOPUS_ID:85008413106",
+        "eid": "2-s2.0-85008413106",
+        "dc:title": "Complete discounted cash flow valuation",
+        "dc:creator": "Gajek L.",
+        "prism:publicationName": "Insurance: Mathematics and Economics",
+        "prism:issn": "01676687",
+        "prism:volume": "73",
+        "prism:pageRange": "1-19",
+        "prism:coverDate": "2017-03-01",
+        "prism:coverDisplayDate": "1 March 2017",
+        "prism:doi": "10.1016/j.insmatheco.2016.12.004",
+        "pii": "S0167668715303279",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Polish Financial Supervision Authority",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18111",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

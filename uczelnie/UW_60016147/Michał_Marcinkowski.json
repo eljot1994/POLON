@@ -1,0 +1,79 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054097069"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054097069?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054097069&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054097069&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054097069",
+        "dc:identifier": "SCOPUS_ID:85054097069",
+        "eid": "2-s2.0-85054097069",
+        "dc:title": "Burghelea conjecture and asymptotic dimension of groups",
+        "dc:creator": "Engel A.",
+        "prism:publicationName": "Journal of Topology and Analysis",
+        "prism:issn": "17935253",
+        "prism:eIssn": "17937167",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "321-356",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "1 June 2020",
+        "prism:doi": "10.1142/S1793525319500559",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universität Regensburg",
+                "affiliation-city": "Regensburg",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100198447",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]
