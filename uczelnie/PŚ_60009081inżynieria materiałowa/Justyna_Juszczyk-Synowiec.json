@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85012245198"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85012245198?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85012245198&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85012245198&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S030439911730044X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85012245198",
+        "dc:identifier": "SCOPUS_ID:85012245198",
+        "eid": "2-s2.0-85012245198",
+        "dc:title": "Measuring thermal conductivity of thin films by Scanning Thermal Microscopy combined with thermal spreading resistance analysis",
+        "dc:creator": "Juszczyk J.",
+        "prism:publicationName": "Ultramicroscopy",
+        "prism:issn": "03043991",
+        "prism:eIssn": "18792723",
+        "prism:volume": "175",
+        "prism:pageRange": "81-86",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1016/j.ultramic.2017.01.012",
+        "pii": "S030439911730044X",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "28157667",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20941",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

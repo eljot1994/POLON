@@ -1,0 +1,144 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089024053"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089024053?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089024053&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089024053&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089024053",
+        "dc:identifier": "SCOPUS_ID:85089024053",
+        "eid": "2-s2.0-85089024053",
+        "dc:title": "Influence of Jet Position on Local Heat Transfer Distribution under an Array of Impinging Nozzles with Non-Planar Contour of the Cooled Surface",
+        "dc:creator": "Marzec K.",
+        "prism:publicationName": "Heat Transfer Engineering",
+        "prism:issn": "01457632",
+        "prism:eIssn": "15210537",
+        "prism:volume": "42",
+        "prism:issueIdentifier": "17",
+        "prism:pageRange": "1506-1521",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1080/01457632.2020.1800280",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13002",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032200353"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032200353?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032200353&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032200353&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032200353",
+        "dc:identifier": "SCOPUS_ID:85032200353",
+        "eid": "2-s2.0-85032200353",
+        "dc:title": "Numerical investigation of local heat transfer distribution on surfaces with a non-uniform temperature under an array of impinging jets with various nozzle shapes",
+        "dc:creator": "Marzec K.",
+        "prism:publicationName": "Journal of Theoretical and Applied Mechanics (Poland)",
+        "prism:issn": "14292955",
+        "prism:volume": "55",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1313-1324",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.15632/jtam-pl.55.4.1313",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "MTU Aero Engines Polska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700176043",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

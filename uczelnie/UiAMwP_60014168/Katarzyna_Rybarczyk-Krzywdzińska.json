@@ -1,0 +1,469 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084384691"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084384691?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084384691&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084384691&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0304397520302231"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084384691",
+        "dc:identifier": "SCOPUS_ID:85084384691",
+        "eid": "2-s2.0-85084384691",
+        "dc:title": "GHS algorithm on a graph with random weights",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Theoretical Computer Science",
+        "prism:issn": "03043975",
+        "prism:volume": "828-829",
+        "prism:pageRange": "19-31",
+        "prism:coverDate": "2020-08-06",
+        "prism:coverDisplayDate": "6 August 2020",
+        "prism:doi": "10.1016/j.tcs.2020.04.013",
+        "pii": "S0304397520302231",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20571",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086237419"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086237419?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086237419&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086237419&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086237419",
+        "dc:identifier": "SCOPUS_ID:85086237419",
+        "eid": "2-s2.0-85086237419",
+        "dc:title": "A note on the conductance of the binomial random intersection graph",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030484774"
+            }
+        ],
+        "prism:volume": "12091 LNCS",
+        "prism:pageRange": "124-134",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-3-030-48478-1_9",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044426545"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044426545?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044426545&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044426545&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044426545",
+        "dc:identifier": "SCOPUS_ID:85044426545",
+        "eid": "2-s2.0-85044426545",
+        "dc:title": "Finding Hamilton cycles in random intersection graphs",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Discrete Mathematics and Theoretical Computer Science",
+        "prism:issn": "14627264",
+        "prism:eIssn": "13658050",
+        "prism:volume": "20",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8050",
+        "source-id": "78470",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019478653"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019478653?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85019478653&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85019478653&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0012365X17301279"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85019478653",
+        "dc:identifier": "SCOPUS_ID:85019478653",
+        "eid": "2-s2.0-85019478653",
+        "dc:title": "Poisson approximation of counts of induced subgraphs in random intersection graphs",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Discrete Mathematics",
+        "prism:issn": "0012365X",
+        "prism:volume": "340",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "2183-2193",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "1 September 2017",
+        "prism:doi": "10.1016/j.disc.2017.04.013",
+        "pii": "S0012365X17301279",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25892",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026728901"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026728901?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026728901&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026728901&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1571065317302330"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026728901",
+        "dc:identifier": "SCOPUS_ID:85026728901",
+        "eid": "2-s2.0-85026728901",
+        "dc:title": "Hamilton cycles in the line graph of a random graph",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Electronic Notes in Discrete Mathematics",
+        "prism:eIssn": "15710653",
+        "prism:volume": "61",
+        "prism:pageRange": "1027-1031",
+        "prism:coverDate": "2017-08-01",
+        "prism:coverDisplayDate": "August 2017",
+        "prism:doi": "10.1016/j.endm.2017.07.068",
+        "pii": "S1571065317302330",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "4700152427",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018502049"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018502049?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018502049&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018502049&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018502049",
+        "dc:identifier": "SCOPUS_ID:85018502049",
+        "eid": "2-s2.0-85018502049",
+        "dc:title": "The coupling method for inhomogeneous random intersection graphs",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Electronic Journal of Combinatorics",
+        "prism:eIssn": "10778926",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-04-13",
+        "prism:coverDisplayDate": "13 April 2017",
+        "prism:doi": "10.37236/5186",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26389",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016624967"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016624967?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85016624967&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85016624967&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85016624967",
+        "dc:identifier": "SCOPUS_ID:85016624967",
+        "eid": "2-s2.0-85016624967",
+        "dc:title": "The chromatic number of random intersection graphs",
+        "dc:creator": "Rybarczyk K.",
+        "prism:publicationName": "Discussiones Mathematicae - Graph Theory",
+        "prism:issn": "12343099",
+        "prism:eIssn": "20835892",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "465-476",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.7151/dmgt.1955",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700180503",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

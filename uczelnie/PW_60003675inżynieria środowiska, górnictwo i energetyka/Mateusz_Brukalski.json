@@ -1,0 +1,59 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099206858"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099206858?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099206858&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099206858&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099206858",
+        "dc:identifier": "SCOPUS_ID:85099206858",
+        "eid": "2-s2.0-85099206858",
+        "dc:title": "Application of CAN bus data in road tests of automobiles",
+        "dc:creator": "Rokicki K.",
+        "prism:publicationName": "2020 12th International Science-Technical Conference AUTOMOTIVE SAFETY, AUTOMOTIVE SAFETY 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728158129"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-21",
+        "prism:coverDisplayDate": "21 October 2020",
+        "prism:doi": "10.1109/AUTOMOTIVESAFETY47494.2020.9293495",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9293495",
+        "source-id": "21101033814",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

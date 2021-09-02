@@ -1,0 +1,168 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092341784"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092341784?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092341784&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092341784&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092341784",
+        "dc:identifier": "SCOPUS_ID:85092341784",
+        "eid": "2-s2.0-85092341784",
+        "dc:title": "Large cardinals and continuity of coordinate functionals of filter bases in Banach spaces",
+        "dc:creator": "Kania T.",
+        "prism:publicationName": "Bulletin of the London Mathematical Society",
+        "prism:issn": "00246093",
+        "prism:eIssn": "14692120",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "231-239",
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.1112/blms.12415",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Academy of Sciences of the Czech Republic",
+                "affiliation-city": "Prague",
+                "affiliation-country": "Czech Republic"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24481",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080976068"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080976068?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85080976068&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85080976068&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85080976068",
+        "dc:identifier": "SCOPUS_ID:85080976068",
+        "eid": "2-s2.0-85080976068",
+        "dc:title": "Serine biosynthesis pathway supports MYC–miR-494–EZH2 feed-forward circuit necessary to maintain metabolic and epigenetic reprogramming of burkitt lymphoma cells",
+        "dc:creator": "Białopiotrowicz E.",
+        "prism:publicationName": "Cancers",
+        "prism:eIssn": "20726694",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-03-01",
+        "prism:coverDisplayDate": "March 2020",
+        "prism:doi": "10.3390/cancers12030580",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Haematology and Transfusion Medicine, Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "580",
+        "source-id": "19700188419",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

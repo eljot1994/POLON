@@ -1,0 +1,266 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100437432"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100437432?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100437432&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100437432&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838821002061"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100437432",
+        "dc:identifier": "SCOPUS_ID:85100437432",
+        "eid": "2-s2.0-85100437432",
+        "dc:title": "Prediction of phase, hardness and density of high entropy alloys based on their electronic structure and average radius",
+        "dc:creator": "Calvo-Dahlborg M.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "865",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-05",
+        "prism:coverDisplayDate": "5 June 2021",
+        "prism:doi": "10.1016/j.jallcom.2021.158799",
+        "pii": "S0925838821002061",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Rouen Normandie",
+                "affiliation-city": "Mont-Saint-Aignan",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Swansea University",
+                "affiliation-city": "Swansea",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "158799",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063193402"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063193402?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063193402&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063193402&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838819309752"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063193402",
+        "dc:identifier": "SCOPUS_ID:85063193402",
+        "eid": "2-s2.0-85063193402",
+        "dc:title": "The experimental and theoretical study on influence of Al and Cu contents on phase abundance changes in Al<inf>x</inf>Cu<inf>y</inf>FeCrNiCo HEA system",
+        "dc:creator": "Matusiak K.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "790",
+        "prism:pageRange": "837-846",
+        "prism:coverDate": "2019-06-25",
+        "prism:coverDisplayDate": "25 June 2019",
+        "prism:doi": "10.1016/j.jallcom.2019.03.162",
+        "pii": "S0925838819309752",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040055061"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040055061?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040055061&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040055061&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838817345371"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040055061",
+        "dc:identifier": "SCOPUS_ID:85040055061",
+        "eid": "2-s2.0-85040055061",
+        "dc:title": "Phase composition of Al<inf>x</inf>FeNiCrCo high entropy alloys prepared by sintering and arc-melting methods",
+        "dc:creator": "Cieslak J.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "740",
+        "prism:pageRange": "264-272",
+        "prism:coverDate": "2018-04-05",
+        "prism:coverDisplayDate": "5 April 2018",
+        "prism:doi": "10.1016/j.jallcom.2017.12.333",
+        "pii": "S0925838817345371",
+        "citedby-count": "25",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052182368"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052182368?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052182368&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052182368&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052182368",
+        "dc:identifier": "SCOPUS_ID:85052182368",
+        "eid": "2-s2.0-85052182368",
+        "dc:title": "Electronic and magnetic properties of highly disordered Fe-based Frank Kasper-phases in view of first principles calculation and experimental study",
+        "dc:creator": "Cieslak J.",
+        "prism:publicationName": "Alloys and Intermetallic Compounds: From Modeling to Engineering",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781498741446"
+            },
+            {
+                "@_fa": "true",
+                "$": "9781498741439"
+            }
+        ],
+        "prism:pageRange": "196-227",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1201/9781315151618",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100874440",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

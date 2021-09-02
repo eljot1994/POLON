@@ -1,0 +1,270 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100862857"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100862857?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100862857&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100862857&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100862857",
+        "dc:identifier": "SCOPUS_ID:85100862857",
+        "eid": "2-s2.0-85100862857",
+        "dc:title": "Experimental measurements in plane Couette-Poiseuille flow: Dynamics of the large- And small-scale flow",
+        "dc:creator": "Klotz L.",
+        "prism:publicationName": "Journal of Fluid Mechanics",
+        "prism:issn": "00221120",
+        "prism:eIssn": "14697645",
+        "prism:volume": "912",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1017/jfm.2020.1089",
+        "pii": "S0022112020010897",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université PSL",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Science and Technology Austria",
+                "affiliation-city": "Klosterneuburg",
+                "affiliation-country": "Austria"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "A24",
+        "source-id": "18537",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060780978"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060780978?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060780978&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060780978&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060780978",
+        "dc:identifier": "SCOPUS_ID:85060780978",
+        "eid": "2-s2.0-85060780978",
+        "dc:title": "Experiments on a jet in a crossflow in the low-velocity-ratio regime",
+        "dc:creator": "Klotz L.",
+        "prism:publicationName": "Journal of Fluid Mechanics",
+        "prism:issn": "00221120",
+        "prism:eIssn": "14697645",
+        "prism:volume": "863",
+        "prism:pageRange": "386-406",
+        "prism:coverDate": "2019-03-25",
+        "prism:coverDisplayDate": "25 March 2019",
+        "prism:doi": "10.1017/jfm.2018.974",
+        "pii": "S0022112018009746",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Science and Technology Austria",
+                "affiliation-city": "Klosterneuburg",
+                "affiliation-country": "Austria"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18537",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85031039999"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85031039999?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85031039999&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85031039999&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85031039999",
+        "dc:identifier": "SCOPUS_ID:85031039999",
+        "eid": "2-s2.0-85031039999",
+        "dc:title": "Couette-Poiseuille flow experiment with zero mean advection velocity: Subcritical transition to turbulence",
+        "dc:creator": "Klotz L.",
+        "prism:publicationName": "Physical Review Fluids",
+        "prism:eIssn": "2469990X",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "April 2017",
+        "prism:doi": "10.1103/PhysRevFluids.2.043904",
+        "citedby-count": "18",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Paris",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Sorbonne Universite",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "043904",
+        "source-id": "21100836848",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

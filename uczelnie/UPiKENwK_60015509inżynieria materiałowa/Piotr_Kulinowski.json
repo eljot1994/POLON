@@ -1,0 +1,227 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100460256"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100460256?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100460256&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100460256&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100460256",
+        "dc:identifier": "SCOPUS_ID:85100460256",
+        "eid": "2-s2.0-85100460256",
+        "dc:title": "Spatiotemporal analysis of hydration mechanism in sodium alginate matrix tablets",
+        "dc:creator": "Juszczyk E.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1-13",
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "1 February 2021",
+        "prism:doi": "10.3390/ma14030646",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Adamed Pharma S.A.",
+                "affiliation-city": "Czosnow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "646",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097863412"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097863412?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097863412&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097863412&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2214860420311337"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097863412",
+        "dc:identifier": "SCOPUS_ID:85097863412",
+        "eid": "2-s2.0-85097863412",
+        "dc:title": "Selective laser sintering (SLS) technique for pharmaceutical applications—Development of high dose controlled release printlets",
+        "dc:creator": "Kulinowski P.",
+        "prism:publicationName": "Additive Manufacturing",
+        "prism:eIssn": "22148604",
+        "prism:volume": "38",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.1016/j.addma.2020.101761",
+        "pii": "S2214860420311337",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej",
+                "affiliation-city": "Kraków",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "101761",
+        "source-id": "21100349533",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076894817"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076894817?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076894817&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85076894817&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85076894817",
+        "dc:identifier": "SCOPUS_ID:85076894817",
+        "eid": "2-s2.0-85076894817",
+        "dc:title": "An inhalable theranostic system for local tuberculosis treatment containing an isoniazid loaded metal organic framework fe-mil-101-NH2—from raw MOF to drug delivery system",
+        "dc:creator": "Wyszogrodzka-Gaweł G.",
+        "prism:publicationName": "Pharmaceutics",
+        "prism:eIssn": "19994923",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "December 2019",
+        "prism:doi": "10.3390/pharmaceutics11120687",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Jagiellonian University Medical College",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "687",
+        "source-id": "19700188360",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

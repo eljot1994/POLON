@@ -1,0 +1,187 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064765475"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064765475?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064765475&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064765475&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064765475",
+        "dc:identifier": "SCOPUS_ID:85064765475",
+        "eid": "2-s2.0-85064765475",
+        "dc:title": "Comparison of Dissimilar Aluminum Alloys Joined by Friction Stir Welding with Conventional and Bobbin Tools",
+        "dc:creator": "Goetze P.",
+        "prism:publicationName": "Minerals, Metals and Materials Series",
+        "prism:issn": "23671181",
+        "prism:eIssn": "23671696",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030057510"
+            }
+        ],
+        "prism:pageRange": "3-12",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-030-05752-7_1",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Miami University",
+                "affiliation-city": "Oxford",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100852711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046636770"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046636770?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046636770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85046636770&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85046636770",
+        "dc:identifier": "SCOPUS_ID:85046636770",
+        "eid": "2-s2.0-85046636770",
+        "dc:title": "Numerically based phase transformation maps for dissimilar aluminum alloys joined by friction stir-welding",
+        "dc:creator": "Hamilton C.",
+        "prism:publicationName": "Metals",
+        "prism:eIssn": "20754701",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-05-01",
+        "prism:coverDisplayDate": "May 2018",
+        "prism:doi": "10.3390/met8050324",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Miami University",
+                "affiliation-city": "Oxford",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "324",
+        "source-id": "21100399731",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042314680"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042314680?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042314680&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042314680&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042314680",
+        "dc:identifier": "SCOPUS_ID:85042314680",
+        "eid": "2-s2.0-85042314680",
+        "dc:title": "A Numerical Simulation for Dissimilar Aluminum Alloys Joined by Friction Stir Welding",
+        "dc:creator": "Hamilton C.",
+        "prism:publicationName": "Minerals, Metals and Materials Series",
+        "prism:issn": "23671181",
+        "prism:eIssn": "23671696",
+        "prism:issueIdentifier": "9783319523828",
+        "prism:pageRange": "167-177",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1007/978-3-319-52383-5_18",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Miami University",
+                "affiliation-city": "Oxford",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100852711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

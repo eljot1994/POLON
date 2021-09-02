@@ -1,0 +1,152 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056568861"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056568861?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056568861&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056568861&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056568861",
+        "dc:identifier": "SCOPUS_ID:85056568861",
+        "eid": "2-s2.0-85056568861",
+        "dc:title": "Influence of measurement conditions on results of a wheel geometry check",
+        "dc:creator": "Wach K.",
+        "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+        "prism:issn": "17578981",
+        "prism:eIssn": "1757899X",
+        "prism:volume": "421",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-10-17",
+        "prism:coverDisplayDate": "17 October 2018",
+        "prism:doi": "10.1088/1757-899X/421/3/032028",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Krakowska",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "032028",
+        "source-id": "19700200831",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056323108"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056323108?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056323108&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056323108&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056323108",
+        "dc:identifier": "SCOPUS_ID:85056323108",
+        "eid": "2-s2.0-85056323108",
+        "dc:title": "Determination of linear and angular displacements of steered wheel of a car",
+        "dc:creator": "Wach K.",
+        "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+        "prism:issn": "17578981",
+        "prism:eIssn": "1757899X",
+        "prism:volume": "421",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-10-17",
+        "prism:coverDisplayDate": "17 October 2018",
+        "prism:doi": "10.1088/1757-899X/421/2/022037",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Krakowska",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "022037",
+        "source-id": "19700200831",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

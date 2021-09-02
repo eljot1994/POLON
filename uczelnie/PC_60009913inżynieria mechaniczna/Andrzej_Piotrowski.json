@@ -1,0 +1,154 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086239946"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086239946?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086239946&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086239946&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086239946",
+        "dc:identifier": "SCOPUS_ID:85086239946",
+        "eid": "2-s2.0-85086239946",
+        "dc:title": "Geometric analysis of composite hobs",
+        "dc:creator": "Piotrowski A.",
+        "prism:publicationName": "Transactions of Famena",
+        "prism:issn": "13331124",
+        "prism:eIssn": "18491391",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "43-54",
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "May 2020",
+        "prism:doi": "10.21278/TOF.44104",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20325",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017429581"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85017429581?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85017429581&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85017429581&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1877705817307142"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85017429581",
+        "dc:identifier": "SCOPUS_ID:85017429581",
+        "eid": "2-s2.0-85017429581",
+        "dc:title": "Enhancing the Accuracy of Composite Hobs",
+        "dc:creator": "Nieszporek T.",
+        "prism:publicationName": "Procedia Engineering",
+        "prism:eIssn": "18777058",
+        "prism:volume": "177",
+        "prism:pageRange": "155-161",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1016/j.proeng.2017.02.208",
+        "pii": "S1877705817307142",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "18700156717",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

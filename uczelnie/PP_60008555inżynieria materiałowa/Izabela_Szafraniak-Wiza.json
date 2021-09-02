@@ -1,0 +1,461 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105679973"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105679973?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105679973&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105679973&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105679973",
+        "dc:identifier": "SCOPUS_ID:85105679973",
+        "eid": "2-s2.0-85105679973",
+        "dc:title": "Mechanochemical activation and spark plasma sintering of the lead-free ba(Fe<inf>1/2</inf>nb<inf>1/2</inf>)o<inf>3</inf> ceramics",
+        "dc:creator": "Bochenek D.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.3390/ma14092254",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Silesia in Katowice",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2254",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079766201"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079766201?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079766201&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079766201&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079766201",
+        "dc:identifier": "SCOPUS_ID:85079766201",
+        "eid": "2-s2.0-85079766201",
+        "dc:title": "Preparation and dielectric properties of K<inf>1/2</inf>Na<inf>1/2</inf>NbO<inf>3</inf> ceramics obtained from mechanically activated powders",
+        "dc:creator": "Szafraniak-Wiza I.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "1 January 2020",
+        "prism:doi": "10.3390/ma13020401",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "401",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079526010"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079526010?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079526010&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079526010&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079526010",
+        "dc:identifier": "SCOPUS_ID:85079526010",
+        "eid": "2-s2.0-85079526010",
+        "dc:title": "Dielectric and impedance studies of (Ba,Ca)TiO<inf>3</inf> ceramics obtained from mechanically synthesized powders",
+        "dc:creator": "Feliksik K.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "1 December 2019",
+        "prism:doi": "10.3390/MA12244036",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Silesia in Katowice",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "4036",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074227082"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074227082?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074227082&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074227082&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074227082",
+        "dc:identifier": "SCOPUS_ID:85074227082",
+        "eid": "2-s2.0-85074227082",
+        "dc:title": "Comparison of electrophysical properties of PZT-type ceramics obtained by conventional and mechanochemical methods",
+        "dc:creator": "Bochenek D.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "20",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-10-01",
+        "prism:coverDisplayDate": "1 October 2019",
+        "prism:doi": "10.3390/ma12203301",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Silesia in Katowice",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "3301",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044475734"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044475734?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044475734&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044475734&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044475734",
+        "dc:identifier": "SCOPUS_ID:85044475734",
+        "eid": "2-s2.0-85044475734",
+        "dc:title": "Physical properties of lead-free BaFe<inf>1/2</inf>Nb<inf>1/2</inf>O<inf>3</inf> ceramics obtained from mechanochemically synthesized powders",
+        "dc:creator": "Bochenek D.",
+        "prism:publicationName": "Journal of Materials Science",
+        "prism:issn": "00222461",
+        "prism:eIssn": "15734803",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "19",
+        "prism:pageRange": "13501-13512",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "1 October 2018",
+        "prism:doi": "10.1007/s10853-018-2254-z",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Silesia in Katowice",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21162",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032702647"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032702647?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032702647&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032702647&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032702647",
+        "dc:identifier": "SCOPUS_ID:85032702647",
+        "eid": "2-s2.0-85032702647",
+        "dc:title": "Influence of preparation conditions on final dielectric properties of pure and Ca-Doped BaTiO<inf>3</inf> Ceramics",
+        "dc:creator": "Szafraniak-Wiza I.",
+        "prism:publicationName": "Lecture Notes in Mechanical Engineering",
+        "prism:issn": "21954356",
+        "prism:eIssn": "21954364",
+        "prism:issueIdentifier": "201519",
+        "prism:pageRange": "941-950",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-68619-6_91",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100431311",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

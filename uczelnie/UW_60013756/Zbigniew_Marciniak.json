@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041487944"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041487944?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041487944&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041487944&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969718302523"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041487944",
+        "dc:identifier": "SCOPUS_ID:85041487944",
+        "eid": "2-s2.0-85041487944",
+        "dc:title": "Using moss and lichens in biomonitoring of heavy-metal contamination of forest areas in southern and north-eastern Poland",
+        "dc:creator": "Kłos A.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "627",
+        "prism:pageRange": "438-449",
+        "prism:coverDate": "2018-06-15",
+        "prism:coverDisplayDate": "15 June 2018",
+        "prism:doi": "10.1016/j.scitotenv.2018.01.211",
+        "pii": "S0048969718302523",
+        "citedby-count": "34",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Opolski",
+                "affiliation-city": "Opole",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "29426166",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,89 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057049675"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057049675?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057049675&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057049675&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057049675",
+        "dc:identifier": "SCOPUS_ID:85057049675",
+        "eid": "2-s2.0-85057049675",
+        "dc:title": "Multifunctional phytocompounds in cotoneaster fruits: Phytochemical profiling, cellular safety, anti-inflammatory and antioxidant effects in chemical and human plasma models in vitro",
+        "dc:creator": "Kicel A.",
+        "prism:publicationName": "Oxidative Medicine and Cellular Longevity",
+        "prism:issn": "19420900",
+        "prism:eIssn": "19420994",
+        "prism:volume": "2018",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1155/2018/3482521",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Medical University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30510617",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "3482521",
+        "source-id": "19700175026",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

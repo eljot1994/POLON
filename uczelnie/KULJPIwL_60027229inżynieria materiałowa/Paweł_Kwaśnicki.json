@@ -1,0 +1,151 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085857383"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085857383?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085857383&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085857383&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085857383",
+        "dc:identifier": "SCOPUS_ID:85085857383",
+        "eid": "2-s2.0-85085857383",
+        "dc:title": "Magnetron sputtered electron blocking layer as an efficient method to improve dye-sensitized solar cell performance",
+        "dc:creator": "Augustowski D.",
+        "prism:publicationName": "Energies",
+        "prism:eIssn": "19961073",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "1 June 2020",
+        "prism:doi": "10.3390/en13112690",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Research and Development Centre for Photovoltaics",
+                "affiliation-city": null,
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2690",
+        "source-id": "62932",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065240137"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065240137?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065240137&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065240137&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1230340218301495"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065240137",
+        "dc:identifier": "SCOPUS_ID:85065240137",
+        "eid": "2-s2.0-85065240137",
+        "dc:title": "Characterization techniques of sandwich-type TiO<inf>2</inf>/QD composites for low-cost quantum dots' solar cell",
+        "dc:creator": "Kwaśnicki P.",
+        "prism:publicationName": "Opto-electronics Review",
+        "prism:issn": "12303402",
+        "prism:eIssn": "18963757",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "105-112",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.1016/j.opelre.2019.03.001",
+        "pii": "S1230340218301495",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "51150",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

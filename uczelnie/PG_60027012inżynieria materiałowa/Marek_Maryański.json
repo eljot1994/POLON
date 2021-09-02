@@ -1,0 +1,67 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103696408"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103696408?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103696408&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85103696408&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1350448721000834"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85103696408",
+        "dc:identifier": "SCOPUS_ID:85103696408",
+        "eid": "2-s2.0-85103696408",
+        "dc:title": "Performance of a new commercial high-definition 3D patient specific quality assurance system for CyberKnife robotic radiotherapy and radiosurgery",
+        "dc:creator": "Al Kafi M.A.",
+        "prism:publicationName": "Radiation Measurements",
+        "prism:issn": "13504487",
+        "prism:volume": "143",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "April 2021",
+        "prism:doi": "10.1016/j.radmeas.2021.106568",
+        "pii": "S1350448721000834",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Sains Malaysia, Health Campus",
+                "affiliation-city": "Kubang Kerian",
+                "affiliation-country": "Malaysia"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "King Faisal Specialist Hospital and Research Centre",
+                "affiliation-city": "Riyadh",
+                "affiliation-country": "Saudi Arabia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "106568",
+        "source-id": "29512",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

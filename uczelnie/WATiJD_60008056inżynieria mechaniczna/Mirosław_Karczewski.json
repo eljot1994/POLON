@@ -1,0 +1,82 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066102393"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066102393?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85066102393&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85066102393&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85066102393",
+        "dc:identifier": "SCOPUS_ID:85066102393",
+        "eid": "2-s2.0-85066102393",
+        "dc:title": "Influence of 3D scanner parameters on accuracy evaluation of vehicle element deformation",
+        "dc:creator": "Karczewski M.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735418066"
+            }
+        ],
+        "prism:volume": "2078",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-03-04",
+        "prism:coverDisplayDate": "4 March 2019",
+        "prism:doi": "10.1063/1.5092015",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "020012",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071435899"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071435899?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071435899&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071435899&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071435899",
+        "dc:identifier": "SCOPUS_ID:85071435899",
+        "eid": "2-s2.0-85071435899",
+        "dc:title": "Electrochemical corrosion of magnesium alloy AZ31 in NaCl solutions after rolling",
+        "dc:creator": "Przondziono J.",
+        "prism:publicationName": "Advances in Intelligent Systems and Computing",
+        "prism:issn": "21945357",
+        "prism:eIssn": "21945365",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030154714"
+            }
+        ],
+        "prism:volume": "925",
+        "prism:pageRange": "278-292",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-030-15472-1_30",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "5100152904",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

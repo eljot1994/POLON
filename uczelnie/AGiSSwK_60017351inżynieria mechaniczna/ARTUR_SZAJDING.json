@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989852797"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989852797?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84989852797&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84989852797&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0017931016314090"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84989852797",
+        "dc:identifier": "SCOPUS_ID:84989852797",
+        "eid": "2-s2.0-84989852797",
+        "dc:title": "Solution strategy for the inverse determination of the specially varying heat transfer coefficient",
+        "dc:creator": "Hadała B.",
+        "prism:publicationName": "International Journal of Heat and Mass Transfer",
+        "prism:issn": "00179310",
+        "prism:volume": "104",
+        "prism:pageRange": "993-1007",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1016/j.ijheatmasstransfer.2016.08.093",
+        "pii": "S0017931016314090",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20448",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

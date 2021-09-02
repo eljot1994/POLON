@@ -1,0 +1,162 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061376523"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061376523?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061376523&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061376523&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061376523",
+        "dc:identifier": "SCOPUS_ID:85061376523",
+        "eid": "2-s2.0-85061376523",
+        "dc:title": "Buckling and ultimate loads of TWCFS open-section members under eccentric compression",
+        "dc:creator": "Borkowski Ł.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735417885"
+            }
+        ],
+        "prism:volume": "2060",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-02-04",
+        "prism:coverDisplayDate": "4 February 2019",
+        "prism:doi": "10.1063/1.5086133",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "020002",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041061501"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041061501?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041061501&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041061501&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041061501",
+        "dc:identifier": "SCOPUS_ID:85041061501",
+        "eid": "2-s2.0-85041061501",
+        "dc:title": "Behaviour of thin-walled cold-formed steel members in eccentric compression",
+        "dc:creator": "Ungureanu V.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735416147"
+            }
+        ],
+        "prism:volume": "1922",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-05",
+        "prism:coverDisplayDate": "5 January 2018",
+        "prism:doi": "10.1063/1.5019077",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitatea Politehnica Timisoara",
+                "affiliation-city": "Timisoara",
+                "affiliation-country": "Romania"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "080006",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,167 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074450026"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074450026?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074450026&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074450026&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074450026",
+        "dc:identifier": "SCOPUS_ID:85074450026",
+        "eid": "2-s2.0-85074450026",
+        "dc:title": "Internal Structure Research of 3D Printed Cellular Structures by Laser-ultrasonic Structuroscopy",
+        "dc:creator": "Kravcov A.N.",
+        "prism:publicationName": "ICMT 2019 - 7th International Conference on Military Technologies, Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728145938"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.1109/MILTECHS.2019.8870047",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Czech Technical University in Prague",
+                "affiliation-city": "Prague",
+                "affiliation-country": "Czech Republic"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8870047",
+        "source-id": "21100934635",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085931131"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085931131?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085931131&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085931131&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085931131",
+        "dc:identifier": "SCOPUS_ID:85085931131",
+        "eid": "2-s2.0-85085931131",
+        "dc:title": "Preliminary study for implementing head trauma risk assessment into ballistic helmets test procedures",
+        "dc:creator": "Król M.",
+        "prism:publicationName": "Proceedings - 31st International Symposium on Ballistics, BALLISTICS 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781605956107"
+            }
+        ],
+        "prism:volume": "2",
+        "prism:pageRange": "2463-2470",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Military Institute of Armament Technology",
+                "affiliation-city": "Zielonka",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100992283",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093919176"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093919176?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85093919176&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85093919176&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85093919176",
+        "dc:identifier": "SCOPUS_ID:85093919176",
+        "eid": "2-s2.0-85093919176",
+        "dc:title": "Experimental study on ballistic resistance test of AA2519/AA1050/Ti6Al4V laminate according to STANAG 4569 level 2",
+        "dc:creator": "Wachowski M.",
+        "prism:publicationName": "Challenges to National Defence in Contemporary Geopolitical Situation",
+        "prism:eIssn": "25388959",
+        "prism:volume": "2018",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "15-24",
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "April 2018",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21101049060",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068048405"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068048405?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068048405&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068048405&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1290072918305921"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068048405",
+        "dc:identifier": "SCOPUS_ID:85068048405",
+        "eid": "2-s2.0-85068048405",
+        "dc:title": "Analysis of the heat transfer for processes of the cylinder heating in the heat-treating furnace on the basis of solving the inverse problem",
+        "dc:creator": "Joachimiak M.",
+        "prism:publicationName": "International Journal of Thermal Sciences",
+        "prism:issn": "12900729",
+        "prism:volume": "145",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "November 2019",
+        "prism:doi": "10.1016/j.ijthermalsci.2019.105985",
+        "pii": "S1290072918305921",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "105985",
+        "source-id": "13761",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

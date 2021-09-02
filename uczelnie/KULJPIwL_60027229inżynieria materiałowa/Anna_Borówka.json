@@ -1,0 +1,121 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105693718"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105693718?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105693718&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105693718&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022459621002280"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105693718",
+        "dc:identifier": "SCOPUS_ID:85105693718",
+        "eid": "2-s2.0-85105693718",
+        "dc:title": "Effects of temperature on the structure of mesoporous silica materials templated with cationic surfactants in a nonhydrothermal short-term synthesis route",
+        "dc:creator": "Borówka A.",
+        "prism:publicationName": "Journal of Solid State Chemistry",
+        "prism:issn": "00224596",
+        "prism:eIssn": "1095726X",
+        "prism:volume": "299",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-07-01",
+        "prism:coverDisplayDate": "July 2021",
+        "prism:doi": "10.1016/j.jssc.2021.122183",
+        "pii": "S0022459621002280",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "122183",
+        "source-id": "26972",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057855421"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057855421?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057855421&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057855421&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0272884218332681"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057855421",
+        "dc:identifier": "SCOPUS_ID:85057855421",
+        "eid": "2-s2.0-85057855421",
+        "dc:title": "Effects of twin methyl groups insertion on the structure of templated mesoporous silica materials",
+        "dc:creator": "Borówka A.",
+        "prism:publicationName": "Ceramics International",
+        "prism:issn": "02728842",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "4631-4636",
+        "prism:coverDate": "2019-03-01",
+        "prism:coverDisplayDate": "March 2019",
+        "prism:doi": "10.1016/j.ceramint.2018.11.152",
+        "pii": "S0272884218332681",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21522",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,135 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109701114"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109701114?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85109701114&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85109701114&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85109701114",
+        "dc:identifier": "SCOPUS_ID:85109701114",
+        "eid": "2-s2.0-85109701114",
+        "dc:title": "First principle study of structural and electronic properties of CBe<inf>2</inf> compound",
+        "dc:creator": "Gruszka K.",
+        "prism:publicationName": "Acta Physica Polonica A",
+        "prism:issn": "05874246",
+        "prism:eIssn": "1898794X",
+        "prism:volume": "139",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "617-620",
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "May 2021",
+        "prism:doi": "10.12693/APhysPolA.139.617",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26936",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088922370"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088922370?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088922370&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088922370&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433220321346"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088922370",
+        "dc:identifier": "SCOPUS_ID:85088922370",
+        "eid": "2-s2.0-85088922370",
+        "dc:title": "First-principles study of a substitutionally doped phosphorene as anode material for Na-ion batteries",
+        "dc:creator": "Durajski A.P.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "532",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-12-01",
+        "prism:coverDisplayDate": "1 December 2020",
+        "prism:doi": "10.1016/j.apsusc.2020.147377",
+        "pii": "S0169433220321346",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "147377",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

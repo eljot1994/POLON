@@ -1,0 +1,130 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101610575"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101610575?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101610575&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101610575&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101610575",
+        "dc:identifier": "SCOPUS_ID:85101610575",
+        "eid": "2-s2.0-85101610575",
+        "dc:title": "Computations of the least number of periodic points of smooth boundary-preserving self-maps of simply-connected manifolds",
+        "dc:creator": "Graff G.",
+        "prism:publicationName": "Topological Methods in Nonlinear Analysis",
+        "prism:issn": "12303429",
+        "prism:volume": "56",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "589-606",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.12775/TMNA.2020.035",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700177501",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062643188"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062643188?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062643188&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062643188&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062643188",
+        "dc:identifier": "SCOPUS_ID:85062643188",
+        "eid": "2-s2.0-85062643188",
+        "dc:title": "Periodic expansion in determining minimal sets of Lefschetz periods for Morse–Smale diffeomorphisms",
+        "dc:creator": "Graff G.",
+        "prism:publicationName": "Journal of Fixed Point Theory and Applications",
+        "prism:issn": "16617738",
+        "prism:eIssn": "16617746",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "1 June 2019",
+        "prism:doi": "10.1007/s11784-019-0680-4",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "47",
+        "source-id": "5700165174",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

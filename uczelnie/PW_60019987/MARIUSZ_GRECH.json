@@ -1,0 +1,80 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088017224"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088017224?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088017224&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088017224&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166218X20302134"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088017224",
+        "dc:identifier": "SCOPUS_ID:85088017224",
+        "eid": "2-s2.0-85088017224",
+        "dc:title": "Synchronizing sequences for road colored digraphs",
+        "dc:creator": "Grech M.",
+        "prism:publicationName": "Discrete Applied Mathematics",
+        "prism:issn": "0166218X",
+        "prism:volume": "285",
+        "prism:pageRange": "128-140",
+        "prism:coverDate": "2020-10-15",
+        "prism:coverDisplayDate": "15 October 2020",
+        "prism:doi": "10.1016/j.dam.2020.04.029",
+        "pii": "S0166218X20302134",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25890",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,424 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099238196"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099238196?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099238196&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099238196&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099238196",
+        "dc:identifier": "SCOPUS_ID:85099238196",
+        "eid": "2-s2.0-85099238196",
+        "dc:title": "Trends in performance limits of the hot infrared photodetectors",
+        "dc:creator": "Rogalski A.",
+        "prism:publicationName": "Applied Sciences (Switzerland)",
+        "prism:eIssn": "20763417",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1-28",
+        "prism:coverDate": "2021-01-02",
+        "prism:coverDisplayDate": "2 January 2021",
+        "prism:doi": "10.3390/app11020501",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "501",
+        "source-id": "21100829268",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097522178"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097522178?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097522178&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097522178&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097522178",
+        "dc:identifier": "SCOPUS_ID:85097522178",
+        "eid": "2-s2.0-85097522178",
+        "dc:title": "Inassb-based infrared photodetectors: Thirty years later on",
+        "dc:creator": "Rogalski A.",
+        "prism:publicationName": "Sensors (Switzerland)",
+        "prism:issn": "14248220",
+        "prism:volume": "20",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "1-74",
+        "prism:coverDate": "2020-12-02",
+        "prism:coverDisplayDate": "2 December 2020",
+        "prism:doi": "10.3390/s20247047",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33317004",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "7047",
+        "source-id": "130124",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067309217"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067309217?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067309217&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067309217&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067309217",
+        "dc:identifier": "SCOPUS_ID:85067309217",
+        "eid": "2-s2.0-85067309217",
+        "dc:title": "Two-dimensional infrared and terahertz detectors: Outlook and status",
+        "dc:creator": "Rogalski A.",
+        "prism:publicationName": "Applied Physics Reviews",
+        "prism:eIssn": "19319401",
+        "prism:volume": "6",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "1 June 2019",
+        "prism:doi": "10.1063/1.5088578",
+        "citedby-count": "31",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "021316",
+        "source-id": "21100327726",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071189612"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071189612?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071189612&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071189612&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071189612",
+        "dc:identifier": "SCOPUS_ID:85071189612",
+        "eid": "2-s2.0-85071189612",
+        "dc:title": "Graphene-based materials in the infrared and terahertz detector families: A tutorial",
+        "dc:creator": "Rogalski A.",
+        "prism:publicationName": "Advances in Optics and Photonics",
+        "prism:eIssn": "19438206",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "314-379",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1364/AOP.11.000314",
+        "citedby-count": "20",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100228100",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049569598"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049569598?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049569598&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049569598&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049569598",
+        "dc:identifier": "SCOPUS_ID:85049569598",
+        "eid": "2-s2.0-85049569598",
+        "dc:title": "Electrical Properties of Midwave and Longwave InAs/GaSb Superlattices Grown on GaAs Substrates by Molecular Beam Epitaxy",
+        "dc:creator": "Benyahia D.",
+        "prism:publicationName": "Nanoscale Research Letters",
+        "prism:issn": "19317573",
+        "prism:eIssn": "1556276X",
+        "prism:volume": "13",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1186/s11671-018-2612-4",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "196",
+        "source-id": "5200152801",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029786030"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029786030?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85029786030&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85029786030&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85029786030",
+        "dc:identifier": "SCOPUS_ID:85029786030",
+        "eid": "2-s2.0-85029786030",
+        "dc:title": "Fast response hot (111) HGCDTE MWIR detectors",
+        "dc:creator": "Grodecki K.",
+        "prism:publicationName": "Metrology and Measurement Systems",
+        "prism:issn": "08608229",
+        "prism:eIssn": "23001941",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "509-514",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "September 2017",
+        "prism:doi": "10.1515/mms-2017-0044",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19200156954",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

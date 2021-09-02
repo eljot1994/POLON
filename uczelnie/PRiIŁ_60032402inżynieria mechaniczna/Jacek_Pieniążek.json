@@ -1,0 +1,742 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108209141"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108209141?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108209141&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108209141&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108209141",
+        "dc:identifier": "SCOPUS_ID:85108209141",
+        "eid": "2-s2.0-85108209141",
+        "dc:title": "Safety analysis of the optionally-piloted airplane landing",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "Aircraft Engineering and Aerospace Technology",
+        "prism:issn": "17488842",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1108/AEAT-11-2020-0265",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091698449"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091698449?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091698449&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091698449&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091698449",
+        "dc:identifier": "SCOPUS_ID:85091698449",
+        "eid": "2-s2.0-85091698449",
+        "dc:title": "Vehicle localization using laser scanner",
+        "dc:creator": "Szaj W.",
+        "prism:publicationName": "2020 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2020 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728166360"
+            }
+        ],
+        "prism:pageRange": "588-593",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.1109/MetroAeroSpace48742.2020.9160100",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9160100",
+        "source-id": "21101022205",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091697323"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091697323?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091697323&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091697323&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091697323",
+        "dc:identifier": "SCOPUS_ID:85091697323",
+        "eid": "2-s2.0-85091697323",
+        "dc:title": "Thermal hysteresis in inertial sensors",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "2020 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2020 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728166360"
+            }
+        ],
+        "prism:pageRange": "54-59",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.1109/MetroAeroSpace48742.2020.9160243",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9160243",
+        "source-id": "21101022205",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082168731"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082168731?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85082168731&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85082168731&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85082168731",
+        "dc:identifier": "SCOPUS_ID:85082168731",
+        "eid": "2-s2.0-85082168731",
+        "dc:title": "Temperature and nonlinearity compensation of pressure sensor with common sensors response",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "IEEE Transactions on Instrumentation and Measurement",
+        "prism:issn": "00189456",
+        "prism:eIssn": "15579662",
+        "prism:volume": "69",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1284-1293",
+        "prism:coverDate": "2020-04-01",
+        "prism:coverDisplayDate": "1 April 2020",
+        "prism:doi": "10.1109/TIM.2019.2910922",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8691407",
+        "source-id": "15361",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073626976"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073626976?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073626976&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073626976&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073626976",
+        "dc:identifier": "SCOPUS_ID:85073626976",
+        "eid": "2-s2.0-85073626976",
+        "dc:title": "Foliar fertilizer based on calcined bones, boron and molybdenum-a study on the development and potential effects on maize grain production",
+        "dc:creator": "Balawejder M.",
+        "prism:publicationName": "Sustainability (Switzerland)",
+        "prism:eIssn": "20711050",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "19",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-10-01",
+        "prism:coverDisplayDate": "1 October 2019",
+        "prism:doi": "10.3390/su11195287",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "5287",
+        "source-id": "21100240100",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068034191"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068034191?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068034191&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068034191&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068034191",
+        "dc:identifier": "SCOPUS_ID:85068034191",
+        "eid": "2-s2.0-85068034191",
+        "dc:title": "Control and monitoring assistant for pilot",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "Aircraft Engineering and Aerospace Technology",
+        "prism:issn": "17488842",
+        "prism:volume": "91",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "783-789",
+        "prism:coverDate": "2019-07-15",
+        "prism:coverDisplayDate": "15 Jul 2019",
+        "prism:doi": "10.1108/AEAT-01-2018-0012",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064932139"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064932139?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064932139&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064932139&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0263224119303100"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064932139",
+        "dc:identifier": "SCOPUS_ID:85064932139",
+        "eid": "2-s2.0-85064932139",
+        "dc:title": "Measurement of aircraft approach using airfield image",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "Measurement: Journal of the International Measurement Confederation",
+        "prism:issn": "02632241",
+        "prism:volume": "141",
+        "prism:pageRange": "396-406",
+        "prism:coverDate": "2019-07-01",
+        "prism:coverDisplayDate": "July 2019",
+        "prism:doi": "10.1016/j.measurement.2019.03.074",
+        "pii": "S0263224119303100",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "15424",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074404484"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074404484?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074404484&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074404484&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074404484",
+        "dc:identifier": "SCOPUS_ID:85074404484",
+        "eid": "2-s2.0-85074404484",
+        "dc:title": "Ellipsoid multi-axial sensor calibration with temperature compensation",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "2019 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2019 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728113449"
+            }
+        ],
+        "prism:pageRange": "70-75",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.1109/MetroAeroSpace.2019.8869637",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8869637",
+        "source-id": "21100934613",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053868492"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053868492?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053868492&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053868492&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053868492",
+        "dc:identifier": "SCOPUS_ID:85053868492",
+        "eid": "2-s2.0-85053868492",
+        "dc:title": "Investigation of image based measurement for aircraft approach",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "5th IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2018 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538624746"
+            }
+        ],
+        "prism:pageRange": "618-623",
+        "prism:coverDate": "2018-08-31",
+        "prism:coverDisplayDate": "31 August 2018",
+        "prism:doi": "10.1109/MetroAeroSpace.2018.8453596",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8453596",
+        "source-id": "21100878021",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052024751"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052024751?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052024751&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052024751&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052024751",
+        "dc:identifier": "SCOPUS_ID:85052024751",
+        "eid": "2-s2.0-85052024751",
+        "dc:title": "Synthesis and antibacterial activity of tb(III), ho(III), er(III) and yb(III) complexes of chrysin-4í-sulfonate",
+        "dc:creator": "Pusz J.",
+        "prism:publicationName": "Acta Poloniae Pharmaceutica - Drug Research",
+        "prism:issn": "00016837",
+        "prism:volume": "75",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "613-623",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19405",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028565520"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028565520?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028565520&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028565520&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028565520",
+        "dc:identifier": "SCOPUS_ID:85028565520",
+        "eid": "2-s2.0-85028565520",
+        "dc:title": "Vision based airplane localization for automatic approach",
+        "dc:creator": "Pieniazek J.",
+        "prism:publicationName": "4th IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2017 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781509042340"
+            }
+        ],
+        "prism:pageRange": "424-427",
+        "prism:coverDate": "2017-08-01",
+        "prism:coverDisplayDate": "1 August 2017",
+        "prism:doi": "10.1109/MetroAeroSpace.2017.7999610",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "7999610",
+        "source-id": "21100828694",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013372265"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013372265?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013372265&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85013372265&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85013372265",
+        "dc:identifier": "SCOPUS_ID:85013372265",
+        "eid": "2-s2.0-85013372265",
+        "dc:title": "Synthesis, characterization and antibacterial studies of Tm(III), Yb(III) and Lu(III) complexes of morin",
+        "dc:creator": "Woźnicka E.",
+        "prism:publicationName": "Journal of Coordination Chemistry",
+        "prism:issn": "00958972",
+        "prism:eIssn": "10290389",
+        "prism:volume": "70",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "1451-1463",
+        "prism:coverDate": "2017-04-18",
+        "prism:coverDisplayDate": "18 April 2017",
+        "prism:doi": "10.1080/00958972.2017.1291935",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24177",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84990840592"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84990840592?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84990840592&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84990840592&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84990840592",
+        "dc:identifier": "SCOPUS_ID:84990840592",
+        "eid": "2-s2.0-84990840592",
+        "dc:title": "Recursive identification of nonlinear aerodynamic characteristics of air-plane",
+        "dc:creator": "Pieniążek J.",
+        "prism:publicationName": "Advances in Intelligent Systems and Computing",
+        "prism:issn": "21945357",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319465883"
+            }
+        ],
+        "prism:volume": "523",
+        "prism:pageRange": "29-40",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1007/978-3-319-46589-0_3",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "5100152904",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

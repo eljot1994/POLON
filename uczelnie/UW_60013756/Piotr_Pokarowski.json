@@ -1,0 +1,83 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081122446"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081122446?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081122446&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081122446&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969720313036"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081122446",
+        "dc:identifier": "SCOPUS_ID:85081122446",
+        "eid": "2-s2.0-85081122446",
+        "dc:title": "Plant response to N availability in permafrost-affected alpine wetlands in arid and semi-arid climate zones",
+        "dc:creator": "Mętrak M.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "721",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-06-15",
+        "prism:coverDisplayDate": "15 June 2020",
+        "prism:doi": "10.1016/j.scitotenv.2020.137791",
+        "pii": "S0048969720313036",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw Biological and Chemical Research Centre",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32172125",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "137791",
+        "source-id": "25349",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

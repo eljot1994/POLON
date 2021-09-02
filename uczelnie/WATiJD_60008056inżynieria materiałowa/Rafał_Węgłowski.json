@@ -1,0 +1,144 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089676886"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089676886?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089676886&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089676886&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089676886",
+        "dc:identifier": "SCOPUS_ID:85089676886",
+        "eid": "2-s2.0-85089676886",
+        "dc:title": "Protein determination with molecularly imprinted polymer recognition combined with birefringence liquid crystal detection",
+        "dc:creator": "Cieplak M.",
+        "prism:publicationName": "Sensors (Switzerland)",
+        "prism:issn": "14248220",
+        "prism:volume": "20",
+        "prism:issueIdentifier": "17",
+        "prism:pageRange": "1-12",
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "1 September 2020",
+        "prism:doi": "10.3390/s20174692",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Physical Chemistry of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32825278",
+        "prism:aggregationType": "Journal",
+        "subtype": "le",
+        "subtypeDescription": "Letter",
+        "article-number": "4692",
+        "source-id": "130124",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019543437"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019543437?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85019543437&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85019543437&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0030401817303905"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85019543437",
+        "dc:identifier": "SCOPUS_ID:85019543437",
+        "eid": "2-s2.0-85019543437",
+        "dc:title": "Electro-optically tunable diffraction grating with photoaligned liquid crystals",
+        "dc:creator": "Węgłowski R.",
+        "prism:publicationName": "Optics Communications",
+        "prism:issn": "00304018",
+        "prism:volume": "400",
+        "prism:pageRange": "144-149",
+        "prism:coverDate": "2017-10-01",
+        "prism:coverDisplayDate": "1 October 2017",
+        "prism:doi": "10.1016/j.optcom.2017.05.017",
+        "pii": "S0030401817303905",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12352",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

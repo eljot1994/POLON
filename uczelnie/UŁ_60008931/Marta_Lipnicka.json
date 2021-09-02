@@ -1,0 +1,188 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085170424"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085170424?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085170424&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085170424&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085170424",
+        "dc:identifier": "SCOPUS_ID:85085170424",
+        "eid": "2-s2.0-85085170424",
+        "dc:title": "A Shape Optimization Problem Concerning the Regional Control of a Class of Spatially Structured Epidemics: Sufficiency Conditions",
+        "dc:creator": "Aniţa S.",
+        "prism:publicationName": "SEMA SIMAI Springer Series",
+        "prism:issn": "21993041",
+        "prism:eIssn": "2199305X",
+        "prism:volume": "21",
+        "prism:pageRange": "165-183",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-3-030-41120-6_9",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitatea Alexandru Ioan Cuza",
+                "affiliation-city": "Iasi",
+                "affiliation-country": "Romania"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100834919",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062195657"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062195657?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062195657&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062195657&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062195657",
+        "dc:identifier": "SCOPUS_ID:85062195657",
+        "eid": "2-s2.0-85062195657",
+        "dc:title": "Sufficient \\varepsilon-Optlmality Conditions for Navier-Stokes Flow. Numerical Algorithm",
+        "dc:creator": "Lipnicka M.",
+        "prism:publicationName": "Proceedings of the IEEE Conference on Decision and Control",
+        "prism:issn": "07431546",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538613955"
+            }
+        ],
+        "prism:volume": "2018-December",
+        "prism:pageRange": "2484-2489",
+        "prism:coverDate": "2019-01-18",
+        "prism:coverDisplayDate": "18 January 2019",
+        "prism:doi": "10.1109/CDC.2018.8619266",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8619266",
+        "source-id": "87424",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051847330"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051847330?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051847330&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051847330&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051847330",
+        "dc:identifier": "SCOPUS_ID:85051847330",
+        "eid": "2-s2.0-85051847330",
+        "dc:title": "On dual dynamic programming in shape optimization of coupled models",
+        "dc:creator": "Lipnicka M.",
+        "prism:publicationName": "Structural and Multidisciplinary Optimization",
+        "prism:issn": "1615147X",
+        "prism:eIssn": "16151488",
+        "prism:volume": "59",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "153-164",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "1 January 2019",
+        "prism:doi": "10.1007/s00158-018-2057-5",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18661",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

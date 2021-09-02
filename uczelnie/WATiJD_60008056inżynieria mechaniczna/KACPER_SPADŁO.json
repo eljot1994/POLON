@@ -1,0 +1,194 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070526191"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070526191?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070526191&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070526191&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070526191",
+        "dc:identifier": "SCOPUS_ID:85070526191",
+        "eid": "2-s2.0-85070526191",
+        "dc:title": "Monochromatic depolarizer based on liquid crystal",
+        "dc:creator": "Marć P.",
+        "prism:publicationName": "Crystals",
+        "prism:eIssn": "20734352",
+        "prism:volume": "9",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "August 2019",
+        "prism:doi": "10.3390/cryst9080387",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "387",
+        "source-id": "21100316020",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060368853"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060368853?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060368853&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060368853&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060368853",
+        "dc:identifier": "SCOPUS_ID:85060368853",
+        "eid": "2-s2.0-85060368853",
+        "dc:title": "Anti-slip system parameters influence on robot mobility in rough terrain",
+        "dc:creator": "Spadło K.",
+        "prism:publicationName": "12th International Conference on Intelligent Technologies in Logistics and Mechatronics Systems, ITELMS 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788887729511"
+            }
+        ],
+        "prism:pageRange": "247-254",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100896116",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041437358"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041437358?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041437358&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041437358&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041437358",
+        "dc:identifier": "SCOPUS_ID:85041437358",
+        "eid": "2-s2.0-85041437358",
+        "dc:title": "Biopolymer as alignment layer for liquid crystal mixtures",
+        "dc:creator": "Spadło A.",
+        "prism:publicationName": "Molecular Crystals and Liquid Crystals",
+        "prism:issn": "15421406",
+        "prism:eIssn": "15635287",
+        "prism:volume": "657",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "56-65",
+        "prism:coverDate": "2017-11-02",
+        "prism:coverDisplayDate": "2 November 2017",
+        "prism:doi": "10.1080/15421406.2017.1403198",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,134 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101165109"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101165109?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101165109&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101165109&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101165109",
+        "dc:identifier": "SCOPUS_ID:85101165109",
+        "eid": "2-s2.0-85101165109",
+        "dc:title": "Displacement estimation based on optical and inertial sensor fusion",
+        "dc:creator": "Ursel T.",
+        "prism:publicationName": "Sensors (Switzerland)",
+        "prism:issn": "14248220",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1-21",
+        "prism:coverDate": "2021-02-02",
+        "prism:coverDisplayDate": "2 February 2021",
+        "prism:doi": "10.3390/s21041390",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33671170",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1390",
+        "source-id": "130124",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094188570"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094188570?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094188570&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094188570&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094188570",
+        "dc:identifier": "SCOPUS_ID:85094188570",
+        "eid": "2-s2.0-85094188570",
+        "dc:title": "Object displacement estimation with the use of microelectromechanical accelerometer",
+        "dc:creator": "Ursel T.W.",
+        "prism:publicationName": "15th International Conference Mechatronic Systems and Materials, MSM 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728169569"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-07-01",
+        "prism:coverDisplayDate": "July 2020",
+        "prism:doi": "10.1109/MSM49833.2020.9202145",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9202145",
+        "source-id": "21101023846",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

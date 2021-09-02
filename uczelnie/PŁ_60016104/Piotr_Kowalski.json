@@ -1,0 +1,145 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108816926"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108816926?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108816926&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108816926&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108816926",
+        "dc:identifier": "SCOPUS_ID:85108816926",
+        "eid": "2-s2.0-85108816926",
+        "dc:title": "The influence of mechanical alloying and plastic consolidation on the resistance to arc erosion of the ag–re composite contact material",
+        "dc:creator": "Kołacz D.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-02",
+        "prism:coverDisplayDate": "June-2 2021",
+        "prism:doi": "10.3390/ma14123297",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instytut Metali Niezelaznych, Gliwice",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "3297",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042439846"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042439846?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042439846&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042439846&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X18301057"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042439846",
+        "dc:identifier": "SCOPUS_ID:85042439846",
+        "eid": "2-s2.0-85042439846",
+        "dc:title": "On multivalued Duffing equation",
+        "dc:creator": "Kalita P.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "462",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1130-1147",
+        "prism:coverDate": "2018-06-15",
+        "prism:coverDisplayDate": "15 June 2018",
+        "prism:doi": "10.1016/j.jmaa.2018.01.067",
+        "pii": "S0022247X18301057",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,151 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044184787"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044184787?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044184787&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044184787&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044184787",
+        "dc:identifier": "SCOPUS_ID:85044184787",
+        "eid": "2-s2.0-85044184787",
+        "dc:title": "Global optimality results for multivalued non-self mappings in b-metric spaces",
+        "dc:creator": "Gabeleh M.",
+        "prism:publicationName": "Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales - Serie A: Matematicas",
+        "prism:issn": "15787303",
+        "prism:eIssn": "15791505",
+        "prism:volume": "112",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "347-360",
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "1 April 2018",
+        "prism:doi": "10.1007/s13398-017-0383-x",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ayatollah Boroujerdi University",
+                "affiliation-city": "Borujerd",
+                "affiliation-country": "Iran"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19400157008",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070707244"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070707244?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070707244&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070707244&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070707244",
+        "dc:identifier": "SCOPUS_ID:85070707244",
+        "eid": "2-s2.0-85070707244",
+        "dc:title": "Proximal monotonicity in partially ordered metric spaces and F -cyclic contractions",
+        "dc:creator": "Gabeleh M.",
+        "prism:publicationName": "Miskolc Mathematical Notes",
+        "prism:issn": "17872405",
+        "prism:eIssn": "17872413",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "739-750",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.18514/MMN.2017.2134",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19900191933",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

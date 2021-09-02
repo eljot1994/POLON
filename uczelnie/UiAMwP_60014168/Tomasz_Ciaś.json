@@ -1,0 +1,209 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099334466"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099334466?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099334466&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099334466&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099334466",
+        "dc:identifier": "SCOPUS_ID:85099334466",
+        "eid": "2-s2.0-85099334466",
+        "dc:title": "General approach to Köthe echelon algebras",
+        "dc:creator": "Ciaś T.",
+        "prism:publicationName": "Mathematische Nachrichten",
+        "prism:issn": "0025584X",
+        "prism:eIssn": "15222616",
+        "prism:volume": "294",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "486-517",
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "March 2021",
+        "prism:doi": "10.1002/mana.201900121",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25107",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024883975"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024883975?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024883975&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024883975&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024883975",
+        "dc:identifier": "SCOPUS_ID:85024883975",
+        "eid": "2-s2.0-85024883975",
+        "dc:title": "The multiplier algebra of the noncommutative Schwartz space",
+        "dc:creator": "Ciaś T.",
+        "prism:publicationName": "Banach Journal of Mathematical Analysis",
+        "prism:issn": "17358787",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "615-635",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "1 July 2017",
+        "prism:doi": "10.1215/17358787-2017-0007",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17300154737",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013156302"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013156302?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013156302&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85013156302&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85013156302",
+        "dc:identifier": "SCOPUS_ID:85013156302",
+        "eid": "2-s2.0-85013156302",
+        "dc:title": "Characterization of commutative algebras embedded into the algebra of smooth operators",
+        "dc:creator": "Ciaś T.",
+        "prism:publicationName": "Bulletin of the London Mathematical Society",
+        "prism:issn": "00246093",
+        "prism:eIssn": "14692120",
+        "prism:volume": "49",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "102-116",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1112/blms.12010",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24481",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

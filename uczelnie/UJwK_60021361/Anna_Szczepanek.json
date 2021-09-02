@@ -1,0 +1,79 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030311280"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030311280?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85030311280&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85030311280&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85030311280",
+        "dc:identifier": "SCOPUS_ID:85030311280",
+        "eid": "2-s2.0-85030311280",
+        "dc:title": "Quantum Dynamical Entropy, Chaotic Unitaries and Complex Hadamard Matrices",
+        "dc:creator": "Slomczynski W.",
+        "prism:publicationName": "IEEE Transactions on Information Theory",
+        "prism:issn": "00189448",
+        "prism:volume": "63",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "7821-7831",
+        "prism:coverDate": "2017-12-01",
+        "prism:coverDisplayDate": "December 2017",
+        "prism:doi": "10.1109/TIT.2017.2751507",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8032492",
+        "source-id": "15107",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

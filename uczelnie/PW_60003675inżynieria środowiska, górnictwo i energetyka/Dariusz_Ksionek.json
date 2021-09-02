@@ -1,0 +1,133 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041484887"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041484887?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041484887&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041484887&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378778817325628"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041484887",
+        "dc:identifier": "SCOPUS_ID:85041484887",
+        "eid": "2-s2.0-85041484887",
+        "dc:title": "Thermal and optical characterisation of dynamic shading systems with PCMs through laboratory experimental measurements",
+        "dc:creator": "Bianco L.",
+        "prism:publicationName": "Energy and Buildings",
+        "prism:issn": "03787788",
+        "prism:volume": "163",
+        "prism:pageRange": "92-110",
+        "prism:coverDate": "2018-03-15",
+        "prism:coverDisplayDate": "15 March 2018",
+        "prism:doi": "10.1016/j.enbuild.2017.12.015",
+        "pii": "S0378778817325628",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politecnico di Torino",
+                "affiliation-city": "Turin",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29359",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034451530"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034451530?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034451530&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034451530&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034451530",
+        "dc:identifier": "SCOPUS_ID:85034451530",
+        "eid": "2-s2.0-85034451530",
+        "dc:title": "Determination of the solar transmittance for the translucent shutter with PCM in liquid and solid state",
+        "dc:creator": "Komerska A.",
+        "prism:publicationName": "E3S Web of Conferences",
+        "prism:eIssn": "22671242",
+        "prism:volume": "22",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-11-07",
+        "prism:coverDisplayDate": "7 November 2017",
+        "prism:doi": "10.1051/e3sconf/20172200084",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "00084",
+        "source-id": "21100795900",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

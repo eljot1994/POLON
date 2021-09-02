@@ -1,0 +1,129 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075735066"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075735066?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075735066&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075735066&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075735066",
+        "dc:identifier": "SCOPUS_ID:85075735066",
+        "eid": "2-s2.0-85075735066",
+        "dc:title": "Influence of exploitation conditions on anti-skid properties of tyres",
+        "dc:creator": "Pokorski J.",
+        "prism:publicationName": "Transport",
+        "prism:issn": "16484142",
+        "prism:eIssn": "16483480",
+        "prism:volume": "34",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "415-424",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.3846/transport.2019.10426",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20799",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006446635"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006446635?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85006446635&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85006446635&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85006446635",
+        "dc:identifier": "SCOPUS_ID:85006446635",
+        "eid": "2-s2.0-85006446635",
+        "dc:title": "Investigation of the tyre characteristics under non-steady-state conditions on the basis of road tests",
+        "dc:creator": "Sar H.",
+        "prism:publicationName": "Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering",
+        "prism:issn": "09544070",
+        "prism:volume": "231",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "3-15",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1177/0954407016629517",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23969",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

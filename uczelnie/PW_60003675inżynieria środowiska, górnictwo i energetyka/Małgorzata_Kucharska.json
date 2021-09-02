@@ -1,0 +1,110 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072013092"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072013092?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072013092&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072013092&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072013092",
+        "dc:identifier": "SCOPUS_ID:85072013092",
+        "eid": "2-s2.0-85072013092",
+        "dc:title": "Electrochemical oxidation process in application to raw and biologically pre-treated tannery wastewater",
+        "dc:creator": "Naumczyk J.",
+        "prism:publicationName": "Desalination and Water Treatment",
+        "prism:issn": "19443994",
+        "prism:eIssn": "19443986",
+        "prism:volume": "162",
+        "prism:pageRange": "166-175",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "September 2019",
+        "prism:doi": "10.5004/dwt.2019.24349",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Kardynala Stefana Wyszynskiego w Warszawie",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700175585",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015847541"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015847541?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015847541&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015847541&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015847541",
+        "dc:identifier": "SCOPUS_ID:85015847541",
+        "eid": "2-s2.0-85015847541",
+        "dc:title": "Electrochemical treatment of tannery wastewater—Raw, coagulated, and pretreated by AOPs",
+        "dc:creator": "Naumczyk J.",
+        "prism:publicationName": "Journal of Environmental Science and Health - Part A Toxic/Hazardous Substances and Environmental Engineering",
+        "prism:issn": "10934529",
+        "prism:eIssn": "15324117",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "649-664",
+        "prism:coverDate": "2017-06-07",
+        "prism:coverDisplayDate": "7 June 2017",
+        "prism:doi": "10.1080/10934529.2017.1297140",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "28328295",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25130",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

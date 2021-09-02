@@ -1,0 +1,107 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076390093"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076390093?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076390093&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85076390093&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85076390093",
+        "dc:identifier": "SCOPUS_ID:85076390093",
+        "eid": "2-s2.0-85076390093",
+        "dc:title": "Lipschitz-like Property of Subdifferential Mapping of Convex Continuous Functions on Hilbert Space",
+        "dc:creator": "Zagrodny D.",
+        "prism:publicationName": "Journal of Convex Analysis",
+        "prism:issn": "09446532",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23870",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069718552"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069718552?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85069718552&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85069718552&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85069718552",
+        "dc:identifier": "SCOPUS_ID:85069718552",
+        "eid": "2-s2.0-85069718552",
+        "dc:title": "The attainment set of the ϕ-envelope and genericity properties",
+        "dc:creator": "Cabot A.",
+        "prism:publicationName": "Mathematica Scandinavica",
+        "prism:issn": "00255521",
+        "prism:volume": "124",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "203-246",
+        "prism:coverDate": "2019-06-17",
+        "prism:coverDisplayDate": "17 June 2019",
+        "prism:doi": "10.7146/math.scand.a-110766",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CNRS Centre National de la Recherche Scientifique",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24552",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

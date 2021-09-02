@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091322973"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091322973?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091322973&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091322973&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091322973",
+        "dc:identifier": "SCOPUS_ID:85091322973",
+        "eid": "2-s2.0-85091322973",
+        "dc:title": "Fuzzy FMEA Application to Risk Assessment of Quality Control Process",
+        "dc:creator": "Łapczyńska D.",
+        "prism:publicationName": "Advances in Intelligent Systems and Computing",
+        "prism:issn": "21945357",
+        "prism:eIssn": "21945365",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030578015"
+            }
+        ],
+        "prism:volume": "1268 AISC",
+        "prism:pageRange": "309-319",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1007/978-3-030-57802-2_30",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "5100152904",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

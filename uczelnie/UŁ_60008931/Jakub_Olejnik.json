@@ -1,0 +1,130 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087456692"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087456692?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087456692&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087456692&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087456692",
+        "dc:identifier": "SCOPUS_ID:85087456692",
+        "eid": "2-s2.0-85087456692",
+        "dc:title": "QML estimation with non-summable weight matrices",
+        "dc:creator": "Olejnik J.",
+        "prism:publicationName": "Journal of Geographical Systems",
+        "prism:issn": "14355930",
+        "prism:eIssn": "14355949",
+        "prism:volume": "22",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "469-495",
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "1 October 2020",
+        "prism:doi": "10.1007/s10109-020-00326-2",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28042",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061062191"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061062191?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061062191&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061062191&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061062191",
+        "dc:identifier": "SCOPUS_ID:85061062191",
+        "eid": "2-s2.0-85061062191",
+        "dc:title": "On the convergence of permutations of multiple orthogonal series",
+        "dc:creator": "Olejnik J.",
+        "prism:publicationName": "Acta Mathematica Hungarica",
+        "prism:issn": "02365294",
+        "prism:eIssn": "15882632",
+        "prism:volume": "157",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "269-279",
+        "prism:coverDate": "2019-02-01",
+        "prism:coverDisplayDate": "1 February 2019",
+        "prism:doi": "10.1007/s10474-018-00905-2",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24529",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

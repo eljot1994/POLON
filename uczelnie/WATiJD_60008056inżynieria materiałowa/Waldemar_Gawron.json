@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015272818"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015272818?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015272818&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015272818&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015272818",
+        "dc:identifier": "SCOPUS_ID:85015272818",
+        "eid": "2-s2.0-85015272818",
+        "dc:title": "Interface Influence on the Long-Wave Auger Suppressed Multilayer N<sup>+</sup> φ P<sup>+</sup>p<sup>+</sup>n<sup>+</sup> HgCdTe HOT Detector Performance",
+        "dc:creator": "Martyniuk P.",
+        "prism:publicationName": "IEEE Sensors Journal",
+        "prism:issn": "1530437X",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "674-678",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1109/JSEN.2016.2630738",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "7748549",
+        "source-id": "15047",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

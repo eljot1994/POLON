@@ -1,0 +1,115 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088839474"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088839474?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088839474&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088839474&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088839474",
+        "dc:identifier": "SCOPUS_ID:85088839474",
+        "eid": "2-s2.0-85088839474",
+        "dc:title": "High-Power and High-Energy Cu-Substituted Li<inf>x</inf>Ni<inf>0.88–y</inf>Co<inf>y</inf>Mn<inf>0.1</inf>Cu<inf>0.02</inf>O<inf>2</inf> Cathode Material for Li-Ion Batteries",
+        "dc:creator": "Molenda J.",
+        "prism:publicationName": "Physica Status Solidi (A) Applications and Materials Science",
+        "prism:issn": "18626300",
+        "prism:eIssn": "18626319",
+        "prism:volume": "217",
+        "prism:issueIdentifier": "18",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "1 September 2020",
+        "prism:doi": "10.1002/pssa.201900951",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1900951",
+        "source-id": "5800179580",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054446418"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054446418?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054446418&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054446418&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775318310826"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054446418",
+        "dc:identifier": "SCOPUS_ID:85054446418",
+        "eid": "2-s2.0-85054446418",
+        "dc:title": "Overcoming transport and electrochemical limitations in the high-voltage Na<inf>0.67</inf>Ni<inf>0.33</inf>Mn<inf>0.67-y</inf>Ti<inf>y</inf>O<inf>2</inf> (0 ≤ y ≤ 0.33) cathode materials by Ti-doping",
+        "dc:creator": "Milewska A.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "404",
+        "prism:pageRange": "39-46",
+        "prism:coverDate": "2018-11-15",
+        "prism:coverDisplayDate": "15 November 2018",
+        "prism:doi": "10.1016/j.jpowsour.2018.09.103",
+        "pii": "S0378775318310826",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

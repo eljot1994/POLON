@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106213568"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106213568?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85106213568&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85106213568&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0141635921001367"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85106213568",
+        "dc:identifier": "SCOPUS_ID:85106213568",
+        "eid": "2-s2.0-85106213568",
+        "dc:title": "Interferometric, absolute sensor of angular micro-displacement",
+        "dc:creator": "Dobosz M.",
+        "prism:publicationName": "Precision Engineering",
+        "prism:issn": "01416359",
+        "prism:volume": "72",
+        "prism:pageRange": "250-258",
+        "prism:coverDate": "2021-11-01",
+        "prism:coverDisplayDate": "November 2021",
+        "prism:doi": "10.1016/j.precisioneng.2021.04.018",
+        "pii": "S0141635921001367",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13790",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

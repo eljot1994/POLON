@@ -1,0 +1,66 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85012295391"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85012295391?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85012295391&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85012295391&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0168583X17301118"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85012295391",
+        "dc:identifier": "SCOPUS_ID:85012295391",
+        "eid": "2-s2.0-85012295391",
+        "dc:title": "Submicron sized fluorescent silica particles characterization",
+        "dc:creator": "Jarzębski M.",
+        "prism:publicationName": "Nuclear Instruments and Methods in Physics Research, Section B: Beam Interactions with Materials and Atoms",
+        "prism:issn": "0168583X",
+        "prism:volume": "411",
+        "prism:pageRange": "78-84",
+        "prism:coverDate": "2017-11-15",
+        "prism:coverDisplayDate": "15 November 2017",
+        "prism:doi": "10.1016/j.nimb.2017.01.088",
+        "pii": "S0168583X17301118",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Environmental Engineering Off-Campus Faculty of Law and Social Sciences in Stalowa Wola Catholic University of Lublin",
+                "affiliation-city": null,
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29068",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

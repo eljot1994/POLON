@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056288628"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056288628?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056288628&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056288628&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1230340218301045"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056288628",
+        "dc:identifier": "SCOPUS_ID:85056288628",
+        "eid": "2-s2.0-85056288628",
+        "dc:title": "Accurate ball tracking in volleyball actions to support referees",
+        "dc:creator": "Kurowski P.",
+        "prism:publicationName": "Opto-electronics Review",
+        "prism:issn": "12303402",
+        "prism:eIssn": "18963757",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "296-306",
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "December 2018",
+        "prism:doi": "10.1016/j.opelre.2018.10.004",
+        "pii": "S1230340218301045",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "51150",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

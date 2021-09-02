@@ -1,0 +1,173 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104087408"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104087408?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104087408&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104087408&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1568494621002933"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104087408",
+        "dc:identifier": "SCOPUS_ID:85104087408",
+        "eid": "2-s2.0-85104087408",
+        "dc:title": "Decision rules-based method for dynamic adjustment of Min–Max ordering levels",
+        "dc:creator": "Puka R.",
+        "prism:publicationName": "Applied Soft Computing",
+        "prism:issn": "15684946",
+        "prism:volume": "107",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-08-01",
+        "prism:coverDisplayDate": "August 2021",
+        "prism:doi": "10.1016/j.asoc.2021.107370",
+        "pii": "S1568494621002933",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107370",
+        "source-id": "18136",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075623301"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075623301?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075623301&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075623301&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075623301",
+        "dc:identifier": "SCOPUS_ID:85075623301",
+        "eid": "2-s2.0-85075623301",
+        "dc:title": "Improving of Selected Routing Strategies for Order Picking",
+        "dc:creator": "Puka R.",
+        "prism:publicationName": "Advances in Intelligent Systems and Computing",
+        "prism:issn": "21945357",
+        "prism:eIssn": "21945365",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030276867"
+            }
+        ],
+        "prism:volume": "1032",
+        "prism:pageRange": "363-373",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-3-030-27687-4_36",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "5100152904",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068130635"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068130635?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068130635&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068130635&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068130635",
+        "dc:identifier": "SCOPUS_ID:85068130635",
+        "eid": "2-s2.0-85068130635",
+        "dc:title": "Process management in hard coal mining companies",
+        "dc:creator": "Kowal B.",
+        "prism:publicationName": "Inzynieria Mineralna",
+        "prism:issn": "16404920",
+        "prism:volume": "2018",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "111-116",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.29227/IM-2018-02-14",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "145379",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

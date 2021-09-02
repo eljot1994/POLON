@@ -1,0 +1,416 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051559142"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051559142?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051559142&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051559142&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051559142",
+        "dc:identifier": "SCOPUS_ID:85051559142",
+        "eid": "2-s2.0-85051559142",
+        "dc:title": "Sequence Lorentz Spaces and Their Geometric Structure",
+        "dc:creator": "Ciesielski M.",
+        "prism:publicationName": "Journal of Geometric Analysis",
+        "prism:issn": "10506926",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1929-1952",
+        "prism:coverDate": "2019-07-15",
+        "prism:coverDisplayDate": "15 July 2019",
+        "prism:doi": "10.1007/s12220-018-0069-4",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23896",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061821005"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061821005?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061821005&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061821005&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X19301829"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061821005",
+        "dc:identifier": "SCOPUS_ID:85061821005",
+        "eid": "2-s2.0-85061821005",
+        "dc:title": "On a certain class of norms in semimodular spaces and their monotonicity properties",
+        "dc:creator": "Ciesielski M.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "475",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "490-518",
+        "prism:coverDate": "2019-07-01",
+        "prism:coverDisplayDate": "1 July 2019",
+        "prism:doi": "10.1016/j.jmaa.2019.02.052",
+        "pii": "S0022247X19301829",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055280914"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055280914?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055280914&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055280914&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055280914",
+        "dc:identifier": "SCOPUS_ID:85055280914",
+        "eid": "2-s2.0-85055280914",
+        "dc:title": "On approximation properties of l1-type spaces",
+        "dc:creator": "Ciesielski M.",
+        "prism:publicationName": "Banach Journal of Mathematical Analysis",
+        "prism:issn": "17358787",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "935-954",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "1 October 2018",
+        "prism:doi": "10.1215/17358787-2018-0005",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17300154737",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025824615"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025824615?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025824615&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85025824615&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X17306947"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85025824615",
+        "dc:identifier": "SCOPUS_ID:85025824615",
+        "eid": "2-s2.0-85025824615",
+        "dc:title": "Uniform K-monotonicity and K-order continuity in symmetric spaces with application to approximation theory",
+        "dc:creator": "Ciesielski M.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "456",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "705-730",
+        "prism:coverDate": "2017-12-15",
+        "prism:coverDisplayDate": "15 December 2017",
+        "prism:doi": "10.1016/j.jmaa.2017.07.031",
+        "pii": "S0022247X17306947",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006172852"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85006172852?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85006172852&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85006172852&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X16307375"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85006172852",
+        "dc:identifier": "SCOPUS_ID:85006172852",
+        "eid": "2-s2.0-85006172852",
+        "dc:title": "A note on the admissibility of modular function spaces",
+        "dc:creator": "Caponetti D.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "448",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1331-1342",
+        "prism:coverDate": "2017-04-15",
+        "prism:coverDisplayDate": "15 April 2017",
+        "prism:doi": "10.1016/j.jmaa.2016.11.047",
+        "pii": "S0022247X16307375",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Università degli Studi di Palermo",
+                "affiliation-city": "Palermo",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84959111255"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84959111255?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84959111255&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84959111255&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84959111255",
+        "dc:identifier": "SCOPUS_ID:84959111255",
+        "eid": "2-s2.0-84959111255",
+        "dc:title": "Asymptotic Behavior of Factorization and Projection Constants",
+        "dc:creator": "Lewicki G.",
+        "prism:publicationName": "Journal of Geometric Analysis",
+        "prism:issn": "10506926",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "335-365",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1007/s12220-016-9683-1",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23896",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

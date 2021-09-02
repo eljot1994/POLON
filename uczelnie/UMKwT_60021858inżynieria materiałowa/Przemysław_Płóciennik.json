@@ -1,0 +1,87 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100453193"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100453193?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100453193&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100453193&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100453193",
+        "dc:identifier": "SCOPUS_ID:85100453193",
+        "eid": "2-s2.0-85100453193",
+        "dc:title": "Impact of liposomal drug formulations on the RBCS shape, transmembrane potential, and mechanical properties",
+        "dc:creator": "Cyboran‐mikołajczyk S.",
+        "prism:publicationName": "International Journal of Molecular Sciences",
+        "prism:issn": "16616596",
+        "prism:eIssn": "14220067",
+        "prism:volume": "22",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1-12",
+        "prism:coverDate": "2021-02-02",
+        "prism:coverDisplayDate": "2 February 2021",
+        "prism:doi": "10.3390/ijms22041710",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Environmental and Life Sciences",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33567766",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1710",
+        "source-id": "25879",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

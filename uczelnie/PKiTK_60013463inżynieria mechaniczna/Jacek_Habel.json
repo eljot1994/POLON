@@ -1,0 +1,119 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051813663"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051813663?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051813663&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051813663&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051813663",
+        "dc:identifier": "SCOPUS_ID:85051813663",
+        "eid": "2-s2.0-85051813663",
+        "dc:title": "Manufacturing activities modelling for the purpose of machining process plan generation",
+        "dc:creator": "Duda J.",
+        "prism:publicationName": "Advances in Intelligent Systems and Computing",
+        "prism:issn": "21945357",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319974897"
+            }
+        ],
+        "prism:volume": "835",
+        "prism:pageRange": "215-224",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-319-97490-3_21",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Krakowska",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "5100152904",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85058045270"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85058045270?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85058045270&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85058045270&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85058045270",
+        "dc:identifier": "SCOPUS_ID:85058045270",
+        "eid": "2-s2.0-85058045270",
+        "dc:title": "Tool life investigation of the thread making tools",
+        "dc:creator": "Monkova K.",
+        "prism:publicationName": "Manufacturing Technology",
+        "prism:issn": "12132489",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "787-792",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.21062/ujep/180.2018/a/1213-2489/MT/18/5/787",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Technická Univerzita v Košiciach",
+                "affiliation-city": "Kosice",
+                "affiliation-country": "Slovakia"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Univerzita Tomase Bati ve Zline",
+                "affiliation-city": "Zlin",
+                "affiliation-country": "Czech Republic"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100201938",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

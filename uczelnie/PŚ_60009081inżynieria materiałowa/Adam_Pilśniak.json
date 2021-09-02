@@ -1,0 +1,115 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101434293"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101434293?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101434293&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101434293&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101434293",
+        "dc:identifier": "SCOPUS_ID:85101434293",
+        "eid": "2-s2.0-85101434293",
+        "dc:title": "An Externally Linear-Internally Nonlinear RMS-to-DC Converter",
+        "dc:creator": "Pilsniak A.",
+        "prism:publicationName": "IEEE Transactions on Instrumentation and Measurement",
+        "prism:issn": "00189456",
+        "prism:eIssn": "15579662",
+        "prism:volume": "70",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1109/TIM.2021.3057652",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "9349500",
+        "source-id": "15361",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092129323"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092129323?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092129323&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092129323&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092129323",
+        "dc:identifier": "SCOPUS_ID:85092129323",
+        "eid": "2-s2.0-85092129323",
+        "dc:title": "An Externally-Linear-Internally-Nonlinear RMS-to-DC converter",
+        "dc:creator": "Pil Niak A.",
+        "prism:publicationName": "CPEM Digest (Conference on Precision Electromagnetic Measurements)",
+        "prism:issn": "05891485",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728158983"
+            }
+        ],
+        "prism:volume": "2020-August",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "August 2020",
+        "prism:doi": "10.1109/CPEM49742.2020.9191840",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9191840",
+        "source-id": "52214",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

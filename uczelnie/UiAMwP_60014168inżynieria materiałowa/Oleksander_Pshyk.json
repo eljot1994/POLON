@@ -1,0 +1,146 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089506476"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089506476?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089506476&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089506476&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433220323308"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089506476",
+        "dc:identifier": "SCOPUS_ID:85089506476",
+        "eid": "2-s2.0-85089506476",
+        "dc:title": "Micro-mechanical investigation of (Al<inf>50</inf>Ti<inf>50</inf>)N coatings enhanced by ZrN layers in the nanolaminate architecture",
+        "dc:creator": "Kravchenko Y.O.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "534",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-12-30",
+        "prism:coverDisplayDate": "30 December 2020",
+        "prism:doi": "10.1016/j.apsusc.2020.147573",
+        "pii": "S0169433220323308",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Sumy State University",
+                "affiliation-city": "Sumy",
+                "affiliation-country": "Ukraine"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "147573",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078101522"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078101522?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078101522&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078101522&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433219339601"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078101522",
+        "dc:identifier": "SCOPUS_ID:85078101522",
+        "eid": "2-s2.0-85078101522",
+        "dc:title": "Laser-assisted modification of titanium dioxide nanotubes in a tilted mode as surface modification and patterning strategy",
+        "dc:creator": "Wawrzyniak J.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "508",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-04-01",
+        "prism:coverDisplayDate": "1 April 2020",
+        "prism:doi": "10.1016/j.apsusc.2019.145143",
+        "pii": "S0169433219339601",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Robert Szewalski Institute of Fluid-Flow Machinery of the Polish Academy of Sciences",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "145143",
+        "source-id": "28983",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

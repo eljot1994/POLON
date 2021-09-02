@@ -1,0 +1,150 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091067793"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091067793?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091067793&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091067793&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091067793",
+        "dc:identifier": "SCOPUS_ID:85091067793",
+        "eid": "2-s2.0-85091067793",
+        "dc:title": "Study of Structure and Properties of Fe-Based Amorphous Ribbons after Pulsed Laser Interference Heating",
+        "dc:creator": "Czyż O.",
+        "prism:publicationName": "Journal of Materials Engineering and Performance",
+        "prism:issn": "10599495",
+        "prism:eIssn": "15441024",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "6277-6285",
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "October 2020",
+        "prism:doi": "10.1007/s11665-020-05109-w",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21160",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081332158"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081332158?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081332158&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081332158&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081332158",
+        "dc:identifier": "SCOPUS_ID:85081332158",
+        "eid": "2-s2.0-85081332158",
+        "dc:title": "Selected Articles from AMT 2019—The XXII Physical Metallurgy and Materials Science Conference: Advanced Materials and Technologies",
+        "dc:creator": "Radziszewska A.",
+        "prism:publicationName": "Journal of Materials Engineering and Performance",
+        "prism:issn": "10599495",
+        "prism:eIssn": "15441024",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1425",
+        "prism:coverDate": "2020-03-01",
+        "prism:coverDisplayDate": "1 March 2020",
+        "prism:doi": "10.1007/s11665-020-04719-8",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21160",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

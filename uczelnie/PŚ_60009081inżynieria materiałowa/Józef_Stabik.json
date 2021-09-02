@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021306465"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021306465?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021306465&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021306465&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1359836817308752"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021306465",
+        "dc:identifier": "SCOPUS_ID:85021306465",
+        "eid": "2-s2.0-85021306465",
+        "dc:title": "Epoxy-copper composites with gradation of filler content",
+        "dc:creator": "Stabik J.",
+        "prism:publicationName": "Composites Part B: Engineering",
+        "prism:issn": "13598368",
+        "prism:volume": "127",
+        "prism:pageRange": "36-43",
+        "prism:coverDate": "2017-10-15",
+        "prism:coverDisplayDate": "15 October 2017",
+        "prism:doi": "10.1016/j.compositesb.2017.06.025",
+        "pii": "S1359836817308752",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28635",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

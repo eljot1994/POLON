@@ -1,0 +1,143 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075757770"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075757770?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075757770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075757770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X19309278"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075757770",
+        "dc:identifier": "SCOPUS_ID:85075757770",
+        "eid": "2-s2.0-85075757770",
+        "dc:title": "Orlicz spaces equipped with s-norms",
+        "dc:creator": "Wisła M.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "483",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-03-15",
+        "prism:coverDisplayDate": "15 March 2020",
+        "prism:doi": "10.1016/j.jmaa.2019.123659",
+        "pii": "S0022247X19309278",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "123659",
+        "source-id": "23935",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044614910"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044614910?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044614910&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044614910&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X1830012X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044614910",
+        "dc:identifier": "SCOPUS_ID:85044614910",
+        "eid": "2-s2.0-85044614910",
+        "dc:title": "Closedness of the set of extreme points of the unit ball in Orlicz spaces equipped with the p-Amemiya norm",
+        "dc:creator": "Wisła M.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "461",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "378-400",
+        "prism:coverDate": "2018-05-01",
+        "prism:coverDisplayDate": "1 May 2018",
+        "prism:doi": "10.1016/j.jmaa.2018.01.005",
+        "pii": "S0022247X1830012X",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

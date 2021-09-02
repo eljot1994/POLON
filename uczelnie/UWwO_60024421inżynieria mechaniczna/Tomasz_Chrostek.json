@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061255472"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061255472?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061255472&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061255472&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061255472",
+        "dc:identifier": "SCOPUS_ID:85061255472",
+        "eid": "2-s2.0-85061255472",
+        "dc:title": "Functional and fractal properties of Fe-Al coatings after gas detonation spraying (GDS)",
+        "dc:creator": "Chrostek T.",
+        "prism:publicationName": "Archives of Metallurgy and Materials",
+        "prism:issn": "17333490",
+        "prism:volume": "63",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1993-1999",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.24425/amm.2018.125135",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "9500153913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

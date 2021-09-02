@@ -1,0 +1,162 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090414491"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090414491?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090414491&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090414491&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0003682X20307180"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090414491",
+        "dc:identifier": "SCOPUS_ID:85090414491",
+        "eid": "2-s2.0-85090414491",
+        "dc:title": "Important aspects of an acoustic location system designed to operate in marine environment",
+        "dc:creator": "Grzywiński S.",
+        "prism:publicationName": "Applied Acoustics",
+        "prism:issn": "0003682X",
+        "prism:eIssn": "1872910X",
+        "prism:volume": "172",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-15",
+        "prism:coverDisplayDate": "15 January 2021",
+        "prism:doi": "10.1016/j.apacoust.2020.107614",
+        "pii": "S0003682X20307180",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107614",
+        "source-id": "12946",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066062988"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066062988?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85066062988&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85066062988&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85066062988",
+        "dc:identifier": "SCOPUS_ID:85066062988",
+        "eid": "2-s2.0-85066062988",
+        "dc:title": "Research of vibration spectrum of the bullets equipped with proximity fuse",
+        "dc:creator": "Grzywiński S.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735418066"
+            }
+        ],
+        "prism:volume": "2078",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-03-04",
+        "prism:coverDisplayDate": "4 March 2019",
+        "prism:doi": "10.1063/1.5092040",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "020037",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

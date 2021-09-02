@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073054460"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073054460?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073054460&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073054460&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073054460",
+        "dc:identifier": "SCOPUS_ID:85073054460",
+        "eid": "2-s2.0-85073054460",
+        "dc:title": "Mass optimisation of turbofan engine casing made of sandwich structure",
+        "dc:creator": "Szymczyk E.",
+        "prism:publicationName": "Computer Assisted Methods in Engineering and Science",
+        "prism:issn": "22993649",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "2-3",
+        "prism:pageRange": "81-88",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.24423/cames.229",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100904261",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

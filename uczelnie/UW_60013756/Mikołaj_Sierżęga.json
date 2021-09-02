@@ -1,0 +1,257 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078015910"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078015910?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078015910&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078015910&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0294144919301118"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078015910",
+        "dc:identifier": "SCOPUS_ID:85078015910",
+        "eid": "2-s2.0-85078015910",
+        "dc:title": "Well-posedness of semilinear heat equations in L<sup>1</sup>",
+        "dc:creator": "Laister R.",
+        "prism:publicationName": "Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire",
+        "prism:issn": "02941449",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "709-725",
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "May - June 2020",
+        "prism:doi": "10.1016/j.anihpc.2019.12.001",
+        "pii": "S0294144919301118",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the West of England",
+                "affiliation-city": "Bristol",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23200",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091305833"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091305833?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091305833&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091305833&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091305833",
+        "dc:identifier": "SCOPUS_ID:85091305833",
+        "eid": "2-s2.0-85091305833",
+        "dc:title": "A blow-up dichotomy for semilinear fractional heat equations",
+        "dc:creator": "Laister R.",
+        "prism:publicationName": "Mathematische Annalen",
+        "prism:issn": "00255831",
+        "prism:eIssn": "14321807",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/s00208-020-02078-2",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the West of England",
+                "affiliation-city": "Bristol",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25105",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85010931268"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85010931268?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85010931268&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85010931268&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022039617300323"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85010931268",
+        "dc:identifier": "SCOPUS_ID:85010931268",
+        "eid": "2-s2.0-85010931268",
+        "dc:title": "A necessary and sufficient condition for uniqueness of the trivial solution in semilinear parabolic equations",
+        "dc:creator": "Laister R.",
+        "prism:publicationName": "Journal of Differential Equations",
+        "prism:issn": "00220396",
+        "prism:eIssn": "10902732",
+        "prism:volume": "262",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "4979-4987",
+        "prism:coverDate": "2017-05-15",
+        "prism:coverDisplayDate": "15 May 2017",
+        "prism:doi": "10.1016/j.jde.2017.01.014",
+        "pii": "S0022039617300323",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the West of England",
+                "affiliation-city": "Bristol",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23874",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

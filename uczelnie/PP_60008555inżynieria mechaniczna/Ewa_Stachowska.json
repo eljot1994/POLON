@@ -1,0 +1,145 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090507853"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090507853?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090507853&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090507853&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090507853",
+        "dc:identifier": "SCOPUS_ID:85090507853",
+        "eid": "2-s2.0-85090507853",
+        "dc:title": "Evidence of skin barrier damage by cyclic siloxanes (Silicones)—using digital holographic microscopy",
+        "dc:creator": "Mojsiewicz-Pieńkowska K.",
+        "prism:publicationName": "International Journal of Molecular Sciences",
+        "prism:issn": "16616596",
+        "prism:eIssn": "14220067",
+        "prism:volume": "21",
+        "prism:issueIdentifier": "17",
+        "prism:pageRange": "1-18",
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "1 September 2020",
+        "prism:doi": "10.3390/ijms21176375",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdanski Uniwersytet Medyczny",
+                "affiliation-city": "Gdańsk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32887477",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "6375",
+        "source-id": "25879",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034231661"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034231661?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034231661&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034231661&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034231661",
+        "dc:identifier": "SCOPUS_ID:85034231661",
+        "eid": "2-s2.0-85034231661",
+        "dc:title": "Human sperm morphology analysis using a digital holographic microscope",
+        "dc:creator": "Fabian E.",
+        "prism:publicationName": "Advances in Intelligent Systems and Computing",
+        "prism:issn": "21945357",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319700625"
+            }
+        ],
+        "prism:volume": "623",
+        "prism:pageRange": "61-68",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-70063-2_7",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "5100152904",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

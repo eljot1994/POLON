@@ -1,0 +1,698 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097297194"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097297194?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097297194&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097297194&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097297194",
+        "dc:identifier": "SCOPUS_ID:85097297194",
+        "eid": "2-s2.0-85097297194",
+        "dc:title": "Nonlinear vibration of a lumped system with springs-in-series",
+        "dc:creator": "Awrejcewicz J.",
+        "prism:publicationName": "Meccanica",
+        "prism:issn": "00256455",
+        "prism:eIssn": "15729648",
+        "prism:volume": "56",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "753-767",
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "April 2021",
+        "prism:doi": "10.1007/s11012-020-01270-7",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14471",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092640018"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092640018?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092640018&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092640018&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092640018",
+        "dc:identifier": "SCOPUS_ID:85092640018",
+        "eid": "2-s2.0-85092640018",
+        "dc:title": "Minimization of critical flow velocity of aeroelastic energy harvester via delayed feedback control",
+        "dc:creator": "Sarbinowski F.",
+        "prism:publicationName": "Vibrations in Physical Systems",
+        "prism:issn": "08606897",
+        "prism:volume": "31",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1-11",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2020225",
+        "source-id": "21100218015",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053273093"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053273093?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053273093&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053273093&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053273093",
+        "dc:identifier": "SCOPUS_ID:85053273093",
+        "eid": "2-s2.0-85053273093",
+        "dc:title": "Complexity of resonances exhibited by a nonlinear micromechanical gyroscope: an analytical study",
+        "dc:creator": "Awrejcewicz J.",
+        "prism:publicationName": "Nonlinear Dynamics",
+        "prism:issn": "0924090X",
+        "prism:eIssn": "1573269X",
+        "prism:volume": "97",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1819-1836",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "1 August 2019",
+        "prism:doi": "10.1007/s11071-018-4530-5",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21576",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051136915"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051136915?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051136915&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051136915&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051136915",
+        "dc:identifier": "SCOPUS_ID:85051136915",
+        "eid": "2-s2.0-85051136915",
+        "dc:title": "Plane motion of a rigid body suspended on nonlinear spring-damper",
+        "dc:creator": "Starosta R.",
+        "prism:publicationName": "Advanced Structured Materials",
+        "prism:issn": "18698433",
+        "prism:eIssn": "18698441",
+        "prism:volume": "94",
+        "prism:pageRange": "157-170",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-319-92234-8_10",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100222542",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037109438"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037109438?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85037109438&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85037109438&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85037109438",
+        "dc:identifier": "SCOPUS_ID:85037109438",
+        "eid": "2-s2.0-85037109438",
+        "dc:title": "Extended thermodynamics, effective elastic coefficients and electromagnetoelastic waves in superconducting layer",
+        "dc:creator": "Maruszewski B.T.",
+        "prism:publicationName": "Continuum Mechanics and Thermodynamics",
+        "prism:issn": "09351175",
+        "prism:volume": "30",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1379-1386",
+        "prism:coverDate": "2018-11-01",
+        "prism:coverDisplayDate": "1 November 2018",
+        "prism:doi": "10.1007/s00161-017-0609-3",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13712",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048667900"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048667900?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048667900&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048667900&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048667900",
+        "dc:identifier": "SCOPUS_ID:85048667900",
+        "eid": "2-s2.0-85048667900",
+        "dc:title": "Model and dynamical analysis of a tattooing device",
+        "dc:creator": "Sarbinowski F.",
+        "prism:publicationName": "Vibrations in Physical Systems",
+        "prism:issn": "08606897",
+        "prism:volume": "29",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-05-01",
+        "prism:coverDisplayDate": "May 2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2018004",
+        "source-id": "21100218015",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048662534"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048662534?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048662534&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048662534&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048662534",
+        "dc:identifier": "SCOPUS_ID:85048662534",
+        "eid": "2-s2.0-85048662534",
+        "dc:title": "Dynamics of an inertially driven robot",
+        "dc:creator": "Fritzkowski P.",
+        "prism:publicationName": "Vibrations in Physical Systems",
+        "prism:issn": "08606897",
+        "prism:volume": "29",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-05-01",
+        "prism:coverDisplayDate": "May 2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2018023",
+        "source-id": "21100218015",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048660114"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048660114?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048660114&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048660114&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048660114",
+        "dc:identifier": "SCOPUS_ID:85048660114",
+        "eid": "2-s2.0-85048660114",
+        "dc:title": "Two approaches in the analytical investigation of the spring pendulum",
+        "dc:creator": "Sypniewska-Kamińska G.",
+        "prism:publicationName": "Vibrations in Physical Systems",
+        "prism:issn": "08606897",
+        "prism:volume": "29",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-05-01",
+        "prism:coverDisplayDate": "May 2018",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2018005",
+        "source-id": "21100218015",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041054673"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041054673?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041054673&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041054673&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041054673",
+        "dc:identifier": "SCOPUS_ID:85041054673",
+        "eid": "2-s2.0-85041054673",
+        "dc:title": "Kinematics of a vertical axis wind turbine with a variable pitch angle",
+        "dc:creator": "Jakubowski M.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735416147"
+            }
+        ],
+        "prism:volume": "1922",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-05",
+        "prism:coverDisplayDate": "5 January 2018",
+        "prism:doi": "10.1063/1.5019115",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "110012",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84992700512"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84992700512?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84992700512&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84992700512&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0888327016302461"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84992700512",
+        "dc:identifier": "SCOPUS_ID:84992700512",
+        "eid": "2-s2.0-84992700512",
+        "dc:title": "Quantifying non-linear dynamics of mass-springs in series oscillators via asymptotic approach",
+        "dc:creator": "Starosta R.",
+        "prism:publicationName": "Mechanical Systems and Signal Processing",
+        "prism:issn": "08883270",
+        "prism:eIssn": "10961216",
+        "prism:volume": "89",
+        "prism:pageRange": "149-158",
+        "prism:coverDate": "2017-05-15",
+        "prism:coverDisplayDate": "15 May 2017",
+        "prism:doi": "10.1016/j.ymssp.2016.07.022",
+        "pii": "S0888327016302461",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21080",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013488774"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013488774?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013488774&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85013488774&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85013488774",
+        "dc:identifier": "SCOPUS_ID:85013488774",
+        "eid": "2-s2.0-85013488774",
+        "dc:title": "Motion of double pendulum colliding with an obstacle of rough surface",
+        "dc:creator": "Sypniewska-Kamińska G.",
+        "prism:publicationName": "Archive of Applied Mechanics",
+        "prism:issn": "09391533",
+        "prism:eIssn": "14320681",
+        "prism:volume": "87",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "841-852",
+        "prism:coverDate": "2017-05-01",
+        "prism:coverDisplayDate": "1 May 2017",
+        "prism:doi": "10.1007/s00419-017-1230-4",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13952",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

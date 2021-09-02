@@ -1,0 +1,170 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069438105"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069438105?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85069438105&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85069438105&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0924424719305680"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85069438105",
+        "dc:identifier": "SCOPUS_ID:85069438105",
+        "eid": "2-s2.0-85069438105",
+        "dc:title": "Planar configuration of extraordinary magnetoresistance for 2D-material-based magnetic field sensors",
+        "dc:creator": "El-Ahmar S.",
+        "prism:publicationName": "Sensors and Actuators, A: Physical",
+        "prism:issn": "09244247",
+        "prism:volume": "296",
+        "prism:pageRange": "249-253",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "1 September 2019",
+        "prism:doi": "10.1016/j.sna.2019.07.016",
+        "pii": "S0924424719305680",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13660",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067660165"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067660165?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067660165&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067660165&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067660165",
+        "dc:identifier": "SCOPUS_ID:85067660165",
+        "eid": "2-s2.0-85067660165",
+        "dc:title": "Toward the Development of an InSb-Based Neutron-Resistant Hall Sensor",
+        "dc:creator": "Jankowski J.",
+        "prism:publicationName": "IEEE Transactions on Nuclear Science",
+        "prism:issn": "00189499",
+        "prism:eIssn": "15581578",
+        "prism:volume": "66",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "926-931",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.1109/TNS.2019.2912720",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8695770",
+        "source-id": "17368",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062862395"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062862395?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062862395&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062862395&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062862395",
+        "dc:identifier": "SCOPUS_ID:85062862395",
+        "eid": "2-s2.0-85062862395",
+        "dc:title": "Using double Hall sensor structure to greatly reduce voltage offset in epitaxial graphene",
+        "dc:creator": "El-Ahmar S.",
+        "prism:publicationName": "Journal of Applied Physics",
+        "prism:issn": "00218979",
+        "prism:eIssn": "10897550",
+        "prism:volume": "125",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-03-14",
+        "prism:coverDisplayDate": "14 March 2019",
+        "prism:doi": "10.1063/1.5050376",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "104502",
+        "source-id": "28132",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

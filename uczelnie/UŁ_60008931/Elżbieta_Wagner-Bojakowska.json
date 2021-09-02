@@ -1,0 +1,242 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101769448"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101769448?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101769448&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101769448&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101769448",
+        "dc:identifier": "SCOPUS_ID:85101769448",
+        "eid": "2-s2.0-85101769448",
+        "dc:title": "A-continuity and measure",
+        "dc:creator": "Ivanova G.",
+        "prism:publicationName": "Lithuanian Mathematical Journal",
+        "prism:issn": "03631672",
+        "prism:eIssn": "15738825",
+        "prism:volume": "61",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "239-245",
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "April 2021",
+        "prism:doi": "10.1007/s10986-021-09514-z",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Akademia Pomorska w Słupsku",
+                "affiliation-city": "Slupsk PM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24478",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075016282"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075016282?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075016282&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075016282&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075016282",
+        "dc:identifier": "SCOPUS_ID:85075016282",
+        "eid": "2-s2.0-85075016282",
+        "dc:title": "Dense and σ-porous subsets in some families of cliquish functions",
+        "dc:creator": "Ivanova G.",
+        "prism:publicationName": "Quaestiones Mathematicae",
+        "prism:issn": "16073606",
+        "prism:eIssn": "1727933X",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "109-119",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.2989/16073606.2019.1672823",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pomeranian University",
+                "affiliation-city": "Slupsk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "59030",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070368162"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070368162?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070368162&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070368162&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070368162",
+        "dc:identifier": "SCOPUS_ID:85070368162",
+        "eid": "2-s2.0-85070368162",
+        "dc:title": "On some generalization of the notion of continuity. Category case",
+        "dc:creator": "Ivanova G.",
+        "prism:publicationName": "Lithuanian Mathematical Journal",
+        "prism:issn": "03631672",
+        "prism:eIssn": "15738825",
+        "prism:volume": "59",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "357-365",
+        "prism:coverDate": "2019-07-01",
+        "prism:coverDisplayDate": "1 July 2019",
+        "prism:doi": "10.1007/s10986-019-09447-8",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Akademia Pomorska w Słupsku",
+                "affiliation-city": "Slupsk PM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24478",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063519447"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063519447?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063519447&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063519447&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166864118306710"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063519447",
+        "dc:identifier": "SCOPUS_ID:85063519447",
+        "eid": "2-s2.0-85063519447",
+        "dc:title": "Families of Darboux functions and topology having (J <sup>⁎</sup> )-property",
+        "dc:creator": "Ivanova G.",
+        "prism:publicationName": "Topology and its Applications",
+        "prism:issn": "01668641",
+        "prism:volume": "258",
+        "prism:pageRange": "534-542",
+        "prism:coverDate": "2019-05-15",
+        "prism:coverDisplayDate": "15 May 2019",
+        "prism:doi": "10.1016/j.topol.2019.03.021",
+        "pii": "S0166864118306710",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Akademia Pomorska w Słupsku",
+                "affiliation-city": "Slupsk PM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27416",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

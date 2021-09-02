@@ -1,0 +1,163 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079087813"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079087813?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079087813&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079087813&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0921509320301647"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079087813",
+        "dc:identifier": "SCOPUS_ID:85079087813",
+        "eid": "2-s2.0-85079087813",
+        "dc:title": "Similar and dissimilar welds of ultrafine grained aluminium obtained by friction stir welding",
+        "dc:creator": "Orłowska M.",
+        "prism:publicationName": "Materials Science and Engineering A",
+        "prism:issn": "09215093",
+        "prism:volume": "777",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-03-10",
+        "prism:coverDisplayDate": "10 March 2020",
+        "prism:doi": "10.1016/j.msea.2020.139076",
+        "pii": "S0921509320301647",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "139076",
+        "source-id": "17811",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026527343"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026527343?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026527343&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026527343&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026527343",
+        "dc:identifier": "SCOPUS_ID:85026527343",
+        "eid": "2-s2.0-85026527343",
+        "dc:title": "Ultrafine-Grained Plates of Al-Mg-Si Alloy Obtained by Incremental Equal Channel Angular Pressing: Microstructure and Mechanical Properties",
+        "dc:creator": "Lipinska M.",
+        "prism:publicationName": "Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science",
+        "prism:issn": "10735623",
+        "prism:volume": "48",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "4871-4882",
+        "prism:coverDate": "2017-10-01",
+        "prism:coverDisplayDate": "1 October 2017",
+        "prism:doi": "10.1007/s11661-017-4258-8",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27356",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

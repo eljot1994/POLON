@@ -1,0 +1,58 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050012599"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050012599?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050012599&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050012599&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050012599",
+        "dc:identifier": "SCOPUS_ID:85050012599",
+        "eid": "2-s2.0-85050012599",
+        "dc:title": "Is it safer to transport a three-year-old child in a forward-facing child restraint system or in a rear-facing one while head-on collision?",
+        "dc:creator": "Rola E.",
+        "prism:publicationName": "2018 International Interdisciplinary PhD Workshop, IIPhDW 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538661437"
+            }
+        ],
+        "prism:pageRange": "128-130",
+        "prism:coverDate": "2018-06-18",
+        "prism:coverDisplayDate": "18 June 2018",
+        "prism:doi": "10.1109/IIPHDW.2018.8388340",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100868543",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

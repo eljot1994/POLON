@@ -1,0 +1,76 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101162035"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101162035?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101162035&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101162035&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101162035",
+        "dc:identifier": "SCOPUS_ID:85101162035",
+        "eid": "2-s2.0-85101162035",
+        "dc:title": "Homogenization of 7075 and 7049 aluminium alloys intended for extrusion welding",
+        "dc:creator": "Woźnicki A.",
+        "prism:publicationName": "Metals",
+        "prism:eIssn": "20754701",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1-16",
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.3390/met11020338",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "APTIV, Inc",
+                "affiliation-city": "Portland",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "338",
+        "source-id": "21100399731",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,120 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060988599"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060988599?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060988599&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060988599&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0012365X19300299"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060988599",
+        "dc:identifier": "SCOPUS_ID:85060988599",
+        "eid": "2-s2.0-85060988599",
+        "dc:title": "Generalized arboricity of graphs with large girth",
+        "dc:creator": "Bartnicki T.",
+        "prism:publicationName": "Discrete Mathematics",
+        "prism:issn": "0012365X",
+        "prism:volume": "342",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1343-1350",
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.1016/j.disc.2019.01.018",
+        "pii": "S0012365X19300299",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25892",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042363251"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042363251?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042363251&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042363251&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0012365X18300335"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042363251",
+        "dc:identifier": "SCOPUS_ID:85042363251",
+        "eid": "2-s2.0-85042363251",
+        "dc:title": "The lonely runner problem for lacunary sequences",
+        "dc:creator": "Czerwiński S.",
+        "prism:publicationName": "Discrete Mathematics",
+        "prism:issn": "0012365X",
+        "prism:volume": "341",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1301-1306",
+        "prism:coverDate": "2018-05-01",
+        "prism:coverDisplayDate": "May 2018",
+        "prism:doi": "10.1016/j.disc.2018.02.002",
+        "pii": "S0012365X18300335",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25892",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103565650"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103565650?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103565650&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85103565650&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85103565650",
+        "dc:identifier": "SCOPUS_ID:85103565650",
+        "eid": "2-s2.0-85103565650",
+        "dc:title": "The influence of pulse current frequency on selected aspects of heat transfer during GTA welding of 321 steel",
+        "dc:creator": "Ostromęcka M.",
+        "prism:publicationName": "Materials Research Proceedings",
+        "prism:issn": "24743941",
+        "prism:eIssn": "2474395X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781644901021"
+            }
+        ],
+        "prism:volume": "17",
+        "prism:pageRange": "251-257",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.21741/9781644901038-37",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Materials &amp; Structure Laboratory",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21101041837",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

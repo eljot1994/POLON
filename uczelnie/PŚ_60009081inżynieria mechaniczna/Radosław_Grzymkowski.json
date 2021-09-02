@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053626234"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053626234?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053626234&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053626234&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053626234",
+        "dc:identifier": "SCOPUS_ID:85053626234",
+        "eid": "2-s2.0-85053626234",
+        "dc:title": "Application of the Taylor Transformation to the Systems of Ordinary Differential Equations",
+        "dc:creator": "Grzymkowski R.",
+        "prism:publicationName": "Communications in Computer and Information Science",
+        "prism:issn": "18650929",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319999715"
+            }
+        ],
+        "prism:volume": "920",
+        "prism:pageRange": "379-387",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-99972-2_31",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "17700155007",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

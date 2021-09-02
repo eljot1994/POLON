@@ -1,0 +1,635 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097931052"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097931052?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097931052&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097931052&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2214157X20305487"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097931052",
+        "dc:identifier": "SCOPUS_ID:85097931052",
+        "eid": "2-s2.0-85097931052",
+        "dc:title": "A theoretical validation of Burzyński hypothesis for a stress-strain analysis of heat-resistant steel",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "Case Studies in Thermal Engineering",
+        "prism:issn": "2214157X",
+        "prism:volume": "23",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.1016/j.csite.2020.100806",
+        "pii": "S2214157X20305487",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "100806",
+        "source-id": "21100262580",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085765484"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085765484?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085765484&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085765484&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085765484",
+        "dc:identifier": "SCOPUS_ID:85085765484",
+        "eid": "2-s2.0-85085765484",
+        "dc:title": "On a comparison of Huber-Mises-Hencky with Zawadzki equivalent stress for a steam turbine blade during nonstationary thermal load",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735419988"
+            }
+        ],
+        "prism:volume": "2239",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-22",
+        "prism:coverDisplayDate": "22 May 2020",
+        "prism:doi": "10.1063/5.0007831",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "020008",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085753471"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085753471?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085753471&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085753471&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085753471",
+        "dc:identifier": "SCOPUS_ID:85085753471",
+        "eid": "2-s2.0-85085753471",
+        "dc:title": "The effect of temperature on strength differential and material effort of steam turbine rotors",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735419988"
+            }
+        ],
+        "prism:volume": "2239",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-22",
+        "prism:coverDisplayDate": "22 May 2020",
+        "prism:doi": "10.1063/5.0007837",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "020007",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085745363"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085745363?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085745363&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085745363&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085745363",
+        "dc:identifier": "SCOPUS_ID:85085745363",
+        "eid": "2-s2.0-85085745363",
+        "dc:title": "On the Burzyński stress effort during thermomechanical loading of a turbine blade",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735419988"
+            }
+        ],
+        "prism:volume": "2239",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-22",
+        "prism:coverDisplayDate": "22 May 2020",
+        "prism:doi": "10.1063/5.0007835",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "020009",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086150081"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086150081?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086150081&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086150081&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086150081",
+        "dc:identifier": "SCOPUS_ID:85086150081",
+        "eid": "2-s2.0-85086150081",
+        "dc:title": "Mechanical Characteristics of 26H2MF and St12T Steels under Compression at Elevated Temperatures",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "Strength of Materials",
+        "prism:issn": "00392316",
+        "prism:eIssn": "15739325",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "325-328",
+        "prism:coverDate": "2020-03-01",
+        "prism:coverDisplayDate": "1 March 2020",
+        "prism:doi": "10.1007/s11223-020-00181-y",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17968",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076207934"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076207934?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076207934&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85076207934&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85076207934",
+        "dc:identifier": "SCOPUS_ID:85076207934",
+        "eid": "2-s2.0-85076207934",
+        "dc:title": "Influence of High Temperatures on the Mechanical Characteristics of 26H2MF and ST12T STEELS",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "Materials Science",
+        "prism:issn": "1068820X",
+        "prism:eIssn": "1573885X",
+        "prism:volume": "55",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "435-439",
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "1 November 2019",
+        "prism:doi": "10.1007/s11003-019-00322-y",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17804",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062489930"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062489930?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062489930&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062489930&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062489930",
+        "dc:identifier": "SCOPUS_ID:85062489930",
+        "eid": "2-s2.0-85062489930",
+        "dc:title": "Validation plastic model with hardening of St12t",
+        "dc:creator": "Dudda W.",
+        "prism:publicationName": "AIP Conference Proceedings",
+        "prism:issn": "0094243X",
+        "prism:eIssn": "15517616",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780735418059"
+            }
+        ],
+        "prism:volume": "2077",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-02-21",
+        "prism:coverDisplayDate": "21 February 2019",
+        "prism:doi": "10.1063/1.5091877",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "26916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068698368"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068698368?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068698368&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068698368&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068698368",
+        "dc:identifier": "SCOPUS_ID:85068698368",
+        "eid": "2-s2.0-85068698368",
+        "dc:title": "The effect of strength differential on material effort and lifetime of steam turbine rotors under thermo-mechanical load",
+        "dc:creator": "Banaszkiewicz M.",
+        "prism:publicationName": "Engineering Transactions",
+        "prism:issn": "0867888X",
+        "prism:eIssn": "24508071",
+        "prism:volume": "67",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "167-184",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.24423/EngTrans.964.20190426",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Robert Szewalski Institute of Fluid-Flow Machinery of the Polish Academy of Sciences",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100208042",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056137829"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056137829?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056137829&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056137829&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056137829",
+        "dc:identifier": "SCOPUS_ID:85056137829",
+        "eid": "2-s2.0-85056137829",
+        "dc:title": "Applicability of Notch Stress-Strain Correction Methods to Low-Cycle Fatigue Life Prediction of Turbine Rotors Subjected to Thermomechanical Loads",
+        "dc:creator": "Banaszkiewicz M.",
+        "prism:publicationName": "Acta Mechanica et Automatica",
+        "prism:issn": "18984088",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "179-185",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "1 September 2018",
+        "prism:doi": "10.2478/ama-2018-0027",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Robert Szewalski Institute of Fluid-Flow Machinery of the Polish Academy of Sciences",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100206008",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

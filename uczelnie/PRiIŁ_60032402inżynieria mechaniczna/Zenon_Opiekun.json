@@ -1,0 +1,127 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105140282"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105140282?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105140282&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105140282&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105140282",
+        "dc:identifier": "SCOPUS_ID:85105140282",
+        "eid": "2-s2.0-85105140282",
+        "dc:title": "Structural analysis of sheet nickel welded joints",
+        "dc:creator": "Radoń M.",
+        "prism:publicationName": "Metalurgija",
+        "prism:issn": "05435846",
+        "prism:volume": "60",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "230-232",
+        "prism:coverDate": "2021-07-01",
+        "prism:coverDisplayDate": "July 2021",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27790",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055207710"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055207710?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055207710&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055207710&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055207710",
+        "dc:identifier": "SCOPUS_ID:85055207710",
+        "eid": "2-s2.0-85055207710",
+        "dc:title": "Effect of Fe<inf>3</inf>O<inf>4</inf> particles on multi-hollow morphology of poly(HEMA-divinylbenzene-styrene) microspheres prepared by Pickering suspension polymerization",
+        "dc:creator": "Prymon S.",
+        "prism:publicationName": "Express Polymer Letters",
+        "prism:issn": "1788618X",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "1026-1038",
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "December 2018",
+        "prism:doi": "10.3144/expresspolymlett.2018.90",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "11200153519",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,202 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089807695"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089807695?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089807695&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089807695&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167732220330671"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089807695",
+        "dc:identifier": "SCOPUS_ID:85089807695",
+        "eid": "2-s2.0-85089807695",
+        "dc:title": "Electrical conductivity of ion-doped fluoro substituted liquid crystal compounds for application in the dynamic light scattering effect",
+        "dc:creator": "Mrukiewicz M.",
+        "prism:publicationName": "Journal of Molecular Liquids",
+        "prism:issn": "01677322",
+        "prism:volume": "317",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "1 November 2020",
+        "prism:doi": "10.1016/j.molliq.2020.113810",
+        "pii": "S0167732220330671",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "113810",
+        "source-id": "26965",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060152410"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060152410?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060152410&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060152410&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060152410",
+        "dc:identifier": "SCOPUS_ID:85060152410",
+        "eid": "2-s2.0-85060152410",
+        "dc:title": "Threshold voltage decrease in a thermotropic nematic liquid crystal doped with graphene oxide flakes",
+        "dc:creator": "Mrukiewicz M.",
+        "prism:publicationName": "Beilstein Journal of Nanotechnology",
+        "prism:eIssn": "21904286",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "71-78",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.3762/bjnano.10.7",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700190315",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047363098"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047363098?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047363098&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047363098&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047363098",
+        "dc:identifier": "SCOPUS_ID:85047363098",
+        "eid": "2-s2.0-85047363098",
+        "dc:title": "Pretransitional effects in a mesogenic mixture under an electric field",
+        "dc:creator": "Mrukiewicz M.",
+        "prism:publicationName": "Physical Review E",
+        "prism:issn": "24700045",
+        "prism:eIssn": "24700053",
+        "prism:volume": "97",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-05-18",
+        "prism:coverDisplayDate": "18 May 2018",
+        "prism:doi": "10.1103/PhysRevE.97.052704",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "29906921",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "052704",
+        "source-id": "21100855841",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,942 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104669261"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104669261?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104669261&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104669261&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0272884221010580"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104669261",
+        "dc:identifier": "SCOPUS_ID:85104669261",
+        "eid": "2-s2.0-85104669261",
+        "dc:title": "Effects of ceramic-based CrN, TiN, and AlCrN interlayers on wear and friction behaviors of AlTiSiN+TiSiN PVD coatings",
+        "dc:creator": "Özkan D.",
+        "prism:publicationName": "Ceramics International",
+        "prism:issn": "02728842",
+        "prism:volume": "47",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": "20077-20089",
+        "prism:coverDate": "2021-07-15",
+        "prism:coverDisplayDate": "15 July 2021",
+        "prism:doi": "10.1016/j.ceramint.2021.04.015",
+        "pii": "S0272884221010580",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Milli Savunma Üniversitesi",
+                "affiliation-city": "Istanbul",
+                "affiliation-country": "Turkey"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21522",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105941706"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105941706?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105941706&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105941706&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105941706",
+        "dc:identifier": "SCOPUS_ID:85105941706",
+        "eid": "2-s2.0-85105941706",
+        "dc:title": "Effect of nitrogen ion implantation on the cavitation erosion resistance and cobalt-based solid solution phase transformations of HIPed stellite 6",
+        "dc:creator": "Szala M.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "1 May 2021",
+        "prism:doi": "10.3390/ma14092324",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2324",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099307591"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099307591?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099307591&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099307591&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099307591",
+        "dc:identifier": "SCOPUS_ID:85099307591",
+        "eid": "2-s2.0-85099307591",
+        "dc:title": "The effect of ho doping contents on the structural, microstructure and dielectric properties of Bi<inf>5</inf>Ti<inf>3</inf>FeO<inf>15</inf>aurivillius ceramics",
+        "dc:creator": "TOMASZEWSKA M.",
+        "prism:publicationName": "Archives of Metallurgy and Materials",
+        "prism:issn": "17333490",
+        "prism:volume": "66",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "91-96",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.24425/amm.2021.134763",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Silesia in Katowice",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "9500153913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091755725"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091755725?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091755725&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091755725&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091755725",
+        "dc:identifier": "SCOPUS_ID:85091755725",
+        "eid": "2-s2.0-85091755725",
+        "dc:title": "Identification of sugars and phenolic compounds in honey powders with the use of GC–MS, FTIR spectroscopy, and X-ray diffraction",
+        "dc:creator": "Kozłowicz K.",
+        "prism:publicationName": "Scientific Reports",
+        "prism:eIssn": "20452322",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-12-01",
+        "prism:coverDisplayDate": "1 December 2020",
+        "prism:doi": "10.1038/s41598-020-73306-7",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Life Sciences in Lublin",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33004933",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "16269",
+        "source-id": "21100200805",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086065336"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086065336?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086065336&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086065336&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0921509320307206"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086065336",
+        "dc:identifier": "SCOPUS_ID:85086065336",
+        "eid": "2-s2.0-85086065336",
+        "dc:title": "Vickers microindentation deformation of different cleavage faces of potassium bichromate single crystals: Anisotropy in microhardness and crack formation",
+        "dc:creator": "Borc J.",
+        "prism:publicationName": "Materials Science and Engineering A",
+        "prism:issn": "09215093",
+        "prism:volume": "790",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-07-14",
+        "prism:coverDisplayDate": "14 July 2020",
+        "prism:doi": "10.1016/j.msea.2020.139642",
+        "pii": "S0921509320307206",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "139642",
+        "source-id": "17811",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063103385"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063103385?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063103385&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063103385&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063103385",
+        "dc:identifier": "SCOPUS_ID:85063103385",
+        "eid": "2-s2.0-85063103385",
+        "dc:title": "The effect of size on structure and stress in grained films",
+        "dc:creator": "Chocyk D.",
+        "prism:publicationName": "Materials Science and Technology (United Kingdom)",
+        "prism:issn": "02670836",
+        "prism:eIssn": "17432847",
+        "prism:volume": "36",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "966-971",
+        "prism:coverDate": "2020-06-12",
+        "prism:coverDisplayDate": "12 June 2020",
+        "prism:doi": "10.1080/02670836.2019.1590505",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17815",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100077673"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100077673?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100077673&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100077673&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100077673",
+        "dc:identifier": "SCOPUS_ID:85100077673",
+        "eid": "2-s2.0-85100077673",
+        "dc:title": "Mechanical and tribological characterization of nanostructured HfB<inf>2</inf> films deposited from compound target",
+        "dc:creator": "Buranich V.",
+        "prism:publicationName": "SN Applied Sciences",
+        "prism:eIssn": "25233971",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-04-01",
+        "prism:coverDisplayDate": "April 2020",
+        "prism:doi": "10.1007/s42452-020-2359-2",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Sumy State University",
+                "affiliation-city": "Sumy",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "563",
+        "source-id": "21101037132",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079679620"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079679620?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079679620&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079679620&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079679620",
+        "dc:identifier": "SCOPUS_ID:85079679620",
+        "eid": "2-s2.0-85079679620",
+        "dc:title": "The structure and mechanical properties of the surface layer of polypropylene polymers with talc additions",
+        "dc:creator": "Świetlicki M.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "1 February 2020",
+        "prism:doi": "10.3390/ma13030698",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "698",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078425676"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078425676?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078425676&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078425676&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078425676",
+        "dc:identifier": "SCOPUS_ID:85078425676",
+        "eid": "2-s2.0-85078425676",
+        "dc:title": "The influence of kaolin clay on the mechanical properties and structure of thermoplastic starch films",
+        "dc:creator": "Kwaśniewska A.",
+        "prism:publicationName": "Polymers",
+        "prism:eIssn": "20734360",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "1 January 2020",
+        "prism:doi": "10.3390/polym12010073",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "73",
+        "source-id": "54222",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050488030"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050488030?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050488030&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050488030&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050488030",
+        "dc:identifier": "SCOPUS_ID:85050488030",
+        "eid": "2-s2.0-85050488030",
+        "dc:title": "Characterization of membrane processed honey and the effect of ultrafiltration with diafiltration on subsequent spray drying",
+        "dc:creator": "Samborska K.",
+        "prism:publicationName": "Journal of Food Process Engineering",
+        "prism:issn": "01458876",
+        "prism:eIssn": "17454530",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "October 2018",
+        "prism:doi": "10.1111/jfpe.12818",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Szkoła Główna Gospodarstwa Wiejskiego",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "e12818",
+        "source-id": "20589",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032855682"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032855682?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032855682&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032855682&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0042207X17306620"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032855682",
+        "dc:identifier": "SCOPUS_ID:85032855682",
+        "eid": "2-s2.0-85032855682",
+        "dc:title": "Molecular dynamics simulation of Ni thin films on Cu and Au under nanoindentation",
+        "dc:creator": "Chocyk D.",
+        "prism:publicationName": "Vacuum",
+        "prism:issn": "0042207X",
+        "prism:volume": "147",
+        "prism:pageRange": "24-30",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "January 2018",
+        "prism:doi": "10.1016/j.vacuum.2017.10.008",
+        "pii": "S0042207X17306620",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12489",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019161380"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019161380?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85019161380&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85019161380&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0946672X1730007X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85019161380",
+        "dc:identifier": "SCOPUS_ID:85019161380",
+        "eid": "2-s2.0-85019161380",
+        "dc:title": "Comparison of the effect of dietary copper nanoparticles with copper (II) salt on bone geometric and structural parameters as well as material characteristics in a rat model",
+        "dc:creator": "Tomaszewska E.",
+        "prism:publicationName": "Journal of Trace Elements in Medicine and Biology",
+        "prism:issn": "0946672X",
+        "prism:eIssn": "18783252",
+        "prism:volume": "42",
+        "prism:pageRange": "103-110",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "1 July 2017",
+        "prism:doi": "10.1016/j.jtemb.2017.05.002",
+        "pii": "S0946672X1730007X",
+        "citedby-count": "23",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Life Sciences in Lublin",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "28595781",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29664",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023190123"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023190123?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85023190123&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85023190123&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85023190123",
+        "dc:identifier": "SCOPUS_ID:85023190123",
+        "eid": "2-s2.0-85023190123",
+        "dc:title": "Synthesis and characterization of AgFeO<inf>2</inf> delafossite with non-stoichiometric silver concentration",
+        "dc:creator": "Siedliska K.",
+        "prism:publicationName": "Nukleonika",
+        "prism:issn": "00295922",
+        "prism:eIssn": "15085791",
+        "prism:volume": "62",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "165-170",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1515/nuka-2017-0025",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12701",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84983375860"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84983375860?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84983375860&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84983375860&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838816324707"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84983375860",
+        "dc:identifier": "SCOPUS_ID:84983375860",
+        "eid": "2-s2.0-84983375860",
+        "dc:title": "X-ray diffraction and<sup>57</sup>Fe Mössbauer spectroscopy studies of delafossite AgFeO<inf>2</inf>prepared by co-precipitation method",
+        "dc:creator": "Siedliska K.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "690",
+        "prism:pageRange": "182-188",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1016/j.jallcom.2016.08.092",
+        "pii": "S0925838816324707",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Life Sciences in Lublin",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

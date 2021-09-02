@@ -1,0 +1,560 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111406983"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111406983?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85111406983&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85111406983&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85111406983",
+        "dc:identifier": "SCOPUS_ID:85111406983",
+        "eid": "2-s2.0-85111406983",
+        "dc:title": "Applying DCT Combined Cepstrum for the Assessment of the Arteriovenous Fistula Condition",
+        "dc:creator": "Grochowina M.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030779665"
+            }
+        ],
+        "prism:volume": "12744 LNCS",
+        "prism:pageRange": "684-692",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1007/978-3-030-77967-2_57",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Signum Sp z o.o.",
+                "affiliation-city": "Łańcut",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091876694"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091876694?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091876694&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091876694&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091876694",
+        "dc:identifier": "SCOPUS_ID:85091876694",
+        "eid": "2-s2.0-85091876694",
+        "dc:title": "The prototype device for non-invasive diagnosis of arteriovenous fistula condition using machine learning methods",
+        "dc:creator": "Grochowina M.",
+        "prism:publicationName": "Scientific Reports",
+        "prism:eIssn": "20452322",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-12-01",
+        "prism:coverDisplayDate": "1 December 2020",
+        "prism:doi": "10.1038/s41598-020-72336-5",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33009417",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "16387",
+        "source-id": "21100200805",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101061814"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101061814?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101061814&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101061814&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101061814",
+        "dc:identifier": "SCOPUS_ID:85101061814",
+        "eid": "2-s2.0-85101061814",
+        "dc:title": "The multi-segment controller of a flexible arm",
+        "dc:creator": "Leniowski R.",
+        "prism:publicationName": "52nd International Symposium on Robotics, ISR 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783800754298"
+            }
+        ],
+        "prism:pageRange": "71-78",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21101038679",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077746774"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077746774?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077746774&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077746774&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077746774",
+        "dc:identifier": "SCOPUS_ID:85077746774",
+        "eid": "2-s2.0-85077746774",
+        "dc:title": "An application of wavelet transform for non-invasive evaluation of arteriovenous fistula state",
+        "dc:creator": "Grochowina M.",
+        "prism:publicationName": "Signal Processing - Algorithms, Architectures, Arrangements, and Applications Conference Proceedings, SPA",
+        "prism:issn": "23260262",
+        "prism:eIssn": "23260319",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788362065363"
+            }
+        ],
+        "prism:volume": "2019-September",
+        "prism:pageRange": "214-217",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "September 2019",
+        "prism:doi": "10.23919/SPA.2019.8936825",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8936825",
+        "source-id": "21100298628",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077742306"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077742306?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077742306&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077742306&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077742306",
+        "dc:identifier": "SCOPUS_ID:85077742306",
+        "eid": "2-s2.0-85077742306",
+        "dc:title": "Detecting of the rolling bearing state based on acoustic signal and the k-NN classifier",
+        "dc:creator": "Gil D.",
+        "prism:publicationName": "Signal Processing - Algorithms, Architectures, Arrangements, and Applications Conference Proceedings, SPA",
+        "prism:issn": "23260262",
+        "prism:eIssn": "23260319",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788362065363"
+            }
+        ],
+        "prism:volume": "2019-September",
+        "prism:pageRange": "246-249",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "September 2019",
+        "prism:doi": "10.23919/SPA.2019.8936710",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8936710",
+        "source-id": "21100298628",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060131379"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060131379?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060131379&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060131379&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0957415819300030"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060131379",
+        "dc:identifier": "SCOPUS_ID:85060131379",
+        "eid": "2-s2.0-85060131379",
+        "dc:title": "Vibration control of a circular plate using parametric controller with phase shift adjustment",
+        "dc:creator": "Leniowska L.",
+        "prism:publicationName": "Mechatronics",
+        "prism:issn": "09574158",
+        "prism:volume": "58",
+        "prism:pageRange": "39-46",
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "April 2019",
+        "prism:doi": "10.1016/j.mechatronics.2019.01.003",
+        "pii": "S0957415819300030",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21096",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071969412"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071969412?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071969412&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071969412&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071969412",
+        "dc:identifier": "SCOPUS_ID:85071969412",
+        "eid": "2-s2.0-85071969412",
+        "dc:title": "Influence of damping and fluid loading on the plate vibration control",
+        "dc:creator": "Leniowska L.",
+        "prism:publicationName": "55th Open Seminar on Acoustics, OSA 2008",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "8392166302"
+            },
+            {
+                "@_fa": "true",
+                "$": "9788392166306"
+            }
+        ],
+        "prism:pageRange": "223-228",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100928085",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060471454"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060471454?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060471454&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060471454&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060471454",
+        "dc:identifier": "SCOPUS_ID:85060471454",
+        "eid": "2-s2.0-85060471454",
+        "dc:title": "Design and implementation of a device supporting automatic diagnosis of arteriovenous fistula",
+        "dc:creator": "Grochowina M.",
+        "prism:publicationName": "Signal Processing - Algorithms, Architectures, Arrangements, and Applications Conference Proceedings, SPA",
+        "prism:issn": "23260262",
+        "prism:eIssn": "23260319",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788362065318"
+            }
+        ],
+        "prism:volume": "2018-September",
+        "prism:pageRange": "186-190",
+        "prism:coverDate": "2018-12-05",
+        "prism:coverDisplayDate": "5 December 2018",
+        "prism:doi": "10.23919/SPA.2018.8563380",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8563380",
+        "source-id": "21100298628",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057237377"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057237377?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057237377&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057237377&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057237377",
+        "dc:identifier": "SCOPUS_ID:85057237377",
+        "eid": "2-s2.0-85057237377",
+        "dc:title": "Active Vibration Control of Trapezoidal Plate Using MFC Collocated Sensor/Actuator",
+        "dc:creator": "Mierzeiewski K.",
+        "prism:publicationName": "Proceedings of 2018 Joint Conference - Acoustics, Acoustics 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538671146"
+            }
+        ],
+        "prism:pageRange": "188-191",
+        "prism:coverDate": "2018-10-22",
+        "prism:coverDisplayDate": "22 October 2018",
+        "prism:doi": "10.1109/ACOUSTICS.2018.8502381",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8502381",
+        "source-id": "21100887634",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

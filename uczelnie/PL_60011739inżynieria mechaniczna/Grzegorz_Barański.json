@@ -1,0 +1,59 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091705586"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091705586?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091705586&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091705586&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091705586",
+        "dc:identifier": "SCOPUS_ID:85091705586",
+        "eid": "2-s2.0-85091705586",
+        "dc:title": "Research into a fuel supply system in the aircraft diesel opposed engine",
+        "dc:creator": "Grabowski L.",
+        "prism:publicationName": "2020 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2020 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728166360"
+            }
+        ],
+        "prism:pageRange": "620-624",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.1109/MetroAeroSpace48742.2020.9160096",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9160096",
+        "source-id": "21101022205",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083092313"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083092313?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083092313&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083092313&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083092313",
+        "dc:identifier": "SCOPUS_ID:85083092313",
+        "eid": "2-s2.0-85083092313",
+        "dc:title": "Assessment of Electric Shock Hazard Coming from Earth Continuity Conductors in 110 kV Cable Lines",
+        "dc:creator": "Parol M.",
+        "prism:publicationName": "IEEE Transactions on Power Delivery",
+        "prism:issn": "08858977",
+        "prism:eIssn": "19374208",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "600-608",
+        "prism:coverDate": "2020-04-01",
+        "prism:coverDisplayDate": "1 April 2020",
+        "prism:doi": "10.1109/TPWRD.2019.2916890",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8715671",
+        "source-id": "17370",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

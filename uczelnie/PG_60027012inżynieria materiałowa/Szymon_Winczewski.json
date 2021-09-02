@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061838952"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061838952?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061838952&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061838952&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0008622319301666"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061838952",
+        "dc:identifier": "SCOPUS_ID:85061838952",
+        "eid": "2-s2.0-85061838952",
+        "dc:title": "Anisotropic mechanical behavior and auxeticity of penta-graphene: Molecular statics/molecular dynamics studies",
+        "dc:creator": "Winczewski S.",
+        "prism:publicationName": "Carbon",
+        "prism:issn": "00086223",
+        "prism:volume": "146",
+        "prism:pageRange": "572-587",
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.1016/j.carbon.2019.02.042",
+        "pii": "S0008622319301666",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25806",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

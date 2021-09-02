@@ -1,0 +1,182 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108095499"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108095499?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108095499&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108095499&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108095499",
+        "dc:identifier": "SCOPUS_ID:85108095499",
+        "eid": "2-s2.0-85108095499",
+        "dc:title": "On symmetric brackets induced by linear connections",
+        "dc:creator": "Balcerzak B.",
+        "prism:publicationName": "Symmetry",
+        "prism:eIssn": "20738994",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-01",
+        "prism:coverDisplayDate": "June 2021",
+        "prism:doi": "10.3390/sym13061003",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1003",
+        "source-id": "21100201542",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063721507"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063721507?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063721507&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063721507&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063721507",
+        "dc:identifier": "SCOPUS_ID:85063721507",
+        "eid": "2-s2.0-85063721507",
+        "dc:title": "On the dirac type operators on symmetric tensors",
+        "dc:creator": "Balcerzak B.",
+        "prism:publicationName": "Trends in Mathematics",
+        "prism:issn": "22970215",
+        "prism:eIssn": "2297024X",
+        "prism:pageRange": "215-222",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-030-01156-7_23",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100447813",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057395443"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057395443?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057395443&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057395443&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057395443",
+        "dc:identifier": "SCOPUS_ID:85057395443",
+        "eid": "2-s2.0-85057395443",
+        "dc:title": "Chern-Simons forms for a\" -linear connections on Lie algebroids",
+        "dc:creator": "Balcerzak B.",
+        "prism:publicationName": "International Journal of Mathematics",
+        "prism:issn": "0129167X",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "13",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "1 December 2018",
+        "prism:doi": "10.1142/S0129167X18500945",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1850094",
+        "source-id": "23244",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

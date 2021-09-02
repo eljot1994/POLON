@@ -1,0 +1,125 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077795902"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077795902?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077795902&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077795902&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077795902",
+        "dc:identifier": "SCOPUS_ID:85077795902",
+        "eid": "2-s2.0-85077795902",
+        "dc:title": "The influence of image masks definition on segmentation results of histopathological images using convolutional neural network",
+        "dc:creator": "Janczyk K.",
+        "prism:publicationName": "International Conference on Human System Interaction, HSI",
+        "prism:issn": "21582246",
+        "prism:eIssn": "21582254",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728139807"
+            }
+        ],
+        "prism:volume": "2019-June",
+        "prism:pageRange": "47-53",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.1109/HSI47298.2019.8942600",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centrum Techniki Okretowej SA, Poland",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8942600",
+        "source-id": "21100239837",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052731474"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052731474?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052731474&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052731474&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052731474",
+        "dc:identifier": "SCOPUS_ID:85052731474",
+        "eid": "2-s2.0-85052731474",
+        "dc:title": "Digits recognition with quadrant photodiode and convolutional neural network",
+        "dc:creator": "Janczyk K.",
+        "prism:publicationName": "Proceedings - 2018 11th International Conference on Human System Interaction, HSI 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538650233"
+            }
+        ],
+        "prism:pageRange": "111-117",
+        "prism:coverDate": "2018-08-09",
+        "prism:coverDisplayDate": "9 August 2018",
+        "prism:doi": "10.1109/HSI.2018.8431246",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centrum Techniki Okretowej SA, Poland",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8431246",
+        "source-id": "21100875936",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

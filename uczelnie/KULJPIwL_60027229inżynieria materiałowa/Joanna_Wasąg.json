@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107447053"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107447053?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107447053&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107447053&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0039914021004860"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107447053",
+        "dc:identifier": "SCOPUS_ID:85107447053",
+        "eid": "2-s2.0-85107447053",
+        "dc:title": "Application of adsorptive stripping voltammetry based on PbFE for the determination of trace aluminum released into the environment during the corrosion process",
+        "dc:creator": "Wasąg J.",
+        "prism:publicationName": "Talanta",
+        "prism:issn": "00399140",
+        "prism:volume": "233",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-10-01",
+        "prism:coverDisplayDate": "1 October 2021",
+        "prism:doi": "10.1016/j.talanta.2021.122565",
+        "pii": "S0039914021004860",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Katolicki Uniwersytet Lubelski Jana Pawła II",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "34215061",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "122565",
+        "source-id": "24555",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,275 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094136694"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094136694?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094136694&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094136694&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094136694",
+        "dc:identifier": "SCOPUS_ID:85094136694",
+        "eid": "2-s2.0-85094136694",
+        "dc:title": "Perception-based study on the value of nature to people and land sparing for nature in Brazil and Poland",
+        "dc:creator": "Latawiec A.E.",
+        "prism:publicationName": "Sustainability (Switzerland)",
+        "prism:eIssn": "20711050",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "21",
+        "prism:pageRange": "1-11",
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "1 November 2020",
+        "prism:doi": "10.3390/su12218860",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "affiliation-city": "Rio de Janeiro",
+                "affiliation-country": "Brazil"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of East Anglia",
+                "affiliation-city": "Norwich",
+                "affiliation-country": "United Kingdom"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "International Institute for Sustainability",
+                "affiliation-city": "Rio de Janeiro",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8860",
+        "source-id": "21100240100",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075894815"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075894815?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075894815&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075894815&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075894815",
+        "dc:identifier": "SCOPUS_ID:85075894815",
+        "eid": "2-s2.0-85075894815",
+        "dc:title": "The review of biomass potential for agricultural biogas production in Poland",
+        "dc:creator": "Koryś K.A.",
+        "prism:publicationName": "Sustainability (Switzerland)",
+        "prism:eIssn": "20711050",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "22",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "1 November 2019",
+        "prism:doi": "10.3390/su11226515",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "affiliation-city": "Rio de Janeiro",
+                "affiliation-country": "Brazil"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "International Institute for Sustainability",
+                "affiliation-city": "Rio de Janeiro",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "6515",
+        "source-id": "21100240100",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018384083"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018384083?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018384083&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018384083&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018384083",
+        "dc:identifier": "SCOPUS_ID:85018384083",
+        "eid": "2-s2.0-85018384083",
+        "dc:title": "Willingness to adopt biochar in agriculture: The producer's perspective",
+        "dc:creator": "Latawiec A.",
+        "prism:publicationName": "Sustainability (Switzerland)",
+        "prism:eIssn": "20711050",
+        "prism:volume": "9",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-04-24",
+        "prism:coverDisplayDate": "24 April 2017",
+        "prism:doi": "10.3390/su9040655",
+        "citedby-count": "18",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "affiliation-city": "Rio de Janeiro",
+                "affiliation-country": "Brazil"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of East Anglia",
+                "affiliation-city": "Norwich",
+                "affiliation-country": "United Kingdom"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "International Institute for Sustainability",
+                "affiliation-city": "Rio de Janeiro",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "655",
+        "source-id": "21100240100",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,159 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073456655"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073456655?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073456655&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073456655&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073456655",
+        "dc:identifier": "SCOPUS_ID:85073456655",
+        "eid": "2-s2.0-85073456655",
+        "dc:title": "The material indices method in the sustainable engineering design process: A review",
+        "dc:creator": "Branowski B.",
+        "prism:publicationName": "Sustainability (Switzerland)",
+        "prism:eIssn": "20711050",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "19",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-10-01",
+        "prism:coverDisplayDate": "1 October 2019",
+        "prism:doi": "10.3390/su11195465",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "5465",
+        "source-id": "21100240100",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026669131"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026669131?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026669131&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026669131&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026669131",
+        "dc:identifier": "SCOPUS_ID:85026669131",
+        "eid": "2-s2.0-85026669131",
+        "dc:title": "Sustainable design: A case of environmental and cost life cycle assessment of a kitchen designed for seniors and disabled people",
+        "dc:creator": "Lewandowska A.",
+        "prism:publicationName": "Sustainability (Switzerland)",
+        "prism:eIssn": "20711050",
+        "prism:volume": "9",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-07-29",
+        "prism:coverDisplayDate": "29 July 2017",
+        "prism:doi": "10.3390/su9081329",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Poznań University of Economics and Business",
+                "affiliation-city": "Poznan WP,",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1329",
+        "source-id": "21100240100",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,342 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107786153"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107786153?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107786153&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107786153&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0032591021004022"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107786153",
+        "dc:identifier": "SCOPUS_ID:85107786153",
+        "eid": "2-s2.0-85107786153",
+        "dc:title": "A 3D LBM-DEM study of sheared particle suspensions under the influence of temperature-dependent viscosity",
+        "dc:creator": "McCullough J.W.S.",
+        "prism:publicationName": "Powder Technology",
+        "prism:issn": "00325910",
+        "prism:eIssn": "1873328X",
+        "prism:volume": "390",
+        "prism:pageRange": "143-158",
+        "prism:coverDate": "2021-09-01",
+        "prism:coverDisplayDate": "September 2021",
+        "prism:doi": "10.1016/j.powtec.2021.05.011",
+        "pii": "S0032591021004022",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The University of Queensland",
+                "affiliation-city": "Brisbane",
+                "affiliation-country": "Australia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13717",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085091531"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085091531?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085091531&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085091531&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085091531",
+        "dc:identifier": "SCOPUS_ID:85085091531",
+        "eid": "2-s2.0-85085091531",
+        "dc:title": "Aerodynamic Shape Optimization of a Gas Turbine Engine Air-Delivery Duct",
+        "dc:creator": "Marchlewski K.",
+        "prism:publicationName": "Journal of Aerospace Engineering",
+        "prism:issn": "08931321",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-07-01",
+        "prism:coverDisplayDate": "1 July 2020",
+        "prism:doi": "10.1061/(ASCE)AS.1943-5525.0001157",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "04020042",
+        "source-id": "16252",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071465452"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071465452?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071465452&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071465452&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0898122119304158"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071465452",
+        "dc:identifier": "SCOPUS_ID:85071465452",
+        "eid": "2-s2.0-85071465452",
+        "dc:title": "A cascaded phase-field lattice Boltzmann model for the simulation of incompressible, immiscible fluids with high density contrast",
+        "dc:creator": "Gruszczyński G.",
+        "prism:publicationName": "Computers and Mathematics with Applications",
+        "prism:issn": "08981221",
+        "prism:volume": "79",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1049-1071",
+        "prism:coverDate": "2020-02-15",
+        "prism:coverDisplayDate": "15 February 2020",
+        "prism:doi": "10.1016/j.camwa.2019.08.018",
+        "pii": "S0898122119304158",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28468",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051128479"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051128479?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051128479&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051128479&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051128479",
+        "dc:identifier": "SCOPUS_ID:85051128479",
+        "eid": "2-s2.0-85051128479",
+        "dc:title": "Robust optimization with Gaussian process models",
+        "dc:creator": "Marchlewski K.",
+        "prism:publicationName": "Notes on Numerical Fluid Mechanics and Multidisciplinary Design",
+        "prism:issn": "16122909",
+        "prism:volume": "140",
+        "prism:pageRange": "479-494",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-319-77767-2_30",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100240700",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047525366"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047525366?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047525366&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047525366&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1568494618302199"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047525366",
+        "dc:identifier": "SCOPUS_ID:85047525366",
+        "eid": "2-s2.0-85047525366",
+        "dc:title": "Shape optimisation method based on the surrogate models in the parallel asynchronous environment",
+        "dc:creator": "Przysowa K.",
+        "prism:publicationName": "Applied Soft Computing Journal",
+        "prism:issn": "15684946",
+        "prism:volume": "71",
+        "prism:pageRange": "1189-1203",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "October 2018",
+        "prism:doi": "10.1016/j.asoc.2018.04.028",
+        "pii": "S1568494618302199",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18136",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019539719"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019539719?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85019539719&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85019539719&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1568494617301898"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85019539719",
+        "dc:identifier": "SCOPUS_ID:85019539719",
+        "eid": "2-s2.0-85019539719",
+        "dc:title": "A Kriging-assisted multiobjective evolutionary algorithm",
+        "dc:creator": "Venturelli G.",
+        "prism:publicationName": "Applied Soft Computing Journal",
+        "prism:issn": "15684946",
+        "prism:volume": "58",
+        "prism:pageRange": "155-175",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "September 2017",
+        "prism:doi": "10.1016/j.asoc.2017.04.017",
+        "pii": "S1568494617301898",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Università degli Studi di Padova",
+                "affiliation-city": "Padua",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18136",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

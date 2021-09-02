@@ -1,0 +1,54 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109343977"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109343977?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85109343977&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85109343977&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85109343977",
+        "dc:identifier": "SCOPUS_ID:85109343977",
+        "eid": "2-s2.0-85109343977",
+        "dc:title": "The influence of plasma gas on changes in chemical composition and structures during the cutting process",
+        "dc:creator": "Rzeźnikiewicz A.",
+        "prism:publicationName": "International Journal of Modern Manufacturing Technologies",
+        "prism:issn": "20673604",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "185-192",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100397338",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,155 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067818632"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067818632?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067818632&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067818632&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067818632",
+        "dc:identifier": "SCOPUS_ID:85067818632",
+        "eid": "2-s2.0-85067818632",
+        "dc:title": "Interpolation of nonlinear positive or order preserving operators on Banach lattices",
+        "dc:creator": "Chill R.",
+        "prism:publicationName": "Positivity",
+        "prism:issn": "13851292",
+        "prism:eIssn": "15729281",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "507-532",
+        "prism:coverDate": "2020-07-01",
+        "prism:coverDisplayDate": "1 July 2020",
+        "prism:doi": "10.1007/s11117-019-00688-y",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Technische Universität Dresden",
+                "affiliation-city": "Dresden",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25809",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84991619689"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84991619689?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84991619689&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84991619689&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84991619689",
+        "dc:identifier": "SCOPUS_ID:84991619689",
+        "eid": "2-s2.0-84991619689",
+        "dc:title": "Real interpolation with weighted rearrangement invariant Banach function spaces",
+        "dc:creator": "Chill R.",
+        "prism:publicationName": "Journal of Evolution Equations",
+        "prism:issn": "14243199",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "173-195",
+        "prism:coverDate": "2017-03-01",
+        "prism:coverDisplayDate": "1 March 2017",
+        "prism:doi": "10.1007/s00028-016-0366-y",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Technische Universität Dresden",
+                "affiliation-city": "Dresden",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23892",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

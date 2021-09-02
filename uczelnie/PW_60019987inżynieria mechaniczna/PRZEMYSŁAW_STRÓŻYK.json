@@ -1,0 +1,123 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086354202"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086354202?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086354202&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086354202&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021929020302207"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086354202",
+        "dc:identifier": "SCOPUS_ID:85086354202",
+        "eid": "2-s2.0-85086354202",
+        "dc:title": "Effect of foods on selected dynamic parameters of mandibular elevator muscles during symmetric incisal biting",
+        "dc:creator": "Stróżyk P.",
+        "prism:publicationName": "Journal of Biomechanics",
+        "prism:issn": "00219290",
+        "prism:eIssn": "18732380",
+        "prism:volume": "106",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-06-09",
+        "prism:coverDisplayDate": "9 June 2020",
+        "prism:doi": "10.1016/j.jbiomech.2020.109800",
+        "pii": "S0021929020302207",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32517980",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "109800",
+        "source-id": "15846",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053388145"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053388145?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053388145&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053388145&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021929018306602"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053388145",
+        "dc:identifier": "SCOPUS_ID:85053388145",
+        "eid": "2-s2.0-85053388145",
+        "dc:title": "Modelling of the forces acting on the human stomatognathic system during dynamic symmetric incisal biting of foodstuffs",
+        "dc:creator": "Stróżyk P.",
+        "prism:publicationName": "Journal of Biomechanics",
+        "prism:issn": "00219290",
+        "prism:eIssn": "18732380",
+        "prism:volume": "79",
+        "prism:pageRange": "58-66",
+        "prism:coverDate": "2018-10-05",
+        "prism:coverDisplayDate": "5 October 2018",
+        "prism:doi": "10.1016/j.jbiomech.2018.07.046",
+        "pii": "S0021929018306602",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30173934",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "15846",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

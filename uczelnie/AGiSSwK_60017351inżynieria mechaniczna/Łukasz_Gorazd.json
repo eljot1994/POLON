@@ -1,0 +1,112 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079836111"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079836111?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079836111&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079836111&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079836111",
+        "dc:identifier": "SCOPUS_ID:85079836111",
+        "eid": "2-s2.0-85079836111",
+        "dc:title": "Evaluation of the transmission and the scattering matrix applicability to the mufflers analysis",
+        "dc:creator": "Snakowska A.",
+        "prism:publicationName": "Vibrations in Physical Systems",
+        "prism:issn": "08606897",
+        "prism:volume": "30",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2019102",
+        "source-id": "21100218015",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057248367"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057248367?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057248367&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057248367&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057248367",
+        "dc:identifier": "SCOPUS_ID:85057248367",
+        "eid": "2-s2.0-85057248367",
+        "dc:title": "Analysis of Some of the In-Duct Acoustic Pressure Measurement Errors",
+        "dc:creator": "Gorazd Ł.",
+        "prism:publicationName": "Proceedings of 2018 Joint Conference - Acoustics, Acoustics 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538671146"
+            }
+        ],
+        "prism:pageRange": "68-73",
+        "prism:coverDate": "2018-10-22",
+        "prism:coverDisplayDate": "22 October 2018",
+        "prism:doi": "10.1109/ACOUSTICS.2018.8502307",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8502307",
+        "source-id": "21100887634",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089127019"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089127019?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089127019&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089127019&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089127019",
+        "dc:identifier": "SCOPUS_ID:85089127019",
+        "eid": "2-s2.0-85089127019",
+        "dc:title": "The structure and switchable dielectric properties of a dabco complex with chromium chloride",
+        "dc:creator": "Cizman A.",
+        "prism:publicationName": "Dalton Transactions",
+        "prism:issn": "14779226",
+        "prism:eIssn": "14779234",
+        "prism:volume": "49",
+        "prism:issueIdentifier": "30",
+        "prism:pageRange": "10394-10401",
+        "prism:coverDate": "2020-08-14",
+        "prism:coverDisplayDate": "14 August 2020",
+        "prism:doi": "10.1039/d0dt01897j",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32657310",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "9500153949",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

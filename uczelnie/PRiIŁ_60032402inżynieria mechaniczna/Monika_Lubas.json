@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106922279"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106922279?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85106922279&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85106922279&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0016236121005767"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85106922279",
+        "dc:identifier": "SCOPUS_ID:85106922279",
+        "eid": "2-s2.0-85106922279",
+        "dc:title": "Effect of temperature on tribological properties of 1-butanol–diesel fuel blends – Preliminary experimental study using the HFRR method",
+        "dc:creator": "Kuszewski H.",
+        "prism:publicationName": "Fuel",
+        "prism:issn": "00162361",
+        "prism:volume": "296",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-07-15",
+        "prism:coverDisplayDate": "15 July 2021",
+        "prism:doi": "10.1016/j.fuel.2021.120700",
+        "pii": "S0016236121005767",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "120700",
+        "source-id": "16313",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

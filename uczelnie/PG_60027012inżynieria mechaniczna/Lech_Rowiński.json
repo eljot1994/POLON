@@ -1,0 +1,137 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102989895"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102989895?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102989895&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102989895&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0045653521007438"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102989895",
+        "dc:identifier": "SCOPUS_ID:85102989895",
+        "eid": "2-s2.0-85102989895",
+        "dc:title": "Advanced super-hydrophobic polymer-based porous absorbents for the treatment of oil-polluted water",
+        "dc:creator": "Hoang A.T.",
+        "prism:publicationName": "Chemosphere",
+        "prism:issn": "00456535",
+        "prism:eIssn": "18791298",
+        "prism:volume": "277",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-08-01",
+        "prism:coverDisplayDate": "August 2021",
+        "prism:doi": "10.1016/j.chemosphere.2021.130274",
+        "pii": "S0045653521007438",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Đại học Công nghệ Thành phố Hồ Chí Minh",
+                "affiliation-city": "Ho Chi Minh City",
+                "affiliation-country": "Viet Nam"
+            }
+        ],
+        "pubmed-id": "33770690",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "130274",
+        "source-id": "24657",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020696448"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020696448?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85020696448&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85020696448&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85020696448",
+        "dc:identifier": "SCOPUS_ID:85020696448",
+        "eid": "2-s2.0-85020696448",
+        "dc:title": "Living and Working Beneath the Sea - Next Approach",
+        "dc:creator": "Rowiński L.",
+        "prism:publicationName": "Polish Maritime Research",
+        "prism:issn": "12332585",
+        "prism:eIssn": "20837429",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "s1",
+        "prism:pageRange": "195-202",
+        "prism:coverDate": "2017-04-25",
+        "prism:coverDisplayDate": "25 April 2017",
+        "prism:doi": "10.1515/pomr-2017-0039",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17700156764",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

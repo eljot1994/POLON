@@ -1,0 +1,114 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086474884"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086474884?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086474884&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086474884&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086474884",
+        "dc:identifier": "SCOPUS_ID:85086474884",
+        "eid": "2-s2.0-85086474884",
+        "dc:title": "Theoretical and experimental analysis of small arms jump for classic and bull-pup layout",
+        "dc:creator": "Kupidura P.",
+        "prism:publicationName": "Proceedings - 31st International Symposium on Ballistics, BALLISTICS 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781605956107"
+            }
+        ],
+        "prism:volume": "1",
+        "prism:pageRange": "1064-1071",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100992283",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085946997"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085946997?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085946997&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085946997&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085946997",
+        "dc:identifier": "SCOPUS_ID:85085946997",
+        "eid": "2-s2.0-85085946997",
+        "dc:title": "Comparison of selected operational characteristics of classic and bull-pup rifles",
+        "dc:creator": "Kupidura P.",
+        "prism:publicationName": "Proceedings - 31st International Symposium on Ballistics, BALLISTICS 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781605956107"
+            }
+        ],
+        "prism:volume": "2",
+        "prism:pageRange": "2471-2478",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100992283",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

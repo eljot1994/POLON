@@ -1,0 +1,207 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091514765"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091514765?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091514765&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091514765&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091514765",
+        "dc:identifier": "SCOPUS_ID:85091514765",
+        "eid": "2-s2.0-85091514765",
+        "dc:title": "Finding the hole in a wall",
+        "dc:creator": "Archibald M.",
+        "prism:publicationName": "Journal of Mathematical Chemistry",
+        "prism:issn": "02599791",
+        "prism:eIssn": "15728897",
+        "prism:volume": "58",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "2313-2323",
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "1 November 2020",
+        "prism:doi": "10.1007/s10910-020-01178-3",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the Witwatersrand, Johannesburg",
+                "affiliation-city": "Johannesburg",
+                "affiliation-country": "South Africa"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23941",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85095736102"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85095736102?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85095736102&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85095736102&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85095736102",
+        "dc:identifier": "SCOPUS_ID:85095736102",
+        "eid": "2-s2.0-85095736102",
+        "dc:title": "Characterization of break in quantum grid",
+        "dc:creator": "Archibald M.",
+        "prism:publicationName": "Acta Physica Polonica A",
+        "prism:issn": "05874246",
+        "prism:eIssn": "1898794X",
+        "prism:volume": "138",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "383-391",
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "September 2020",
+        "prism:doi": "10.12693/APhysPolA.138.383",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the Witwatersrand, Johannesburg",
+                "affiliation-city": "Johannesburg",
+                "affiliation-country": "South Africa"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26936",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046994063"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046994063?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046994063&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85046994063&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85046994063",
+        "dc:identifier": "SCOPUS_ID:85046994063",
+        "eid": "2-s2.0-85046994063",
+        "dc:title": "Sturm–Liouville Problems with Transfer Condition Herglotz Dependent on the Eigenparameter: Hilbert Space Formulation",
+        "dc:creator": "Bartels C.",
+        "prism:publicationName": "Integral Equations and Operator Theory",
+        "prism:issn": "0378620X",
+        "prism:volume": "90",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-06-01",
+        "prism:coverDisplayDate": "1 June 2018",
+        "prism:doi": "10.1007/s00020-018-2463-5",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the Witwatersrand, Johannesburg",
+                "affiliation-city": "Johannesburg",
+                "affiliation-country": "South Africa"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "34",
+        "source-id": "23228",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

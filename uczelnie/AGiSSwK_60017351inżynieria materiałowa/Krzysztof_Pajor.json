@@ -1,0 +1,66 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061315745"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061315745?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061315745&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061315745&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S092583881930550X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061315745",
+        "dc:identifier": "SCOPUS_ID:85061315745",
+        "eid": "2-s2.0-85061315745",
+        "dc:title": "Microstructural response on nickel addition in rapidly solidified ∼Fe-25Cr-xNi-5Mo-0.8C [x = 0, 6, 11, 15, 21 wt. %] hardfacing alloys",
+        "dc:creator": "Wieczerzak K.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "787",
+        "prism:pageRange": "186-195",
+        "prism:coverDate": "2019-05-30",
+        "prism:coverDisplayDate": "30 May 2019",
+        "prism:doi": "10.1016/j.jallcom.2019.02.110",
+        "pii": "S092583881930550X",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Empa - Swiss Federal Laboratories for Materials Science and Technology",
+                "affiliation-city": "Dübendorf",
+                "affiliation-country": "Switzerland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

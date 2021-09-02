@@ -1,0 +1,119 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078198235"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078198235?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078198235&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078198235&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0165011420300166"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078198235",
+        "dc:identifier": "SCOPUS_ID:85078198235",
+        "eid": "2-s2.0-85078198235",
+        "dc:title": "Hölder-Minkowski type inequality for generalized Sugeno integral",
+        "dc:creator": "Boczek M.",
+        "prism:publicationName": "Fuzzy Sets and Systems",
+        "prism:issn": "01650114",
+        "prism:volume": "396",
+        "prism:pageRange": "51-71",
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "1 October 2020",
+        "prism:doi": "10.1016/j.fss.2020.01.005",
+        "pii": "S0165011420300166",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26529",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090098872"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090098872?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090098872&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090098872&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090098872",
+        "dc:identifier": "SCOPUS_ID:85090098872",
+        "eid": "2-s2.0-85090098872",
+        "dc:title": "Probabilistic measures and integrals: How to aggregate imprecise data",
+        "dc:creator": "Boczek M.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030575236"
+            }
+        ],
+        "prism:volume": "12256 LNAI",
+        "prism:pageRange": "78-91",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-3-030-57524-3_7",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,842 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079378894"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079378894?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079378894&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079378894&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0304414919303230"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079378894",
+        "dc:identifier": "SCOPUS_ID:85079378894",
+        "eid": "2-s2.0-85079378894",
+        "dc:title": "Backward stochastic differential equations with two barriers and generalized reflection",
+        "dc:creator": "Falkowski A.",
+        "prism:publicationName": "Stochastic Processes and their Applications",
+        "prism:issn": "03044149",
+        "prism:volume": "130",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "4746-4765",
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "August 2020",
+        "prism:doi": "10.1016/j.spa.2020.01.015",
+        "pii": "S0304414919303230",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26929",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074692700"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074692700?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074692700&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074692700&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S000744971930096X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074692700",
+        "dc:identifier": "SCOPUS_ID:85074692700",
+        "eid": "2-s2.0-85074692700",
+        "dc:title": "Reflected backward stochastic differential equations with two optional barriers",
+        "dc:creator": "Klimsiak T.",
+        "prism:publicationName": "Bulletin des Sciences Mathematiques",
+        "prism:issn": "00074497",
+        "prism:volume": "158",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "February 2020",
+        "prism:doi": "10.1016/j.bulsci.2019.102820",
+        "pii": "S000744971930096X",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "102820",
+        "source-id": "25286",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090485823"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090485823?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090485823&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090485823&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090485823",
+        "dc:identifier": "SCOPUS_ID:85090485823",
+        "eid": "2-s2.0-85090485823",
+        "dc:title": "Pathogenesis of psoriasis in the \"omic\" era. Part III. Metabolic disorders, metabolomics, nutrigenomics in psoriasis",
+        "dc:creator": "Owczarczyk-Saczonek A.",
+        "prism:publicationName": "Postepy Dermatologii i Alergologii",
+        "prism:issn": "1642395X",
+        "prism:eIssn": "22990046",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "452-467",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.5114/ada.2020.98284",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "144608",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090100029"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090100029?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090100029&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090100029&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090100029",
+        "dc:identifier": "SCOPUS_ID:85090100029",
+        "eid": "2-s2.0-85090100029",
+        "dc:title": "Pathogenesis of psoriasis in the \"omic\" era. Part II Genetic, genomic and epigenetic changes in psoriasis",
+        "dc:creator": "Nedoszytko B.",
+        "prism:publicationName": "Postepy Dermatologii i Alergologii",
+        "prism:issn": "1642395X",
+        "prism:eIssn": "22990046",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "283-298",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.5114/ada.2020.96243",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdanski Uniwersytet Medyczny",
+                "affiliation-city": "Gdańsk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "144608",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086930552"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086930552?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086930552&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086930552&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086930552",
+        "dc:identifier": "SCOPUS_ID:85086930552",
+        "eid": "2-s2.0-85086930552",
+        "dc:title": "Pathogenesis of psoriasis in the “omic” era. Part I. Epidemiology, clinical manifestation, immunological and neuroendocrine disturbances",
+        "dc:creator": "Samotij D.",
+        "prism:publicationName": "Postepy Dermatologii i Alergologii",
+        "prism:issn": "1642395X",
+        "prism:eIssn": "22990046",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "135-153",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.5114/ada.2020.94832",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "144608",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047058122"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047058122?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047058122&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047058122&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S030441491830142X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047058122",
+        "dc:identifier": "SCOPUS_ID:85047058122",
+        "eid": "2-s2.0-85047058122",
+        "dc:title": "Reflected BSDEs with regulated trajectories",
+        "dc:creator": "Klimsiak T.",
+        "prism:publicationName": "Stochastic Processes and their Applications",
+        "prism:issn": "03044149",
+        "prism:volume": "129",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1153-1184",
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "April 2019",
+        "prism:doi": "10.1016/j.spa.2018.04.011",
+        "pii": "S030441491830142X",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26929",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994316184"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994316184?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994316184&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994316184&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994316184",
+        "dc:identifier": "SCOPUS_ID:84994316184",
+        "eid": "2-s2.0-84994316184",
+        "dc:title": "Systems of Semilinear Parabolic Variational Inequalities with Time-Dependent Convex Obstacles",
+        "dc:creator": "Klimsiak T.",
+        "prism:publicationName": "Applied Mathematics and Optimization",
+        "prism:issn": "00954616",
+        "prism:eIssn": "14320606",
+        "prism:volume": "77",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "541-566",
+        "prism:coverDate": "2018-06-01",
+        "prism:coverDisplayDate": "1 June 2018",
+        "prism:doi": "10.1007/s00245-016-9387-8",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25179",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016410463"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016410463?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85016410463&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85016410463&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0304414917300455"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85016410463",
+        "dc:identifier": "SCOPUS_ID:85016410463",
+        "eid": "2-s2.0-85016410463",
+        "dc:title": "SDEs with constraints driven by semimartingales and processes with bounded p-variation",
+        "dc:creator": "Falkowski A.",
+        "prism:publicationName": "Stochastic Processes and their Applications",
+        "prism:issn": "03044149",
+        "prism:volume": "127",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "3536-3557",
+        "prism:coverDate": "2017-11-01",
+        "prism:coverDisplayDate": "November 2017",
+        "prism:doi": "10.1016/j.spa.2017.03.003",
+        "pii": "S0304414917300455",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26929",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84976325861"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84976325861?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84976325861&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84976325861&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84976325861",
+        "dc:identifier": "SCOPUS_ID:84976325861",
+        "eid": "2-s2.0-84976325861",
+        "dc:title": "Multivalued monotone stochastic differential equations with jumps",
+        "dc:creator": "Maticiuc L.",
+        "prism:publicationName": "Stochastics and Dynamics",
+        "prism:issn": "02194937",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-06-01",
+        "prism:coverDisplayDate": "1 June 2017",
+        "prism:doi": "10.1142/S0219493717500186",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitatea Alexandru Ioan Cuza",
+                "affiliation-city": "Iasi",
+                "affiliation-country": "Romania"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1750018",
+        "source-id": "4700152703",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015369588"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015369588?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015369588&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015369588&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015369588",
+        "dc:identifier": "SCOPUS_ID:85015369588",
+        "eid": "2-s2.0-85015369588",
+        "dc:title": "TRPM1 (melastatin) expression is an independent predictor of overall survival in clinical AJCC stage I and II melanoma patients",
+        "dc:creator": "Brożyna A.A.",
+        "prism:publicationName": "Journal of Cutaneous Pathology",
+        "prism:issn": "03036987",
+        "prism:eIssn": "16000560",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "328-337",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1111/cup.12872",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "27987328",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24857",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011973287"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011973287?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85011973287&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85011973287&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85011973287",
+        "dc:identifier": "SCOPUS_ID:85011973287",
+        "eid": "2-s2.0-85011973287",
+        "dc:title": "Noncalcemic 20-hydroxyvitamin D<inf>3</inf> inhibits human melanoma growth in in vitro and in vivo models",
+        "dc:creator": "Skobowiat C.",
+        "prism:publicationName": "Oncotarget",
+        "prism:eIssn": "19492553",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "9823-9834",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.18632/oncotarget.14193",
+        "citedby-count": "22",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The University of Alabama at Birmingham",
+                "affiliation-city": "Birmingham",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19900191708",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

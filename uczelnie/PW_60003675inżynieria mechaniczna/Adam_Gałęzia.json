@@ -1,0 +1,223 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108598201"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108598201?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108598201&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108598201&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0263224121006734"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108598201",
+        "dc:identifier": "SCOPUS_ID:85108598201",
+        "eid": "2-s2.0-85108598201",
+        "dc:title": "Application of the Combined Teager-Kaiser Envelope for bearing fault diagnosis",
+        "dc:creator": "Gałęzia A.",
+        "prism:publicationName": "Measurement: Journal of the International Measurement Confederation",
+        "prism:issn": "02632241",
+        "prism:volume": "182",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-09-01",
+        "prism:coverDisplayDate": "September 2021",
+        "prism:doi": "10.1016/j.measurement.2021.109710",
+        "pii": "S0263224121006734",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Flanders Make",
+                "affiliation-city": "Lommel",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "109710",
+        "source-id": "15424",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102356142"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102356142?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102356142&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102356142&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102356142",
+        "dc:identifier": "SCOPUS_ID:85102356142",
+        "eid": "2-s2.0-85102356142",
+        "dc:title": "Application of teager–kaiser’s instantaneous frequency for detection of delamination in frp composite materials",
+        "dc:creator": "Gałęzia A.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1-26",
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "1 March 2021",
+        "prism:doi": "10.3390/ma14051154",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1154",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105798982"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105798982?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105798982&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105798982&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105798982",
+        "dc:identifier": "SCOPUS_ID:85105798982",
+        "eid": "2-s2.0-85105798982",
+        "dc:title": "Multiband modulation energy tracking for bearing fault diagnosis",
+        "dc:creator": "Galezia A.",
+        "prism:publicationName": "Proceedings of ISMA 2020 - International Conference on Noise and Vibration Engineering and USD 2020 - International Conference on Uncertainty in Structural Dynamics",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9789082893113"
+            }
+        ],
+        "prism:pageRange": "697-711",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Flanders Make",
+                "affiliation-city": "Lommel",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21101045270",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

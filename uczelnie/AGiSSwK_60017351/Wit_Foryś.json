@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067482426"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067482426?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067482426&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067482426&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067482426",
+        "dc:identifier": "SCOPUS_ID:85067482426",
+        "eid": "2-s2.0-85067482426",
+        "dc:title": "Dynamical properties of certain open, topologically mixing and strongly transitive CA",
+        "dc:creator": "Foryś W.",
+        "prism:publicationName": "Journal of Cellular Automata",
+        "prism:issn": "15575969",
+        "prism:eIssn": "15575977",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "311-334",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700173238",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

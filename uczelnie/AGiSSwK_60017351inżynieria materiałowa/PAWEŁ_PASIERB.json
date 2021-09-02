@@ -1,0 +1,769 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083769262"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083769262?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083769262&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083769262&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0272884220309536"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083769262",
+        "dc:identifier": "SCOPUS_ID:85083769262",
+        "eid": "2-s2.0-85083769262",
+        "dc:title": "Preparation and properties of BaCe<inf>1-x</inf>Y<inf>x</inf>O<inf>3</inf>- based composites with Ba–Ce–Y–Si–P–O glass",
+        "dc:creator": "Silarska K.",
+        "prism:publicationName": "Ceramics International",
+        "prism:issn": "02728842",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "17224-17232",
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "1 August 2020",
+        "prism:doi": "10.1016/j.ceramint.2020.04.009",
+        "pii": "S0272884220309536",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21522",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084353631"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084353631?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084353631&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084353631&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084353631",
+        "dc:identifier": "SCOPUS_ID:85084353631",
+        "eid": "2-s2.0-85084353631",
+        "dc:title": "Hydrothermal synthesis and gas sensing of monoclinic MoO<inf>3</inf> nanosheets",
+        "dc:creator": "Nagyné-Kovács T.",
+        "prism:publicationName": "Nanomaterials",
+        "prism:eIssn": "20794991",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "May 2020",
+        "prism:doi": "10.3390/nano10050891",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Budapest University of Technology and Economics",
+                "affiliation-city": "Budapest",
+                "affiliation-country": "Hungary"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "891",
+        "source-id": "21100253674",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079045185"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079045185?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079045185&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079045185&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079045185",
+        "dc:identifier": "SCOPUS_ID:85079045185",
+        "eid": "2-s2.0-85079045185",
+        "dc:title": "Photocatalytic and gas sensitive multiwalled carbon nanotube/Tio<inf>2</inf>-Zno and Zno-Tio<inf>2</inf> composites prepared by atomic layer deposition",
+        "dc:creator": "Bakos L.P.",
+        "prism:publicationName": "Nanomaterials",
+        "prism:eIssn": "20794991",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "February 2020",
+        "prism:doi": "10.3390/nano10020252",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Budapest University of Technology and Economics",
+                "affiliation-city": "Budapest",
+                "affiliation-country": "Hungary"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "252",
+        "source-id": "21100253674",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072729785"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072729785?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072729785&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072729785&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775319312145"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072729785",
+        "dc:identifier": "SCOPUS_ID:85072729785",
+        "eid": "2-s2.0-85072729785",
+        "dc:title": "In situ infrared thermography of full-scale solid oxide fuel cell",
+        "dc:creator": "Jasiński M.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "442",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "1 December 2019",
+        "prism:doi": "10.1016/j.jpowsour.2019.227221",
+        "pii": "S0378775319312145",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej",
+                "affiliation-city": "Kraków",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "227221",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062335925"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062335925?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062335925&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062335925&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0272884219304900"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062335925",
+        "dc:identifier": "SCOPUS_ID:85062335925",
+        "eid": "2-s2.0-85062335925",
+        "dc:title": "Sol-gel synthesis of metal (V, W, Zn) oxide - Carbon nanocomposites as cathode materials for Al-ion batteries",
+        "dc:creator": "Mączka M.",
+        "prism:publicationName": "Ceramics International",
+        "prism:issn": "02728842",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "11041-11049",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "1 June 2019",
+        "prism:doi": "10.1016/j.ceramint.2019.02.189",
+        "pii": "S0272884219304900",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21522",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054812680"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054812680?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054812680&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054812680&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838818337307"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054812680",
+        "dc:identifier": "SCOPUS_ID:85054812680",
+        "eid": "2-s2.0-85054812680",
+        "dc:title": "The structural, microstructural and thermoelectric properties of Mg<inf>2</inf>Si synthesized by SPS method under excess Mg content conditions",
+        "dc:creator": "Nieroda P.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "775",
+        "prism:pageRange": "138-149",
+        "prism:coverDate": "2019-02-15",
+        "prism:coverDisplayDate": "15 February 2019",
+        "prism:doi": "10.1016/j.jallcom.2018.10.064",
+        "pii": "S0925838818337307",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079764165"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079764165?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079764165&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079764165&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079764165",
+        "dc:identifier": "SCOPUS_ID:85079764165",
+        "eid": "2-s2.0-85079764165",
+        "dc:title": "Impact of calcium doping on structure, catalytic and conductive properties of lanthanum strontium iron oxide",
+        "dc:creator": "Łańcucki Ł.",
+        "prism:publicationName": "Processing and Application of Ceramics",
+        "prism:issn": "18206131",
+        "prism:eIssn": "24061034",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "411-417",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.2298/PAC1904411L",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100370874",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040866269"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040866269?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040866269&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040866269&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040866269",
+        "dc:identifier": "SCOPUS_ID:85040866269",
+        "eid": "2-s2.0-85040866269",
+        "dc:title": "Application of DTA/DSC and dilatometry for optimization of Ba–Ce–Y–P–Si–O glass phase for composite protonic conductors based on BaCe<inf>0.9</inf>Y<inf>0.1</inf>O<inf>3−δ</inf>",
+        "dc:creator": "Silarska K.",
+        "prism:publicationName": "Journal of Thermal Analysis and Calorimetry",
+        "prism:issn": "13886150",
+        "prism:eIssn": "15882926",
+        "prism:volume": "133",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "87-93",
+        "prism:coverDate": "2018-07-01",
+        "prism:coverDisplayDate": "1 July 2018",
+        "prism:doi": "10.1007/s10973-018-6965-9",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028029238"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028029238?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028029238&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028029238&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838817329341"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028029238",
+        "dc:identifier": "SCOPUS_ID:85028029238",
+        "eid": "2-s2.0-85028029238",
+        "dc:title": "Development and chemical stability evaluation of enhanced surface LaFe<inf>1−x</inf>Ti<inf>x</inf>O<inf>3</inf> (LFT) perovskites using polystyrene nanospheres as templating agent",
+        "dc:creator": "Łańcucki Ł.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "727",
+        "prism:pageRange": "863-870",
+        "prism:coverDate": "2017-12-15",
+        "prism:coverDisplayDate": "15 December 2017",
+        "prism:doi": "10.1016/j.jallcom.2017.08.205",
+        "pii": "S0925838817329341",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021355083"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85021355083?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021355083&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85021355083&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925838817322259"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85021355083",
+        "dc:identifier": "SCOPUS_ID:85021355083",
+        "eid": "2-s2.0-85021355083",
+        "dc:title": "Reaction mechanism in solid BaCe<inf>0.9</inf>Y<inf>0.1</inf>O<inf>3</inf> – liquid BaWO<inf>4</inf> system",
+        "dc:creator": "Lacz A.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "723",
+        "prism:pageRange": "288-294",
+        "prism:coverDate": "2017-11-05",
+        "prism:coverDisplayDate": "5 November 2017",
+        "prism:doi": "10.1016/j.jallcom.2017.06.226",
+        "pii": "S0925838817322259",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008500787"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008500787?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85008500787&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85008500787&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167273816305811"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85008500787",
+        "dc:identifier": "SCOPUS_ID:85008500787",
+        "eid": "2-s2.0-85008500787",
+        "dc:title": "Electrical properties and chemical stability of BaCe<inf>0.9</inf>Y<inf>0.1</inf>O<inf>3</inf>-BaWO<inf>4</inf> composites synthesized by co-sintering and impregnation method",
+        "dc:creator": "Lacz A.",
+        "prism:publicationName": "Solid State Ionics",
+        "prism:issn": "01672738",
+        "prism:volume": "302",
+        "prism:pageRange": "152-157",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1016/j.ssi.2016.12.006",
+        "pii": "S0167273816305811",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29887",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84996843127"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84996843127?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84996843127&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84996843127&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025540816319535"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84996843127",
+        "dc:identifier": "SCOPUS_ID:84996843127",
+        "eid": "2-s2.0-84996843127",
+        "dc:title": "Synthesis and properties of barium modified yttrium borate",
+        "dc:creator": "Maczka M.",
+        "prism:publicationName": "Materials Research Bulletin",
+        "prism:issn": "00255408",
+        "prism:volume": "87",
+        "prism:pageRange": "84-91",
+        "prism:coverDate": "2017-03-01",
+        "prism:coverDisplayDate": "1 March 2017",
+        "prism:doi": "10.1016/j.materresbull.2016.11.006",
+        "pii": "S0025540816319535",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24709",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

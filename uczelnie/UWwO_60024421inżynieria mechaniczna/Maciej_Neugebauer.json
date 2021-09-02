@@ -1,0 +1,76 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040445549"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040445549?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040445549&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040445549&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040445549",
+        "dc:identifier": "SCOPUS_ID:85040445549",
+        "eid": "2-s2.0-85040445549",
+        "dc:title": "The influence of the c: N ratio on the composting rate",
+        "dc:creator": "Neugebauer M.",
+        "prism:publicationName": "International Journal of Smart Grid and Clean Energy",
+        "prism:issn": "23154462",
+        "prism:eIssn": "23733594",
+        "prism:volume": "6",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "54-60",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "January 2017",
+        "prism:doi": "10.12720/sgce.6.1.54-60",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Warminsko-Mazurski w Olsztynie",
+                "affiliation-city": " Olsztyn WM",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100846309",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

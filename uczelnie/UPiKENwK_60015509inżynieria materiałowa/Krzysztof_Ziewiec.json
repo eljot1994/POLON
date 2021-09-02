@@ -1,0 +1,139 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104298074"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104298074?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104298074&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104298074&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104298074",
+        "dc:identifier": "SCOPUS_ID:85104298074",
+        "eid": "2-s2.0-85104298074",
+        "dc:title": "Microstructure development and properties of the two-component melt-spun ni<inf>55</inf>fe<inf>20</inf>cu<inf>5</inf>p<inf>10</inf>b<inf>10</inf> alloy at elevated temperatures",
+        "dc:creator": "Ziewiec K.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "1 April 2021",
+        "prism:doi": "10.3390/ma14071741",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej",
+                "affiliation-city": "Kraków",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1741",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064563212"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064563212?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064563212&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064563212&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064563212",
+        "dc:identifier": "SCOPUS_ID:85064563212",
+        "eid": "2-s2.0-85064563212",
+        "dc:title": "Amorphous/crystalline Fe<inf>55</inf>Ni<inf>20</inf>Cu<inf>5</inf>P<inf>10</inf>Si<inf>5</inf>B<inf>5</inf> composite produced by two-component melt–spinning",
+        "dc:creator": "Ziewiec K.",
+        "prism:publicationName": "Materials Science and Technology (United Kingdom)",
+        "prism:issn": "02670836",
+        "prism:eIssn": "17432847",
+        "prism:volume": "36",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "982-988",
+        "prism:coverDate": "2020-06-12",
+        "prism:coverDisplayDate": "12 June 2020",
+        "prism:doi": "10.1080/02670836.2019.1603900",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej",
+                "affiliation-city": "Kraków",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17815",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

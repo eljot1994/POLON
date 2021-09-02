@@ -1,0 +1,184 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102242682"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102242682?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102242682&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102242682&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102242682",
+        "dc:identifier": "SCOPUS_ID:85102242682",
+        "eid": "2-s2.0-85102242682",
+        "dc:title": "Existence of global weak solutions to 3D incompressible heat-conducting motions with large flux",
+        "dc:creator": "Zadrzyńska E.",
+        "prism:publicationName": "Mathematical Methods in the Applied Sciences",
+        "prism:issn": "01704214",
+        "prism:eIssn": "10991476",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "6259-6281",
+        "prism:coverDate": "2021-05-30",
+        "prism:coverDisplayDate": "30 May 2021",
+        "prism:doi": "10.1002/mma.7156",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24594",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026824405"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026824405?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026824405&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026824405&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026824405",
+        "dc:identifier": "SCOPUS_ID:85026824405",
+        "eid": "2-s2.0-85026824405",
+        "dc:title": "On Stability of Solutions to Equations Describing Incompressible Heat-Conducting Motions Under Navier’s Boundary Conditions",
+        "dc:creator": "Zadrzyńska E.",
+        "prism:publicationName": "Acta Applicandae Mathematicae",
+        "prism:issn": "01678019",
+        "prism:eIssn": "15729036",
+        "prism:volume": "152",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "147-170",
+        "prism:coverDate": "2017-12-01",
+        "prism:coverDisplayDate": "1 December 2017",
+        "prism:doi": "10.1007/s10440-017-0116-3",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24099",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018787446"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018787446?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018787446&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018787446&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018787446",
+        "dc:identifier": "SCOPUS_ID:85018787446",
+        "eid": "2-s2.0-85018787446",
+        "dc:title": "On some global solutions to 3d incompressible heat-conducting motions",
+        "dc:creator": "Zadrzyńska E.",
+        "prism:publicationName": "Annales Polonici Mathematici",
+        "prism:issn": "00662216",
+        "prism:eIssn": "17306272",
+        "prism:volume": "119",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "79-94",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.4064/ap4048-2-2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20900195109",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

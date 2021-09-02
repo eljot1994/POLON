@@ -1,0 +1,66 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023645616"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023645616?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85023645616&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85023645616&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S016943321732010X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85023645616",
+        "dc:identifier": "SCOPUS_ID:85023645616",
+        "eid": "2-s2.0-85023645616",
+        "dc:title": "LEEM study of high-temperature oxygen structures on W(110) and their transformations",
+        "dc:creator": "Giela T.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "425",
+        "prism:pageRange": "314-320",
+        "prism:coverDate": "2017-12-15",
+        "prism:coverDisplayDate": "15 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.020",
+        "pii": "S016943321732010X",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Catalysis and Surface Chemistry of the Polish Academy of Sciences",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,118 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052968528"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052968528?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052968528&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052968528&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0255270118307426"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052968528",
+        "dc:identifier": "SCOPUS_ID:85052968528",
+        "eid": "2-s2.0-85052968528",
+        "dc:title": "Experimental investigations on heat transfer enhancement in shell coil heat exchanger with variable baffles geometry",
+        "dc:creator": "Andrzejczyk R.",
+        "prism:publicationName": "Chemical Engineering and Processing - Process Intensification",
+        "prism:issn": "02552701",
+        "prism:volume": "132",
+        "prism:pageRange": "114-126",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "October 2018",
+        "prism:doi": "10.1016/j.cep.2018.08.017",
+        "pii": "S0255270118307426",
+        "citedby-count": "20",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "16392",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044616660"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044616660?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044616660&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044616660&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0141391018301009"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044616660",
+        "dc:identifier": "SCOPUS_ID:85044616660",
+        "eid": "2-s2.0-85044616660",
+        "dc:title": "Rheological properties, oxidative and thermal stability, and potential application of biopolyols prepared via two-step process from crude glycerol",
+        "dc:creator": "Hejna A.",
+        "prism:publicationName": "Polymer Degradation and Stability",
+        "prism:issn": "01413910",
+        "prism:volume": "152",
+        "prism:pageRange": "29-42",
+        "prism:coverDate": "2018-06-01",
+        "prism:coverDisplayDate": "June 2018",
+        "prism:doi": "10.1016/j.polymdegradstab.2018.03.022",
+        "pii": "S0141391018301009",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tech-Plast Aleksander Hejna",
+                "affiliation-city": null,
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26444",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

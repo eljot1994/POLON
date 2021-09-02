@@ -1,0 +1,128 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076528864"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076528864?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076528864&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85076528864&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85076528864",
+        "dc:identifier": "SCOPUS_ID:85076528864",
+        "eid": "2-s2.0-85076528864",
+        "dc:title": "Mechanical properties of the human stomach under uniaxial stress action",
+        "dc:creator": "Rotta G.",
+        "prism:publicationName": "Current Science",
+        "prism:issn": "00113891",
+        "prism:volume": "116",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "1886-1893",
+        "prism:coverDate": "2019-06-10",
+        "prism:coverDisplayDate": "10 June 2019",
+        "prism:doi": "10.18520/cs/v116/i11/1886-1893",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20699",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053031521"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053031521?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053031521&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053031521&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053031521",
+        "dc:identifier": "SCOPUS_ID:85053031521",
+        "eid": "2-s2.0-85053031521",
+        "dc:title": "Rehabilitation device supporting active and passive upper limb exercises",
+        "dc:creator": "Trochimczuk R.",
+        "prism:publicationName": "Current Science",
+        "prism:issn": "00113891",
+        "prism:volume": "115",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "868-873",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "1 September 2018",
+        "prism:doi": "10.18520/cs/v115/i5/868-873",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Bialystok University of Technology",
+                "affiliation-city": "Bialystok",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20699",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078096962"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078096962?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078096962&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078096962&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078096962",
+        "dc:identifier": "SCOPUS_ID:85078096962",
+        "eid": "2-s2.0-85078096962",
+        "dc:title": "Precision of prestressed ball screw thermal behaviour in machine tool operating conditions",
+        "dc:creator": "Kowal Z.",
+        "prism:publicationName": "International Journal of Nanomanufacturing",
+        "prism:issn": "17469392",
+        "prism:eIssn": "17469406",
+        "prism:volume": "16",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "29-39",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1504/IJNM.2020.104478",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18300156723",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

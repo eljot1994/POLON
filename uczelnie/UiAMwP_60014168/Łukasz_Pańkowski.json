@@ -1,0 +1,546 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052642288"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052642288?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052642288&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052642288&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052642288",
+        "dc:identifier": "SCOPUS_ID:85052642288",
+        "eid": "2-s2.0-85052642288",
+        "dc:title": "NOTE on the NUMBER of DIVISORS of REDUCIBLE QUADRATIC POLYNOMIALS",
+        "dc:creator": "Dudek A.",
+        "prism:publicationName": "Bulletin of the Australian Mathematical Society",
+        "prism:issn": "00049727",
+        "prism:eIssn": "17551633",
+        "prism:volume": "99",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "1-9",
+        "prism:coverDate": "2019-02-01",
+        "prism:coverDisplayDate": "1 February 2019",
+        "prism:doi": "10.1017/S0004972718000734",
+        "pii": "S0004972718000734",
+        "citedby-count": "1",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25244",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071970091"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071970091?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071970091&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071970091&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071970091",
+        "dc:identifier": "SCOPUS_ID:85071970091",
+        "eid": "2-s2.0-85071970091",
+        "dc:title": "Effect of magnetic field on electric and acoustic properties of the pdms ferromagnetic gel",
+        "dc:creator": "Kubisz L.",
+        "prism:publicationName": "55th Open Seminar on Acoustics, OSA 2008",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "8392166302"
+            },
+            {
+                "@_fa": "true",
+                "$": "9788392166306"
+            }
+        ],
+        "prism:pageRange": "97-102",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Poznan University of Medical Sciences",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100928085",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015657846"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015657846?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015657846&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015657846&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015657846",
+        "dc:identifier": "SCOPUS_ID:85015657846",
+        "eid": "2-s2.0-85015657846",
+        "dc:title": "Joint universality for dependent L-functions",
+        "dc:creator": "Pańkowski Ł.",
+        "prism:publicationName": "Ramanujan Journal",
+        "prism:issn": "13824090",
+        "prism:eIssn": "15729303",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "181-195",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "1 January 2018",
+        "prism:doi": "10.1007/s11139-017-9886-5",
+        "citedby-count": "19",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Nagoya University",
+                "affiliation-city": "Nagoya",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26323",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989205053"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989205053?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84989205053&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84989205053&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84989205053",
+        "dc:identifier": "SCOPUS_ID:84989205053",
+        "eid": "2-s2.0-84989205053",
+        "dc:title": "Selberg’s orthonormality conjecture and joint universality of L-functions",
+        "dc:creator": "Lee Y.",
+        "prism:publicationName": "Mathematische Zeitschrift",
+        "prism:issn": "00255874",
+        "prism:eIssn": "14321823",
+        "prism:volume": "286",
+        "prism:issueIdentifier": "1-2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-06-01",
+        "prism:coverDisplayDate": "1 June 2017",
+        "prism:doi": "10.1007/s00209-016-1754-2",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Incheon National University",
+                "affiliation-city": "Incheon",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25123",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994248914"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994248914?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994248914&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994248914&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X16304656"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994248914",
+        "dc:identifier": "SCOPUS_ID:84994248914",
+        "eid": "2-s2.0-84994248914",
+        "dc:title": "Large values of L-functions from the Selberg class",
+        "dc:creator": "Aistleitner C.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "446",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "345-364",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1016/j.jmaa.2016.08.044",
+        "pii": "S0022247X16304656",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Technische Universitat Graz",
+                "affiliation-city": "Graz",
+                "affiliation-country": "Austria"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994153104"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994153104?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994153104&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994153104&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994153104",
+        "dc:identifier": "SCOPUS_ID:84994153104",
+        "eid": "2-s2.0-84994153104",
+        "dc:title": "Effective version of self-approximation for the Riemann zeta function",
+        "dc:creator": "Nakamura T.",
+        "prism:publicationName": "Mathematische Nachrichten",
+        "prism:issn": "0025584X",
+        "prism:eIssn": "15222616",
+        "prism:volume": "290",
+        "prism:issueIdentifier": "2-3",
+        "prism:pageRange": "401-414",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1002/mana.201400107",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tokyo University of Science",
+                "affiliation-city": "Tokyo",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25107",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013641991"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013641991?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013641991&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85013641991&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85013641991",
+        "dc:identifier": "SCOPUS_ID:85013641991",
+        "eid": "2-s2.0-85013641991",
+        "dc:title": "Joint universality for Lerch zeta-functions",
+        "dc:creator": "Lee Y.",
+        "prism:publicationName": "Journal of the Mathematical Society of Japan",
+        "prism:issn": "00255645",
+        "prism:eIssn": "18811167",
+        "prism:volume": "69",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "153-161",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.2969/jmsj/06910153",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Incheon National University",
+                "affiliation-city": "Incheon",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25058",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070577711"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070577711?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070577711&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070577711&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070577711",
+        "dc:identifier": "SCOPUS_ID:85070577711",
+        "eid": "2-s2.0-85070577711",
+        "dc:title": "Properties of the metaloceramic coatings obtained with inorganic slurrys modified by ceramic nanopowders",
+        "dc:creator": "Mendala B.",
+        "prism:publicationName": "Ochrona Przed Korozja",
+        "prism:issn": "04737733",
+        "prism:eIssn": "24499501",
+        "prism:volume": "62",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "128",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "no",
+        "subtypeDescription": "Note",
+        "source-id": "21100923711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

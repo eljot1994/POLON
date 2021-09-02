@@ -1,0 +1,58 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088071134"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088071134?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088071134&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088071134&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088071134",
+        "dc:identifier": "SCOPUS_ID:85088071134",
+        "eid": "2-s2.0-85088071134",
+        "dc:title": "An investigation of passive methods for airfoil noise reduction in laminar boundary layer instability flow regime",
+        "dc:creator": "Krusz W.",
+        "prism:publicationName": "23rd AIAA/CEAS Aeroacoustics Conference, 2017",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781624105043"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.2514/6.2017-3367",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100823100",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,595 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102333782"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102333782?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102333782&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102333782&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102333782",
+        "dc:identifier": "SCOPUS_ID:85102333782",
+        "eid": "2-s2.0-85102333782",
+        "dc:title": "Intelligent Internet of Things System for Smart Home Optimal Convection",
+        "dc:creator": "Zielonka A.",
+        "prism:publicationName": "IEEE Transactions on Industrial Informatics",
+        "prism:issn": "15513203",
+        "prism:eIssn": "19410050",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "4308-4317",
+        "prism:coverDate": "2021-06-01",
+        "prism:coverDisplayDate": "June 2021",
+        "prism:doi": "10.1109/TII.2020.3009094",
+        "citedby-count": "30",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "9140380",
+        "source-id": "144912",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098765661"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098765661?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098765661&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098765661&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098765661",
+        "dc:identifier": "SCOPUS_ID:85098765661",
+        "eid": "2-s2.0-85098765661",
+        "dc:title": "6g-enabled iot home environment control using fuzzy rules",
+        "dc:creator": "Wozniak M.",
+        "prism:publicationName": "IEEE Internet of Things Journal",
+        "prism:eIssn": "23274662",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "5442-5452",
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "1 April 2021",
+        "prism:doi": "10.1109/JIOT.2020.3044940",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "9295331",
+        "source-id": "21100338350",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099368950"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099368950?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099368950&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099368950&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099368950",
+        "dc:identifier": "SCOPUS_ID:85099368950",
+        "eid": "2-s2.0-85099368950",
+        "dc:title": "Data system model for easy human-machine interactions over communication interfaces",
+        "dc:creator": "Zielonka A.",
+        "prism:publicationName": "Proceedings - 4th IEEE International Conference on Robotic Computing, IRC 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728152370"
+            }
+        ],
+        "prism:pageRange": "506-511",
+        "prism:coverDate": "2020-11-01",
+        "prism:coverDisplayDate": "November 2020",
+        "prism:doi": "10.1109/IRC.2020.00096",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9287969",
+        "source-id": "21101033895",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085244372"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085244372?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085244372&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085244372&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085244372",
+        "dc:identifier": "SCOPUS_ID:85085244372",
+        "eid": "2-s2.0-85085244372",
+        "dc:title": "Application of the Swarm Intelligence Algorithm for Reconstructing the Cooling Conditions of Steel Ingot Continuous Casting",
+        "dc:creator": "Zielonka A.",
+        "prism:publicationName": "Energies",
+        "prism:eIssn": "19961073",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "May 2020",
+        "prism:doi": "10.3390/en13102429",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2429",
+        "source-id": "62932",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067864156"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067864156?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067864156&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067864156&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067864156",
+        "dc:identifier": "SCOPUS_ID:85067864156",
+        "eid": "2-s2.0-85067864156",
+        "dc:title": "The application of ant colony algorithms to improving the operation of traction rectifier transformers",
+        "dc:creator": "Kulesz B.",
+        "prism:publicationName": "Computers",
+        "prism:eIssn": "2073431X",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.3390/computers8020028",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "28",
+        "source-id": "21100886391",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048770077"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048770077?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048770077&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048770077&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048770077",
+        "dc:identifier": "SCOPUS_ID:85048770077",
+        "eid": "2-s2.0-85048770077",
+        "dc:title": "Application of swarm algorithm to solving voltage unbalance problem in DC tram traction supply system",
+        "dc:creator": "Sikora A.",
+        "prism:publicationName": "2018 Innovative Materials and Technologies in Electrical Engineering, i-MITEL 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538646694"
+            }
+        ],
+        "prism:pageRange": "1-6",
+        "prism:coverDate": "2018-05-31",
+        "prism:coverDisplayDate": "31 May 2018",
+        "prism:doi": "10.1109/IMITEL.2018.8370483",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100865133",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060013562"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060013562?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060013562&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060013562&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060013562",
+        "dc:identifier": "SCOPUS_ID:85060013562",
+        "eid": "2-s2.0-85060013562",
+        "dc:title": "Application of the immune algorithm irm for solving the inverse problem of metal alloy solidification including the shrinkage phenomenon",
+        "dc:creator": "Zielonka A.",
+        "prism:publicationName": "Computer Methods in Materials Science",
+        "prism:issn": "16418581",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "1-10",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100825150",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85027970209"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85027970209?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85027970209&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85027970209&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0735193317301847"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85027970209",
+        "dc:identifier": "SCOPUS_ID:85027970209",
+        "eid": "2-s2.0-85027970209",
+        "dc:title": "Inverse alloy solidification problem including the material shrinkage phenomenon solved by using the bee algorithm",
+        "dc:creator": "Zielonka A.",
+        "prism:publicationName": "International Communications in Heat and Mass Transfer",
+        "prism:issn": "07351933",
+        "prism:volume": "87",
+        "prism:pageRange": "295-301",
+        "prism:coverDate": "2017-10-01",
+        "prism:coverDisplayDate": "October 2017",
+        "prism:doi": "10.1016/j.icheatmasstransfer.2017.07.014",
+        "pii": "S0735193317301847",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20422",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84991080288"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84991080288?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84991080288&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84991080288&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84991080288",
+        "dc:identifier": "SCOPUS_ID:84991080288",
+        "eid": "2-s2.0-84991080288",
+        "dc:title": "Identification of the heat transfer coefficient in the two-dimensional model of binary alloy solidification",
+        "dc:creator": "Hetmaniok E.",
+        "prism:publicationName": "Heat and Mass Transfer/Waerme- und Stoffuebertragung",
+        "prism:issn": "09477411",
+        "prism:eIssn": "14321181",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1657-1666",
+        "prism:coverDate": "2017-05-01",
+        "prism:coverDisplayDate": "1 May 2017",
+        "prism:doi": "10.1007/s00231-016-1923-1",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13749",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989913261"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989913261?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84989913261&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84989913261&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84989913261",
+        "dc:identifier": "SCOPUS_ID:84989913261",
+        "eid": "2-s2.0-84989913261",
+        "dc:title": "Reconstruction robin boundary condition in the heat conduction inverse problem of fractional order",
+        "dc:creator": "Brociek R.",
+        "prism:publicationName": "Lecture Notes in Electrical Engineering",
+        "prism:issn": "18761100",
+        "prism:eIssn": "18761119",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319454733"
+            }
+        ],
+        "prism:volume": "407",
+        "prism:pageRange": "147-156",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1007/978-3-319-45474-0_14",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "19700186822",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

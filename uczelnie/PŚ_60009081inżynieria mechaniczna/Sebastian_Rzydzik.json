@@ -1,0 +1,111 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084283665"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084283665?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084283665&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084283665&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084283665",
+        "dc:identifier": "SCOPUS_ID:85084283665",
+        "eid": "2-s2.0-85084283665",
+        "dc:title": "Infrared Distance Sensors for Autonomous Model of Truck with Semi-Trailer",
+        "dc:creator": "Rzydzik S.",
+        "prism:publicationName": "2020 6th International Conference on Mechatronics and Robotics Engineering, ICMRE 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728157399"
+            }
+        ],
+        "prism:pageRange": "104-109",
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "February 2020",
+        "prism:doi": "10.1109/ICMRE49073.2020.9065091",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9065091",
+        "source-id": "21100985370",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063743118"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063743118?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063743118&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063743118&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063743118",
+        "dc:identifier": "SCOPUS_ID:85063743118",
+        "eid": "2-s2.0-85063743118",
+        "dc:title": "Application of the REx5 expert system to condition monitoring of the simple liquid flow process control trainer",
+        "dc:creator": "Rzydzik S.",
+        "prism:publicationName": "Applied Condition Monitoring",
+        "prism:eIssn": "23636998",
+        "prism:volume": "10",
+        "prism:pageRange": "323-334",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-62042-8_29",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100893567",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,121 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099032384"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099032384?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099032384&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099032384&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099032384",
+        "dc:identifier": "SCOPUS_ID:85099032384",
+        "eid": "2-s2.0-85099032384",
+        "dc:title": "Prediction of higher-order harmonics generation due to contact stiffness hysteresis using Harmonic Balance: theory and experimental validation",
+        "dc:creator": "Radecki R.",
+        "prism:publicationName": "Nonlinear Dynamics",
+        "prism:issn": "0924090X",
+        "prism:eIssn": "1573269X",
+        "prism:volume": "103",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "541-556",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1007/s11071-020-06127-y",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21576",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034979185"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034979185?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034979185&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034979185&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0041624X17308193"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034979185",
+        "dc:identifier": "SCOPUS_ID:85034979185",
+        "eid": "2-s2.0-85034979185",
+        "dc:title": "Modelling nonlinearity of guided ultrasonic waves in fatigued materials using a nonlinear local interaction simulation approach and a spring model",
+        "dc:creator": "Radecki R.",
+        "prism:publicationName": "Ultrasonics",
+        "prism:issn": "0041624X",
+        "prism:volume": "84",
+        "prism:pageRange": "272-289",
+        "prism:coverDate": "2018-03-01",
+        "prism:coverDisplayDate": "March 2018",
+        "prism:doi": "10.1016/j.ultras.2017.11.008",
+        "pii": "S0041624X17308193",
+        "citedby-count": "22",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Hong Kong Polytechnic University",
+                "affiliation-city": "Kowloon",
+                "affiliation-country": "Hong Kong"
+            }
+        ],
+        "pubmed-id": "29179158",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13516",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

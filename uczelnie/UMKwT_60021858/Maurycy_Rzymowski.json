@@ -1,0 +1,172 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074692700"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074692700?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074692700&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074692700&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S000744971930096X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074692700",
+        "dc:identifier": "SCOPUS_ID:85074692700",
+        "eid": "2-s2.0-85074692700",
+        "dc:title": "Reflected backward stochastic differential equations with two optional barriers",
+        "dc:creator": "Klimsiak T.",
+        "prism:publicationName": "Bulletin des Sciences Mathematiques",
+        "prism:issn": "00074497",
+        "prism:volume": "158",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-02-01",
+        "prism:coverDisplayDate": "February 2020",
+        "prism:doi": "10.1016/j.bulsci.2019.102820",
+        "pii": "S000744971930096X",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "102820",
+        "source-id": "25286",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047058122"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047058122?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047058122&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047058122&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S030441491830142X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047058122",
+        "dc:identifier": "SCOPUS_ID:85047058122",
+        "eid": "2-s2.0-85047058122",
+        "dc:title": "Reflected BSDEs with regulated trajectories",
+        "dc:creator": "Klimsiak T.",
+        "prism:publicationName": "Stochastic Processes and their Applications",
+        "prism:issn": "03044149",
+        "prism:volume": "129",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1153-1184",
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "April 2019",
+        "prism:doi": "10.1016/j.spa.2018.04.011",
+        "pii": "S030441491830142X",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematics of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26929",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

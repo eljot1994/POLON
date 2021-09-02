@@ -1,0 +1,143 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088661785"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088661785?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088661785&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088661785&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166864120302790"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088661785",
+        "dc:identifier": "SCOPUS_ID:85088661785",
+        "eid": "2-s2.0-85088661785",
+        "dc:title": "A new family of finite Oliver groups satisfying the Laitinen Conjecture",
+        "dc:creator": "Mizerka P.",
+        "prism:publicationName": "Topology and its Applications",
+        "prism:issn": "01668641",
+        "prism:volume": "283",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "1 September 2020",
+        "prism:doi": "10.1016/j.topol.2020.107336",
+        "pii": "S0166864120302790",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107336",
+        "source-id": "27416",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081888589"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081888589?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081888589&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081888589&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1544612319307408"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081888589",
+        "dc:identifier": "SCOPUS_ID:85081888589",
+        "eid": "2-s2.0-85081888589",
+        "dc:title": "The role of Bitcoin on developed and emerging markets – on the basis of a Bitcoin users graph analysis",
+        "dc:creator": "Mizerka J.",
+        "prism:publicationName": "Finance Research Letters",
+        "prism:issn": "15446123",
+        "prism:volume": "35",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-07-01",
+        "prism:coverDisplayDate": "July 2020",
+        "prism:doi": "10.1016/j.frl.2020.101489",
+        "pii": "S1544612319307408",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Poznań University of Economics and Business",
+                "affiliation-city": "Poznan WP,",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "101489",
+        "source-id": "15519",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

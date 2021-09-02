@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062324572"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062324572?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062324572&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062324572&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062324572",
+        "dc:identifier": "SCOPUS_ID:85062324572",
+        "eid": "2-s2.0-85062324572",
+        "dc:title": "The Properties and Application of Argan Oil in Cosmetology",
+        "dc:creator": "Goik U.",
+        "prism:publicationName": "European Journal of Lipid Science and Technology",
+        "prism:issn": "14387697",
+        "prism:eIssn": "14389312",
+        "prism:volume": "121",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "April 2019",
+        "prism:doi": "10.1002/ejlt.201800313",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "1800313",
+        "source-id": "12921",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

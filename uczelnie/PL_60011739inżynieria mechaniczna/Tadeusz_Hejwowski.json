@@ -1,0 +1,85 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051601268"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051601268?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051601268&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051601268&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051601268",
+        "dc:identifier": "SCOPUS_ID:85051601268",
+        "eid": "2-s2.0-85051601268",
+        "dc:title": "Cavitation Erosion Resistance and Wear Mechanism Model of Flame-Sprayed Al<inf>2</inf>O<inf>3</inf>-40%TiO<inf>2</inf>/NiMoAl Cermet Coatings",
+        "dc:creator": "Szala M.",
+        "prism:publicationName": "Coatings",
+        "prism:eIssn": "20796412",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "1 April 2018",
+        "prism:doi": "10.3390/coatings8070254",
+        "citedby-count": "23",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "254",
+        "source-id": "21100872725",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

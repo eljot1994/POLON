@@ -1,0 +1,144 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097348296"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097348296?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097348296&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097348296&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0008622320311507"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097348296",
+        "dc:identifier": "SCOPUS_ID:85097348296",
+        "eid": "2-s2.0-85097348296",
+        "dc:title": "Low-strain sensor based on the flexible boron-doped diamond-polymer structures",
+        "dc:creator": "Rycewicz M.",
+        "prism:publicationName": "Carbon",
+        "prism:issn": "00086223",
+        "prism:volume": "173",
+        "prism:pageRange": "832-841",
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "March 2021",
+        "prism:doi": "10.1016/j.carbon.2020.11.071",
+        "pii": "S0008622320311507",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25806",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040952690"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040952690?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040952690&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040952690&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040952690",
+        "dc:identifier": "SCOPUS_ID:85040952690",
+        "eid": "2-s2.0-85040952690",
+        "dc:title": "Self-organized multi-layered graphene-boron-doped diamond hybrid nanowalls for high-performance electron emission devices",
+        "dc:creator": "Sankaran K.J.",
+        "prism:publicationName": "Nanoscale",
+        "prism:issn": "20403364",
+        "prism:eIssn": "20403372",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1345-1355",
+        "prism:coverDate": "2018-01-21",
+        "prism:coverDisplayDate": "21 January 2018",
+        "prism:doi": "10.1039/c7nr06774g",
+        "citedby-count": "28",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute for Materials Research Hasselt University",
+                "affiliation-city": "Diepenbeek",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "International Medical Equipment Collaborative",
+                "affiliation-city": "Diepenbeek",
+                "affiliation-country": "Belgium"
+            }
+        ],
+        "pubmed-id": "29296984",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700173215",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

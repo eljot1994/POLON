@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020383011"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020383011?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85020383011&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85020383011&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1569190X17300916"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85020383011",
+        "dc:identifier": "SCOPUS_ID:85020383011",
+        "eid": "2-s2.0-85020383011",
+        "dc:title": "MERPSYS: An environment for simulation of parallel application execution on large scale HPC systems",
+        "dc:creator": "Czarnul P.",
+        "prism:publicationName": "Simulation Modelling Practice and Theory",
+        "prism:issn": "1569190X",
+        "prism:volume": "77",
+        "prism:pageRange": "124-140",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "September 2017",
+        "prism:doi": "10.1016/j.simpat.2017.05.009",
+        "pii": "S1569190X17300916",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12189",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

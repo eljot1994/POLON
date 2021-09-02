@@ -1,0 +1,110 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098597459"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85098597459?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098597459&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85098597459&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85098597459",
+        "dc:identifier": "SCOPUS_ID:85098597459",
+        "eid": "2-s2.0-85098597459",
+        "dc:title": "The influence of the concentration of ingredients in the immersion deposition process on the protective properties of silan coatings made on stainless steel",
+        "dc:creator": "Kucharczyk A.",
+        "prism:publicationName": "Ochrona Przed Korozja",
+        "prism:issn": "04737733",
+        "prism:eIssn": "24499501",
+        "prism:volume": "63",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "327-331",
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "October 2020",
+        "prism:doi": "10.15199/40.2020.10.2",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "no",
+        "subtypeDescription": "Note",
+        "source-id": "21100923711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109183261"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109183261?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85109183261&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85109183261&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85109183261",
+        "dc:identifier": "SCOPUS_ID:85109183261",
+        "eid": "2-s2.0-85109183261",
+        "dc:title": "Dependence of protective properties of silane coatings made on titanium grade 2 and TI6AL4V substrate on the concentration of the component – Vinyltrimethoxysilane (VTMS)",
+        "dc:creator": "Kierat O.",
+        "prism:publicationName": "Ochrona Przed Korozja",
+        "prism:issn": "04737733",
+        "prism:eIssn": "24499501",
+        "prism:volume": "63",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "364-368",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.15199/40.2020.11.2",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100923711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

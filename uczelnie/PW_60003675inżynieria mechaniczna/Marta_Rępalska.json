@@ -1,0 +1,114 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100898324"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100898324?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100898324&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100898324&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100898324",
+        "dc:identifier": "SCOPUS_ID:85100898324",
+        "eid": "2-s2.0-85100898324",
+        "dc:title": "Measurement of the growth of children at weekly intervals: Results",
+        "dc:creator": "Rȩpalska M.",
+        "prism:publicationName": "Review of Scientific Instruments",
+        "prism:issn": "00346748",
+        "prism:eIssn": "10897623",
+        "prism:volume": "92",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "1 February 2021",
+        "prism:doi": "10.1063/5.0036736",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33648059",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "024104",
+        "source-id": "15563",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061384938"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061384938?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061384938&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061384938&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061384938",
+        "dc:identifier": "SCOPUS_ID:85061384938",
+        "eid": "2-s2.0-85061384938",
+        "dc:title": "Measurement of the growth of children at weekly intervals",
+        "dc:creator": "Rȩpalska M.",
+        "prism:publicationName": "Review of Scientific Instruments",
+        "prism:issn": "00346748",
+        "prism:eIssn": "10897623",
+        "prism:volume": "90",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-02-01",
+        "prism:coverDisplayDate": "1 February 2019",
+        "prism:doi": "10.1063/1.5018268",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30831758",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "024103",
+        "source-id": "15563",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

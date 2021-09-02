@@ -1,0 +1,431 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107071077"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107071077?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107071077&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107071077&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107071077",
+        "dc:identifier": "SCOPUS_ID:85107071077",
+        "eid": "2-s2.0-85107071077",
+        "dc:title": "Analytic properties of the complete formal normal form for the Bogdanov-Takens singularity",
+        "dc:creator": "Stróżyna E.",
+        "prism:publicationName": "Nonlinearity",
+        "prism:issn": "09517715",
+        "prism:eIssn": "13616544",
+        "prism:volume": "34",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "3046-3082",
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "May 2021",
+        "prism:doi": "10.1088/1361-6544/abe51d",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25696",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102619204"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102619204?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102619204&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102619204&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102619204",
+        "dc:identifier": "SCOPUS_ID:85102619204",
+        "eid": "2-s2.0-85102619204",
+        "dc:title": "Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition)",
+        "dc:creator": "Klionsky D.J.",
+        "prism:publicationName": "Autophagy",
+        "prism:issn": "15548627",
+        "prism:eIssn": "15548635",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.1080/15548627.2020.1797280",
+        "citedby-count": "59",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Michigan, Ann Arbor",
+                "affiliation-city": "Ann Arbor",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "33634751",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "3900148405",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064841752"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064841752?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064841752&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064841752&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S039304401930066X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064841752",
+        "dc:identifier": "SCOPUS_ID:85064841752",
+        "eid": "2-s2.0-85064841752",
+        "dc:title": "Perturbations of the Hess–Appelrot and the Lagrange cases in the rigid body dynamics",
+        "dc:creator": "Żoła̧dek H.",
+        "prism:publicationName": "Journal of Geometry and Physics",
+        "prism:issn": "03930440",
+        "prism:volume": "142",
+        "prism:pageRange": "121-136",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "August 2019",
+        "prism:doi": "10.1016/j.geomphys.2019.04.001",
+        "pii": "S039304401930066X",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23897",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076757634"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076757634?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076757634&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85076757634&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85076757634",
+        "dc:identifier": "SCOPUS_ID:85076757634",
+        "eid": "2-s2.0-85076757634",
+        "dc:title": "Melnikov functions in the rigid body dynamics",
+        "dc:creator": "Lubowiecki P.",
+        "prism:publicationName": "Trends in Mathematics",
+        "prism:issn": "22970215",
+        "prism:eIssn": "2297024X",
+        "prism:pageRange": "75-82",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-030-34072-8_8",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100447813",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055205087"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055205087?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055205087&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055205087&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055205087",
+        "dc:identifier": "SCOPUS_ID:85055205087",
+        "eid": "2-s2.0-85055205087",
+        "dc:title": "First order linear differential equations with involutive delay and hypergeometric functions",
+        "dc:creator": "Czekalski S.",
+        "prism:publicationName": "Topological Methods in Nonlinear Analysis",
+        "prism:issn": "12303429",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "11-29",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "September 2018",
+        "prism:doi": "10.12775/TMNA.2017.002",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "ul. Marszałkowska 1 m. 80",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700177501",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041084766"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041084766?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041084766&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041084766&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041084766",
+        "dc:identifier": "SCOPUS_ID:85041084766",
+        "eid": "2-s2.0-85041084766",
+        "dc:title": "The Hess-Appelrot system. III. splitting of separatrices and chaos",
+        "dc:creator": "Kurek R.",
+        "prism:publicationName": "Discrete and Continuous Dynamical Systems- Series A",
+        "prism:issn": "10780947",
+        "prism:eIssn": "15535231",
+        "prism:volume": "38",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1955-1981",
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "April 2018",
+        "prism:doi": "10.3934/dcds.2018079",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "75869",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041948284"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041948284?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041948284&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041948284&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041948284",
+        "dc:identifier": "SCOPUS_ID:85041948284",
+        "eid": "2-s2.0-85041948284",
+        "dc:title": "The Poncelet theorems in interpretation of Rafaɫ Koɫodziej",
+        "dc:creator": "Żoɫądek H.",
+        "prism:publicationName": "Trends in Mathematics",
+        "prism:issn": "22970215",
+        "prism:eIssn": "2297024X",
+        "prism:issueIdentifier": "9783319635934",
+        "prism:pageRange": "135-150",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-63594-1_15",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100447813",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

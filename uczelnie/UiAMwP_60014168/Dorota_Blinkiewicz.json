@@ -1,0 +1,110 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077574063"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077574063?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077574063&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077574063&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077574063",
+        "dc:identifier": "SCOPUS_ID:85077574063",
+        "eid": "2-s2.0-85077574063",
+        "dc:title": "Minimal Perimeter Parallelograms Inscribed in a Pair of Confocal Ellipses",
+        "dc:creator": "Blinkiewicz D.",
+        "prism:publicationName": "American Mathematical Monthly",
+        "prism:issn": "00029890",
+        "prism:eIssn": "19300972",
+        "prism:volume": "127",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "160-165",
+        "prism:coverDate": "2020-02-07",
+        "prism:coverDisplayDate": "7 February 2020",
+        "prism:doi": "10.1080/00029890.2020.1677105",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "no",
+        "subtypeDescription": "Note",
+        "source-id": "24656",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053417770"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053417770?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053417770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053417770&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053417770",
+        "dc:identifier": "SCOPUS_ID:85053417770",
+        "eid": "2-s2.0-85053417770",
+        "dc:title": "Commensurability in mordell-weil groups of abelian varieties and tori",
+        "dc:creator": "Banaszak G.",
+        "prism:publicationName": "Functiones et Approximatio, Commentarii Mathematici",
+        "prism:issn": "02086573",
+        "prism:eIssn": "20809433",
+        "prism:volume": "58",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "145-156",
+        "prism:coverDate": "2018-06-01",
+        "prism:coverDisplayDate": "1 June 2018",
+        "prism:doi": "10.7169/facm/1656",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100284506",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

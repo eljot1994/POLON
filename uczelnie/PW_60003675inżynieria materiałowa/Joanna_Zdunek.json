@@ -1,0 +1,119 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073024841"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073024841?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073024841&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073024841&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1526612518302640"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073024841",
+        "dc:identifier": "SCOPUS_ID:85073024841",
+        "eid": "2-s2.0-85073024841",
+        "dc:title": "The influence of combined hydrostatic extrusion and rolling on the microstructure, texture and mechanical properties of Al-Li alloys",
+        "dc:creator": "Zdunek J.",
+        "prism:publicationName": "Journal of Manufacturing Processes",
+        "prism:issn": "15266125",
+        "prism:volume": "47",
+        "prism:pageRange": "254-262",
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "November 2019",
+        "prism:doi": "10.1016/j.jmapro.2019.09.042",
+        "pii": "S1526612518302640",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27677",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060247423"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060247423?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060247423&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060247423&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1644966518301560"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060247423",
+        "dc:identifier": "SCOPUS_ID:85060247423",
+        "eid": "2-s2.0-85060247423",
+        "dc:title": "Texture, residual stresses and mechanical properties analysis in the commercial 1.4462 duplex stainless steel subjected to hydrostatic extrusion",
+        "dc:creator": "Zdunek J.",
+        "prism:publicationName": "Archives of Civil and Mechanical Engineering",
+        "prism:issn": "16449665",
+        "prism:volume": "19",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "525-534",
+        "prism:coverDate": "2019-03-01",
+        "prism:coverDisplayDate": "March 2019",
+        "prism:doi": "10.1016/j.acme.2018.12.008",
+        "pii": "S1644966518301560",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14000156254",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

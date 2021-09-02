@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85112365872"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85112365872?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85112365872&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85112365872&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2405886621000361"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85112365872",
+        "dc:identifier": "SCOPUS_ID:85112365872",
+        "eid": "2-s2.0-85112365872",
+        "dc:title": "Alginate-based tissue-specific bioinks for multi-material 3D-bioprinting of pancreatic islets and blood vessels: A step towards vascularized pancreas grafts",
+        "dc:creator": "Idaszek J.",
+        "prism:publicationName": "Bioprinting",
+        "prism:issn": "24058866",
+        "prism:volume": "24",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-12-01",
+        "prism:coverDisplayDate": "December 2021",
+        "prism:doi": "10.1016/j.bprint.2021.e00163",
+        "pii": "S2405886621000361",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "e00163",
+        "source-id": "21100791825",
+        "openaccess": "1",
+        "openaccessFlag": true
+    }
+]

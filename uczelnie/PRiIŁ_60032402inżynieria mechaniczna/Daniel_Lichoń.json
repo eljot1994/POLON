@@ -1,0 +1,129 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083315932"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083315932?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083315932&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083315932&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083315932",
+        "dc:identifier": "SCOPUS_ID:85083315932",
+        "eid": "2-s2.0-85083315932",
+        "dc:title": "Modelling of the reference STARs procedures in the context of RPAS integration in non-segregated airspace",
+        "dc:creator": "Lichoń D.",
+        "prism:publicationName": "Aircraft Engineering and Aerospace Technology",
+        "prism:issn": "17488842",
+        "prism:volume": "92",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "1385-1392",
+        "prism:coverDate": "2020-10-27",
+        "prism:coverDisplayDate": "27 Oct 2020",
+        "prism:doi": "10.1108/AEAT-12-2019-0243",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039035309"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039035309?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039035309&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039035309&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039035309",
+        "dc:identifier": "SCOPUS_ID:85039035309",
+        "eid": "2-s2.0-85039035309",
+        "dc:title": "Using the phased array antenna to increase geometric size of the interrogation zone in a UHF RFID system",
+        "dc:creator": "Jankowski-Mihułowicz P.",
+        "prism:publicationName": "Archives of Electrical Engineering",
+        "prism:issn": "14274221",
+        "prism:eIssn": "23002506",
+        "prism:volume": "66",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "761-772",
+        "prism:coverDate": "2017-12-20",
+        "prism:coverDisplayDate": "20 December 2017",
+        "prism:doi": "10.1515/aee-2017-0058",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "50094",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

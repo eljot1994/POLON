@@ -1,0 +1,304 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065386886"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065386886?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065386886&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065386886&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166218X19302331"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065386886",
+        "dc:identifier": "SCOPUS_ID:85065386886",
+        "eid": "2-s2.0-85065386886",
+        "dc:title": "Generating all minimal petri net unsolvable binary words",
+        "dc:creator": "Erofeev E.",
+        "prism:publicationName": "Discrete Applied Mathematics",
+        "prism:issn": "0166218X",
+        "prism:volume": "274",
+        "prism:pageRange": "35-53",
+        "prism:coverDate": "2020-03-15",
+        "prism:coverDisplayDate": "15 March 2020",
+        "prism:doi": "10.1016/j.dam.2019.04.023",
+        "pii": "S0166218X19302331",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universität Oldenburg",
+                "affiliation-city": "Oldenburg",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25890",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049074409"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049074409?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049074409&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049074409&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049074409",
+        "dc:identifier": "SCOPUS_ID:85049074409",
+        "eid": "2-s2.0-85049074409",
+        "dc:title": "Reversing computations modelled by coloured petri nets",
+        "dc:creator": "Barylska K.",
+        "prism:publicationName": "CEUR Workshop Proceedings",
+        "prism:issn": "16130073",
+        "prism:volume": "2115",
+        "prism:pageRange": "91-111",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100218356",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048034148"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048034148?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048034148&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048034148&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048034148",
+        "dc:identifier": "SCOPUS_ID:85048034148",
+        "eid": "2-s2.0-85048034148",
+        "dc:title": "Reversing Transitions in Bounded Petri Nets",
+        "dc:creator": "Barylska K.",
+        "prism:publicationName": "Fundamenta Informaticae",
+        "prism:issn": "01692968",
+        "prism:volume": "157",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "341-357",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.3233/FI-2018-1631",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28474",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034590525"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034590525?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034590525&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034590525&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167642317302204"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034590525",
+        "dc:identifier": "SCOPUS_ID:85034590525",
+        "eid": "2-s2.0-85034590525",
+        "dc:title": "Reversible computation vs. reversibility in Petri nets",
+        "dc:creator": "Barylska K.",
+        "prism:publicationName": "Science of Computer Programming",
+        "prism:issn": "01676423",
+        "prism:volume": "151",
+        "prism:pageRange": "48-60",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "1 January 2018",
+        "prism:doi": "10.1016/j.scico.2017.10.008",
+        "pii": "S0167642317302204",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28416",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030724801"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030724801?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85030724801&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85030724801&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85030724801",
+        "dc:identifier": "SCOPUS_ID:85030724801",
+        "eid": "2-s2.0-85030724801",
+        "dc:title": "Properties of plain, pure, and safe petri nets",
+        "dc:creator": "Barylska K.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783662558614"
+            }
+        ],
+        "prism:volume": "10470 LNCS",
+        "prism:pageRange": "1-18",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1007/978-3-662-55862-1_1",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Mikołaja Kopernika w Toruniu",
+                "affiliation-city": "Torun, Kujawsko-Pomorskie",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

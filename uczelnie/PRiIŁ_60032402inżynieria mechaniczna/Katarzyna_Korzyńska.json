@@ -1,0 +1,114 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091628888"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091628888?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091628888&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091628888&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1526612520306241"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091628888",
+        "dc:identifier": "SCOPUS_ID:85091628888",
+        "eid": "2-s2.0-85091628888",
+        "dc:title": "Flow burnishing with glass microspheres and its impact on the surface condition of 2017A alloy elements",
+        "dc:creator": "Korzynska K.",
+        "prism:publicationName": "Journal of Manufacturing Processes",
+        "prism:issn": "15266125",
+        "prism:volume": "58",
+        "prism:pageRange": "1297-1303",
+        "prism:coverDate": "2020-10-01",
+        "prism:coverDisplayDate": "October 2020",
+        "prism:doi": "10.1016/j.jmapro.2020.09.035",
+        "pii": "S1526612520306241",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27677",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044203997"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044203997?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044203997&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044203997&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044203997",
+        "dc:identifier": "SCOPUS_ID:85044203997",
+        "eid": "2-s2.0-85044203997",
+        "dc:title": "Relationship between residual stress and strength of single lap joints made of Ti6Al4V alloy, adhesively bonded and treated using pneumatic ball peening",
+        "dc:creator": "Korzynska K.",
+        "prism:publicationName": "Journal of Adhesion Science and Technology",
+        "prism:issn": "01694243",
+        "prism:eIssn": "15685616",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "17",
+        "prism:pageRange": "1849-1860",
+        "prism:coverDate": "2018-09-02",
+        "prism:coverDisplayDate": "2 September 2018",
+        "prism:doi": "10.1080/01694243.2018.1450108",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13664",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

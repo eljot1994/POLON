@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066448430"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066448430?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85066448430&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85066448430&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X19304585"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85066448430",
+        "dc:identifier": "SCOPUS_ID:85066448430",
+        "eid": "2-s2.0-85066448430",
+        "dc:title": "Continuous selections and retractive representations for the fixed points sets of set valued Reich's contractions",
+        "dc:creator": "Rybiński L.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "478",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "689-697",
+        "prism:coverDate": "2019-10-15",
+        "prism:coverDisplayDate": "15 October 2019",
+        "prism:doi": "10.1016/j.jmaa.2019.05.050",
+        "pii": "S0022247X19304585",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

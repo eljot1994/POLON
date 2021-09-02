@@ -1,0 +1,387 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100509054"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100509054?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100509054&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100509054&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100509054",
+        "dc:identifier": "SCOPUS_ID:85100509054",
+        "eid": "2-s2.0-85100509054",
+        "dc:title": "Optimisation of energy use in bioethanol production using a control algorithm",
+        "dc:creator": "Knaga J.",
+        "prism:publicationName": "Processes",
+        "prism:eIssn": "22279717",
+        "prism:volume": "9",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1-20",
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.3390/pr9020282",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "282",
+        "source-id": "21100838131",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082721366"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85082721366?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85082721366&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85082721366&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85082721366",
+        "dc:identifier": "SCOPUS_ID:85082721366",
+        "eid": "2-s2.0-85082721366",
+        "dc:title": "Analysis of the bioethanol production process control",
+        "dc:creator": "Lis S.",
+        "prism:publicationName": "E3S Web of Conferences",
+        "prism:issn": "25550403",
+        "prism:eIssn": "22671242",
+        "prism:volume": "154",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-03-09",
+        "prism:coverDisplayDate": "9 March 2020",
+        "prism:doi": "10.1051/e3sconf/202015402009",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "02009",
+        "source-id": "21100795900",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070840310"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070840310?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070840310&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070840310&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070840310",
+        "dc:identifier": "SCOPUS_ID:85070840310",
+        "eid": "2-s2.0-85070840310",
+        "dc:title": "Selection of power regulator of the heater in bioethanol production process",
+        "dc:creator": "Lis S.",
+        "prism:publicationName": "2019 Applications of Electromagnetics in Modern Engineering and Medicine, PTZE 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788388131004"
+            }
+        ],
+        "prism:pageRange": "97-100",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.23919/PTZE.2019.8781694",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8781694",
+        "source-id": "21100964618",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070803530"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070803530?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070803530&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070803530&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070803530",
+        "dc:identifier": "SCOPUS_ID:85070803530",
+        "eid": "2-s2.0-85070803530",
+        "dc:title": "Analysis of selected electrical properties of biochar obtained by pyrolysis from energy plants",
+        "dc:creator": "Tomasik M.",
+        "prism:publicationName": "2019 Applications of Electromagnetics in Modern Engineering and Medicine, PTZE 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788388131004"
+            }
+        ],
+        "prism:pageRange": "246-249",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.23919/PTZE.2019.8781695",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8781695",
+        "source-id": "21100964618",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057226221"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057226221?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057226221&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057226221&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057226221",
+        "dc:identifier": "SCOPUS_ID:85057226221",
+        "eid": "2-s2.0-85057226221",
+        "dc:title": "Analysis of the effectiveness of the prototype PV tracking system",
+        "dc:creator": "Tomasik M.",
+        "prism:publicationName": "2018 Applications of Electromagnetics in Modern Techniques and Medicine, PTZE 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728111773"
+            }
+        ],
+        "prism:pageRange": "101-104",
+        "prism:coverDate": "2018-10-23",
+        "prism:coverDisplayDate": "23 October 2018",
+        "prism:doi": "10.1109/PTZE.2018.8503095",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8503095",
+        "source-id": "21100887633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057219526"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057219526?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057219526&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057219526&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057219526",
+        "dc:identifier": "SCOPUS_ID:85057219526",
+        "eid": "2-s2.0-85057219526",
+        "dc:title": "Simulation model of the microwave-vacuum drying process of selected fruits and vegetables",
+        "dc:creator": "Lis S.",
+        "prism:publicationName": "2018 Applications of Electromagnetics in Modern Techniques and Medicine, PTZE 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728111773"
+            }
+        ],
+        "prism:pageRange": "155-158",
+        "prism:coverDate": "2018-10-23",
+        "prism:coverDisplayDate": "23 October 2018",
+        "prism:doi": "10.1109/PTZE.2018.8502954",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Rolniczy im. Hugona Kollataja w Krakowie",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8502954",
+        "source-id": "21100887633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,58 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097645890"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097645890?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097645890&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097645890&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097645890",
+        "dc:identifier": "SCOPUS_ID:85097645890",
+        "eid": "2-s2.0-85097645890",
+        "dc:title": "Unleashing the performance of virtual BNG by offloading data plane to a programmable ASIC",
+        "dc:creator": "Osinski T.",
+        "prism:publicationName": "EuroP4 2020 - Proceedings of the 3rd P4 Workshop in Europe, Part of CoNEXT 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781450381819"
+            }
+        ],
+        "prism:pageRange": "54-55",
+        "prism:coverDate": "2020-12-01",
+        "prism:coverDisplayDate": "1 December 2020",
+        "prism:doi": "10.1145/3426744.3431325",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21101030442",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

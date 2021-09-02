@@ -1,0 +1,141 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089150650"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089150650?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089150650&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089150650&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969720347215"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089150650",
+        "dc:identifier": "SCOPUS_ID:85089150650",
+        "eid": "2-s2.0-85089150650",
+        "dc:title": "Variability and role of long-wave radiation fluxes in the formation of net radiation and thermal features of grassy and bare soil active surfaces in Wrocław",
+        "dc:creator": "Bryś K.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "747",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-12-10",
+        "prism:coverDisplayDate": "10 December 2020",
+        "prism:doi": "10.1016/j.scitotenv.2020.141192",
+        "pii": "S0048969720347215",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Environmental and Life Sciences",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32777497",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "141192",
+        "source-id": "25349",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013422831"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013422831?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013422831&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85013422831&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S030438861630242X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85013422831",
+        "dc:identifier": "SCOPUS_ID:85013422831",
+        "eid": "2-s2.0-85013422831",
+        "dc:title": "Effect of an electric field on friction of silicone rubber against steel in the motor base oil's environment",
+        "dc:creator": "Gajewski J.",
+        "prism:publicationName": "Journal of Electrostatics",
+        "prism:issn": "03043886",
+        "prism:volume": "88",
+        "prism:pageRange": "214-217",
+        "prism:coverDate": "2017-08-01",
+        "prism:coverDisplayDate": "1 August 2017",
+        "prism:doi": "10.1016/j.elstat.2017.01.023",
+        "pii": "S030438861630242X",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18041",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,143 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056650921"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056650921?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056650921&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056650921&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0885064X18300815"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056650921",
+        "dc:identifier": "SCOPUS_ID:85056650921",
+        "eid": "2-s2.0-85056650921",
+        "dc:title": "Some properties of block-radial functions and Schrödinger type operators with block-radial potentials",
+        "dc:creator": "Dota A.",
+        "prism:publicationName": "Journal of Complexity",
+        "prism:issn": "0885064X",
+        "prism:eIssn": "10902708",
+        "prism:volume": "53",
+        "prism:pageRange": "1-22",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "August 2019",
+        "prism:doi": "10.1016/j.jco.2018.10.005",
+        "pii": "S0885064X18300815",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28500",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020278949"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020278949?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85020278949&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85020278949&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021904517300606"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85020278949",
+        "dc:identifier": "SCOPUS_ID:85020278949",
+        "eid": "2-s2.0-85020278949",
+        "dc:title": "s-numbers of compact embeddings of some sequence and function spaces",
+        "dc:creator": "Dota A.",
+        "prism:publicationName": "Journal of Approximation Theory",
+        "prism:issn": "00219045",
+        "prism:eIssn": "10960430",
+        "prism:volume": "221",
+        "prism:pageRange": "38-61",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "September 2017",
+        "prism:doi": "10.1016/j.jat.2017.05.002",
+        "pii": "S0021904517300606",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23841",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,134 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111147274"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111147274?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85111147274&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85111147274&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85111147274",
+        "dc:identifier": "SCOPUS_ID:85111147274",
+        "eid": "2-s2.0-85111147274",
+        "dc:title": "Agvs collision and deadlock handling based on structural online control policy: A case study in a square topology",
+        "dc:creator": "Małopolski W.",
+        "prism:publicationName": "Applied Sciences (Switzerland)",
+        "prism:eIssn": "20763417",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-07-02",
+        "prism:coverDisplayDate": "2 July 2021",
+        "prism:doi": "10.3390/app11146494",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Krakowska",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "6494",
+        "source-id": "21100829268",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107313336"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107313336?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107313336&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107313336&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0278612521000996"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107313336",
+        "dc:identifier": "SCOPUS_ID:85107313336",
+        "eid": "2-s2.0-85107313336",
+        "dc:title": "Structural on-line control policy for collision and deadlock resolution in multi-AGV systems",
+        "dc:creator": "Zając J.",
+        "prism:publicationName": "Journal of Manufacturing Systems",
+        "prism:issn": "02786125",
+        "prism:volume": "60",
+        "prism:pageRange": "80-92",
+        "prism:coverDate": "2021-07-01",
+        "prism:coverDisplayDate": "July 2021",
+        "prism:doi": "10.1016/j.jmsy.2021.05.002",
+        "pii": "S0278612521000996",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Krakowska",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14966",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

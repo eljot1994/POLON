@@ -1,0 +1,134 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097418442"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097418442?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097418442&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097418442&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097418442",
+        "dc:identifier": "SCOPUS_ID:85097418442",
+        "eid": "2-s2.0-85097418442",
+        "dc:title": "Structural characterization of fine γ<sup>′</sup>-Fe<inf>4</inf>n nitrides formed by active screen plasma nitriding",
+        "dc:creator": "Jasinski J.J.",
+        "prism:publicationName": "Metals",
+        "prism:eIssn": "20754701",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "1-11",
+        "prism:coverDate": "2020-12-01",
+        "prism:coverDisplayDate": "December 2020",
+        "prism:doi": "10.3390/met10121656",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "1656",
+        "source-id": "21100399731",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046036899"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046036899?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046036899&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85046036899&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S002228601830317X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85046036899",
+        "dc:identifier": "SCOPUS_ID:85046036899",
+        "eid": "2-s2.0-85046036899",
+        "dc:title": "Investigation of nitrogen transport in active screen plasma nitriding processes – Uphill diffusion effect",
+        "dc:creator": "Jasinski J.",
+        "prism:publicationName": "Journal of Molecular Structure",
+        "prism:issn": "00222860",
+        "prism:volume": "1164",
+        "prism:pageRange": "37-44",
+        "prism:coverDate": "2018-07-15",
+        "prism:coverDisplayDate": "15 July 2018",
+        "prism:doi": "10.1016/j.molstruc.2018.03.028",
+        "pii": "S002228601830317X",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Częstochowa University Of Technology",
+                "affiliation-city": "Czestochowa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24642",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

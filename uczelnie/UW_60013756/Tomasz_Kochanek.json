@@ -1,0 +1,94 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84992630799"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84992630799?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84992630799&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84992630799&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X16305339"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84992630799",
+        "dc:identifier": "SCOPUS_ID:84992630799",
+        "eid": "2-s2.0-84992630799",
+        "dc:title": "Steinhaus’ lattice-point problem for Banach spaces",
+        "dc:creator": "Kania T.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "446",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1219-1229",
+        "prism:coverDate": "2017-02-15",
+        "prism:coverDisplayDate": "15 February 2017",
+        "prism:doi": "10.1016/j.jmaa.2016.09.030",
+        "pii": "S0022247X16305339",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University College Cork",
+                "affiliation-city": "Cork",
+                "affiliation-country": "Ireland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Warwick",
+                "affiliation-city": "Coventry",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

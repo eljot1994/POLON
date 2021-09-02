@@ -1,0 +1,158 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057598195"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057598195?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057598195&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057598195&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057598195",
+        "dc:identifier": "SCOPUS_ID:85057598195",
+        "eid": "2-s2.0-85057598195",
+        "dc:title": "Limit Models of Pore Space Structure of Porous Materials for Determination of Limit Pore Size Distributions Based on Mercury Intrusion Data",
+        "dc:creator": "Cieszko M.",
+        "prism:publicationName": "Transport in Porous Media",
+        "prism:issn": "01693913",
+        "prism:eIssn": "15731634",
+        "prism:volume": "127",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "433-458",
+        "prism:coverDate": "2019-03-30",
+        "prism:coverDisplayDate": "30 March 2019",
+        "prism:doi": "10.1007/s11242-018-1200-5",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21973",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049671197"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049671197?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049671197&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049671197&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049671197",
+        "dc:identifier": "SCOPUS_ID:85049671197",
+        "eid": "2-s2.0-85049671197",
+        "dc:title": "Strain- and adsorption-dependent electronic states and transport or localization in graphene",
+        "dc:creator": "Radchenko T.",
+        "prism:publicationName": "Springer Proceedings in Physics",
+        "prism:issn": "09308989",
+        "prism:eIssn": "18674941",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319910826"
+            }
+        ],
+        "prism:volume": "210",
+        "prism:pageRange": "25-41",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-91083-3_3",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "G. V. Kurdyumov Institute for Metal Physics, National Academy of Sciences of Ukraine",
+                "affiliation-city": "Kiev",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100296235",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

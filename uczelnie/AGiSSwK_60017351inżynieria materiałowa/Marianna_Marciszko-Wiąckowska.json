@@ -1,0 +1,83 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84993929166"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84993929166?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84993929166&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84993929166&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1359645416307960"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84993929166",
+        "dc:identifier": "SCOPUS_ID:84993929166",
+        "eid": "2-s2.0-84993929166",
+        "dc:title": "Stress measurements by multi-reflection grazing-incidence X-ray diffraction method (MGIXD) using different radiation wavelengths and different incident angles",
+        "dc:creator": "Marciszko M.",
+        "prism:publicationName": "Acta Materialia",
+        "prism:issn": "13596454",
+        "prism:volume": "123",
+        "prism:pageRange": "157-166",
+        "prism:coverDate": "2017-01-15",
+        "prism:coverDisplayDate": "15 January 2017",
+        "prism:doi": "10.1016/j.actamat.2016.10.029",
+        "pii": "S1359645416307960",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28583",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

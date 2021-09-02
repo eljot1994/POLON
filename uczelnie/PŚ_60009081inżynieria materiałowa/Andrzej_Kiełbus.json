@@ -1,0 +1,131 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087060624"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087060624?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087060624&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087060624&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087060624",
+        "dc:identifier": "SCOPUS_ID:85087060624",
+        "eid": "2-s2.0-85087060624",
+        "dc:title": "Effect of modification on microstructure and properties of AZ91 magnesium alloy",
+        "dc:creator": "Kiełbus A.",
+        "prism:publicationName": "Crystals",
+        "prism:eIssn": "20734352",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1-10",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.3390/cryst10060536",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "536",
+        "source-id": "21100316020",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041931913"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85041931913?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041931913&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85041931913&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85041931913",
+        "dc:identifier": "SCOPUS_ID:85041931913",
+        "eid": "2-s2.0-85041931913",
+        "dc:title": "MAGMASOFT Simulation of Sand Casting Process with EV31A Magnesium Alloy",
+        "dc:creator": "Jarosz R.",
+        "prism:publicationName": "Journal of Engineering Materials and Technology, Transactions of the ASME",
+        "prism:issn": "00944289",
+        "prism:eIssn": "15288889",
+        "prism:volume": "140",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-07-01",
+        "prism:coverDisplayDate": "1 July 2018",
+        "prism:doi": "10.1115/1.4039108",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "ZM „WSK Rzeszów”",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "031001",
+        "source-id": "21155",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

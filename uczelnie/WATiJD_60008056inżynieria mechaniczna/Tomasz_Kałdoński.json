@@ -1,0 +1,67 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014373233"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014373233?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85014373233&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85014373233&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1644966517300122"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85014373233",
+        "dc:identifier": "SCOPUS_ID:85014373233",
+        "eid": "2-s2.0-85014373233",
+        "dc:title": "h-BN lamellar lubricant in hydrocarbon and formulated oil in porous sintered bearings (iron + h-BN)",
+        "dc:creator": "Pawlak Z.",
+        "prism:publicationName": "Archives of Civil and Mechanical Engineering",
+        "prism:issn": "16449665",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "687-693",
+        "prism:coverDate": "2017-05-01",
+        "prism:coverDisplayDate": "1 May 2017",
+        "prism:doi": "10.1016/j.acme.2017.01.003",
+        "pii": "S1644966517300122",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pomorze University",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Tribochemistry Consulting",
+                "affiliation-city": "Salt Lake City",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14000156254",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053821289"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053821289?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053821289&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053821289&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053821289",
+        "dc:identifier": "SCOPUS_ID:85053821289",
+        "eid": "2-s2.0-85053821289",
+        "dc:title": "Methods of Simulation Investigations of Non-linear Vibrations in the Steering System of a Motorcycle",
+        "dc:creator": "Żardecki D.",
+        "prism:publicationName": "Springer Proceedings in Mathematics and Statistics",
+        "prism:issn": "21941009",
+        "prism:eIssn": "21941017",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319966007"
+            }
+        ],
+        "prism:volume": "249",
+        "prism:pageRange": "497-506",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1007/978-3-319-96601-4_44",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100255398",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

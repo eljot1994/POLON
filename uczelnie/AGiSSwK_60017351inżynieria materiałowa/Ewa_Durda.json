@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090048712"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85090048712?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85090048712&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85090048712&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0040609020305253"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85090048712",
+        "dc:identifier": "SCOPUS_ID:85090048712",
+        "eid": "2-s2.0-85090048712",
+        "dc:title": "High-temperature oxidation behavior of the Crofer 22 APU steel coated with (La,Sr)(Co,Fe)O<inf>3</inf> film prepared by pulsed laser deposition",
+        "dc:creator": "Durda E.",
+        "prism:publicationName": "Thin Solid Films",
+        "prism:issn": "00406090",
+        "prism:volume": "712",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-31",
+        "prism:coverDisplayDate": "31 October 2020",
+        "prism:doi": "10.1016/j.tsf.2020.138316",
+        "pii": "S0040609020305253",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "138316",
+        "source-id": "12347",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,311 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097353269"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097353269?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097353269&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097353269&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0257897220314031"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097353269",
+        "dc:identifier": "SCOPUS_ID:85097353269",
+        "eid": "2-s2.0-85097353269",
+        "dc:title": "Characterization of FeP-based metallic glass coatings prepared with laser cladding",
+        "dc:creator": "Malachowska A.",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:issn": "02578972",
+        "prism:volume": "405",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-15",
+        "prism:coverDisplayDate": "15 January 2021",
+        "prism:doi": "10.1016/j.surfcoat.2020.126733",
+        "pii": "S0257897220314031",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "126733",
+        "source-id": "24537",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088784874"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088784874?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088784874&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088784874&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088784874",
+        "dc:identifier": "SCOPUS_ID:85088784874",
+        "eid": "2-s2.0-85088784874",
+        "dc:title": "Review of functionally graded thermal sprayed coatings",
+        "dc:creator": "Łatka L.",
+        "prism:publicationName": "Applied Sciences (Switzerland)",
+        "prism:eIssn": "20763417",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "15",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "August 2020",
+        "prism:doi": "10.3390/app10155153",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "5153",
+        "source-id": "21100829268",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054567461"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054567461?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054567461&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054567461&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0257897218310417"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054567461",
+        "dc:identifier": "SCOPUS_ID:85054567461",
+        "eid": "2-s2.0-85054567461",
+        "dc:title": "Preliminary studies of TiO<inf>2</inf> nanopowder deposition onto metallic substrate by low pressure cold spraying",
+        "dc:creator": "Winnicki M.",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:issn": "02578972",
+        "prism:volume": "371",
+        "prism:pageRange": "194-202",
+        "prism:coverDate": "2019-08-15",
+        "prism:coverDisplayDate": "15 August 2019",
+        "prism:doi": "10.1016/j.surfcoat.2018.09.057",
+        "pii": "S0257897218310417",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24537",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85010653579"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85010653579?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85010653579&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85010653579&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85010653579",
+        "dc:identifier": "SCOPUS_ID:85010653579",
+        "eid": "2-s2.0-85010653579",
+        "dc:title": "Metallisation of polycarbonates using a low pressure cold spray method",
+        "dc:creator": "Małachowska A.",
+        "prism:publicationName": "Surface Engineering",
+        "prism:issn": "02670844",
+        "prism:eIssn": "17432944",
+        "prism:volume": "34",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "251-258",
+        "prism:coverDate": "2018-03-04",
+        "prism:coverDisplayDate": "4 March 2018",
+        "prism:doi": "10.1080/02670844.2016.1277843",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28462",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011931513"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011931513?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85011931513&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85011931513&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0257897217301329"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85011931513",
+        "dc:identifier": "SCOPUS_ID:85011931513",
+        "eid": "2-s2.0-85011931513",
+        "dc:title": "Possibility of spraying of copper coatings on polyamide 6 with low pressure cold spray method",
+        "dc:creator": "Małachowska A.",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:issn": "02578972",
+        "prism:volume": "318",
+        "prism:pageRange": "82-89",
+        "prism:coverDate": "2017-05-25",
+        "prism:coverDisplayDate": "25 May 2017",
+        "prism:doi": "10.1016/j.surfcoat.2017.02.001",
+        "pii": "S0257897217301329",
+        "citedby-count": "25",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Universite de Limoges",
+                "affiliation-city": "Limoges",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24537",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,186 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096086813"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096086813?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096086813&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85096086813&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85096086813",
+        "dc:identifier": "SCOPUS_ID:85096086813",
+        "eid": "2-s2.0-85096086813",
+        "dc:title": "Multi-Agent Systems: A Case Study in an Onshore Oilfield That Explores Opportunities and Future Perspectives in Terms of lot, AI and 5G Technology",
+        "dc:creator": "Oleśków-Szłapka J.",
+        "prism:publicationName": "ACM International Conference Proceeding Series",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781450371704"
+            }
+        ],
+        "prism:pageRange": "29-35",
+        "prism:coverDate": "2019-11-09",
+        "prism:coverDisplayDate": "9 November 2019",
+        "prism:doi": "10.1145/3383902.3383907",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "11600154611",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075375541"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075375541?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075375541&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075375541&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075375541",
+        "dc:identifier": "SCOPUS_ID:85075375541",
+        "eid": "2-s2.0-85075375541",
+        "dc:title": "Designing of analog filters for digital signal processing modules.",
+        "dc:creator": "Marciniak T.",
+        "prism:publicationName": "Przeglad Elektrotechniczny",
+        "prism:issn": "00332097",
+        "prism:eIssn": "24499544",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "125-129",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.15199/48.2019.10.28",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18700",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068497122"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068497122?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068497122&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068497122&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068497122",
+        "dc:identifier": "SCOPUS_ID:85068497122",
+        "eid": "2-s2.0-85068497122",
+        "dc:title": "Striving for excellence in ai implementation: Ai maturity model framework and preliminary research results",
+        "dc:creator": "Ellefsen A.P.T.",
+        "prism:publicationName": "Logforum",
+        "prism:issn": "18952038",
+        "prism:eIssn": "1734459X",
+        "prism:volume": "15",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "363-376",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.17270/J.LOG.2019.354",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Telenor ASA",
+                "affiliation-city": "Fornebu",
+                "affiliation-country": "Norway"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100913325",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

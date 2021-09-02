@@ -1,0 +1,114 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105782549"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105782549?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105782549&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105782549&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105782549",
+        "dc:identifier": "SCOPUS_ID:85105782549",
+        "eid": "2-s2.0-85105782549",
+        "dc:title": "Tests of the vibration damper system for the roller coaster",
+        "dc:creator": "Karpiel G.",
+        "prism:publicationName": "Proceedings of ISMA 2020 - International Conference on Noise and Vibration Engineering and USD 2020 - International Conference on Uncertainty in Structural Dynamics",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9789082893113"
+            }
+        ],
+        "prism:pageRange": "793-806",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21101045270",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074232502"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074232502?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074232502&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074232502&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074232502",
+        "dc:identifier": "SCOPUS_ID:85074232502",
+        "eid": "2-s2.0-85074232502",
+        "dc:title": "Uncertainty propagation for vehicle detections in experimentally validated radar model for automotive application",
+        "dc:creator": "Martowicz A.",
+        "prism:publicationName": "2019 24th International Conference on Methods and Models in Automation and Robotics, MMAR 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728109336"
+            }
+        ],
+        "prism:pageRange": "606-611",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "August 2019",
+        "prism:doi": "10.1109/MMAR.2019.8864641",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8864641",
+        "source-id": "21100934088",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

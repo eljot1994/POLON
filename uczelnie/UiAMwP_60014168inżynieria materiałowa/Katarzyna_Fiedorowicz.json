@@ -1,0 +1,86 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042727234"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042727234?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042727234&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042727234&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042727234",
+        "dc:identifier": "SCOPUS_ID:85042727234",
+        "eid": "2-s2.0-85042727234",
+        "dc:title": "Potential use of superparamagnetic iron oxide nanoparticles for in vitro and in vivo bioimaging of human myoblasts",
+        "dc:creator": "Wierzbinski K.",
+        "prism:publicationName": "Scientific Reports",
+        "prism:eIssn": "20452322",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "1 December 2018",
+        "prism:doi": "10.1038/s41598-018-22018-0",
+        "citedby-count": "34",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Human Genetics of the Polish Academy of Sciences",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "29487326",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "3682",
+        "source-id": "21100200805",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

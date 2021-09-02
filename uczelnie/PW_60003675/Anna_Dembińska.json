@@ -1,0 +1,914 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107285203"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107285203?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107285203&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107285203&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0951832021003525"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107285203",
+        "dc:identifier": "SCOPUS_ID:85107285203",
+        "eid": "2-s2.0-85107285203",
+        "dc:title": "Discrete time series–parallel system and its optimal configuration",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Reliability Engineering and System Safety",
+        "prism:issn": "09518320",
+        "prism:volume": "215",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-11-01",
+        "prism:coverDisplayDate": "November 2021",
+        "prism:doi": "10.1016/j.ress.2021.107832",
+        "pii": "S0951832021003525",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107832",
+        "source-id": "13853",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087475321"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087475321?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087475321&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087475321&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087475321",
+        "dc:identifier": "SCOPUS_ID:85087475321",
+        "eid": "2-s2.0-85087475321",
+        "dc:title": "Maximum likelihood estimators based on discrete component lifetimes of a k-out-of-n system",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Test",
+        "prism:issn": "11330686",
+        "prism:eIssn": "18638260",
+        "prism:volume": "30",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "407-428",
+        "prism:coverDate": "2021-06-01",
+        "prism:coverDisplayDate": "June 2021",
+        "prism:doi": "10.1007/s11749-020-00724-0",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14882",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097715029"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097715029?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097715029&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097715029&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S037704272030580X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097715029",
+        "dc:identifier": "SCOPUS_ID:85097715029",
+        "eid": "2-s2.0-85097715029",
+        "dc:title": "Reliability properties of k-out-of-n systems with one cold standby unit",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Journal of Computational and Applied Mathematics",
+        "prism:issn": "03770427",
+        "prism:volume": "388",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "1 May 2021",
+        "prism:doi": "10.1016/j.cam.2020.113289",
+        "pii": "S037704272030580X",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "113289",
+        "source-id": "23847",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087301378"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087301378?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087301378&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087301378&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1572665720305749"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087301378",
+        "dc:identifier": "SCOPUS_ID:85087301378",
+        "eid": "2-s2.0-85087301378",
+        "dc:title": "Prussian-blue-modified reduced-graphene-oxide as active support for Pt nanoparticles during oxygen electroreduction in acid medium",
+        "dc:creator": "Zakrzewska B.",
+        "prism:publicationName": "Journal of Electroanalytical Chemistry",
+        "prism:issn": "15726657",
+        "prism:volume": "875",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-15",
+        "prism:coverDisplayDate": "15 October 2020",
+        "prism:doi": "10.1016/j.jelechem.2020.114347",
+        "pii": "S1572665720305749",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "114347",
+        "source-id": "9500154039",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087517161"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85087517161?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85087517161&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85087517161&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85087517161",
+        "dc:identifier": "SCOPUS_ID:85087517161",
+        "eid": "2-s2.0-85087517161",
+        "dc:title": "On numbers of observations in random regions determined by records",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Statistics",
+        "prism:issn": "02331888",
+        "prism:eIssn": "10294910",
+        "prism:volume": "54",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "805-829",
+        "prism:coverDate": "2020-07-03",
+        "prism:coverDisplayDate": "3 July 2020",
+        "prism:doi": "10.1080/02331888.2020.1786091",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14785",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089366200"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85089366200?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85089366200&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85089366200&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85089366200",
+        "dc:identifier": "SCOPUS_ID:85089366200",
+        "eid": "2-s2.0-85089366200",
+        "dc:title": "Low-noble-metal-loading hybrid catalytic system for oxygen reduction utilizing reduced-graphene-oxide-supported platinum aligned with carbon-nanotube-supported iridium",
+        "dc:creator": "Dembinska B.",
+        "prism:publicationName": "Catalysts",
+        "prism:eIssn": "20734344",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1-18",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.3390/catal10060689",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "689",
+        "source-id": "21100332402",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077687152"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077687152?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077687152&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077687152&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0377042719307083"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077687152",
+        "dc:identifier": "SCOPUS_ID:85077687152",
+        "eid": "2-s2.0-85077687152",
+        "dc:title": "Moments of order statistics from DNID discrete random variables with application in reliability",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Journal of Computational and Applied Mathematics",
+        "prism:issn": "03770427",
+        "prism:volume": "371",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.1016/j.cam.2019.112703",
+        "pii": "S0377042719307083",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "112703",
+        "source-id": "23847",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102322411"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102322411?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102322411&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102322411&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167668718304487"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102322411",
+        "dc:identifier": "SCOPUS_ID:85102322411",
+        "eid": "2-s2.0-85102322411",
+        "dc:title": "The long-term behavior of number of near-maximum insurance claims",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Insurance: Mathematics and Economics",
+        "prism:issn": "01676687",
+        "prism:volume": "88",
+        "prism:pageRange": "226-237",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "September 2019",
+        "prism:doi": "10.1016/j.insmatheco.2019.07.007",
+        "pii": "S0167668718304487",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18111",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062445447"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062445447?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062445447&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062445447&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0951832018309682"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062445447",
+        "dc:identifier": "SCOPUS_ID:85062445447",
+        "eid": "2-s2.0-85062445447",
+        "dc:title": "On the number of failed components in a k-out-of-n system upon system failure when the lifetimes are discretely distributed",
+        "dc:creator": "Davies K.",
+        "prism:publicationName": "Reliability Engineering and System Safety",
+        "prism:issn": "09518320",
+        "prism:volume": "188",
+        "prism:pageRange": "47-61",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "August 2019",
+        "prism:doi": "10.1016/j.ress.2019.03.008",
+        "pii": "S0951832018309682",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Manitoba",
+                "affiliation-city": "Winnipeg",
+                "affiliation-country": "Canada"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13853",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048856396"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048856396?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048856396&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048856396&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048856396",
+        "dc:identifier": "SCOPUS_ID:85048856396",
+        "eid": "2-s2.0-85048856396",
+        "dc:title": "On Reliability Analysis of k-Out-of-n Systems Consisting of Heterogeneous Components with Discrete Lifetimes",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "IEEE Transactions on Reliability",
+        "prism:issn": "00189529",
+        "prism:volume": "67",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1071-1083",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "September 2018",
+        "prism:doi": "10.1109/TR.2018.2837080",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8388213",
+        "source-id": "17387",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037038197"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037038197?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85037038197&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85037038197&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X17310703"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85037038197",
+        "dc:identifier": "SCOPUS_ID:85037038197",
+        "eid": "2-s2.0-85037038197",
+        "dc:title": "A strong ergodic theorem for extreme and intermediate order statistics",
+        "dc:creator": "Buraczyńska A.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "460",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "382-399",
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "1 April 2018",
+        "prism:doi": "10.1016/j.jmaa.2017.11.062",
+        "pii": "S0022247X17310703",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028021781"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028021781?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028021781&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028021781&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0377042717303588"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028021781",
+        "dc:identifier": "SCOPUS_ID:85028021781",
+        "eid": "2-s2.0-85028021781",
+        "dc:title": "Computing moments of discrete order statistics from non-identical distributions",
+        "dc:creator": "Davies K.",
+        "prism:publicationName": "Journal of Computational and Applied Mathematics",
+        "prism:issn": "03770427",
+        "prism:volume": "328",
+        "prism:pageRange": "340-354",
+        "prism:coverDate": "2018-01-15",
+        "prism:coverDisplayDate": "15 January 2018",
+        "prism:doi": "10.1016/j.cam.2017.07.017",
+        "pii": "S0377042717303588",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Manitoba",
+                "affiliation-city": "Winnipeg",
+                "affiliation-country": "Canada"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23847",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85003781835"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85003781835?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85003781835&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85003781835&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85003781835",
+        "dc:identifier": "SCOPUS_ID:85003781835",
+        "eid": "2-s2.0-85003781835",
+        "dc:title": "Asymptotic behaviour of proportions of observations in random regions determined by central order statistics from stationary processes",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Statistics",
+        "prism:issn": "02331888",
+        "prism:eIssn": "10294910",
+        "prism:volume": "51",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "591-608",
+        "prism:coverDate": "2017-05-04",
+        "prism:coverDisplayDate": "4 May 2017",
+        "prism:doi": "10.1080/02331888.2016.1265966",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14785",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85001560676"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85001560676?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85001560676&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85001560676&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85001560676",
+        "dc:identifier": "SCOPUS_ID:85001560676",
+        "eid": "2-s2.0-85001560676",
+        "dc:title": "An ergodic theorem for proportions of observations that fall into random sets determined by sample quantiles",
+        "dc:creator": "Dembińska A.",
+        "prism:publicationName": "Metrika",
+        "prism:issn": "00261335",
+        "prism:eIssn": "1435926X",
+        "prism:volume": "80",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "319-332",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1007/s00184-016-0606-8",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12837",
+        "openaccess": "1",
+        "openaccessFlag": true
+    }
+]

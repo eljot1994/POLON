@@ -1,0 +1,54 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092710606"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092710606?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092710606&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092710606&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092710606",
+        "dc:identifier": "SCOPUS_ID:85092710606",
+        "eid": "2-s2.0-85092710606",
+        "dc:title": "Modeling of unburned hydrocarbon emission in a di diesel engine using neural networks",
+        "dc:creator": "Balawender K.",
+        "prism:publicationName": "SAE Technical Papers",
+        "prism:eIssn": "01487191",
+        "prism:issueIdentifier": "2020",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-09-15",
+        "prism:coverDisplayDate": "15 September 2020",
+        "prism:doi": "10.4271/2020-01-2003",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100239259",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061749480"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061749480?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061749480&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061749480&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0257897219301689"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061749480",
+        "dc:identifier": "SCOPUS_ID:85061749480",
+        "eid": "2-s2.0-85061749480",
+        "dc:title": "Microstructure and corrosion resistance of warm sprayed titanium coatings with polymer sealing for corrosion protection of AZ91E magnesium alloy",
+        "dc:creator": "Morończyk B.",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:issn": "02578972",
+        "prism:volume": "363",
+        "prism:pageRange": "142-151",
+        "prism:coverDate": "2019-04-15",
+        "prism:coverDisplayDate": "15 April 2019",
+        "prism:doi": "10.1016/j.surfcoat.2019.02.023",
+        "pii": "S0257897219301689",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24537",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

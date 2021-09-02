@@ -1,0 +1,134 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039035309"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039035309?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039035309&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039035309&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039035309",
+        "dc:identifier": "SCOPUS_ID:85039035309",
+        "eid": "2-s2.0-85039035309",
+        "dc:title": "Using the phased array antenna to increase geometric size of the interrogation zone in a UHF RFID system",
+        "dc:creator": "Jankowski-Mihułowicz P.",
+        "prism:publicationName": "Archives of Electrical Engineering",
+        "prism:issn": "14274221",
+        "prism:eIssn": "23002506",
+        "prism:volume": "66",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "761-772",
+        "prism:coverDate": "2017-12-20",
+        "prism:coverDisplayDate": "20 December 2017",
+        "prism:doi": "10.1515/aee-2017-0058",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "50094",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015771269"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015771269?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015771269&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015771269&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0141635916302045"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015771269",
+        "dc:identifier": "SCOPUS_ID:85015771269",
+        "eid": "2-s2.0-85015771269",
+        "dc:title": "The selection of radius correction method in the case of coordinate measurements applicable for turbine blades",
+        "dc:creator": "Kawalec A.",
+        "prism:publicationName": "Precision Engineering",
+        "prism:issn": "01416359",
+        "prism:volume": "49",
+        "prism:pageRange": "243-252",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "July 2017",
+        "prism:doi": "10.1016/j.precisioneng.2017.02.012",
+        "pii": "S0141635916302045",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13790",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

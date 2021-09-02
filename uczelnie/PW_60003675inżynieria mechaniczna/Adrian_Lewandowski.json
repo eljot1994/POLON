@@ -1,0 +1,142 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102718786"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102718786?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102718786&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102718786&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102718786",
+        "dc:identifier": "SCOPUS_ID:85102718786",
+        "eid": "2-s2.0-85102718786",
+        "dc:title": "Rheological basics for modeling of extrusion process of wood polymer composites",
+        "dc:creator": "Wilczynski K.",
+        "prism:publicationName": "Polymers",
+        "prism:eIssn": "20734360",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1-16",
+        "prism:coverDate": "2021-02-02",
+        "prism:coverDisplayDate": "2 February 2021",
+        "prism:doi": "10.3390/polym13040622",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "622",
+        "source-id": "54222",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097754182"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097754182?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097754182&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097754182&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097754182",
+        "dc:identifier": "SCOPUS_ID:85097754182",
+        "eid": "2-s2.0-85097754182",
+        "dc:title": "Wireless IoT communication module with low power consumption for a soil moisture and salinity sensor",
+        "dc:creator": "Lostowski A.",
+        "prism:publicationName": "2020 Baltic URSI Symposium, URSI 2020",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9788394942199"
+            }
+        ],
+        "prism:pageRange": "33-37",
+        "prism:coverDate": "2020-10-05",
+        "prism:coverDisplayDate": "5 October 2020",
+        "prism:doi": "10.23919/URSI48707.2020.9253753",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9253753",
+        "source-id": "21101030757",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079097880"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079097880?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079097880&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079097880&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079097880",
+        "dc:identifier": "SCOPUS_ID:85079097880",
+        "eid": "2-s2.0-85079097880",
+        "dc:title": "Uncertainty of properties and failure load in composite materials",
+        "dc:creator": "Kędziora P.",
+        "prism:publicationName": "COMPDYN Proceedings",
+        "prism:issn": "26233347",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9786188284456"
+            }
+        ],
+        "prism:volume": "3",
+        "prism:pageRange": "5423-5434",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.7712/120119.7315.19093",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Krakowska",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100944430",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

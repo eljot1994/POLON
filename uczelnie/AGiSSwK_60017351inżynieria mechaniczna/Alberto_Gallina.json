@@ -1,0 +1,114 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029529330"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029529330?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85029529330&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85029529330&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85029529330",
+        "dc:identifier": "SCOPUS_ID:85029529330",
+        "eid": "2-s2.0-85029529330",
+        "dc:title": "Bayesian parameter identification of orthotropic composite materials using Lamb waves dispersion curves measurement",
+        "dc:creator": "Gallina A.",
+        "prism:publicationName": "JVC/Journal of Vibration and Control",
+        "prism:issn": "10775463",
+        "prism:eIssn": "17412986",
+        "prism:volume": "23",
+        "prism:issueIdentifier": "16",
+        "prism:pageRange": "2656-2671",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "1 September 2017",
+        "prism:doi": "10.1177/1077546315619264",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13034",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016838390"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016838390?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85016838390&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85016838390&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1270963816310069"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85016838390",
+        "dc:identifier": "SCOPUS_ID:85016838390",
+        "eid": "2-s2.0-85016838390",
+        "dc:title": "Identification of the orbit semi-major axis using frequency properties of onboard magnetic field measurements",
+        "dc:creator": "Zagorski P.",
+        "prism:publicationName": "Aerospace Science and Technology",
+        "prism:issn": "12709638",
+        "prism:volume": "66",
+        "prism:pageRange": "380-391",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "1 July 2017",
+        "prism:doi": "10.1016/j.ast.2017.03.024",
+        "pii": "S1270963816310069",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12507",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

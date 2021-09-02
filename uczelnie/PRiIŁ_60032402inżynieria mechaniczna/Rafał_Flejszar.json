@@ -1,0 +1,145 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084084772"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084084772?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084084772&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084084772&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0269749119364383"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084084772",
+        "dc:identifier": "SCOPUS_ID:85084084772",
+        "eid": "2-s2.0-85084084772",
+        "dc:title": "Influence of aqueous extracts of urban airborne particulate matter on the structure and function of human serum albumin",
+        "dc:creator": "Mazuryk O.",
+        "prism:publicationName": "Environmental Pollution",
+        "prism:issn": "02697491",
+        "prism:eIssn": "18736424",
+        "prism:volume": "263",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "August 2020",
+        "prism:doi": "10.1016/j.envpol.2020.114667",
+        "pii": "S0269749119364383",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "114667",
+        "source-id": "23916",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078588257"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078588257?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078588257&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078588257&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078588257",
+        "dc:identifier": "SCOPUS_ID:85078588257",
+        "eid": "2-s2.0-85078588257",
+        "dc:title": "Preparation of hydrophobic tannins-inspired polymer materials via low-ppm ATRP methods",
+        "dc:creator": "Zaborniak I.",
+        "prism:publicationName": "Polymers for Advanced Technologies",
+        "prism:issn": "10427147",
+        "prism:eIssn": "10991581",
+        "prism:volume": "31",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "913-921",
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "1 May 2020",
+        "prism:doi": "10.1002/pat.4825",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14470",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

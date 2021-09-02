@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023645158"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023645158?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85023645158&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85023645158&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0017931017315594"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85023645158",
+        "dc:identifier": "SCOPUS_ID:85023645158",
+        "eid": "2-s2.0-85023645158",
+        "dc:title": "Effects of cellular metals on the performances and durability of composite heat storage systems",
+        "dc:creator": "Naplocha K.",
+        "prism:publicationName": "International Journal of Heat and Mass Transfer",
+        "prism:issn": "00179310",
+        "prism:volume": "114",
+        "prism:pageRange": "1214-1219",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1016/j.ijheatmasstransfer.2017.07.028",
+        "pii": "S0017931017315594",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20448",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

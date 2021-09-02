@@ -1,0 +1,411 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065968656"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065968656?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065968656&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065968656&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065968656",
+        "dc:identifier": "SCOPUS_ID:85065968656",
+        "eid": "2-s2.0-85065968656",
+        "dc:title": "An effect of chiral dopants on mesomorphic and electro-optical properties of ferroelectric smectic mixture",
+        "dc:creator": "Gaładyk K.",
+        "prism:publicationName": "Liquid Crystals",
+        "prism:issn": "02678292",
+        "prism:eIssn": "13665855",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "15",
+        "prism:pageRange": "2134-2148",
+        "prism:coverDate": "2019-12-08",
+        "prism:coverDisplayDate": "8 December 2019",
+        "prism:doi": "10.1080/02678292.2019.1613689",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24705",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077880013"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077880013?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077880013&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077880013&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077880013",
+        "dc:identifier": "SCOPUS_ID:85077880013",
+        "eid": "2-s2.0-85077880013",
+        "dc:title": "Towards the precise microstructural mapping. Testing new anisotropic phantoms with layered and capillary geometries<sup>∗</sup>",
+        "dc:creator": "Mazur W.",
+        "prism:publicationName": "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS",
+        "prism:issn": "1557170X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538613115"
+            }
+        ],
+        "prism:pageRange": "2835-2839",
+        "prism:coverDate": "2019-07-01",
+        "prism:coverDisplayDate": "July 2019",
+        "prism:doi": "10.1109/EMBC.2019.8857065",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31946483",
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8857065",
+        "source-id": "34202",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074542048"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074542048?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074542048&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074542048&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074542048",
+        "dc:identifier": "SCOPUS_ID:85074542048",
+        "eid": "2-s2.0-85074542048",
+        "dc:title": "Physical and technical aspects of measurements of ordinary and extraordinary refraction indices and birefringence of nematic liquid crystals",
+        "dc:creator": "Kedzierski J.",
+        "prism:publicationName": "Acta Physica Polonica A",
+        "prism:issn": "05874246",
+        "prism:eIssn": "1898794X",
+        "prism:volume": "136",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "196-201",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.12693/APhysPolA.136.196",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "26936",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047125432"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047125432?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047125432&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047125432&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047125432",
+        "dc:identifier": "SCOPUS_ID:85047125432",
+        "eid": "2-s2.0-85047125432",
+        "dc:title": "Refractive index matched liquid crystal cell for laser metrology application",
+        "dc:creator": "Miszczyk E.",
+        "prism:publicationName": "Liquid Crystals",
+        "prism:issn": "02678292",
+        "prism:eIssn": "13665855",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "1690-1698",
+        "prism:coverDate": "2018-09-02",
+        "prism:coverDisplayDate": "2 September 2018",
+        "prism:doi": "10.1080/02678292.2018.1471745",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kazimierz Pulaski University of Technology and Humanities in Radom",
+                "affiliation-city": "Radom",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24705",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029713700"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85029713700?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85029713700&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85029713700&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85029713700",
+        "dc:identifier": "SCOPUS_ID:85029713700",
+        "eid": "2-s2.0-85029713700",
+        "dc:title": "A direct assessment of refractive indices of nematic liquid crystals at broad VIS - MWIR range",
+        "dc:creator": "Miszczyk E.",
+        "prism:publicationName": "Liquid Crystals",
+        "prism:issn": "02678292",
+        "prism:eIssn": "13665855",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "703-714",
+        "prism:coverDate": "2018-04-09",
+        "prism:coverDisplayDate": "9 April 2018",
+        "prism:doi": "10.1080/02678292.2017.1376125",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kazimierz Pulaski University of Technology and Humanities in Radom",
+                "affiliation-city": "Radom",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24705",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026831486"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026831486?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026831486&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026831486&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S189637571730043X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026831486",
+        "dc:identifier": "SCOPUS_ID:85026831486",
+        "eid": "2-s2.0-85026831486",
+        "dc:title": "Mid-wave infrared liquid crystal shutter for breathalyzer applications",
+        "dc:creator": "Piecek W.",
+        "prism:publicationName": "Opto-electronics Review",
+        "prism:issn": "12303402",
+        "prism:eIssn": "18963757",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "103-109",
+        "prism:coverDate": "2017-06-01",
+        "prism:coverDisplayDate": "June 2017",
+        "prism:doi": "10.1016/j.opelre.2017.03.005",
+        "pii": "S189637571730043X",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "51150",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84980319713"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84980319713?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84980319713&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84980319713&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84980319713",
+        "dc:identifier": "SCOPUS_ID:84980319713",
+        "eid": "2-s2.0-84980319713",
+        "dc:title": "Nematic liquid crystal mixtures for 3D active glasses application",
+        "dc:creator": "Mazur R.",
+        "prism:publicationName": "Liquid Crystals",
+        "prism:issn": "02678292",
+        "prism:eIssn": "13665855",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "417-426",
+        "prism:coverDate": "2017-01-26",
+        "prism:coverDisplayDate": "26 January 2017",
+        "prism:doi": "10.1080/02678292.2016.1216621",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24705",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

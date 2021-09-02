@@ -1,0 +1,129 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086366063"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086366063?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086366063&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086366063&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086366063",
+        "dc:identifier": "SCOPUS_ID:85086366063",
+        "eid": "2-s2.0-85086366063",
+        "dc:title": "Modelling of selected hydrodynamic and hydrochemical parameters of a geothermal water system: an example of Cieplice therapeutic waters",
+        "dc:creator": "Liber-Makowska E.",
+        "prism:publicationName": "Environmental Earth Sciences",
+        "prism:issn": "18666280",
+        "prism:eIssn": "18666299",
+        "prism:volume": "79",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "1 June 2020",
+        "prism:doi": "10.1007/s12665-020-08947-y",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "289",
+        "source-id": "19400158519",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040574585"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85040574585?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040574585&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85040574585&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85040574585",
+        "dc:identifier": "SCOPUS_ID:85040574585",
+        "eid": "2-s2.0-85040574585",
+        "dc:title": "Variability of selected physicochemical parameters of the Szczawno-Zdrój healing waters",
+        "dc:creator": "Kielczawa B.",
+        "prism:publicationName": "Przeglad Geologiczny",
+        "prism:issn": "00332151",
+        "prism:volume": "65",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "973-978",
+        "prism:coverDate": "2017-11-01",
+        "prism:coverDisplayDate": "November 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25769",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

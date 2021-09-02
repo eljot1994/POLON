@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047666578"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047666578?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047666578&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047666578&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047666578",
+        "dc:identifier": "SCOPUS_ID:85047666578",
+        "eid": "2-s2.0-85047666578",
+        "dc:title": "Impact of a static magnetic field on biodegradation of wastewater compounds and bacteria recombination",
+        "dc:creator": "Łebkowska M.",
+        "prism:publicationName": "Environmental Science and Pollution Research",
+        "prism:issn": "09441344",
+        "prism:eIssn": "16147499",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "23",
+        "prism:pageRange": "22571-22583",
+        "prism:coverDate": "2018-08-01",
+        "prism:coverDisplayDate": "1 August 2018",
+        "prism:doi": "10.1007/s11356-018-1943-0",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "29845547",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23918",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

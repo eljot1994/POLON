@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100905996"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100905996?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100905996&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100905996&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100905996",
+        "dc:identifier": "SCOPUS_ID:85100905996",
+        "eid": "2-s2.0-85100905996",
+        "dc:title": "The influence of process parameters on structure of YSZ coating deposited by plasma spraying on AISI 316L stainless steel surface by APS method and on Ti6Al4V titanium alloy surface by PS-PVD method",
+        "dc:creator": "Pytel M.",
+        "prism:publicationName": "Materials Science Forum",
+        "prism:issn": "02555476",
+        "prism:eIssn": "16629752",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783035736304"
+            }
+        ],
+        "prism:volume": "1016 MSF",
+        "prism:pageRange": "1166-1174",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.4028/www.scientific.net/MSF.1016.1166",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "28700",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

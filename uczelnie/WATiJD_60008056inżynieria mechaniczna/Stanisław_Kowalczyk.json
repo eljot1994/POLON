@@ -1,0 +1,119 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108847118"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108847118?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108847118&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108847118&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2095495621002606"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108847118",
+        "dc:identifier": "SCOPUS_ID:85108847118",
+        "eid": "2-s2.0-85108847118",
+        "dc:title": "Fe–N–C catalysts for oxygen electroreduction under external magnetic fields: Reduction of magnetic O<inf>2</inf> to nonmagnetic H<inf>2</inf>O",
+        "dc:creator": "Kiciński W.",
+        "prism:publicationName": "Journal of Energy Chemistry",
+        "prism:issn": "20954956",
+        "prism:volume": "64",
+        "prism:pageRange": "296-308",
+        "prism:coverDate": "2022-01-01",
+        "prism:coverDisplayDate": "January 2022",
+        "prism:doi": "10.1016/j.jechem.2021.04.048",
+        "pii": "S2095495621002606",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100244836",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085569056"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085569056?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085569056&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085569056&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925346720303888"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085569056",
+        "dc:identifier": "SCOPUS_ID:85085569056",
+        "eid": "2-s2.0-85085569056",
+        "dc:title": "Transition intensity analysis and emission properties of Eu<sup>3+</sup>: Bi<inf>2</inf>ZnOB<inf>2</inf>O<inf>6</inf> acentric biaxial single crystal",
+        "dc:creator": "Kaczkan M.",
+        "prism:publicationName": "Optical Materials",
+        "prism:issn": "09253467",
+        "prism:volume": "107",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-09-01",
+        "prism:coverDisplayDate": "September 2020",
+        "prism:doi": "10.1016/j.optmat.2020.110045",
+        "pii": "S0925346720303888",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "110045",
+        "source-id": "12318",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

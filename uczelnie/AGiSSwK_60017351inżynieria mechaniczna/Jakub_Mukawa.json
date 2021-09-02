@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063335515"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063335515?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063335515&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063335515&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063335515",
+        "dc:identifier": "SCOPUS_ID:85063335515",
+        "eid": "2-s2.0-85063335515",
+        "dc:title": "Sewage sludge treatment in the process of thermal hydrolysis and digestion on the tarnow sewage treatment plant example",
+        "dc:creator": "Mukawa J.",
+        "prism:publicationName": "Przemysl Chemiczny",
+        "prism:issn": "00332496",
+        "prism:volume": "97",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "1502-1504",
+        "prism:coverDate": "2018-09-01",
+        "prism:coverDisplayDate": "September 2018",
+        "prism:doi": "10.15199/62.2018.9.18",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21457",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

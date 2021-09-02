@@ -1,0 +1,144 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106481468"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106481468?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85106481468&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85106481468&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0038092X21003984"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85106481468",
+        "dc:identifier": "SCOPUS_ID:85106481468",
+        "eid": "2-s2.0-85106481468",
+        "dc:title": "Type-II GeAs/GaSe heterostructure as suitable candidate for solar power conversion efficiency",
+        "dc:creator": "Dalsaniya M.H.",
+        "prism:publicationName": "Solar Energy",
+        "prism:issn": "0038092X",
+        "prism:volume": "223",
+        "prism:pageRange": "87-99",
+        "prism:coverDate": "2021-07-15",
+        "prism:coverDisplayDate": "15 July 2021",
+        "prism:doi": "10.1016/j.solener.2021.05.034",
+        "pii": "S0038092X21003984",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "The Maharaja Sayajirao University of Baroda",
+                "affiliation-city": "Vadodara",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13333",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015992089"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85015992089?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85015992089&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85015992089&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85015992089",
+        "dc:identifier": "SCOPUS_ID:85015992089",
+        "eid": "2-s2.0-85015992089",
+        "dc:title": "Challenges in QCD matter physics --The scientific programme of the Compressed Baryonic Matter experiment at FAIR",
+        "dc:creator": "Ablyazimov T.",
+        "prism:publicationName": "European Physical Journal A",
+        "prism:issn": "14346001",
+        "prism:eIssn": "1434601X",
+        "prism:volume": "53",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-03-01",
+        "prism:coverDisplayDate": "1 March 2017",
+        "prism:doi": "10.1140/epja/i2017-12248-y",
+        "citedby-count": "137",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Joint Institute for Nuclear Research, Dubna",
+                "affiliation-city": "Dubna",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "60",
+        "source-id": "28969",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

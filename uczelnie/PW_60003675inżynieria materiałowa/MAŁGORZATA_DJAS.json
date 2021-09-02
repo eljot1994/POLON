@@ -1,0 +1,144 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111639800"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111639800?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85111639800&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85111639800&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85111639800",
+        "dc:identifier": "SCOPUS_ID:85111639800",
+        "eid": "2-s2.0-85111639800",
+        "dc:title": "Morphology and chemical purity ofwater suspension of graphene oxide flakes aged for 14 months in ambient conditions. a preliminary study",
+        "dc:creator": "Chlanda A.",
+        "prism:publicationName": "Materials",
+        "prism:eIssn": "19961944",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "15",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-08-01",
+        "prism:coverDisplayDate": "1 August 2021",
+        "prism:doi": "10.3390/ma14154108",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "4108",
+        "source-id": "76627",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85043394067"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85043394067?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85043394067&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85043394067&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1383586617329817"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85043394067",
+        "dc:identifier": "SCOPUS_ID:85043394067",
+        "eid": "2-s2.0-85043394067",
+        "dc:title": "Reactive extraction of carboxylic acids using organic solvents and supercritical fluids: A review",
+        "dc:creator": "Djas M.",
+        "prism:publicationName": "Separation and Purification Technology",
+        "prism:issn": "13835866",
+        "prism:eIssn": "18733794",
+        "prism:volume": "201",
+        "prism:pageRange": "106-119",
+        "prism:coverDate": "2018-08-07",
+        "prism:coverDisplayDate": "7 August 2018",
+        "prism:doi": "10.1016/j.seppur.2018.02.010",
+        "pii": "S1383586617329817",
+        "citedby-count": "62",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instytutu Technologii Materiałów Elektronicznych w Warszawie",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "14292",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

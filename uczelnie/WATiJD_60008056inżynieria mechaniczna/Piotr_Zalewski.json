@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108697127"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108697127?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108697127&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108697127&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1385894721020581"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108697127",
+        "dc:identifier": "SCOPUS_ID:85108697127",
+        "eid": "2-s2.0-85108697127",
+        "dc:title": "A new insight into the energetic co-agglomerate structures of attractive nitramines",
+        "dc:creator": "Patil V.B.",
+        "prism:publicationName": "Chemical Engineering Journal",
+        "prism:issn": "13858947",
+        "prism:volume": "420",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-09-15",
+        "prism:coverDisplayDate": "15 September 2021",
+        "prism:doi": "10.1016/j.cej.2021.130472",
+        "pii": "S1385894721020581",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Pardubice",
+                "affiliation-city": "Pardubice",
+                "affiliation-country": "Czech Republic"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "130472",
+        "source-id": "16398",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

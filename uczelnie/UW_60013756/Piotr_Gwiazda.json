@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100929782"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100929782?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100929782&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100929782&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100929782",
+        "dc:identifier": "SCOPUS_ID:85100929782",
+        "eid": "2-s2.0-85100929782",
+        "dc:title": "The sidon’s/sạ ydā northern hinterland during the early byzantine-early Islamic transition",
+        "dc:creator": "Gwiazda M.",
+        "prism:publicationName": "Bulletin of the American Schools of Oriental Research",
+        "prism:issn": "0003097X",
+        "prism:eIssn": "21618062",
+        "prism:volume": "385",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "171-200",
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "May 2021",
+        "prism:doi": "10.1086/712931",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22764",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

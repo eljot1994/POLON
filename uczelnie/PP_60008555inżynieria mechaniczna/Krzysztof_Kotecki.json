@@ -1,0 +1,279 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107624319"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107624319?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107624319&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107624319&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S016766362100140X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107624319",
+        "dc:identifier": "SCOPUS_ID:85107624319",
+        "eid": "2-s2.0-85107624319",
+        "dc:title": "Experimental determination and numerical simulation of temperature dependent material and damage behaviour of additively manufactured polyamide 12",
+        "dc:creator": "Roszak R.",
+        "prism:publicationName": "Mechanics of Materials",
+        "prism:issn": "01676636",
+        "prism:volume": "159",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-08-01",
+        "prism:coverDisplayDate": "August 2021",
+        "prism:doi": "10.1016/j.mechmat.2021.103893",
+        "pii": "S016766362100140X",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Brandenburgische Technische Universität Cottbus",
+                "affiliation-city": "Cottbus",
+                "affiliation-country": "Germany"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "103893",
+        "source-id": "17828",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083872813"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083872813?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083872813&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083872813&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083872813",
+        "dc:identifier": "SCOPUS_ID:85083872813",
+        "eid": "2-s2.0-85083872813",
+        "dc:title": "Characterization of RNP Networks of PUM1 and PUM2 Post-Transcriptional Regulators in TCam-2 Cells, a Human Male Germ Cell Model",
+        "dc:creator": "Smialek M.J.",
+        "prism:publicationName": "Cells",
+        "prism:eIssn": "20734409",
+        "prism:volume": "9",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-04-16",
+        "prism:coverDisplayDate": "16 April 2020",
+        "prism:doi": "10.3390/cells9040984",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Polish Academy of Sciences",
+                "affiliation-city": "Warszawa",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32316190",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100978391",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059774950"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059774950?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059774950&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059774950&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059774950",
+        "dc:identifier": "SCOPUS_ID:85059774950",
+        "eid": "2-s2.0-85059774950",
+        "dc:title": "PUM1 and PUM2 exhibit different modes of regulation for SIAH1 that involve cooperativity with NANOS paralogues",
+        "dc:creator": "Sajek M.",
+        "prism:publicationName": "Cellular and Molecular Life Sciences",
+        "prism:issn": "1420682X",
+        "prism:eIssn": "14209071",
+        "prism:volume": "76",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "147-161",
+        "prism:coverDate": "2019-01-15",
+        "prism:coverDisplayDate": "15 January 2019",
+        "prism:doi": "10.1007/s00018-018-2926-5",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Human Genetics of the Polish Academy of Sciences",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30269240",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84987622531"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84987622531?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84987622531&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84987622531&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84987622531",
+        "dc:identifier": "SCOPUS_ID:84987622531",
+        "eid": "2-s2.0-84987622531",
+        "dc:title": "On the need of mode interpolation for data-driven Galerkin models of a transient flow around a sphere",
+        "dc:creator": "Stankiewicz W.",
+        "prism:publicationName": "Theoretical and Computational Fluid Dynamics",
+        "prism:issn": "09354964",
+        "prism:eIssn": "14322250",
+        "prism:volume": "31",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "111-126",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1007/s00162-016-0408-7",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14592",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

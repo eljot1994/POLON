@@ -1,0 +1,135 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102526784"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102526784?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102526784&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102526784&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102526784",
+        "dc:identifier": "SCOPUS_ID:85102526784",
+        "eid": "2-s2.0-85102526784",
+        "dc:title": "Scalability analysis of selected structures of a reconfigurable manufacturing system taking into account a reduction in machine tools reliability",
+        "dc:creator": "Gola A.",
+        "prism:publicationName": "Eksploatacja i Niezawodnosc",
+        "prism:issn": "15072711",
+        "prism:volume": "23",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "242-252",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.17531/ein.2021.2.4",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182638",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84992052759"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84992052759?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84992052759&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84992052759&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1734114016301591"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84992052759",
+        "dc:identifier": "SCOPUS_ID:84992052759",
+        "eid": "2-s2.0-84992052759",
+        "dc:title": "A new form of amphotericin B – the complex with copper (II) ions – downregulates sTNFR1 shedding and changes the activity of genes involved in TNF-induced pathways: AmB–Cu<sup>2+</sup> downregulates sTNFR1 shedding and changes the activity of genes involved in TNF-induced pathways",
+        "dc:creator": "Gola J.",
+        "prism:publicationName": "Pharmacological Reports",
+        "prism:issn": "17341140",
+        "prism:volume": "69",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "22-28",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1016/j.pharep.2016.09.008",
+        "pii": "S1734114016301591",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Slaski Uniwersytet Medyczny w Katowicach",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "27755992",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "130063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

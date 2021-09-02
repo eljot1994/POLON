@@ -1,0 +1,89 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092535290"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092535290?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092535290&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092535290&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0928493120334974"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092535290",
+        "dc:identifier": "SCOPUS_ID:85092535290",
+        "eid": "2-s2.0-85092535290",
+        "dc:title": "The development of marine biomaterial derived from decellularized squid mantle for potential application as tissue engineered urinary conduit",
+        "dc:creator": "Adamowicz J.",
+        "prism:publicationName": "Materials Science and Engineering C",
+        "prism:issn": "09284931",
+        "prism:eIssn": "18730191",
+        "prism:volume": "119",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.1016/j.msec.2020.111579",
+        "pii": "S0928493120334974",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ludwik Rydygier Collegium Medicum in Bydgoszcz",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "European Association of Urology",
+                "affiliation-city": "Arnhem",
+                "affiliation-country": "Netherlands"
+            }
+        ],
+        "pubmed-id": "33321625",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "111579",
+        "source-id": "17813",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

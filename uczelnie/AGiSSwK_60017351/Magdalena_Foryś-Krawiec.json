@@ -1,0 +1,76 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099215208"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099215208?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099215208&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099215208&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099215208",
+        "dc:identifier": "SCOPUS_ID:85099215208",
+        "eid": "2-s2.0-85099215208",
+        "dc:title": "On entropy of φ-irregular and φ-level sets in maps with the shadowing property",
+        "dc:creator": "Foryś-Krawiec M.",
+        "prism:publicationName": "Discrete and Continuous Dynamical Systems- Series A",
+        "prism:issn": "10780947",
+        "prism:eIssn": "15535231",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1271-1296",
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "March 2021",
+        "prism:doi": "10.3934/dcds.2020317",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ostravská Univerzita v Ostrave",
+                "affiliation-city": "Ostrava",
+                "affiliation-country": "Czech Republic"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "75869",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

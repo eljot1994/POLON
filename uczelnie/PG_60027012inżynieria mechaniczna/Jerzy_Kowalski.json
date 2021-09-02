@@ -1,0 +1,76 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111149989"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111149989?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85111149989&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85111149989&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85111149989",
+        "dc:identifier": "SCOPUS_ID:85111149989",
+        "eid": "2-s2.0-85111149989",
+        "dc:title": "Investigations of the Emission Characteristics of a Dual-Fuel Gas Turbine Combustion Chamber Operating Simultaneously on Liquid and Gaseous Fuels",
+        "dc:creator": "Serbin S.",
+        "prism:publicationName": "Polish Maritime Research",
+        "prism:issn": "12332585",
+        "prism:eIssn": "20837429",
+        "prism:volume": "28",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "85-95",
+        "prism:coverDate": "2021-06-01",
+        "prism:coverDisplayDate": "1 June 2021",
+        "prism:doi": "10.2478/pomr-2021-0025",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Admiral Makarov National University of Shipbuilding",
+                "affiliation-city": "Mykolaiv",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17700156764",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

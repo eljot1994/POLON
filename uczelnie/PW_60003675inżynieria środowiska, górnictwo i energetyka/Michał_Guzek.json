@@ -1,0 +1,59 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092125634"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092125634?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092125634&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092125634&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092125634",
+        "dc:identifier": "SCOPUS_ID:85092125634",
+        "eid": "2-s2.0-85092125634",
+        "dc:title": "Sizing energy storage for a wind farm powering partly independent housing estate",
+        "dc:creator": "Guzek M.",
+        "prism:publicationName": "2020 IEEE 7th International Conference on Energy Smart Systems, ESS 2020 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728121598"
+            }
+        ],
+        "prism:pageRange": "206-210",
+        "prism:coverDate": "2020-05-01",
+        "prism:coverDisplayDate": "May 2020",
+        "prism:doi": "10.1109/ESS50319.2020.9160253",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9160253",
+        "source-id": "21101022993",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

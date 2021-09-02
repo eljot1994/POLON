@@ -1,0 +1,110 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103173206"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103173206?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103173206&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85103173206&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85103173206",
+        "dc:identifier": "SCOPUS_ID:85103173206",
+        "eid": "2-s2.0-85103173206",
+        "dc:title": "Equivalent forms of the brouwer fixed point theorem ii",
+        "dc:creator": "Idzik A.",
+        "prism:publicationName": "Topological Methods in Nonlinear Analysis",
+        "prism:issn": "12303429",
+        "prism:volume": "57",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "57-71",
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "March 2021",
+        "prism:doi": "10.12775/TMNA.2020.036",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Computer Science of the Polish Academy of Sciences",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700177501",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052634797"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052634797?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052634797&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052634797&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052634797",
+        "dc:identifier": "SCOPUS_ID:85052634797",
+        "eid": "2-s2.0-85052634797",
+        "dc:title": "Continuity of roots, revisited",
+        "dc:creator": "Bugajewski D.",
+        "prism:publicationName": "Bulletin of the Australian Mathematical Society",
+        "prism:issn": "00049727",
+        "prism:eIssn": "17551633",
+        "prism:volume": "98",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "448-455",
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "1 December 2018",
+        "prism:doi": "10.1017/S0004972718000709",
+        "pii": "S0004972718000709",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25244",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

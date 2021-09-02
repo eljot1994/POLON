@@ -1,0 +1,168 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063008351"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063008351?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063008351&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063008351&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063008351",
+        "dc:identifier": "SCOPUS_ID:85063008351",
+        "eid": "2-s2.0-85063008351",
+        "dc:title": "New hail impact simulation models on composite laminated wing leading edge",
+        "dc:creator": "Kustron K.",
+        "prism:publicationName": "Aircraft Engineering and Aerospace Technology",
+        "prism:issn": "17488842",
+        "prism:volume": "91",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "457-465",
+        "prism:coverDate": "2019-03-13",
+        "prism:coverDisplayDate": "13 Mar 2019",
+        "prism:doi": "10.1108/AEAT-02-2018-0089",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048191600"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048191600?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048191600&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048191600&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048191600",
+        "dc:identifier": "SCOPUS_ID:85048191600",
+        "eid": "2-s2.0-85048191600",
+        "dc:title": "Review of current research trends in bird strike and hail impact simulations on wing leading edge",
+        "dc:creator": "Goraj Z.J.",
+        "prism:publicationName": "Aircraft Engineering and Aerospace Technology",
+        "prism:eIssn": "00022667",
+        "prism:volume": "90",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "602-612",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1108/AEAT-02-2017-0053",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "12633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038595109"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038595109?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85038595109&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85038595109&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85038595109",
+        "dc:identifier": "SCOPUS_ID:85038595109",
+        "eid": "2-s2.0-85038595109",
+        "dc:title": "Investigations of high power laser beam interaction with composite materials by means of digital image correlation and thermography",
+        "dc:creator": "Kujawinska M.",
+        "prism:publicationName": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "prism:issn": "0277786X",
+        "prism:eIssn": "1996756X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781510613362"
+            }
+        ],
+        "prism:volume": "10436",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-05",
+        "prism:coverDisplayDate": "5 December 2017",
+        "prism:doi": "10.1117/12.2281119",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "104360H",
+        "source-id": "40067",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

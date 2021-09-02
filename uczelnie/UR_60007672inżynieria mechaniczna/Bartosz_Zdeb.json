@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084090098"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084090098?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084090098&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084090098&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0257897220305132"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084090098",
+        "dc:identifier": "SCOPUS_ID:85084090098",
+        "eid": "2-s2.0-85084090098",
+        "dc:title": "Structure and antibacterial properties of Ag and N doped titanium dioxide coatings containing Ti<inf>2.85</inf>O<inf>4</inf>N phase, prepared by magnetron sputtering and annealing",
+        "dc:creator": "Dziedzic A.",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:issn": "02578972",
+        "prism:volume": "393",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-07-15",
+        "prism:coverDisplayDate": "15 July 2020",
+        "prism:doi": "10.1016/j.surfcoat.2020.125844",
+        "pii": "S0257897220305132",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "125844",
+        "source-id": "24537",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,139 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048514526"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048514526?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048514526&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048514526&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048514526",
+        "dc:identifier": "SCOPUS_ID:85048514526",
+        "eid": "2-s2.0-85048514526",
+        "dc:title": "Mechanical and microstructural features of plasma cut edges in a 15 mm thick S460M steel plate",
+        "dc:creator": "Aldazabal J.",
+        "prism:publicationName": "Metals",
+        "prism:eIssn": "20754701",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-06-11",
+        "prism:coverDisplayDate": "11 June 2018",
+        "prism:doi": "10.3390/met8060447",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centro Tecnológico CEIT-IK4",
+                "affiliation-city": "Donostia-San Sebastian",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "447",
+        "source-id": "21100399731",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014338017"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014338017?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85014338017&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85014338017&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85014338017",
+        "dc:identifier": "SCOPUS_ID:85014338017",
+        "eid": "2-s2.0-85014338017",
+        "dc:title": "Experimental investigations of the influence of laser beam and plasma arc cutting parameters on edge quality of high-strength low-alloy (HSLA) strips and plates",
+        "dc:creator": "Klimpel A.",
+        "prism:publicationName": "International Journal of Advanced Manufacturing Technology",
+        "prism:issn": "02683768",
+        "prism:eIssn": "14333015",
+        "prism:volume": "92",
+        "prism:issueIdentifier": "1-4",
+        "prism:pageRange": "699-713",
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "1 September 2017",
+        "prism:doi": "10.1007/s00170-017-0119-2",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20428",
+        "openaccess": "1",
+        "openaccessFlag": true
+    }
+]

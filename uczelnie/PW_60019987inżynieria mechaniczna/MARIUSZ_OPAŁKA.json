@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099883537"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099883537?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099883537&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099883537&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099883537",
+        "dc:identifier": "SCOPUS_ID:85099883537",
+        "eid": "2-s2.0-85099883537",
+        "dc:title": "Static friction of reverse steel -elastomer sliding pairs",
+        "dc:creator": "Wieleba W.",
+        "prism:publicationName": "Tribologia",
+        "prism:issn": "07802285",
+        "prism:eIssn": "17972531",
+        "prism:volume": "279",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "147-151",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.5604/01.3001.0012.7023",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "70859",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

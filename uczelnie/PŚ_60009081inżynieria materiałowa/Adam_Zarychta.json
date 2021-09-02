@@ -1,0 +1,117 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073820619"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85073820619?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073820619&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85073820619&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0895611119300795"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85073820619",
+        "dc:identifier": "SCOPUS_ID:85073820619",
+        "eid": "2-s2.0-85073820619",
+        "dc:title": "Supporting diagnostics and therapy planning for percutaneous ablation of liver and abdominal tumors and pre-clinical evaluation",
+        "dc:creator": "Spinczyk D.",
+        "prism:publicationName": "Computerized Medical Imaging and Graphics",
+        "prism:issn": "08956111",
+        "prism:eIssn": "18790771",
+        "prism:volume": "78",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "December 2019",
+        "prism:doi": "10.1016/j.compmedimag.2019.101664",
+        "pii": "S0895611119300795",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Evertop Sp. z o.o.",
+                "affiliation-city": "Chorzow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31635911",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "101664",
+        "source-id": "23607",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053155454"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85053155454?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85053155454&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85053155454&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85053155454",
+        "dc:identifier": "SCOPUS_ID:85053155454",
+        "eid": "2-s2.0-85053155454",
+        "dc:title": "Preparation and molecular structures of N′-(2-heteroarylmethylidene)-3-(3-pyridyl)acrylohydrazides",
+        "dc:creator": "Jasiak K.",
+        "prism:publicationName": "Zeitschrift fur Naturforschung - Section B Journal of Chemical Sciences",
+        "prism:issn": "09320776",
+        "prism:eIssn": "18657117",
+        "prism:volume": "73",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "725-731",
+        "prism:coverDate": "2018-10-25",
+        "prism:coverDisplayDate": "25 October 2018",
+        "prism:doi": "10.1515/znb-2018-0132",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25756",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

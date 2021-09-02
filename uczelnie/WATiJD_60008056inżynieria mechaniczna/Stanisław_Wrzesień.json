@@ -1,0 +1,59 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074437248"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074437248?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074437248&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074437248&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074437248",
+        "dc:identifier": "SCOPUS_ID:85074437248",
+        "eid": "2-s2.0-85074437248",
+        "dc:title": "Airplane subsystem testing at the military university of technology",
+        "dc:creator": "Wojtowicz K.",
+        "prism:publicationName": "2019 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2019 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728113449"
+            }
+        ],
+        "prism:pageRange": "754-759",
+        "prism:coverDate": "2019-06-01",
+        "prism:coverDisplayDate": "June 2019",
+        "prism:doi": "10.1109/MetroAeroSpace.2019.8869662",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8869662",
+        "source-id": "21100934613",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

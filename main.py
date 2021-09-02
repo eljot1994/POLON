@@ -16,7 +16,12 @@ import bibtexparser
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
-discipline = 'matematyka'
+
+import unidecode
+
+discipline = 'inżynieria mechaniczna'
+
+ifN0 = 1
 
 letters = {'ł': 'l', 'ą': 'a', 'ń': 'n', 'ć': 'c', 'ó': 'o', 'ę': 'e', 'ś': 's', 'ź': 'z', 'ż': 'z'}
 trans = str.maketrans(letters)
@@ -33,14 +38,14 @@ download = False
 output=[]
 Uczelnie = []
 institutions = []
-with open('Instytucje.csv', mode='r', encoding='utf-8-sig') as csv_file:
+with open('Instytucje_Sumelka.csv', mode='r', encoding='utf-8-sig') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=';')
     for row in csv_reader:
         institutions.append(row)
     csv_file.close()
 
 authors = []
-with open('Matematycy_zestawienie_1.csv', mode='r', encoding='utf-8-sig') as csv_file:
+with open('Inz_mech_estawienie.csv', mode='r', encoding='utf-8-sig') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=';')
     for row in csv_reader:
         authors.append(row)
@@ -185,7 +190,9 @@ class University:
 
     def showOptimize(self,ifShow):
         self.updatePublications()
-        self.N -= self.N0
+        self.N -= self.N0*ifN0
+        if self.N==0:
+            return
         N_temp = 0
         for publication in self.publications:
             if N_temp + publication[1].U <= self.N*2-1 and publication[1].year not in ['2017','2018'] and publication[0].slots - publication[1].U >= 0:
@@ -218,12 +225,11 @@ for institution in institutions:
     Uczelnie.append(University(institution[1], institution[2],anagram))
 
     for author in authors:
-        if author[6]==institution[1]:
+        if author[7]==institution[1]:
             primary = False
-            if author[9] == 'Tak':
+            if author[10] == 'Tak':
                 primary=True
-            Uczelnie[-1].addEmployer(Author(author[2],author[4],len(author[10].split(',')),primary))
-
+            Uczelnie[-1].addEmployer(Author(author[2],author[5],len(author[11].split(',')),primary))
     """r = requests.get(
         "https://radon.nauka.gov.pl/opendata/polon/employees?resultNumbers=100&employingInstitutionUuid="+institution[0]+"&disciplineName=matematyka&penaltyMarker=false").json()
 
@@ -242,17 +248,28 @@ for institution in institutions:
 
 for uczelnia in Uczelnie:
     print(uczelnia.name,Uczelnie.index(uczelnia)+1,'z',len(Uczelnie))
+    print('---')
     uni_id = uczelnia.scopusID
-
-    if not os.path.exists('uczelnie/' + uczelnia.dirName):
-        os.mkdir('uczelnie/' + uczelnia.dirName)
+    if len(uczelnia.employer) == 0:
+        print('brak dyscypliny')
+        continue
+    if not os.path.exists('uczelnie/' + uczelnia.dirName+discipline):
+        os.mkdir('uczelnie/' + uczelnia.dirName+discipline)
 
     for author in uczelnia.employer:
-        print(uczelnia.employer.index(author)+1,'z',len(uczelnia.employer))
-        bibtex_file = open(
-            'uczelnie/' + uczelnia.dirName + '/' + author.firstName + '_' + author.secondName + '.txt',
-            mode='w', encoding='utf-8-sig')
-        if not os.path.exists('uczelnie/'+uczelnia.dirName + '/' + author.firstName + '_' + author.secondName + '.json') or download:
+
+
+        print(author.firstName,author.secondName,uczelnia.employer.index(author)+1,'z',len(uczelnia.employer))
+
+        if author.secondName =='-':
+            continue
+
+        if not os.path.exists('uczelnie/'+uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.txt'):
+            bibtex_file = open(
+                'uczelnie/' + uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.txt',
+                mode='w', encoding='utf-8-sig')
+
+        if not os.path.exists('uczelnie/'+uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.json') or download:
             author_name = author.secondName.split('-')[0] + ' and ' + author.firstName
             doc_srch = ElsSearch("AUTH(" + author_name + ") AND AF-ID(" + uni_id + ") AND PUBYEAR > 2016", 'scopus')
             doc_srch.execute(client, get_all=True)
@@ -262,12 +279,12 @@ for uczelnia in Uczelnie:
                 doc_srch = ElsSearch("AUTH(" + author_name + ") AND AF-ID(" + uni_id + ") AND PUBYEAR > 2016", 'scopus')
                 doc_srch.execute(client, get_all=True)
 
-            with open('uczelnie/'+uczelnia.dirName+'/'+author.firstName+'_'+author.secondName+'.json',mode='w', encoding='utf-8-sig') as file:
+            with open('uczelnie/'+uczelnia.dirName+discipline+'/'+author.firstName+'_'+author.secondName+'.json',mode='w', encoding='utf-8-sig') as file:
                 json.dump(doc_srch.results, file, ensure_ascii=False, indent=4)
                 file.close()
             doc_srch = doc_srch.results
         else:
-            with open('uczelnie/'+uczelnia.dirName + '/' + author.firstName + '_' + author.secondName + '.json', mode='r',
+            with open('uczelnie/'+uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.json', mode='r',
                       encoding='utf-8-sig') as file:
                 doc_srch = json.load(file)
                 file.close()
@@ -281,13 +298,32 @@ for uczelnia in Uczelnie:
 
         if notEmpty:
             for doc in doc_srch:
-                print(doc['prism:doi'])
+                issn = None
+                eIssn = None
+                bibtex_file = open(
+                    'uczelnie/' + uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.txt',
+                    mode='r', encoding='utf-8-sig')
+
                 try:
-                    bibtex = d2b.get_bibtex_entry(doc['prism:doi'])
-                    bibtex_file.write(str(bibtex)+'\n')
+                    T = 0
+                    for line in bibtex_file:
+                        line = line.replace('\':', '\":').replace('{\'', '{\"').replace('\'}', '\"}').replace(': \'',
+                                                                                                              ': \"').replace(
+                            '\',', '\",').replace(', \'', ', \"')
+                        bibtex = json.loads(line)
+                        if doc['prism:doi'] == bibtex['doi']:
+                            T = 1
+                            break
+                    if T == 0:
+                        bibtex_file = open(
+                            'uczelnie/' + uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.txt',
+                            mode='a', encoding='utf-8-sig')
+                        bibtex = d2b.get_bibtex_entry(doc['prism:doi'])
+                        bibtex_file.write(str(bibtex) + '\n')
+                        bibtex_file.close()
 
                     '''bibtex_file = open(
-                        'uczelnie/' + uczelnia.dirName + '/' + author.firstName + '_' + author.secondName + '.txt',
+                        'uczelnie/' + uczelnia.dirName+discipline + '/' + author.firstName + '_' + author.secondName + '.txt',
                         mode='r', encoding='utf-8-sig')
                     bibtext = bibtex_file.readline().replace('\'','\"')
                     print(json.loads(bibtext)['author'])
@@ -300,7 +336,6 @@ for uczelnia in Uczelnie:
                     if doc['subtypeDescription'] != 'Article':
                         if bibtex == None:
                             break
-
                         for publisher in publishers:
                             if publisher[0].lower().translate(trans) == bibtex['publisher'].lower().translate(trans):
                                 prestige = publisher[1]
@@ -313,7 +348,6 @@ for uczelnia in Uczelnie:
                                 Pc = 20
                             else:
                                 Pc = 5
-
                         elif doc['subtypeDescription'] == 'Book':
                             czy_mono = True
                             if prestige == 2:
@@ -324,14 +358,22 @@ for uczelnia in Uczelnie:
                                 Pc = 20
                     else:
                         try:
-                            issn = doc['prism:issn'][:4] + '-' + doc['prism:issn'][4:]
+                            try:
+                                issn = doc['prism:issn'][:4] + '-' + doc['prism:issn'][4:]
+                            except:
+                                eIssn = doc['prism:eIssn'][:4] + '-' + doc['prism:eIssn'][4:]
+
+                            if issn == None:
+                                issn = 'None'
+                            if eIssn == None:
+                                eIssn = 'None'
 
                             for record in list_publications_19_21:
-                                if record[3] == issn or record[6] == issn:
+                                if record[3] == issn or record[6] == issn or record[4]==eIssn or record[7]==eIssn:
                                     Pc = int(record[8])
+                                    if record[column_discipline] == 'x':
+                                        ifInDiscipline = 1
                                     break
-                            if record[column_discipline] == 'x':
-                                ifInDiscipline = 1
 
                             if doc['prism:coverDate'][:4] in ['2017','2018']:
                                 for record in list_publications_17_18:
@@ -343,9 +385,10 @@ for uczelnia in Uczelnie:
                             for record in list_publications_19_21:
                                 if doc['prism:publicationName'].lower() == record[2].lower() or doc['prism:publicationName'].lower() == record[5].lower():
                                     Pc = int(record[8])
+                                    if record[column_discipline] == 'x':
+                                        ifInDiscipline = 1
                                     break
-                            if record[column_discipline] == 'x':
-                                ifInDiscipline = 1
+
                             if doc['prism:coverDate'][:4] in ['2017','2018']:
                                 for record in list_publications_17_18:
                                     if len(record)>1:
@@ -353,7 +396,6 @@ for uczelnia in Uczelnie:
                                             Pc = int(record[3])
                                             break
                     try:
-                        bibtex = d2b.get_bibtex_entry(doc['prism:doi'])
                         authors = [y for y in [x.split(' and')[0] for x in bibtex['author'].split(' and ')] if len(y) > 2]
                     except:
                         authors = [author.firstName+' '+author.secondName]
@@ -364,24 +406,31 @@ for uczelnia in Uczelnie:
                     numberOfAuthorsWithAffil = 0
                     for author_s in authors:
                         for second_author in uczelnia.employer:
-                            firName = second_author.firstName.translate(trans).lower()
-                            secName = second_author.secondName.translate(trans).lower()
-                            auth = author_s.translate(trans).lower()
+                            firName = unidecode.unidecode(second_author.firstName).lower()
+                            secName = unidecode.unidecode(second_author.secondName).lower()
+                            auth = unidecode.unidecode(author_s).lower()
                             if (firName in auth and secName in auth) or (firName[0] in auth and secName in auth):
                                 numberOfAuthorsWithAffil += 1
                     numberOfAuthorsWithAffil = max(1,numberOfAuthorsWithAffil)
-                    publication = Publication(doc['prism:coverDate'][:4],authors, doc['dc:title'], doc['subtypeDescription'],
+
+                    for author_a in authors:
+                        if ' ' + unidecode.unidecode(author.secondName).lower() in unidecode.unidecode(author_a).lower():
+
+                            publication = Publication(doc['prism:coverDate'][:4],authors, doc['dc:title'], doc['subtypeDescription'],
                                               doc['prism:publicationName'], numberOfAuthors, numberOfAuthorsWithAffil,ifInDiscipline,Pc)
 
-                    author.addPublication(publication)
+
+                            author.addPublication(publication)
+                            #print(publication)
+                            break
                 except:
                     pass
-            bibtex_file.close()
 
-    uczelnia.showOptimize(True)
+    print('_____________________')
+    uczelnia.showOptimize(False)
     print('_____________________'*5)
 
-with open('Wynik.csv', mode='w', encoding='utf-8-sig') as csv_file:
+with open('Wynik'+discipline+'.csv', mode='w', encoding='utf-8-sig') as csv_file:
     csv_writer = csv.writer(csv_file, delimiter=';')
     for row in output:
         csv_writer.writerow(row)

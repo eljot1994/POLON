@@ -1,0 +1,118 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050316499"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050316499?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050316499&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050316499&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0263822318314703"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050316499",
+        "dc:identifier": "SCOPUS_ID:85050316499",
+        "eid": "2-s2.0-85050316499",
+        "dc:title": "Application of complementary optical methods for strain investigation in composite high pressure vessel",
+        "dc:creator": "Gąsior P.",
+        "prism:publicationName": "Composite Structures",
+        "prism:issn": "02638223",
+        "prism:volume": "203",
+        "prism:pageRange": "718-724",
+        "prism:coverDate": "2018-11-01",
+        "prism:coverDisplayDate": "1 November 2018",
+        "prism:doi": "10.1016/j.compstruct.2018.07.060",
+        "pii": "S0263822318314703",
+        "citedby-count": "14",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "15063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056897763"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056897763?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056897763&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056897763&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056897763",
+        "dc:identifier": "SCOPUS_ID:85056897763",
+        "eid": "2-s2.0-85056897763",
+        "dc:title": "High pressure composite vessel with integrated optical fiber sensors. Monitoring of manufacturing process and operation",
+        "dc:creator": "Gasior P.",
+        "prism:publicationName": "American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP",
+        "prism:issn": "0277027X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9780791851661"
+            }
+        ],
+        "prism:volume": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1115/PVP2018-85157",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "19903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

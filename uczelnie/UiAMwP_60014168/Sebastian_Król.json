@@ -1,0 +1,245 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094120212"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094120212?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094120212&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094120212&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094120212",
+        "dc:identifier": "SCOPUS_ID:85094120212",
+        "eid": "2-s2.0-85094120212",
+        "dc:title": "Inborn errors of type I IFN immunity in patients with life-threatening COVID-19",
+        "dc:creator": "Zhang Q.",
+        "prism:publicationName": "Science",
+        "prism:issn": "00368075",
+        "prism:eIssn": "10959203",
+        "prism:volume": "370",
+        "prism:issueIdentifier": "6515",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-23",
+        "prism:coverDisplayDate": "23 October 2020",
+        "prism:doi": "10.1126/science.abd4570",
+        "citedby-count": "367",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Rockefeller University",
+                "affiliation-city": "New York",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "32972995",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "eabd4570",
+        "source-id": "23571",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094096675"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094096675?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094096675&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094096675&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094096675",
+        "dc:identifier": "SCOPUS_ID:85094096675",
+        "eid": "2-s2.0-85094096675",
+        "dc:title": "Autoantibodies against type I IFNs in patients with life-threatening COVID-19",
+        "dc:creator": "Bastard P.",
+        "prism:publicationName": "Science",
+        "prism:issn": "00368075",
+        "prism:eIssn": "10959203",
+        "prism:volume": "370",
+        "prism:issueIdentifier": "6515",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-23",
+        "prism:coverDisplayDate": "23 October 2020",
+        "prism:doi": "10.1126/science.abd4585",
+        "citedby-count": "406",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Paris",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Hôpital Necker Enfants Malades",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Rockefeller University",
+                "affiliation-city": "New York",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "32972996",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "eabd4585",
+        "source-id": "23571",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057471061"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85057471061?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057471061&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85057471061&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1470160X18308884"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85057471061",
+        "dc:identifier": "SCOPUS_ID:85057471061",
+        "eid": "2-s2.0-85057471061",
+        "dc:title": "Effects of the environs of waterbodies on aquatic plants in oxbow lakes (habitat 3150)",
+        "dc:creator": "Wilk-Woźniak E.",
+        "prism:publicationName": "Ecological Indicators",
+        "prism:issn": "1470160X",
+        "prism:volume": "98",
+        "prism:pageRange": "736-742",
+        "prism:coverDate": "2019-03-01",
+        "prism:coverDisplayDate": "March 2019",
+        "prism:doi": "10.1016/j.ecolind.2018.11.025",
+        "pii": "S1470160X18308884",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Nature Conservation of the Polish Academy of Sciences",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20292",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,683 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100912758"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100912758?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100912758&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100912758&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100912758",
+        "dc:identifier": "SCOPUS_ID:85100912758",
+        "eid": "2-s2.0-85100912758",
+        "dc:title": "12-lead ECG Arrythmia Classification Using Convolutional Neural Network for Mutually Non-Exclusive Classes",
+        "dc:creator": "Solinski M.",
+        "prism:publicationName": "Computing in Cardiology",
+        "prism:issn": "23258861",
+        "prism:eIssn": "2325887X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728173825"
+            }
+        ],
+        "prism:volume": "2020-September",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-09-13",
+        "prism:coverDisplayDate": "13 September 2020",
+        "prism:doi": "10.22489/CinC.2020.124",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9344148",
+        "source-id": "21100236007",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074300997"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074300997?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074300997&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074300997&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S000292971930357X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074300997",
+        "dc:identifier": "SCOPUS_ID:85074300997",
+        "eid": "2-s2.0-85074300997",
+        "dc:title": "Bi-allelic Pathogenic Variants in TUBGCP2 Cause Microcephaly and Lissencephaly Spectrum Disorders",
+        "dc:creator": "Mitani T.",
+        "prism:publicationName": "American Journal of Human Genetics",
+        "prism:issn": "00029297",
+        "prism:eIssn": "15376605",
+        "prism:volume": "105",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1005-1015",
+        "prism:coverDate": "2019-11-07",
+        "prism:coverDisplayDate": "7 November 2019",
+        "prism:doi": "10.1016/j.ajhg.2019.09.017",
+        "pii": "S000292971930357X",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Baylor College of Medicine",
+                "affiliation-city": "Houston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "31630790",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21677",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071745138"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071745138?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071745138&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071745138&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071745138",
+        "dc:identifier": "SCOPUS_ID:85071745138",
+        "eid": "2-s2.0-85071745138",
+        "dc:title": "A patient with berardinelli-seip syndrome, novel AGPAT2 splicesite mutation and concomitant development of non-diabetic polyneuropathy",
+        "dc:creator": "Oswiecimska J.",
+        "prism:publicationName": "JCRPE Journal of Clinical Research in Pediatric Endocrinology",
+        "prism:issn": "13085727",
+        "prism:eIssn": "13085735",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "319-326",
+        "prism:coverDate": "2019-09-01",
+        "prism:coverDisplayDate": "September 2019",
+        "prism:doi": "10.4274/jcrpe.galenos.2018.2018.0227",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Slaski Uniwersytet Medyczny w Katowicach",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30563316",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700174938",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056632524"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85056632524?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85056632524&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85056632524&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85056632524",
+        "dc:identifier": "SCOPUS_ID:85056632524",
+        "eid": "2-s2.0-85056632524",
+        "dc:title": "Dormitory thermal retrofitting to nZEB standard",
+        "dc:creator": "Kwiatkowski J.",
+        "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+        "prism:issn": "17578981",
+        "prism:eIssn": "1757899X",
+        "prism:volume": "415",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-11-01",
+        "prism:coverDisplayDate": "1 November 2018",
+        "prism:doi": "10.1088/1757-899X/415/1/012002",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "012002",
+        "source-id": "19700200831",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046077463"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046077463?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046077463&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85046077463&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85046077463",
+        "dc:identifier": "SCOPUS_ID:85046077463",
+        "eid": "2-s2.0-85046077463",
+        "dc:title": "Comprehensive genomic analysis of patients with disorders of cerebral cortical development",
+        "dc:creator": "Wiszniewski W.",
+        "prism:publicationName": "European Journal of Human Genetics",
+        "prism:issn": "10184813",
+        "prism:eIssn": "14765438",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "1121-1131",
+        "prism:coverDate": "2018-08-01",
+        "prism:coverDisplayDate": "1 August 2018",
+        "prism:doi": "10.1038/s41431-018-0137-z",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instytut Matki I Dziecka",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Oregon Health &amp; Science University",
+                "affiliation-city": "Portland",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Baylor College of Medicine",
+                "affiliation-city": "Houston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "29706646",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22101",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065629400"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065629400?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065629400&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065629400&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065629400",
+        "dc:identifier": "SCOPUS_ID:85065629400",
+        "eid": "2-s2.0-85065629400",
+        "dc:title": "Foreword",
+        "dc:creator": "Wiszniewski A.",
+        "prism:publicationName": "Design Solutions for nZEB Retrofit Buildings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781522541066"
+            },
+            {
+                "@_fa": "true",
+                "$": "1522541055"
+            },
+            {
+                "@_fa": "true",
+                "$": "9781522541059"
+            }
+        ],
+        "prism:pageRange": "xiii-xiv",
+        "prism:coverDate": "2018-03-02",
+        "prism:coverDisplayDate": "2 March 2018",
+        "prism:doi": "10.4018/978-1-5225-4105-9",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "National Energy Conservation Agency (NAPE)",
+                "affiliation-city": null,
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21100859616",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016107847"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85016107847?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85016107847&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85016107847&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85016107847",
+        "dc:identifier": "SCOPUS_ID:85016107847",
+        "eid": "2-s2.0-85016107847",
+        "dc:title": "Lessons learned from additional research analyses of unsolved clinical exome cases",
+        "dc:creator": "Eldomery M.K.",
+        "prism:publicationName": "Genome Medicine",
+        "prism:eIssn": "1756994X",
+        "prism:volume": "9",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-03-21",
+        "prism:coverDisplayDate": "21 March 2017",
+        "prism:doi": "10.1186/s13073-017-0412-6",
+        "citedby-count": "97",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Indiana University School of Medicine",
+                "affiliation-city": "Indianapolis",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Baylor College of Medicine",
+                "affiliation-city": "Houston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "28327206",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "26",
+        "source-id": "19700175140",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994399234"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994399234?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994399234&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994399234&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0091674916306248"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994399234",
+        "dc:identifier": "SCOPUS_ID:84994399234",
+        "eid": "2-s2.0-84994399234",
+        "dc:title": "Primary immunodeficiency diseases: Genomic approaches delineate heterogeneous Mendelian disorders",
+        "dc:creator": "Stray-Pedersen A.",
+        "prism:publicationName": "Journal of Allergy and Clinical Immunology",
+        "prism:issn": "00916749",
+        "prism:eIssn": "10976825",
+        "prism:volume": "139",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "232-245",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1016/j.jaci.2016.05.042",
+        "pii": "S0091674916306248",
+        "citedby-count": "135",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Oslo Universitetssykehus",
+                "affiliation-city": "Oslo",
+                "affiliation-country": "Norway"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Texas Children's Hospital Houston",
+                "affiliation-city": "Houston",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Baylor College of Medicine",
+                "affiliation-city": "Houston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "27577878",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21267",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

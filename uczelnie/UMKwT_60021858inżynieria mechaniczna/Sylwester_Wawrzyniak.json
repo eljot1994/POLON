@@ -1,0 +1,311 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111058431"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111058431?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85111058431&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85111058431&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0165993621002053"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85111058431",
+        "dc:identifier": "SCOPUS_ID:85111058431",
+        "eid": "2-s2.0-85111058431",
+        "dc:title": "Perspectives and challenges in extracellular vesicles untargeted metabolomics analysis",
+        "dc:creator": "Dudzik D.",
+        "prism:publicationName": "TrAC - Trends in Analytical Chemistry",
+        "prism:issn": "01659936",
+        "prism:eIssn": "18793142",
+        "prism:volume": "143",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-10-01",
+        "prism:coverDisplayDate": "October 2021",
+        "prism:doi": "10.1016/j.trac.2021.116382",
+        "pii": "S0165993621002053",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CEU Universities",
+                "affiliation-city": "Madrid",
+                "affiliation-country": "Spain"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Gdanski Uniwersytet Medyczny",
+                "affiliation-city": "Gdańsk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "116382",
+        "source-id": "30867",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105203896"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105203896?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105203896&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105203896&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105203896",
+        "dc:identifier": "SCOPUS_ID:85105203896",
+        "eid": "2-s2.0-85105203896",
+        "dc:title": "Metabolic evaluation of urine from patients diagnosed with high grade (Hg) bladder cancer by spme-lc-ms method",
+        "dc:creator": "Łuczykowski K.",
+        "prism:publicationName": "Molecules",
+        "prism:eIssn": "14203049",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-04-02",
+        "prism:coverDisplayDate": "2 April 2021",
+        "prism:doi": "10.3390/molecules26082194",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ludwik Rydygier Collegium Medicum in Bydgoszcz",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33920347",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "2194",
+        "source-id": "26370",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84983528018"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84983528018?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84983528018&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84983528018&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84983528018",
+        "dc:identifier": "SCOPUS_ID:84983528018",
+        "eid": "2-s2.0-84983528018",
+        "dc:title": "Concomitance of monosomal karyotype with at least 5 chromosomal abnormalities is associated with dismal treatment outcome of AML patients with complex karyotype–retrospective analysis of Polish Adult Leukemia Group (PALG)",
+        "dc:creator": "Wierzbowska A.",
+        "prism:publicationName": "Leukemia and Lymphoma",
+        "prism:issn": "10428194",
+        "prism:eIssn": "10292403",
+        "prism:volume": "58",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "889-897",
+        "prism:coverDate": "2017-04-03",
+        "prism:coverDisplayDate": "3 April 2017",
+        "prism:doi": "10.1080/10428194.2016.1219901",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Medical University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "27561449",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26016",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008253107"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008253107?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85008253107&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85008253107&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85008253107",
+        "dc:identifier": "SCOPUS_ID:85008253107",
+        "eid": "2-s2.0-85008253107",
+        "dc:title": "Association of vitamin D status and clinical and radiological outcomes in a treated MS population in Poland",
+        "dc:creator": "Wawrzyniak S.",
+        "prism:publicationName": "Brain and Behavior",
+        "prism:eIssn": "21623279",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1002/brb3.609",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Military Clinical Hospital, Bydgoszcz",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "28239520",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "e00609",
+        "source-id": "21100286315",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

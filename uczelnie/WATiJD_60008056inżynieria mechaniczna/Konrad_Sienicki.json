@@ -1,0 +1,122 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048372222"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048372222?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048372222&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048372222&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048372222",
+        "dc:identifier": "SCOPUS_ID:85048372222",
+        "eid": "2-s2.0-85048372222",
+        "dc:title": "Interception and combat of cruise missiles by \"grom\" MANPADS",
+        "dc:creator": "Noga J.",
+        "prism:publicationName": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "prism:issn": "0277786X",
+        "prism:eIssn": "1996756X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781510619968"
+            }
+        ],
+        "prism:volume": "10715",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1117/12.2316768",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "1071502",
+        "source-id": "40067",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048365500"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048365500?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048365500&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048365500&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048365500",
+        "dc:identifier": "SCOPUS_ID:85048365500",
+        "eid": "2-s2.0-85048365500",
+        "dc:title": "The concept of the radar environment simulator software",
+        "dc:creator": "Wajszczyk B.",
+        "prism:publicationName": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "prism:issn": "0277786X",
+        "prism:eIssn": "1996756X",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781510619968"
+            }
+        ],
+        "prism:volume": "10715",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1117/12.2317847",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "107150G",
+        "source-id": "40067",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,120 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104068542"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104068542?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104068542&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104068542&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025540821001331"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104068542",
+        "dc:identifier": "SCOPUS_ID:85104068542",
+        "eid": "2-s2.0-85104068542",
+        "dc:title": "The Si influence on the microstructure and oxidation resistance of Ti-Al slurry coatings on Ti-48Al-2Cr-2Nb alloy",
+        "dc:creator": "Moskal G.",
+        "prism:publicationName": "Materials Research Bulletin",
+        "prism:issn": "00255408",
+        "prism:volume": "141",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-09-01",
+        "prism:coverDisplayDate": "September 2021",
+        "prism:doi": "10.1016/j.materresbull.2021.111336",
+        "pii": "S0025540821001331",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "111336",
+        "source-id": "24709",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077319903"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077319903?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077319903&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077319903&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0257897219313076"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077319903",
+        "dc:identifier": "SCOPUS_ID:85077319903",
+        "eid": "2-s2.0-85077319903",
+        "dc:title": "Microstructural characterization of laser-cladded NiCrAlY coatings on Inconel 625 Ni-based superalloy and 316L stainless steel",
+        "dc:creator": "Moskal G.",
+        "prism:publicationName": "Surface and Coatings Technology",
+        "prism:issn": "02578972",
+        "prism:volume": "387",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-04-15",
+        "prism:coverDisplayDate": "15 April 2020",
+        "prism:doi": "10.1016/j.surfcoat.2019.125317",
+        "pii": "S0257897219313076",
+        "citedby-count": "14",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "125317",
+        "source-id": "24537",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

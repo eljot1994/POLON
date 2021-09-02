@@ -1,0 +1,118 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048275362"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048275362?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048275362&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048275362&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1468121818305315"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048275362",
+        "dc:identifier": "SCOPUS_ID:85048275362",
+        "eid": "2-s2.0-85048275362",
+        "dc:title": "Variational–hemivariational approach to quasistatic viscoplastic contact problem with normal compliance, unilateral constraint, memory term, friction and damage",
+        "dc:creator": "Kulig A.",
+        "prism:publicationName": "Nonlinear Analysis: Real World Applications",
+        "prism:issn": "14681218",
+        "prism:volume": "44",
+        "prism:pageRange": "401-416",
+        "prism:coverDate": "2018-12-01",
+        "prism:coverDisplayDate": "December 2018",
+        "prism:doi": "10.1016/j.nonrwa.2018.05.014",
+        "pii": "S1468121818305315",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21780",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84978737374"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84978737374?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84978737374&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84978737374&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1468121816300578"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84978737374",
+        "dc:identifier": "SCOPUS_ID:84978737374",
+        "eid": "2-s2.0-84978737374",
+        "dc:title": "A quasistatic viscoplastic contact problem with normal compliance, unilateral constraint, memory term and friction",
+        "dc:creator": "Kulig A.",
+        "prism:publicationName": "Nonlinear Analysis: Real World Applications",
+        "prism:issn": "14681218",
+        "prism:volume": "33",
+        "prism:pageRange": "226-236",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1016/j.nonrwa.2016.06.007",
+        "pii": "S1468121816300578",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21780",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

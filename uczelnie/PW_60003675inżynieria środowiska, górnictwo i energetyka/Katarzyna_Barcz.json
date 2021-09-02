@@ -1,0 +1,232 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049121393"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049121393?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049121393&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049121393&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049121393",
+        "dc:identifier": "SCOPUS_ID:85049121393",
+        "eid": "2-s2.0-85049121393",
+        "dc:title": "Pantographic metamaterials: an example of mathematically driven design and of its technological challenges",
+        "dc:creator": "dell’Isola F.",
+        "prism:publicationName": "Continuum Mechanics and Thermodynamics",
+        "prism:issn": "09351175",
+        "prism:volume": "31",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "851-884",
+        "prism:coverDate": "2019-07-01",
+        "prism:coverDisplayDate": "1 July 2019",
+        "prism:doi": "10.1007/s00161-018-0689-8",
+        "citedby-count": "167",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Sapienza Università di Roma",
+                "affiliation-city": "Rome",
+                "affiliation-country": "Italy"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Università degli Studi dell'Aquila",
+                "affiliation-city": "L'Aquila",
+                "affiliation-country": "Italy"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Lobachevsky State University of Nizhni Novgorod",
+                "affiliation-city": "Nizhny Novgorod",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13712",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032017168"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032017168?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032017168&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032017168&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1369800117314403"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032017168",
+        "dc:identifier": "SCOPUS_ID:85032017168",
+        "eid": "2-s2.0-85032017168",
+        "dc:title": "Electrical isolation of GaAs and AlGaAs/GaAs Quantum Cascade Lasers by deep hydrogen implantation",
+        "dc:creator": "Kozubal M.",
+        "prism:publicationName": "Materials Science in Semiconductor Processing",
+        "prism:issn": "13698001",
+        "prism:volume": "74",
+        "prism:pageRange": "88-97",
+        "prism:coverDate": "2018-02-01",
+        "prism:coverDisplayDate": "February 2018",
+        "prism:doi": "10.1016/j.mssp.2017.10.016",
+        "pii": "S1369800117314403",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instytut Technologii Elektronowej",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26675",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019669402"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019669402?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85019669402&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85019669402&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0093641317301544"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85019669402",
+        "dc:identifier": "SCOPUS_ID:85019669402",
+        "eid": "2-s2.0-85019669402",
+        "dc:title": "Qualitative pivot damage analysis in aluminum printed pantographic sheets: Numerics and experiments",
+        "dc:creator": "Spagnuolo M.",
+        "prism:publicationName": "Mechanics Research Communications",
+        "prism:issn": "00936413",
+        "prism:volume": "83",
+        "prism:pageRange": "47-52",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "July 2017",
+        "prism:doi": "10.1016/j.mechrescom.2017.05.005",
+        "pii": "S0093641317301544",
+        "citedby-count": "85",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Laboratoire des Sciences des Procédés et des Matériaux",
+                "affiliation-city": "Villetaneuse",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17829",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

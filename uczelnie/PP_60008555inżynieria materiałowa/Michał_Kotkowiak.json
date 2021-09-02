@@ -1,0 +1,111 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074535738"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85074535738?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85074535738&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85074535738&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85074535738",
+        "dc:identifier": "SCOPUS_ID:85074535738",
+        "eid": "2-s2.0-85074535738",
+        "dc:title": "Laser-Induced Optoacoustic Spectroscopy Studies of Inorganic Functionalized Metallic Nanorods",
+        "dc:creator": "Błaszkiewicz P.",
+        "prism:publicationName": "Journal of Physical Chemistry C",
+        "prism:issn": "19327447",
+        "prism:eIssn": "19327455",
+        "prism:volume": "123",
+        "prism:issueIdentifier": "44",
+        "prism:pageRange": "27181-27186",
+        "prism:coverDate": "2019-11-07",
+        "prism:coverDisplayDate": "7 November 2019",
+        "prism:doi": "10.1021/acs.jpcc.9b09418",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5200153123",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061863540"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061863540?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061863540&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061863540&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061863540",
+        "dc:identifier": "SCOPUS_ID:85061863540",
+        "eid": "2-s2.0-85061863540",
+        "dc:title": "Gold-based nanoparticles systems in phototherapy - Current strategies",
+        "dc:creator": "Błaszkiewicz P.",
+        "prism:publicationName": "Current Medicinal Chemistry",
+        "prism:issn": "09298673",
+        "prism:eIssn": "1875533X",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "42",
+        "prism:pageRange": "5914-5929",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.2174/0929867325666181031120757",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30378476",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "23488",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

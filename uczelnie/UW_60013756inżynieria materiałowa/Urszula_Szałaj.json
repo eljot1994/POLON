@@ -1,0 +1,89 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065336188"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065336188?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065336188&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065336188&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065336188",
+        "dc:identifier": "SCOPUS_ID:85065336188",
+        "eid": "2-s2.0-85065336188",
+        "dc:title": "The impact of omega-3 fatty acids supplementation on insulin resistance and content of adipocytokines and biologically active lipids in adipose tissue of high-fat diet fed rats",
+        "dc:creator": "Chacińska M.",
+        "prism:publicationName": "Nutrients",
+        "prism:eIssn": "20726643",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "April 2019",
+        "prism:doi": "10.3390/nu11040835",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Medyczny w Bialymstoku",
+                "affiliation-city": "Bialystok",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31013835",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "835",
+        "source-id": "19700188323",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,75 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086428605"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086428605?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85086428605&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85086428605&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85086428605",
+        "dc:identifier": "SCOPUS_ID:85086428605",
+        "eid": "2-s2.0-85086428605",
+        "dc:title": "Numerical Simulation of Laser Welding Dissimilar Low Carbon and Austenitic Steel Joint",
+        "dc:creator": "Danielewski H.",
+        "prism:publicationName": "Open Engineering",
+        "prism:eIssn": "23915439",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "491-498",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "1 January 2020",
+        "prism:doi": "10.1515/eng-2020-0045",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Swietokrzyska w Kielcach",
+                "affiliation-city": "Kielce",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100375904",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

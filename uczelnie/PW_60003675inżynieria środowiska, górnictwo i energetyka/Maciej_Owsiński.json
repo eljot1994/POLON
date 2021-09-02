@@ -1,0 +1,167 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083835859"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083835859?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083835859&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083835859&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083835859",
+        "dc:identifier": "SCOPUS_ID:85083835859",
+        "eid": "2-s2.0-85083835859",
+        "dc:title": "Excitation type and results of simulated electric field distribution in MV cable termination",
+        "dc:creator": "Ciuba M.",
+        "prism:publicationName": "Przeglad Elektrotechniczny",
+        "prism:issn": "00332097",
+        "prism:eIssn": "24499544",
+        "prism:volume": "96",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "119-122",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.15199/48.2020.04.25",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18700",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079230288"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079230288?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079230288&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079230288&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079230288",
+        "dc:identifier": "SCOPUS_ID:85079230288",
+        "eid": "2-s2.0-85079230288",
+        "dc:title": "Voltage withstand tests and PD measurements on cable accessories with assembly mistakes",
+        "dc:creator": "Owsiński M.",
+        "prism:publicationName": "Przeglad Elektrotechniczny",
+        "prism:issn": "00332097",
+        "prism:eIssn": "24499544",
+        "prism:volume": "96",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "19-22",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.15199/48.2020.01.05",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Power Engineering, Warszawa",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18700",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034415696"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034415696?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034415696&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034415696&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034415696",
+        "dc:identifier": "SCOPUS_ID:85034415696",
+        "eid": "2-s2.0-85034415696",
+        "dc:title": "Laboratory tests of face shields protecting against the thermal effects of electric arc",
+        "dc:creator": "Lasica A.",
+        "prism:publicationName": "2017 Progress in Applied Electrical Engineering, PAEE 2017",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538615287"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-08-11",
+        "prism:coverDisplayDate": "11 August 2017",
+        "prism:doi": "10.1109/PAEE.2017.8009017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8009017",
+        "source-id": "21100838555",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

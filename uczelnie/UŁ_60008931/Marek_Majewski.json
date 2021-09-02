@@ -1,0 +1,109 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105623720"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105623720?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105623720&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105623720&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105623720",
+        "dc:identifier": "SCOPUS_ID:85105623720",
+        "eid": "2-s2.0-85105623720",
+        "dc:title": "On the continuous dependence of solutions to a bipolynomial fractional Dirichlet-Laplace problem",
+        "dc:creator": "Majewski M.",
+        "prism:publicationName": "Quaestiones Mathematicae",
+        "prism:issn": "16073606",
+        "prism:eIssn": "1727933X",
+        "prism:volume": "44",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "525-542",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "2021",
+        "prism:doi": "10.2989/16073606.2020.1727580",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "59030",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088840835"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088840835?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088840835&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088840835&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088840835",
+        "dc:identifier": "SCOPUS_ID:85088840835",
+        "eid": "2-s2.0-85088840835",
+        "dc:title": "Nonlinear continuous Fornasini-Marchesini model of fractional order with nonzero initial conditions",
+        "dc:creator": "Idczak D.",
+        "prism:publicationName": "Journal of Integral Equations and Applications",
+        "prism:issn": "08973962",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "19-34",
+        "prism:coverDate": "2020-03-01",
+        "prism:coverDisplayDate": "1 March 2020",
+        "prism:doi": "10.1216/JIE.2020.32.19",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100207615",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092939557"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092939557?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092939557&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092939557&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092939557",
+        "dc:identifier": "SCOPUS_ID:85092939557",
+        "eid": "2-s2.0-85092939557",
+        "dc:title": "Fractional abstract Cauchy problem on complex interpolation scales",
+        "dc:creator": "Lopushansky A.",
+        "prism:publicationName": "Fractional Calculus and Applied Analysis",
+        "prism:issn": "13110454",
+        "prism:eIssn": "13142224",
+        "prism:volume": "23",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1125-1140",
+        "prism:coverDate": "2020-08-01",
+        "prism:coverDisplayDate": "1 August 2020",
+        "prism:doi": "10.1515/fca-2020-0057",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Rzeszów",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19900193539",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

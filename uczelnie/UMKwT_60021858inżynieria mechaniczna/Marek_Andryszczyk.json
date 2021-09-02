@@ -1,0 +1,119 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100098075"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100098075?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100098075&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100098075&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0003497520311620"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100098075",
+        "dc:identifier": "SCOPUS_ID:85100098075",
+        "eid": "2-s2.0-85100098075",
+        "dc:title": "Biochemical Marker-Based Prediction of Neuropsychiatric Complications After Cardiac Surgery: Reply",
+        "dc:creator": "Szwed K.",
+        "prism:publicationName": "Annals of Thoracic Surgery",
+        "prism:issn": "00034975",
+        "prism:eIssn": "15526259",
+        "prism:volume": "111",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "736-737",
+        "prism:coverDate": "2021-02-01",
+        "prism:coverDisplayDate": "February 2021",
+        "prism:doi": "10.1016/j.athoracsur.2020.05.113",
+        "pii": "S0003497520311620",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ludwik Rydygier Collegium Medicum in Bydgoszcz",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "32693041",
+        "prism:aggregationType": "Journal",
+        "subtype": "le",
+        "subtypeDescription": "Letter",
+        "source-id": "20489",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069848580"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069848580?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85069848580&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85069848580&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85069848580",
+        "dc:identifier": "SCOPUS_ID:85069848580",
+        "eid": "2-s2.0-85069848580",
+        "dc:title": "Selected commensal bacteria change profiles of Helicobacter pylori-induced T cells via dendritic cell modulation",
+        "dc:creator": "Wiese-Szadkowska M.",
+        "prism:publicationName": "Helicobacter",
+        "prism:issn": "10834389",
+        "prism:eIssn": "15235378",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "1 December 2019",
+        "prism:doi": "10.1111/hel.12614",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ludwik Rydygier Collegium Medicum in Bydgoszcz",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31328382",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "e12614",
+        "source-id": "19724",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

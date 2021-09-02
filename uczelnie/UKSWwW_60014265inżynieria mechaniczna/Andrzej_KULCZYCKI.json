@@ -1,0 +1,63 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102614324"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85102614324?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85102614324&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85102614324&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969721014601"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85102614324",
+        "dc:identifier": "SCOPUS_ID:85102614324",
+        "eid": "2-s2.0-85102614324",
+        "dc:title": "Medium-term response of the natural grassland soil biota to multiwalled carbon nanotube contamination",
+        "dc:creator": "Ilieva-Makulec K.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "779",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-07-20",
+        "prism:coverDisplayDate": "20 July 2021",
+        "prism:doi": "10.1016/j.scitotenv.2021.146392",
+        "pii": "S0048969721014601",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Kardynala Stefana Wyszynskiego w Warszawie",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33743463",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "146392",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

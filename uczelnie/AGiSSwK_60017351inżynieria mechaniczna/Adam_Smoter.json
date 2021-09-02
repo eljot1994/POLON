@@ -1,0 +1,59 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069867439"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069867439?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85069867439&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85069867439&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85069867439",
+        "dc:identifier": "SCOPUS_ID:85069867439",
+        "eid": "2-s2.0-85069867439",
+        "dc:title": "Experimental and numerical investigation of the active double wishbone suspension system",
+        "dc:creator": "Smoter A.",
+        "prism:publicationName": "Proceedings of the 2019 20th International Carpathian Control Conference, ICCC 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728107011"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.1109/CarpathianCC.2019.8766025",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8766025",
+        "source-id": "21100920771",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

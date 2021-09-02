@@ -1,0 +1,55 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023596712"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85023596712?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85023596712&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85023596712&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85023596712",
+        "dc:identifier": "SCOPUS_ID:85023596712",
+        "eid": "2-s2.0-85023596712",
+        "dc:title": "A scalable, reactive architecture for cloud applications",
+        "dc:creator": "Debski A.",
+        "prism:publicationName": "IEEE Software",
+        "prism:issn": "07407459",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "62-71",
+        "prism:coverDate": "2018-03-01",
+        "prism:coverDisplayDate": "March-April 2018",
+        "prism:doi": "10.1109/MS.2017.265095722",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18709",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

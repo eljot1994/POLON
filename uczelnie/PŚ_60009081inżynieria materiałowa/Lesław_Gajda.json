@@ -1,0 +1,122 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099499303"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099499303?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099499303&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099499303&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0223523420310588"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099499303",
+        "dc:identifier": "SCOPUS_ID:85099499303",
+        "eid": "2-s2.0-85099499303",
+        "dc:title": "A step towards gadolinium-free bioresponsive MRI contrast agent",
+        "dc:creator": "Wyskocka-Gajda M.",
+        "prism:publicationName": "European Journal of Medicinal Chemistry",
+        "prism:issn": "02235234",
+        "prism:eIssn": "17683254",
+        "prism:volume": "211",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-05",
+        "prism:coverDisplayDate": "5 February 2021",
+        "prism:doi": "10.1016/j.ejmech.2020.113086",
+        "pii": "S0223523420310588",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33348236",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "113086",
+        "source-id": "17464",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034750169"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034750169?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034750169&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034750169&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034750169",
+        "dc:identifier": "SCOPUS_ID:85034750169",
+        "eid": "2-s2.0-85034750169",
+        "dc:title": "Performance indicators in the education quality assurance system",
+        "dc:creator": "Barbara Jabłońska M.",
+        "prism:publicationName": "Strategic Performance Management: New Concepts and Contemporary Trends",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781536126822"
+            },
+            {
+                "@_fa": "true",
+                "$": "9781536126815"
+            }
+        ],
+        "prism:pageRange": "381-402",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100838764",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

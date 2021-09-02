@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989283267"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84989283267?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84989283267&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84989283267&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0143720816308002"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84989283267",
+        "dc:identifier": "SCOPUS_ID:84989283267",
+        "eid": "2-s2.0-84989283267",
+        "dc:title": "Sulfanyl porphyrazines: Molecular barrel-like self-assembly in crystals, optical properties and in vitro photodynamic activity towards cancer cells",
+        "dc:creator": "Piskorz J.",
+        "prism:publicationName": "Dyes and Pigments",
+        "prism:issn": "01437208",
+        "prism:eIssn": "18733743",
+        "prism:volume": "136",
+        "prism:pageRange": "898-908",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1016/j.dyepig.2016.09.054",
+        "pii": "S0143720816308002",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Poznan University of Medical Sciences",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23502",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

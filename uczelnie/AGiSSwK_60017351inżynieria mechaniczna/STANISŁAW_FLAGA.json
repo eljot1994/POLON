@@ -1,0 +1,62 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066136341"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85066136341?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85066136341&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85066136341&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2211034819302135"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85066136341",
+        "dc:identifier": "SCOPUS_ID:85066136341",
+        "eid": "2-s2.0-85066136341",
+        "dc:title": "Profile of Polish patients with primary progressive multiple sclerosis",
+        "dc:creator": "Brola W.",
+        "prism:publicationName": "Multiple Sclerosis and Related Disorders",
+        "prism:issn": "22110348",
+        "prism:eIssn": "22110356",
+        "prism:volume": "33",
+        "prism:pageRange": "33-38",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "August 2019",
+        "prism:doi": "10.1016/j.msard.2019.05.009",
+        "pii": "S2211034819302135",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Jan Kochanowski University, Kielce",
+                "affiliation-city": "Kielce",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31146082",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20000195097",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

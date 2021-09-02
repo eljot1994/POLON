@@ -1,0 +1,134 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064711993"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064711993?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064711993&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064711993&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064711993",
+        "dc:identifier": "SCOPUS_ID:85064711993",
+        "eid": "2-s2.0-85064711993",
+        "dc:title": "Diffractive and Refractive Liquid Crystal Devices Based on Multilayer Matrices",
+        "dc:creator": "Oton E.",
+        "prism:publicationName": "Journal of Lightwave Technology",
+        "prism:issn": "07338724",
+        "prism:eIssn": "15582213",
+        "prism:volume": "37",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "2086-2093",
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "1 May 2019",
+        "prism:doi": "10.1109/JLT.2019.2898010",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "8636910",
+        "source-id": "12178",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042936006"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85042936006?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85042936006&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85042936006&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85042936006",
+        "dc:identifier": "SCOPUS_ID:85042936006",
+        "eid": "2-s2.0-85042936006",
+        "dc:title": "A long-pitch orthoconic antiferroelectric mixture modified by isomeric and racemic homostructural dopants",
+        "dc:creator": "Morawiak P.",
+        "prism:publicationName": "Liquid Crystals",
+        "prism:issn": "02678292",
+        "prism:eIssn": "13665855",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "1451-1459",
+        "prism:coverDate": "2018-08-09",
+        "prism:coverDisplayDate": "9 August 2018",
+        "prism:doi": "10.1080/02678292.2018.1446555",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24705",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

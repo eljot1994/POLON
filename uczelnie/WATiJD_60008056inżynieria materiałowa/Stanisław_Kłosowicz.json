@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044499354"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044499354?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044499354&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044499354&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167732217353060"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044499354",
+        "dc:identifier": "SCOPUS_ID:85044499354",
+        "eid": "2-s2.0-85044499354",
+        "dc:title": "Elastic polymer-dispersed liquid crystal electrooptic transducers",
+        "dc:creator": "Prusińska-Kurstak E.",
+        "prism:publicationName": "Journal of Molecular Liquids",
+        "prism:issn": "01677322",
+        "prism:volume": "267",
+        "prism:pageRange": "127-130",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "1 October 2018",
+        "prism:doi": "10.1016/j.molliq.2018.03.087",
+        "pii": "S0167732217353060",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26965",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

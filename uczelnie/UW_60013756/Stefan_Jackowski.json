@@ -1,0 +1,66 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047424021"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047424021?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047424021&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047424021&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022286018304952"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047424021",
+        "dc:identifier": "SCOPUS_ID:85047424021",
+        "eid": "2-s2.0-85047424021",
+        "dc:title": "NMR measurements and DFT studies of nuclear magnetic shielding in emodin and chuanxiongzine molecules",
+        "dc:creator": "Yi Y.",
+        "prism:publicationName": "Journal of Molecular Structure",
+        "prism:issn": "00222860",
+        "prism:volume": "1166",
+        "prism:pageRange": "304-310",
+        "prism:coverDate": "2018-08-15",
+        "prism:coverDisplayDate": "15 August 2018",
+        "prism:doi": "10.1016/j.molstruc.2018.04.053",
+        "pii": "S0022286018304952",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tsinghua University",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24642",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

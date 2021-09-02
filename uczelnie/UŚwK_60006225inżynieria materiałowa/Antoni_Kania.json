@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052840233"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052840233?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052840233&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052840233&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052840233",
+        "dc:identifier": "SCOPUS_ID:85052840233",
+        "eid": "2-s2.0-85052840233",
+        "dc:title": "Characterization of multiferroic PbFe<inf>0.5</inf>Nb<inf>0.5</inf>O<inf>3</inf> and PbFe<inf>0.5</inf>Ta<inf>0.5</inf>O<inf>3</inf> ceramics derived from citrate polymeric precursors",
+        "dc:creator": "Gruszka I.",
+        "prism:publicationName": "Journal of the American Ceramic Society",
+        "prism:issn": "00027820",
+        "prism:eIssn": "15512916",
+        "prism:volume": "102",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "1296-1308",
+        "prism:coverDate": "2019-03-01",
+        "prism:coverDisplayDate": "March 2019",
+        "prism:doi": "10.1111/jace.15998",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Silesia in Katowice",
+                "affiliation-city": "Katowice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20982",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

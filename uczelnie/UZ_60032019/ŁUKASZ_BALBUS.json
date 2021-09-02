@@ -1,0 +1,267 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028996559"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028996559?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028996559&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028996559&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028996559",
+        "dc:identifier": "SCOPUS_ID:85028996559",
+        "eid": "2-s2.0-85028996559",
+        "dc:title": "A qualitative theory of large games with strategic complementarities",
+        "dc:creator": "Balbus Ł.",
+        "prism:publicationName": "Economic Theory",
+        "prism:issn": "09382259",
+        "prism:eIssn": "14320479",
+        "prism:volume": "67",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "497-523",
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "1 April 2019",
+        "prism:doi": "10.1007/s00199-017-1075-7",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28488",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026535710"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026535710?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026535710&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026535710&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026535710",
+        "dc:identifier": "SCOPUS_ID:85026535710",
+        "eid": "2-s2.0-85026535710",
+        "dc:title": "Dynamic games in macroeconomics",
+        "dc:creator": "Balbus Ł.",
+        "prism:publicationName": "Handbook of Dynamic Game Theory",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319443744"
+            },
+            {
+                "@_fa": "true",
+                "$": "9783319443737"
+            }
+        ],
+        "prism:pageRange": "729-778",
+        "prism:coverDate": "2018-08-12",
+        "prism:coverDisplayDate": "12 August 2018",
+        "prism:doi": "10.1007/978-3-319-44374-4_18",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Chapter",
+        "source-id": "21100901600",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045210317"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045210317?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045210317&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045210317&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022053118300991"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045210317",
+        "dc:identifier": "SCOPUS_ID:85045210317",
+        "eid": "2-s2.0-85045210317",
+        "dc:title": "On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty",
+        "dc:creator": "Balbus Ł.",
+        "prism:publicationName": "Journal of Economic Theory",
+        "prism:issn": "00220531",
+        "prism:eIssn": "10957235",
+        "prism:volume": "176",
+        "prism:pageRange": "293-310",
+        "prism:coverDate": "2018-07-01",
+        "prism:coverDisplayDate": "July 2018",
+        "prism:doi": "10.1016/j.jet.2018.04.003",
+        "pii": "S0022053118300991",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28981",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025156535"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025156535?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025156535&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85025156535&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022247X17306819"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85025156535",
+        "dc:identifier": "SCOPUS_ID:85025156535",
+        "eid": "2-s2.0-85025156535",
+        "dc:title": "A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games",
+        "dc:creator": "Balbus Ł.",
+        "prism:publicationName": "Journal of Mathematical Analysis and Applications",
+        "prism:issn": "0022247X",
+        "prism:eIssn": "10960813",
+        "prism:volume": "456",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "394-401",
+        "prism:coverDate": "2017-12-01",
+        "prism:coverDisplayDate": "1 December 2017",
+        "prism:doi": "10.1016/j.jmaa.2017.07.018",
+        "pii": "S0022247X17306819",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Zielonogórski",
+                "affiliation-city": "Zielona Gora",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23935",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

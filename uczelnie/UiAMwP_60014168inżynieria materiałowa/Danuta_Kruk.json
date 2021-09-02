@@ -1,0 +1,172 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055198053"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85055198053?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85055198053&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85055198053&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85055198053",
+        "dc:identifier": "SCOPUS_ID:85055198053",
+        "eid": "2-s2.0-85055198053",
+        "dc:title": "A European Multi Lake Survey dataset of environmental variables, phytoplankton pigments and cyanotoxins",
+        "dc:creator": "Mantzouki E.",
+        "prism:publicationName": "Scientific Data",
+        "prism:eIssn": "20524463",
+        "prism:volume": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-10-23",
+        "prism:coverDisplayDate": "23 October 2018",
+        "prism:doi": "10.1038/sdata.2018.226",
+        "citedby-count": "14",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Genève",
+                "affiliation-city": "Geneva",
+                "affiliation-country": "Switzerland"
+            }
+        ],
+        "pubmed-id": "30351308",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "180226",
+        "source-id": "21100451321",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045652812"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045652812?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045652812&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045652812&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045652812",
+        "dc:identifier": "SCOPUS_ID:85045652812",
+        "eid": "2-s2.0-85045652812",
+        "dc:title": "Temperature effects explain continental scale distribution of cyanobacterial toxins",
+        "dc:creator": "Mantzouki E.",
+        "prism:publicationName": "Toxins",
+        "prism:eIssn": "20726651",
+        "prism:volume": "10",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "April 2018",
+        "prism:doi": "10.3390/toxins10040156",
+        "citedby-count": "88",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Genève",
+                "affiliation-city": "Geneva",
+                "affiliation-country": "Switzerland"
+            }
+        ],
+        "pubmed-id": "29652856",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "156",
+        "source-id": "19700188352",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

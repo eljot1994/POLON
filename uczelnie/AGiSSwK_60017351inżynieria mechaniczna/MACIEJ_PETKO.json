@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083831746"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083831746?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083831746&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083831746&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083831746",
+        "dc:identifier": "SCOPUS_ID:85083831746",
+        "eid": "2-s2.0-85083831746",
+        "dc:title": "Identification of PMSM motor's parameters at the bench for direct drives' commutation algorithms study",
+        "dc:creator": "Góra G.",
+        "prism:publicationName": "Przeglad Elektrotechniczny",
+        "prism:issn": "00332097",
+        "prism:eIssn": "24499544",
+        "prism:volume": "96",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "191-196",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.15199/48.2020.04.40",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18700",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

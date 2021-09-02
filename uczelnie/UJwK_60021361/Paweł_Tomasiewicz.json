@@ -1,0 +1,110 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078238671"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078238671?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078238671&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078238671&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078238671",
+        "dc:identifier": "SCOPUS_ID:85078238671",
+        "eid": "2-s2.0-85078238671",
+        "dc:title": "Real-world experience with Grazoprevir/Elbasvir in the treatment of previously “difficult to treat” patients infected with hepatitis C virus genotype 1 and 4",
+        "dc:creator": "Zarębska-Michaluk D.",
+        "prism:publicationName": "Journal of Gastroenterology and Hepatology (Australia)",
+        "prism:issn": "08159319",
+        "prism:eIssn": "14401746",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "1238-1246",
+        "prism:coverDate": "2020-07-01",
+        "prism:coverDisplayDate": "1 July 2020",
+        "prism:doi": "10.1111/jgh.14936",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Jan Kochanowski University, Kielce",
+                "affiliation-city": "Kielce",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31734959",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25296",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096711818"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096711818?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096711818&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85096711818&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85096711818",
+        "dc:identifier": "SCOPUS_ID:85096711818",
+        "eid": "2-s2.0-85096711818",
+        "dc:title": "Is an 8-week regimen of glecaprevir/pibrentasvir sufficient for all hepatitis C virus infected patients in the real-world experience?",
+        "dc:creator": "Zarębska-Michaluk D.",
+        "prism:publicationName": "Journal of Gastroenterology and Hepatology (Australia)",
+        "prism:issn": "08159319",
+        "prism:eIssn": "14401746",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1111/jgh.15337",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Jan Kochanowski University, Kielce",
+                "affiliation-city": "Kielce",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33171526",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25296",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

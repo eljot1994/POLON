@@ -1,0 +1,93 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054285897"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054285897?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054285897&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054285897&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054285897",
+        "dc:identifier": "SCOPUS_ID:85054285897",
+        "eid": "2-s2.0-85054285897",
+        "dc:title": "GrassPlot - A database of multi-scale plant diversity in Palaearctic grasslands",
+        "dc:creator": "Dengler J.",
+        "prism:publicationName": "Phytocoenologia",
+        "prism:issn": "0340269X",
+        "prism:volume": "48",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "331-347",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.1127/phyto/2018/0267",
+        "citedby-count": "22",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig",
+                "affiliation-city": "Leipzig",
+                "affiliation-country": "Germany"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Universität Bayreuth",
+                "affiliation-city": "Bayreuth",
+                "affiliation-country": "Germany"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Zürcher Hochschule Winterthur",
+                "affiliation-city": "Winterthur",
+                "affiliation-country": "Switzerland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "16536",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,230 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091762188"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091762188?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091762188&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091762188&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0921510720303081"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091762188",
+        "dc:identifier": "SCOPUS_ID:85091762188",
+        "eid": "2-s2.0-85091762188",
+        "dc:title": "A comparative study of electrocatalytic reduction of hydrogen peroxide at carbon rod electrodes decorated with silver particles",
+        "dc:creator": "Brzózka A.",
+        "prism:publicationName": "Materials Science and Engineering B: Solid-State Materials for Advanced Technology",
+        "prism:issn": "09215107",
+        "prism:volume": "263",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1016/j.mseb.2020.114801",
+        "pii": "S0921510720303081",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "114801",
+        "source-id": "17812",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052752156"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052752156?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052752156&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052752156&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052752156",
+        "dc:identifier": "SCOPUS_ID:85052752156",
+        "eid": "2-s2.0-85052752156",
+        "dc:title": "ANFIS Post-processing for real time gait detection and classification",
+        "dc:creator": "Dabros J.",
+        "prism:publicationName": "Proceedings - 2018 11th International Conference on Human System Interaction, HSI 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538650233"
+            }
+        ],
+        "prism:pageRange": "411-416",
+        "prism:coverDate": "2018-08-09",
+        "prism:coverDisplayDate": "9 August 2018",
+        "prism:doi": "10.1109/HSI.2018.8431095",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8431095",
+        "source-id": "21100875936",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048456722"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048456722?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048456722&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048456722&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048456722",
+        "dc:identifier": "SCOPUS_ID:85048456722",
+        "eid": "2-s2.0-85048456722",
+        "dc:title": "User movement intention detection based on gait cycle capturing using force sensitive resistors",
+        "dc:creator": "Dabros J.",
+        "prism:publicationName": "2018 14th International Conference on Perspective Technologies and Methods in MEMS Design, MEMSTECH 2018 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538658802"
+            }
+        ],
+        "prism:pageRange": "219-222",
+        "prism:coverDate": "2018-05-24",
+        "prism:coverDisplayDate": "24 May 2018",
+        "prism:doi": "10.1109/MEMSTECH.2018.8365737",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100864009",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048429520"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048429520?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048429520&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048429520&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048429520",
+        "dc:identifier": "SCOPUS_ID:85048429520",
+        "eid": "2-s2.0-85048429520",
+        "dc:title": "Machine learning gait analysis algorithm for ontogenetic features compensation",
+        "dc:creator": "Dabros J.",
+        "prism:publicationName": "2018 14th International Conference on Perspective Technologies and Methods in MEMS Design, MEMSTECH 2018 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538658802"
+            }
+        ],
+        "prism:pageRange": "132-135",
+        "prism:coverDate": "2018-05-24",
+        "prism:coverDisplayDate": "24 May 2018",
+        "prism:doi": "10.1109/MEMSTECH.2018.8365718",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100864009",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

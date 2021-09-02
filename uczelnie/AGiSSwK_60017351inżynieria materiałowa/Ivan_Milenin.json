@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063387459"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85063387459?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063387459&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85063387459&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85063387459",
+        "dc:identifier": "SCOPUS_ID:85063387459",
+        "eid": "2-s2.0-85063387459",
+        "dc:title": "Model of phase transformations in steels subject to heating-cooling thermal cycles in continuous annealing line",
+        "dc:creator": "Milenin I.",
+        "prism:publicationName": "Canadian Metallurgical Quarterly",
+        "prism:issn": "00084433",
+        "prism:eIssn": "18791395",
+        "prism:volume": "58",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "367-377",
+        "prism:coverDate": "2019-07-03",
+        "prism:coverDisplayDate": "3 July 2019",
+        "prism:doi": "10.1080/00084433.2019.1590041",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29044",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

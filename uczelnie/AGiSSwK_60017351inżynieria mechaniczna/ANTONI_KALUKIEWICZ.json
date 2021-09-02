@@ -1,0 +1,141 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059104486"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059104486?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059104486&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059104486&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059104486",
+        "dc:identifier": "SCOPUS_ID:85059104486",
+        "eid": "2-s2.0-85059104486",
+        "dc:title": "Application of vectorcardiography and recurrence-based methods to analysis of ECG signals",
+        "dc:creator": "Iwaniec J.",
+        "prism:publicationName": "MATEC Web of Conferences",
+        "prism:eIssn": "2261236X",
+        "prism:volume": "241",
+        "prism:pageRange": null,
+        "prism:coverDate": "2018-12-03",
+        "prism:coverDisplayDate": "3 December 2018",
+        "prism:doi": "10.1051/matecconf/201824101015",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "01015",
+        "source-id": "21100316064",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048010152"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048010152?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048010152&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048010152&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048010152",
+        "dc:identifier": "SCOPUS_ID:85048010152",
+        "eid": "2-s2.0-85048010152",
+        "dc:title": "Influence of image registration process disturbances on accuracy of marker coordinates detection",
+        "dc:creator": "Iwaniec J.",
+        "prism:publicationName": "2018 IEEE 9th International Conference on Mechanical and Intelligent Manufacturing Technologies, ICMIMT 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538642979"
+            }
+        ],
+        "prism:volume": "2018-January",
+        "prism:pageRange": "219-223",
+        "prism:coverDate": "2018-04-17",
+        "prism:coverDisplayDate": "17 April 2018",
+        "prism:doi": "10.1109/ICMIMT.2018.8340452",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100862883",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

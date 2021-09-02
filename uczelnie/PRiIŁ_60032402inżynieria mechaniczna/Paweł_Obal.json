@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060384668"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060384668?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060384668&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060384668&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060384668",
+        "dc:identifier": "SCOPUS_ID:85060384668",
+        "eid": "2-s2.0-85060384668",
+        "dc:title": "Monitoring the parameters of industrial robots",
+        "dc:creator": "Obal P.",
+        "prism:publicationName": "Lecture Notes in Electrical Engineering",
+        "prism:issn": "18761100",
+        "prism:eIssn": "18761119",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783030111861"
+            }
+        ],
+        "prism:volume": "548",
+        "prism:pageRange": "230-238",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.1007/978-3-030-11187-8_19",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "19700186822",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

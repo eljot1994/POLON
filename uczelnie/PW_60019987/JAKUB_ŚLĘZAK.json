@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020969518"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85020969518?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85020969518&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85020969518&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0003491617301495"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85020969518",
+        "dc:identifier": "SCOPUS_ID:85020969518",
+        "eid": "2-s2.0-85020969518",
+        "dc:title": "Asymptotic behaviour of time averages for non-ergodic Gaussian processes",
+        "dc:creator": "Ślęzak J.",
+        "prism:publicationName": "Annals of Physics",
+        "prism:issn": "00034916",
+        "prism:eIssn": "1096035X",
+        "prism:volume": "383",
+        "prism:pageRange": "285-311",
+        "prism:coverDate": "2017-08-01",
+        "prism:coverDisplayDate": "August 2017",
+        "prism:doi": "10.1016/j.aop.2017.05.015",
+        "pii": "S0003491617301495",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27002",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

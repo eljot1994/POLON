@@ -1,0 +1,107 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108530283"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108530283?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108530283&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108530283&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108530283",
+        "dc:identifier": "SCOPUS_ID:85108530283",
+        "eid": "2-s2.0-85108530283",
+        "dc:title": "The influence of ferrous scrap's grade on the yield of steel smelted in an electric-arc furnace (EAF)",
+        "dc:creator": "Janiszewski K.",
+        "prism:publicationName": "Anali Zavoda za Povijesne Znanosti Hrvatske Akademije Znanosti i Umjetnosti u Dubrovniku",
+        "prism:issn": "13300598",
+        "prism:eIssn": "18487815",
+        "prism:volume": "60",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "188-190",
+        "prism:coverDate": "2021-07-01",
+        "prism:coverDisplayDate": "July 2021",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100447818",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105327906"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105327906?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105327906&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105327906&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105327906",
+        "dc:identifier": "SCOPUS_ID:85105327906",
+        "eid": "2-s2.0-85105327906",
+        "dc:title": "The influence of ferrous scrap’s grade on the yield of steel smelted in an electric-arc furnace (Eaf)",
+        "dc:creator": "Janiszewski K.",
+        "prism:publicationName": "Metalurgija",
+        "prism:issn": "05435846",
+        "prism:volume": "60",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "188-190",
+        "prism:coverDate": "2021-07-01",
+        "prism:coverDisplayDate": "July 2021",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27790",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

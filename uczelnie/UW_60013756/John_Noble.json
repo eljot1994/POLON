@@ -1,0 +1,346 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060650889"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060650889?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060650889&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060650889&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0024493719300374"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060650889",
+        "dc:identifier": "SCOPUS_ID:85060650889",
+        "eid": "2-s2.0-85060650889",
+        "dc:title": "The Gold Flat Tuff, Nevada: Insights into the evolution of peralkaline silicic magmas",
+        "dc:creator": "Macdonald R.",
+        "prism:publicationName": "Lithos",
+        "prism:issn": "00244937",
+        "prism:eIssn": "18726143",
+        "prism:volume": "328-329",
+        "prism:pageRange": "1-13",
+        "prism:coverDate": "2019-03-01",
+        "prism:coverDisplayDate": "March 2019",
+        "prism:doi": "10.1016/j.lithos.2019.01.017",
+        "pii": "S0024493719300374",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lancaster Environment Centre",
+                "affiliation-city": "Lancaster",
+                "affiliation-country": "United Kingdom"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Geochemistry, Mineralogy and Petrology",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "24486",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037732258"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85037732258?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85037732258&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85037732258&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0304414917302971"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85037732258",
+        "dc:identifier": "SCOPUS_ID:85037732258",
+        "eid": "2-s2.0-85037732258",
+        "dc:title": "Effect of stochastic perturbations for front propagation in Kolmogorov Petrovskii Piscunov equations",
+        "dc:creator": "Noble J.M.",
+        "prism:publicationName": "Stochastic Processes and their Applications",
+        "prism:issn": "03044149",
+        "prism:volume": "128",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "3531-3557",
+        "prism:coverDate": "2018-10-01",
+        "prism:coverDisplayDate": "October 2018",
+        "prism:doi": "10.1016/j.spa.2017.11.009",
+        "pii": "S0304414917302971",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instytut Matematyki Stosowanej i Mechaniki",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "26929",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044967234"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044967234?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044967234&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044967234&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0092867418303581"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044967234",
+        "dc:identifier": "SCOPUS_ID:85044967234",
+        "eid": "2-s2.0-85044967234",
+        "dc:title": "Machine Learning Identifies Stemness Features Associated with Oncogenic Dedifferentiation",
+        "dc:creator": "Malta T.M.",
+        "prism:publicationName": "Cell",
+        "prism:issn": "00928674",
+        "prism:eIssn": "10974172",
+        "prism:volume": "173",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "338-354.e15",
+        "prism:coverDate": "2018-04-05",
+        "prism:coverDisplayDate": "5 April 2018",
+        "prism:doi": "10.1016/j.cell.2018.03.034",
+        "pii": "S0092867418303581",
+        "citedby-count": "297",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Henry Ford Health System",
+                "affiliation-city": "Detroit",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Universidade de Sao Paulo - USP",
+                "affiliation-city": "Sao Paulo",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "pubmed-id": "29625051",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18434",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038240951"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85038240951?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85038240951&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85038240951&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85038240951",
+        "dc:identifier": "SCOPUS_ID:85038240951",
+        "eid": "2-s2.0-85038240951",
+        "dc:title": "Corrigendum: The 4D nucleome project (Nature (2017) 549 (219-226) DOI: 10.1038/nature23884)",
+        "dc:creator": "Dekker J.",
+        "prism:publicationName": "Nature",
+        "prism:issn": "00280836",
+        "prism:eIssn": "14764687",
+        "prism:volume": "552",
+        "prism:issueIdentifier": "7684",
+        "prism:pageRange": "278",
+        "prism:coverDate": "2017-12-14",
+        "prism:coverDisplayDate": "14 December 2017",
+        "prism:doi": "10.1038/nature24667",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Massachusetts Medical School",
+                "affiliation-city": "Worcester",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "29168505",
+        "prism:aggregationType": "Journal",
+        "subtype": "er",
+        "subtypeDescription": "Erratum",
+        "source-id": "21206",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,60 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85095730478"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85095730478?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85095730478&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85095730478&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85095730478",
+        "dc:identifier": "SCOPUS_ID:85095730478",
+        "eid": "2-s2.0-85095730478",
+        "dc:title": "Study of the ageing effects on the lower head failure in a PWR reactor",
+        "dc:creator": "Lo Frano R.",
+        "prism:publicationName": "International Conference on Nuclear Engineering, Proceedings, ICONE",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9784888982566"
+            }
+        ],
+        "prism:volume": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1115/ICONE2020-16664",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Università di Pisa",
+                "affiliation-city": "Pisa",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "V001T01A016",
+        "source-id": "21101024396",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

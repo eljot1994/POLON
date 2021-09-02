@@ -1,0 +1,81 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080904324"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85080904324?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85080904324&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85080904324&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0360544220303285"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85080904324",
+        "dc:identifier": "SCOPUS_ID:85080904324",
+        "eid": "2-s2.0-85080904324",
+        "dc:title": "Calculation methods of steam boiler operation factors under varying operating conditions with the use of computational thermodynamic modeling",
+        "dc:creator": "Madejski P.",
+        "prism:publicationName": "Energy",
+        "prism:issn": "03605442",
+        "prism:volume": "197",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-04-15",
+        "prism:coverDisplayDate": "15 April 2020",
+        "prism:doi": "10.1016/j.energy.2020.117221",
+        "pii": "S0360544220303285",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "117221",
+        "source-id": "29348",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,66 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107744186"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107744186?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107744186&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107744186&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0038092X21004849"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107744186",
+        "dc:identifier": "SCOPUS_ID:85107744186",
+        "eid": "2-s2.0-85107744186",
+        "dc:title": "Convolutional neural network model for synchrotron radiation imaging datasets to automatically detect interfacial microstructure: An in situ process monitoring tool during solar PV ribbon fabrication",
+        "dc:creator": "Kunwar A.",
+        "prism:publicationName": "Solar Energy",
+        "prism:issn": "0038092X",
+        "prism:volume": "224",
+        "prism:pageRange": "230-244",
+        "prism:coverDate": "2021-08-01",
+        "prism:coverDisplayDate": "August 2021",
+        "prism:doi": "10.1016/j.solener.2021.06.006",
+        "pii": "S0038092X21004849",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "3000 Leuven",
+                "affiliation-country": "Belgium"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Silesian University of Technology",
+                "affiliation-city": "Gliwice",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13333",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081678615"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081678615?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081678615&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081678615&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081678615",
+        "dc:identifier": "SCOPUS_ID:85081678615",
+        "eid": "2-s2.0-85081678615",
+        "dc:title": "Lightweight unmanned aerial vehicle for emergency medical service – Synthesis of the layout",
+        "dc:creator": "Goetzendorf-Grabowski T.",
+        "prism:publicationName": "Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering",
+        "prism:issn": "09544100",
+        "prism:eIssn": "20413025",
+        "prism:volume": "235",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "5-21",
+        "prism:coverDate": "2021-01-01",
+        "prism:coverDisplayDate": "January 2021",
+        "prism:doi": "10.1177/0954410020910584",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29080",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

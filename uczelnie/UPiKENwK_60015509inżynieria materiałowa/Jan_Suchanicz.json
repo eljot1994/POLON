@@ -1,0 +1,115 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091345076"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091345076?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091345076&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091345076&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S092583882033591X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091345076",
+        "dc:identifier": "SCOPUS_ID:85091345076",
+        "eid": "2-s2.0-85091345076",
+        "dc:title": "Effects of electric field poling on structural, thermal, vibrational, dielectric and ferroelectric properties of Na<inf>0.5</inf>Bi<inf>0.5</inf>TiO<inf>3</inf> single crystals",
+        "dc:creator": "Suchanicz J.",
+        "prism:publicationName": "Journal of Alloys and Compounds",
+        "prism:issn": "09258388",
+        "prism:volume": "854",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-15",
+        "prism:coverDisplayDate": "15 February 2021",
+        "prism:doi": "10.1016/j.jallcom.2020.157227",
+        "pii": "S092583882033591X",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej",
+                "affiliation-city": "Kraków",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "157227",
+        "source-id": "12325",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85058102963"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85058102963?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85058102963&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85058102963&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85058102963",
+        "dc:identifier": "SCOPUS_ID:85058102963",
+        "eid": "2-s2.0-85058102963",
+        "dc:title": "Electric behaviour of soft and hard lead zirconate titanate ceramics under electromechanical loading",
+        "dc:creator": "Suchanicz J.",
+        "prism:publicationName": "Phase Transitions",
+        "prism:issn": "01411594",
+        "prism:eIssn": "10290338",
+        "prism:volume": "92",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "475-485",
+        "prism:coverDate": "2019-05-04",
+        "prism:coverDisplayDate": "4 May 2019",
+        "prism:doi": "10.1080/01411594.2018.1552758",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej",
+                "affiliation-city": "Kraków",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29082",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

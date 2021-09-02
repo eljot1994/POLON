@@ -1,0 +1,158 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044271588"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044271588?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044271588&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044271588&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044271588",
+        "dc:identifier": "SCOPUS_ID:85044271588",
+        "eid": "2-s2.0-85044271588",
+        "dc:title": "Boron removal from aqueous solutions by a polyethylenimine––epichlorohydrin resin",
+        "dc:creator": "Sarri S.",
+        "prism:publicationName": "Journal of the Serbian Chemical Society",
+        "prism:issn": "03525139",
+        "prism:eIssn": "18207421",
+        "prism:volume": "83",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "251-264",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.2298/JSC170704114S",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Aristotle University of Thessaloniki",
+                "affiliation-city": "Thessaloniki",
+                "affiliation-country": "Greece"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21535",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030173688"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030173688?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85030173688&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85030173688&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85030173688",
+        "dc:identifier": "SCOPUS_ID:85030173688",
+        "eid": "2-s2.0-85030173688",
+        "dc:title": "Synthesis and Characterization of Two-Dimensional Transition Metal Dichalcogenide Magnetic MoS<inf>2</inf>@Fe<inf>3</inf>O<inf>4</inf> Nanoparticles for Adsorption of Cr(VI)/Cr(III)",
+        "dc:creator": "Krishna Kumar A.S.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "6187-6200",
+        "prism:coverDate": "2017-09-30",
+        "prism:coverDisplayDate": "30 September 2017",
+        "prism:doi": "10.1021/acsomega.7b00757",
+        "citedby-count": "62",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "National Sun Yat-Sen University",
+                "affiliation-city": "Kaohsiung",
+                "affiliation-country": "Taiwan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

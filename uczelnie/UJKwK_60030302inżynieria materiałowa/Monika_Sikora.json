@@ -1,0 +1,166 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099171780"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099171780?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099171780&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099171780&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099171780",
+        "dc:identifier": "SCOPUS_ID:85099171780",
+        "eid": "2-s2.0-85099171780",
+        "dc:title": "Does the operator’s sex matter? An analysis based on the national interventional cardiology registry",
+        "dc:creator": "Lanocha M.",
+        "prism:publicationName": "Kardiologia Polska",
+        "prism:issn": "00229032",
+        "prism:eIssn": "18974279",
+        "prism:volume": "78",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "1221-1226",
+        "prism:coverDate": "2020-12-23",
+        "prism:coverDisplayDate": "23 December 2020",
+        "prism:doi": "10.33963/KP.15665",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "St. Adalbert's Hospital",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Copper Health Center",
+                "affiliation-city": "Luban",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "33146499",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23903",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070210839"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070210839?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070210839&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070210839&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070210839",
+        "dc:identifier": "SCOPUS_ID:85070210839",
+        "eid": "2-s2.0-85070210839",
+        "dc:title": "A palaeoenvironmental reconstruction of the rampart construction of the medieval ring-fort in Rozprza, Central Poland",
+        "dc:creator": "Sikora J.",
+        "prism:publicationName": "Archaeological and Anthropological Sciences",
+        "prism:issn": "18669557",
+        "prism:eIssn": "18669565",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "4187-4219",
+        "prism:coverDate": "2019-08-01",
+        "prism:coverDisplayDate": "1 August 2019",
+        "prism:doi": "10.1007/s12520-018-0753-0",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19500157002",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    }
+]

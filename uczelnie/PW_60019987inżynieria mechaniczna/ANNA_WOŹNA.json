@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059074148"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059074148?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059074148&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059074148&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059074148",
+        "dc:identifier": "SCOPUS_ID:85059074148",
+        "eid": "2-s2.0-85059074148",
+        "dc:title": "The influence of different composite mixtures (PLA/HA) manufactured with additive laser technology on the ability of S. aureus and P. aeruginosa to form biofilms",
+        "dc:creator": "Woźna A.",
+        "prism:publicationName": "Acta of Bioengineering and Biomechanics",
+        "prism:issn": "1509409X",
+        "prism:volume": "20",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "101-106",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.5277/ABB-01135-2018-02",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "30520438",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "4000149602",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

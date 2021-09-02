@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075941380"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075941380?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075941380&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075941380&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075941380",
+        "dc:identifier": "SCOPUS_ID:85075941380",
+        "eid": "2-s2.0-85075941380",
+        "dc:title": "Survival Function in the Analysis of the Factors Influencing the Reliability of Water Wells Operation",
+        "dc:creator": "Kozłowski E.",
+        "prism:publicationName": "Water Resources Management",
+        "prism:issn": "09204741",
+        "prism:eIssn": "15731650",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "14",
+        "prism:pageRange": "4909-4921",
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "1 November 2019",
+        "prism:doi": "10.1007/s11269-019-02419-0",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Lubelska",
+                "affiliation-city": "Lublin",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18853",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,80 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068883175"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068883175?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068883175&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068883175&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068883175",
+        "dc:identifier": "SCOPUS_ID:85068883175",
+        "eid": "2-s2.0-85068883175",
+        "dc:title": "Crossover from charge density wave stabilized antiferromagnetism to superconductivity in Nd1-x Lax NiC2 compounds",
+        "dc:creator": "Roman M.",
+        "prism:publicationName": "Physical Review B",
+        "prism:issn": "24699950",
+        "prism:eIssn": "24699969",
+        "prism:volume": "99",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-06-26",
+        "prism:coverDisplayDate": "26 June 2019",
+        "prism:doi": "10.1103/PhysRevB.99.245152",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gdańsk University of Technology",
+                "affiliation-city": "Gdansk",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "245152",
+        "source-id": "21100874236",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

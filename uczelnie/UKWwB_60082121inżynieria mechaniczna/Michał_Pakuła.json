@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105537358"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105537358?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105537358&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105537358&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105537358",
+        "dc:identifier": "SCOPUS_ID:85105537358",
+        "eid": "2-s2.0-85105537358",
+        "dc:title": "Application of non-contact ultrasonic method in air to study fiber-cement corrugated boards",
+        "dc:creator": "Drelich R.",
+        "prism:publicationName": "Bulletin of the Polish Academy of Sciences: Technical Sciences",
+        "prism:issn": "02397528",
+        "prism:eIssn": "23001917",
+        "prism:volume": "69",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "April 2021",
+        "prism:doi": "10.24425/bpasts.2021.136740",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Kazimierza Wielkiego w Bydgoszczy",
+                "affiliation-city": "Bydgoszcz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "e136740",
+        "source-id": "13427",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

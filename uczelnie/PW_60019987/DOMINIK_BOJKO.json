@@ -1,0 +1,59 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079290511"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079290511?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079290511&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079290511&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079290511",
+        "dc:identifier": "SCOPUS_ID:85079290511",
+        "eid": "2-s2.0-85079290511",
+        "dc:title": "A note on leader election algorithms. Preliminary report",
+        "dc:creator": "Bojko D.",
+        "prism:publicationName": "Proceedings - 2019 IEEE Asia Pacific Conference on Wireless and Mobile, APWiMob 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728148656"
+            }
+        ],
+        "prism:pageRange": "81-87",
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "November 2019",
+        "prism:doi": "10.1109/APWiMob48441.2019.8964152",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8964152",
+        "source-id": "21100946169",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

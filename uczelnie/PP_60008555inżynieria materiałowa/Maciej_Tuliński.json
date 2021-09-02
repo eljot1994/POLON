@@ -1,0 +1,122 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052553896"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052553896?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052553896&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052553896&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052553896",
+        "dc:identifier": "SCOPUS_ID:85052553896",
+        "eid": "2-s2.0-85052553896",
+        "dc:title": "X-ray diffraction",
+        "dc:creator": "Tulinski M.",
+        "prism:publicationName": "Handbook of Nanomaterials for Hydrogen Storage",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9789814745673"
+            },
+            {
+                "@_fa": "true",
+                "$": "9789814745666"
+            }
+        ],
+        "prism:pageRange": "79-101",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1201/9781315364445",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100875654",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052551966"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052551966?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052551966&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052551966&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052551966",
+        "dc:identifier": "SCOPUS_ID:85052551966",
+        "eid": "2-s2.0-85052551966",
+        "dc:title": "Nanomaterials",
+        "dc:creator": "Tulinski M.",
+        "prism:publicationName": "Handbook of Nanomaterials for Hydrogen Storage",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9789814745673"
+            },
+            {
+                "@_fa": "true",
+                "$": "9789814745666"
+            }
+        ],
+        "prism:pageRange": "15-37",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "1 January 2017",
+        "prism:doi": "10.1201/9781315364445",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100875654",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

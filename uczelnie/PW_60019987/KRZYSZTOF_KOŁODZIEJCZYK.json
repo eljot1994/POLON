@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994145002"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994145002?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994145002&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994145002&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994145002",
+        "dc:identifier": "SCOPUS_ID:84994145002",
+        "eid": "2-s2.0-84994145002",
+        "dc:title": "ALGEBRAIC AND GEOMETRIC PROPERTIES OF LATTICE WALKS WITH STEPS OF EQUAL LENGTH",
+        "dc:creator": "Kołodziejczyk K.",
+        "prism:publicationName": "Bulletin of the Australian Mathematical Society",
+        "prism:issn": "00049727",
+        "prism:eIssn": "17551633",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "338-346",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "1 April 2017",
+        "prism:doi": "10.1017/S0004972716000836",
+        "pii": "S0004972716000836",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wrocław University of Science and Technology",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25244",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

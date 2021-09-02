@@ -1,0 +1,166 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079778422"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85079778422?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85079778422&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85079778422&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85079778422",
+        "dc:identifier": "SCOPUS_ID:85079778422",
+        "eid": "2-s2.0-85079778422",
+        "dc:title": "Spinning gasodynamic projectile system identification experiment design",
+        "dc:creator": "Lichota P.",
+        "prism:publicationName": "Aircraft Engineering and Aerospace Technology",
+        "prism:issn": "17488842",
+        "prism:volume": "92",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "452-459",
+        "prism:coverDate": "2020-03-19",
+        "prism:coverDisplayDate": "19 Mar 2020",
+        "prism:doi": "10.1108/AEAT-06-2019-0124",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12633",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083485729"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85083485729?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85083485729&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85083485729&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85083485729",
+        "dc:identifier": "SCOPUS_ID:85083485729",
+        "eid": "2-s2.0-85083485729",
+        "dc:title": "Frequency responses identification from multi-axis maneuver with simultaneous multisine inputs",
+        "dc:creator": "Lichota P.",
+        "prism:publicationName": "Journal of Guidance, Control, and Dynamics",
+        "prism:issn": "07315090",
+        "prism:eIssn": "15333884",
+        "prism:volume": "42",
+        "prism:issueIdentifier": "11",
+        "prism:pageRange": "2550-2556",
+        "prism:coverDate": "2019-11-01",
+        "prism:coverDisplayDate": "November 2019",
+        "prism:doi": "10.2514/1.G004346",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "no",
+        "subtypeDescription": "Note",
+        "source-id": "29586",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069868251"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85069868251?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85069868251&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85069868251&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85069868251",
+        "dc:identifier": "SCOPUS_ID:85069868251",
+        "eid": "2-s2.0-85069868251",
+        "dc:title": "Evolutionary algorithm based multisine inputs",
+        "dc:creator": "Szulczyk J.",
+        "prism:publicationName": "Proceedings of the 2019 20th International Carpathian Control Conference, ICCC 2019",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728107011"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.1109/CarpathianCC.2019.8766028",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8766028",
+        "source-id": "21100920771",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

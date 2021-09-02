@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094574014"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85094574014?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85094574014&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85094574014&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0016236120323668"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85094574014",
+        "dc:identifier": "SCOPUS_ID:85094574014",
+        "eid": "2-s2.0-85094574014",
+        "dc:title": "Pressure and temperature effect on hypergolic ignition delay of triglyme-based fuel with hydrogen peroxide",
+        "dc:creator": "Kapusta Ł.J.",
+        "prism:publicationName": "Fuel",
+        "prism:issn": "00162361",
+        "prism:volume": "287",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-03-01",
+        "prism:coverDisplayDate": "1 March 2021",
+        "prism:doi": "10.1016/j.fuel.2020.119370",
+        "pii": "S0016236120323668",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "119370",
+        "source-id": "16313",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,110 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072802818"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072802818?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072802818&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072802818&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072802818",
+        "dc:identifier": "SCOPUS_ID:85072802818",
+        "eid": "2-s2.0-85072802818",
+        "dc:title": "Composite material microlevel cellular model data transfer and verification by fem analysis software systems",
+        "dc:creator": "Jaworski N.",
+        "prism:publicationName": "2019 IEEE 15th International Conference on the Perspective Technologies and Methods in MEMS Design, MEMSTECH 2019 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728140285"
+            }
+        ],
+        "prism:pageRange": "17-22",
+        "prism:coverDate": "2019-05-01",
+        "prism:coverDisplayDate": "May 2019",
+        "prism:doi": "10.1109/MEMSTECH.2019.8817376",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lviv Polytechnic National University",
+                "affiliation-city": "Lviv",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8817376",
+        "source-id": "21100930950",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065465669"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065465669?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065465669&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065465669&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065465669",
+        "dc:identifier": "SCOPUS_ID:85065465669",
+        "eid": "2-s2.0-85065465669",
+        "dc:title": "The controlling of transmission of chaotic signals in communication systems based on dynamic models",
+        "dc:creator": "Belej O.",
+        "prism:publicationName": "CEUR Workshop Proceedings",
+        "prism:issn": "16130073",
+        "prism:volume": "2353",
+        "prism:pageRange": "483-497",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lviv Polytechnic National University",
+                "affiliation-city": "Lviv",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100218356",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

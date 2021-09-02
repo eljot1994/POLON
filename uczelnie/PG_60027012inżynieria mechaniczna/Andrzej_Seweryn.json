@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106381248"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85106381248?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85106381248&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85106381248&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0921509321006316"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85106381248",
+        "dc:identifier": "SCOPUS_ID:85106381248",
+        "eid": "2-s2.0-85106381248",
+        "dc:title": "Image-based numerical modeling of the tensile deformation behavior and mechanical properties of additive manufactured Ti–6Al–4V diamond lattice structures",
+        "dc:creator": "Doroszko M.",
+        "prism:publicationName": "Materials Science and Engineering A",
+        "prism:issn": "09215093",
+        "prism:volume": "818",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-22",
+        "prism:coverDisplayDate": "22 June 2021",
+        "prism:doi": "10.1016/j.msea.2021.141362",
+        "pii": "S0921509321006316",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Bialystok University of Technology",
+                "affiliation-city": "Bialystok",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "141362",
+        "source-id": "17811",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

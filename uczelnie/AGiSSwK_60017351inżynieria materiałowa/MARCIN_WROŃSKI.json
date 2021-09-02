@@ -1,0 +1,136 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100783594"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100783594?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100783594&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100783594&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0264127521000964"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100783594",
+        "dc:identifier": "SCOPUS_ID:85100783594",
+        "eid": "2-s2.0-85100783594",
+        "dc:title": "The role of basal slip in the generation of intergranular stresses in magnesium alloy studied using X-ray diffraction and modelling",
+        "dc:creator": "Baczmański A.",
+        "prism:publicationName": "Materials and Design",
+        "prism:issn": "02641275",
+        "prism:eIssn": "18734197",
+        "prism:volume": "202",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "April 2021",
+        "prism:doi": "10.1016/j.matdes.2021.109543",
+        "pii": "S0264127521000964",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "AGH University of Science and Technology",
+                "affiliation-city": "Krakow MP",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "109543",
+        "source-id": "17797",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018503067"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018503067?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018503067&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018503067&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018503067",
+        "dc:identifier": "SCOPUS_ID:85018503067",
+        "eid": "2-s2.0-85018503067",
+        "dc:title": "Full-Maxwell Simulations of Very Fast Transients in GIS: Case Study to Compare 3-D and 2-D-Axisymmetric Models of 1100 kV Test Setup",
+        "dc:creator": "Szewczyk M.",
+        "prism:publicationName": "IEEE Transactions on Power Delivery",
+        "prism:issn": "08858977",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "733-739",
+        "prism:coverDate": "2017-04-01",
+        "prism:coverDisplayDate": "April 2017",
+        "prism:doi": "10.1109/TPWRD.2016.2527823",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "ABB Group, Poland",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "7414503",
+        "source-id": "17370",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

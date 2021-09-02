@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019763019"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85019763019?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85019763019&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85019763019&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85019763019",
+        "dc:identifier": "SCOPUS_ID:85019763019",
+        "eid": "2-s2.0-85019763019",
+        "dc:title": "Evaluation of acoustic emission from damaged CFRP sheets for air industry applications",
+        "dc:creator": "Bardadyn M.",
+        "prism:publicationName": "Springer Proceedings in Physics",
+        "prism:issn": "09308989",
+        "prism:eIssn": "18674941",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9783319290508"
+            }
+        ],
+        "prism:volume": "179",
+        "prism:pageRange": "145-154",
+        "prism:coverDate": "2017-01-01",
+        "prism:coverDisplayDate": "2017",
+        "prism:doi": "10.1007/978-3-319-29052-2_13",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100296235",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

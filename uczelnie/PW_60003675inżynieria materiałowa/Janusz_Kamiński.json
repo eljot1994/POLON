@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085166405"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85085166405?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85085166405&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85085166405&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85085166405",
+        "dc:identifier": "SCOPUS_ID:85085166405",
+        "eid": "2-s2.0-85085166405",
+        "dc:title": "The influence of the glow discharge nitriding or oxynitriding process on the corrosion resistance of stainless steel orthodontic arch-wires",
+        "dc:creator": "Kamiński J.",
+        "prism:publicationName": "Ochrona Przed Korozja",
+        "prism:issn": "04737733",
+        "prism:eIssn": "24499501",
+        "prism:volume": "63",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "78-83",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.15199/40.2020.3.3",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100923711",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

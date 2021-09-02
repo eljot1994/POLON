@@ -1,0 +1,57 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060757836"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060757836?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060757836&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060757836&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060757836",
+        "dc:identifier": "SCOPUS_ID:85060757836",
+        "eid": "2-s2.0-85060757836",
+        "dc:title": "Circular membrane with a centrally-located opening - analytical model using parameterisation of the non-empty torus",
+        "dc:creator": "Waszczuk-Młyńska A.",
+        "prism:publicationName": "ZAMM Zeitschrift fur Angewandte Mathematik und Mechanik",
+        "prism:issn": "00442267",
+        "prism:eIssn": "15214001",
+        "prism:volume": "99",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-04-01",
+        "prism:coverDisplayDate": "April 2019",
+        "prism:doi": "10.1002/zamm.201800167",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Warszawska",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "e201800167",
+        "source-id": "27970",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

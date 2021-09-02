@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084372266"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084372266?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084372266&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084372266&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084372266",
+        "dc:identifier": "SCOPUS_ID:85084372266",
+        "eid": "2-s2.0-85084372266",
+        "dc:title": "On the lattice of polynomials with integer coefficients: Successive minima in L<inf>2</inf>(0, 1)",
+        "dc:creator": "Banaszczyk W.",
+        "prism:publicationName": "Annales Polonici Mathematici",
+        "prism:issn": "00662216",
+        "prism:eIssn": "17306272",
+        "prism:volume": "124",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "109-128",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.4064/ap190413-20-10",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "20900195109",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

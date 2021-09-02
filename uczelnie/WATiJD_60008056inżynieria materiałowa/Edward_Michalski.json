@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052575526"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052575526?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052575526&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052575526&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052575526",
+        "dc:identifier": "SCOPUS_ID:85052575526",
+        "eid": "2-s2.0-85052575526",
+        "dc:title": "On the new characteristics of Miller indices for centered lattices",
+        "dc:creator": "Michalski E.",
+        "prism:publicationName": "Bulletin of the Polish Academy of Sciences: Technical Sciences",
+        "prism:issn": "02397528",
+        "prism:eIssn": "23001917",
+        "prism:volume": "66",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "529-538",
+        "prism:coverDate": "2018-08-01",
+        "prism:coverDisplayDate": "August 2018",
+        "prism:doi": "10.24425/124269",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13427",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

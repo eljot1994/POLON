@@ -1,0 +1,61 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099506159"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099506159?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099506159&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099506159&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0166864120304284"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099506159",
+        "dc:identifier": "SCOPUS_ID:85099506159",
+        "eid": "2-s2.0-85099506159",
+        "dc:title": "Isometric models for separable groups with a bi-invariant metric",
+        "dc:creator": "Polański A.",
+        "prism:publicationName": "Topology and its Applications",
+        "prism:issn": "01668641",
+        "prism:volume": "289",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-02-15",
+        "prism:coverDisplayDate": "15 February 2021",
+        "prism:doi": "10.1016/j.topol.2020.107486",
+        "pii": "S0166864120304284",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107486",
+        "source-id": "27416",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

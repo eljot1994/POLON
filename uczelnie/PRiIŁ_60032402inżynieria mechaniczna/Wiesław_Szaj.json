@@ -1,0 +1,118 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091961224"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091961224?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091961224&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091961224&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0167732220315166"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091961224",
+        "dc:identifier": "SCOPUS_ID:85091961224",
+        "eid": "2-s2.0-85091961224",
+        "dc:title": "Mesomorphic and dynamic properties of 3F5BFBiHex antiferroelectric liquid crystal as reflected by polarized optical microscopy, differential scanning calorimetry and broadband dielectric spectroscopy",
+        "dc:creator": "Kolek Ł.",
+        "prism:publicationName": "Journal of Molecular Liquids",
+        "prism:issn": "01677322",
+        "prism:volume": "320",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-12-15",
+        "prism:coverDisplayDate": "15 December 2020",
+        "prism:doi": "10.1016/j.molliq.2020.114338",
+        "pii": "S0167732220315166",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "114338",
+        "source-id": "26965",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091698449"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091698449?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091698449&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091698449&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091698449",
+        "dc:identifier": "SCOPUS_ID:85091698449",
+        "eid": "2-s2.0-85091698449",
+        "dc:title": "Vehicle localization using laser scanner",
+        "dc:creator": "Szaj W.",
+        "prism:publicationName": "2020 IEEE International Workshop on Metrology for AeroSpace, MetroAeroSpace 2020 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781728166360"
+            }
+        ],
+        "prism:pageRange": "588-593",
+        "prism:coverDate": "2020-06-01",
+        "prism:coverDisplayDate": "June 2020",
+        "prism:doi": "10.1109/MetroAeroSpace48742.2020.9160100",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9160100",
+        "source-id": "21101022205",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

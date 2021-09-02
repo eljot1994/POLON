@@ -1,0 +1,54 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081563474"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081563474?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081563474&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081563474&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081563474",
+        "dc:identifier": "SCOPUS_ID:85081563474",
+        "eid": "2-s2.0-85081563474",
+        "dc:title": "Advanced Experimental and Numerical Analysis of Behavior Structural Materials Including Dynamic Conditions of Fracture for Needs of Designing Protective Structures",
+        "dc:creator": "Grazka M.",
+        "prism:publicationName": "NATO Science for Peace and Security Series C: Environmental Security",
+        "prism:issn": "18746519",
+        "prism:eIssn": "18746543",
+        "prism:pageRange": "121-137",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.1007/978-94-024-1755-5_10",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Wojskowa Akademia Techniczna",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "19700188432",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

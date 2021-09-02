@@ -1,0 +1,280 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107643197"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107643197?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107643197&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107643197&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0096300321004525"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107643197",
+        "dc:identifier": "SCOPUS_ID:85107643197",
+        "eid": "2-s2.0-85107643197",
+        "dc:title": "On evaluation of local fields by fast multipole method employing smooth equivalent/check surfaces",
+        "dc:creator": "Rejwer-Kosińska E.",
+        "prism:publicationName": "Applied Mathematics and Computation",
+        "prism:issn": "00963003",
+        "prism:volume": "408",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-11-01",
+        "prism:coverDisplayDate": "1 November 2021",
+        "prism:doi": "10.1016/j.amc.2021.126363",
+        "pii": "S0096300321004525",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "126363",
+        "source-id": "25170",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084936473"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084936473?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084936473&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084936473&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084936473",
+        "dc:identifier": "SCOPUS_ID:85084936473",
+        "eid": "2-s2.0-85084936473",
+        "dc:title": "On speeding up nano- And micromechanical calculations for irregular systems with long-range potentials",
+        "dc:creator": "Rybarska-Rusinek L.",
+        "prism:publicationName": "Bulletin of the Polish Academy of Sciences: Technical Sciences",
+        "prism:issn": "02397528",
+        "prism:eIssn": "23001917",
+        "prism:volume": "68",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "337-344",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.24425/bpasts.2020.131847",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "13427",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052375940"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85052375940?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052375940&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85052375940&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85052375940",
+        "dc:identifier": "SCOPUS_ID:85052375940",
+        "eid": "2-s2.0-85052375940",
+        "dc:title": "Speeded simulation of seismicity accompanying mining and hydrofracture",
+        "dc:creator": "Rybarska-Rusinek L.",
+        "prism:publicationName": "Engineering Computations (Swansea, Wales)",
+        "prism:issn": "02644401",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1932-1949",
+        "prism:coverDate": "2018-09-05",
+        "prism:coverDisplayDate": "5 Sep 2018",
+        "prism:doi": "10.1108/EC-07-2017-0256",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18184",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028770475"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85028770475?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028770475&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85028770475&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85028770475",
+        "dc:identifier": "SCOPUS_ID:85028770475",
+        "eid": "2-s2.0-85028770475",
+        "dc:title": "On solving continuum-mechanics problems by fast multipole methods",
+        "dc:creator": "Linkov A.",
+        "prism:publicationName": "Doklady Physics",
+        "prism:issn": "10283358",
+        "prism:volume": "62",
+        "prism:issueIdentifier": "8",
+        "prism:pageRange": "400-402",
+        "prism:coverDate": "2017-08-01",
+        "prism:coverDisplayDate": "1 August 2017",
+        "prism:doi": "10.1134/S1028335817080092",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Problems of Mechanical Engineering of the Russian Academy of Sciences",
+                "affiliation-city": "Saint Petersburg (ex Leningrad)",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27502",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85036652925"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85036652925?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85036652925&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85036652925&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85036652925",
+        "dc:identifier": "SCOPUS_ID:85036652925",
+        "eid": "2-s2.0-85036652925",
+        "dc:title": "Torsional rigidity of a bar with multiple fibers",
+        "dc:creator": "Lin’kov A.",
+        "prism:publicationName": "Mechanics of Solids",
+        "prism:issn": "00256544",
+        "prism:volume": "52",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "452-456",
+        "prism:coverDate": "2017-07-01",
+        "prism:coverDisplayDate": "1 July 2017",
+        "prism:doi": "10.3103/S0025654417040124",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Rzeszowska",
+                "affiliation-city": "Rzeszow",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Problems of Mechanical Engineering of the Russian Academy of Sciences",
+                "affiliation-city": "Saint Petersburg (ex Leningrad)",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "14497",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

@@ -1,0 +1,155 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011982321"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85011982321?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85011982321&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85011982321&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022123617300186"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85011982321",
+        "dc:identifier": "SCOPUS_ID:85011982321",
+        "eid": "2-s2.0-85011982321",
+        "dc:title": "An unconditionally saturated Banach space with the scalar-plus-compact property",
+        "dc:creator": "Manoussakis A.",
+        "prism:publicationName": "Journal of Functional Analysis",
+        "prism:issn": "00221236",
+        "prism:eIssn": "10960783",
+        "prism:volume": "272",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4944-4983",
+        "prism:coverDate": "2017-06-15",
+        "prism:coverDisplayDate": "15 June 2017",
+        "prism:doi": "10.1016/j.jfa.2017.01.017",
+        "pii": "S0022123617300186",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Technical University of Crete",
+                "affiliation-city": "Chania",
+                "affiliation-country": "Greece"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23894",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014921177"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85014921177?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85014921177&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85014921177&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0168900217301559"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85014921177",
+        "dc:identifier": "SCOPUS_ID:85014921177",
+        "eid": "2-s2.0-85014921177",
+        "dc:title": "A high volume, batch mode <sup>129</sup>Xe polarizer",
+        "dc:creator": "Wojna-Pelczar A.",
+        "prism:publicationName": "Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+        "prism:issn": "01689002",
+        "prism:volume": "856",
+        "prism:pageRange": "65-71",
+        "prism:coverDate": "2017-06-01",
+        "prism:coverDisplayDate": "1 June 2017",
+        "prism:doi": "10.1016/j.nima.2017.01.065",
+        "pii": "S0168900217301559",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Masarykova Univerzita",
+                "affiliation-city": "Brno",
+                "affiliation-country": "Czech Republic"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Uniwersytet Jagielloński",
+                "affiliation-city": "Krakow",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29067",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

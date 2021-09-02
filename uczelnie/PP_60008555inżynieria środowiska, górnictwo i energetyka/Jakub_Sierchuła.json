@@ -1,0 +1,139 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062548056"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85062548056?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85062548056&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85062548056&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85062548056",
+        "dc:identifier": "SCOPUS_ID:85062548056",
+        "eid": "2-s2.0-85062548056",
+        "dc:title": "Analysis of passive residual heat removal system in AP1000 nuclear power plant",
+        "dc:creator": "Sierchuła J.",
+        "prism:publicationName": "IOP Conference Series: Earth and Environmental Science",
+        "prism:issn": "17551307",
+        "prism:eIssn": "17551315",
+        "prism:volume": "214",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-01-24",
+        "prism:coverDisplayDate": "24 January 2019",
+        "prism:doi": "10.1088/1755-1315/214/1/012095",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "012095",
+        "source-id": "19900195068",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050012233"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050012233?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050012233&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050012233&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050012233",
+        "dc:identifier": "SCOPUS_ID:85050012233",
+        "eid": "2-s2.0-85050012233",
+        "dc:title": "Analysis of reactivity changes during the operation of a nuclear power plant",
+        "dc:creator": "Sierchuła J.",
+        "prism:publicationName": "2018 International Interdisciplinary PhD Workshop, IIPhDW 2018",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538661437"
+            }
+        ],
+        "prism:pageRange": "61-66",
+        "prism:coverDate": "2018-06-18",
+        "prism:coverDisplayDate": "18 June 2018",
+        "prism:doi": "10.1109/IIPHDW.2018.8388326",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Narodowe Centrum Badań Jądrowych, Otwock",
+                "affiliation-city": "Otwock",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Poznanska",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100868543",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

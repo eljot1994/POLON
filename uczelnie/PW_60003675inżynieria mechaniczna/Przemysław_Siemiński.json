@@ -1,0 +1,79 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092769285"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092769285?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092769285&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092769285&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092769285",
+        "dc:identifier": "SCOPUS_ID:85092769285",
+        "eid": "2-s2.0-85092769285",
+        "dc:title": "The concept of applying the polyjet matrix incremental technology to the manufacture of innovative orthopaedic corsets - Research and analysis",
+        "dc:creator": "Lapies Z.",
+        "prism:publicationName": "Advances in Transdisciplinary Engineering",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781614994398"
+            }
+        ],
+        "prism:volume": "12",
+        "prism:pageRange": "231-240",
+        "prism:coverDate": "2020-09-25",
+        "prism:coverDisplayDate": "25 September 2020",
+        "prism:doi": "10.3233/ATDE200081",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Akademia Sztuk Piêknych",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100496836",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

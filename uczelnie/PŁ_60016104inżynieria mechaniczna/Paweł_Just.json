@@ -1,0 +1,118 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061932083"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85061932083?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85061932083&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85061932083&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85061932083",
+        "dc:identifier": "SCOPUS_ID:85061932083",
+        "eid": "2-s2.0-85061932083",
+        "dc:title": "Acoustic based method for automatic segmentation of images of objects in periodic motion: Detection of vocal folds edges case study",
+        "dc:creator": "Kopczynski B.",
+        "prism:publicationName": "2018 8th International Conference on Image Processing Theory, Tools and Applications, IPTA 2018 - Proceedings",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538664278"
+            }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-01-10",
+        "prism:coverDisplayDate": "10 January 2019",
+        "prism:doi": "10.1109/IPTA.2018.8608152",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "8608152",
+        "source-id": "21100899287",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048136814"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048136814?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048136814&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048136814&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048136814",
+        "dc:identifier": "SCOPUS_ID:85048136814",
+        "eid": "2-s2.0-85048136814",
+        "dc:title": "Generating 3D spatio-temporal models of vocal folds vibrations from high speed digital imaging",
+        "dc:creator": "Kopczynski B.",
+        "prism:publicationName": "Proceedings - International Symposium on Biomedical Imaging",
+        "prism:issn": "19457928",
+        "prism:eIssn": "19458452",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "9781538636367"
+            }
+        ],
+        "prism:volume": "2018-April",
+        "prism:pageRange": "612-615",
+        "prism:coverDate": "2018-05-23",
+        "prism:coverDisplayDate": "23 May 2018",
+        "prism:doi": "10.1109/ISBI.2018.8363650",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lodz University of Technology",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "20300195008",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

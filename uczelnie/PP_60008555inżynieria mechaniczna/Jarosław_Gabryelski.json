@@ -1,0 +1,63 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068804772"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85068804772?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85068804772&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85068804772&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1936657419301049"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85068804772",
+        "dc:identifier": "SCOPUS_ID:85068804772",
+        "eid": "2-s2.0-85068804772",
+        "dc:title": "Health-related quality of life in multiple sclerosis: Links to acceptance, coping strategies and disease severity",
+        "dc:creator": "Wilski M.",
+        "prism:publicationName": "Disability and Health Journal",
+        "prism:issn": "19366574",
+        "prism:eIssn": "18767583",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "608-614",
+        "prism:coverDate": "2019-10-01",
+        "prism:coverDisplayDate": "October 2019",
+        "prism:doi": "10.1016/j.dhjo.2019.06.003",
+        "pii": "S1936657419301049",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "pubmed-id": "31307908",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "11300153406",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

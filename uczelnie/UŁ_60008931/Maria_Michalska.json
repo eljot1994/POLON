@@ -1,0 +1,90 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048508570"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85048508570?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048508570&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85048508570&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85048508570",
+        "dc:identifier": "SCOPUS_ID:85048508570",
+        "eid": "2-s2.0-85048508570",
+        "dc:title": "Milnor Numbers of Deformations of Semi-Quasi-Homogeneous Plane Curve Singularities",
+        "dc:creator": "Michalska M.",
+        "prism:publicationName": "Bulletin of the Brazilian Mathematical Society",
+        "prism:issn": "16787544",
+        "prism:volume": "50",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "95-117",
+        "prism:coverDate": "2019-03-12",
+        "prism:coverDisplayDate": "12 March 2019",
+        "prism:doi": "10.1007/s00574-018-0094-8",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Lodz",
+                "affiliation-city": "Lodz",
+                "affiliation-country": "Poland"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Universidade de Sao Paulo - USP",
+                "affiliation-city": "Sao Paulo",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "79372",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    }
+]

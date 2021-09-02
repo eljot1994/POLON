@@ -1,0 +1,56 @@
+﻿[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111680108"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85111680108?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85111680108&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85111680108&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85111680108",
+        "dc:identifier": "SCOPUS_ID:85111680108",
+        "eid": "2-s2.0-85111680108",
+        "dc:title": "Quality culture – A contemporary challenge in the approach to management systems in organizations",
+        "dc:creator": "Stephens K.",
+        "prism:publicationName": "Journal of Achievements in Materials and Manufacturing Engineering",
+        "prism:issn": "17348412",
+        "prism:eIssn": "2300892X",
+        "prism:volume": "105",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "78-85",
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "1 April 2021",
+        "prism:doi": "10.5604/01.3001.0015.0519",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "British-Polish Institute of Certification and Training",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100855821",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]
